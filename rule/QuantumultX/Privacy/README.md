@@ -9,7 +9,7 @@
 
 
 
-最后检查时间：2020-12-03 17:30:48。
+最后检查时间：2020-12-04 23:32:33。
 
 ## 规则统计
 
@@ -30,12 +30,12 @@
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [Advertising](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Advertising)    | 93705   | [2723](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Privacy/Repeat.list)   |   2.91% |
-|  [AdvertisingTest](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/AdvertisingTest)    | 110052   | [2726](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Privacy/Repeat.list)   |   2.48% |
-|  [AdvertisingLite](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/AdvertisingLite)    | 41534   | [2411](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Privacy/Repeat.list)   |   5.8% |
-|  [China](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/China)    | 593   | [1](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Privacy/Repeat.list)   |   0.17% |
-|  [ChinaTest](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/ChinaTest)    | 73289   | [2](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Privacy/Repeat.list)   |   0.0% |
-|  [Google](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Google)    | 124   | [3](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Privacy/Repeat.list)   |   2.42% |
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Advertising)    | 93831   | [2723](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Privacy/Repeat.list)   |   2.9% |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AdvertisingTest)    | 110132   | [2726](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Privacy/Repeat.list)   |   2.48% |
+|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AdvertisingLite)    | 41534   | [2411](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Privacy/Repeat.list)   |   5.8% |
+|  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/China)    | 593   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Privacy/Repeat.list)   |   0.17% |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/ChinaTest)    | 73337   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Privacy/Repeat.list)   |   0.0% |
+|  [Google](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Google)    | 124   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Privacy/Repeat.list)   |   2.42% |
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化
@@ -45,11 +45,11 @@
 ### QuantumultX 
 实时版：
 
-https://raw.githubusercontent.com/codetracer/horus/master/rule/QuantumultX/Privacy/Privacy.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Privacy/Privacy.list
 
 稳定版：
 
-https://raw.githubusercontent.com/codetracer/horus/release/rule/QuantumultX/Privacy/Privacy.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/Privacy/Privacy.list
 
 ## 数据来源
 
@@ -87,7 +87,7 @@ https://raw.githubusercontent.com/codetracer/horus/release/rule/QuantumultX/Priv
 4. 在使用分流规则时出现异常
 5. 有其他问题
 
-欢迎通过[issues](https://github.com/codetracer/horus/issues/new)提交反馈，共同完善本项目的隐私分流规则。
+欢迎通过[issues](https://github.com/blackmatrix7/ios_rule_script/issues/new)提交反馈，共同完善本项目的隐私分流规则。
 
 感谢
 

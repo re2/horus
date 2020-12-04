@@ -10,7 +10,7 @@
 
 
 
-最后检查时间：2020-12-03 17:30:47。
+最后检查时间：2020-12-04 23:32:32。
 
 ## 规则统计
 
@@ -32,18 +32,18 @@ Apple分流规则，与本项目其他分流规则重复情况统计。
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [Advertising](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Advertising)    | 93705   | [2](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Apple/Repeat.list)   |   0.0% |
-|  [AdvertisingTest](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/AdvertisingTest)    | 110052   | [2](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Apple/Repeat.list)   |   0.0% |
-|  [AdvertisingLite](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/AdvertisingLite)    | 41534   | [2](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Apple/Repeat.list)   |   0.0% |
-|  [AppleBlock](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/AppleBlock)    | 5   | [1](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Apple/Repeat.list)   |   20.0% |
-|  [AppleNews](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/AppleNews)    | 8   | [1](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Apple/Repeat.list)   |   12.5% |
-|  [BlackList](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/BlackList)    | 781   | [1](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Apple/Repeat.list)   |   0.13% |
-|  [China](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/China)    | 593   | [12](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Apple/Repeat.list)   |   2.02% |
-|  [ChinaTest](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/ChinaTest)    | 73289   | [99](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Apple/Repeat.list)   |   0.14% |
-|  [SystemOTA](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/SystemOTA)    | 8   | [3](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Apple/Repeat.list)   |   37.5% |
-|  [Microsoft](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Microsoft)    | 97   | [1](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Apple/Repeat.list)   |   1.03% |
-|  [Global](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Global)    | 825   | [1](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Apple/Repeat.list)   |   0.12% |
-|  [Proxy](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Proxy)    | 6022   | [2](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Apple/Repeat.list)   |   0.03% |
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Advertising)    | 93831   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Apple/Repeat.list)   |   0.0% |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AdvertisingTest)    | 110132   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Apple/Repeat.list)   |   0.0% |
+|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AdvertisingLite)    | 41534   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Apple/Repeat.list)   |   0.0% |
+|  [AppleBlock](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AppleBlock)    | 5   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Apple/Repeat.list)   |   20.0% |
+|  [AppleNews](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AppleNews)    | 8   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Apple/Repeat.list)   |   12.5% |
+|  [BlackList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/BlackList)    | 781   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Apple/Repeat.list)   |   0.13% |
+|  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/China)    | 593   | [12](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Apple/Repeat.list)   |   2.02% |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/ChinaTest)    | 73337   | [99](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Apple/Repeat.list)   |   0.13% |
+|  [SystemOTA](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/SystemOTA)    | 8   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Apple/Repeat.list)   |   37.5% |
+|  [Microsoft](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Microsoft)    | 97   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Apple/Repeat.list)   |   1.03% |
+|  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Global)    | 825   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Apple/Repeat.list)   |   0.12% |
+|  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Proxy)    | 6022   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Apple/Repeat.list)   |   0.03% |
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化
@@ -53,11 +53,11 @@ Apple分流规则，与本项目其他分流规则重复情况统计。
 ### QuantumultX 
 实时版：
 
-https://raw.githubusercontent.com/codetracer/horus/master/rule/QuantumultX/Apple/Apple.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Apple/Apple.list
 
 稳定版：
 
-https://raw.githubusercontent.com/codetracer/horus/release/rule/QuantumultX/Apple/Apple.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/Apple/Apple.list
 
 ## 数据来源
 
@@ -102,7 +102,7 @@ https://raw.githubusercontent.com/codetracer/horus/release/rule/QuantumultX/Appl
 4. 在使用分流规则时出现异常
 5. 有其他问题
 
-欢迎通过[issues](https://github.com/codetracer/horus/issues/new)提交反馈，共同完善本项目的Apple分流规则。
+欢迎通过[issues](https://github.com/blackmatrix7/ios_rule_script/issues/new)提交反馈，共同完善本项目的Apple分流规则。
 
 感谢
 

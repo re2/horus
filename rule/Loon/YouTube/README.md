@@ -9,7 +9,7 @@
 
 
 
-最后检查时间：2020-12-03 17:30:49。
+最后检查时间：2020-12-04 23:32:34。
 
 ## 规则统计
 
@@ -31,16 +31,16 @@ YouTube分流规则，与本项目其他分流规则重复情况统计。
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [Advertising](https://github.com/codetracer/horus/tree/master/rule/Loon/Advertising)    | 94016   | [1](https://github.com/codetracer/horus/tree/master/rule/Loon/YouTube/Repeat.list)   |   0.0% |
-|  [AdvertisingTest](https://github.com/codetracer/horus/tree/master/rule/Loon/AdvertisingTest)    | 110363   | [2](https://github.com/codetracer/horus/tree/master/rule/Loon/YouTube/Repeat.list)   |   0.0% |
-|  [AdvertisingLite](https://github.com/codetracer/horus/tree/master/rule/Loon/AdvertisingLite)    | 41837   | [1](https://github.com/codetracer/horus/tree/master/rule/Loon/YouTube/Repeat.list)   |   0.0% |
-|  [BlackList](https://github.com/codetracer/horus/tree/master/rule/Loon/BlackList)    | 781   | [3](https://github.com/codetracer/horus/tree/master/rule/Loon/YouTube/Repeat.list)   |   0.38% |
-|  [ChinaTest](https://github.com/codetracer/horus/tree/master/rule/Loon/ChinaTest)    | 73289   | [1](https://github.com/codetracer/horus/tree/master/rule/Loon/YouTube/Repeat.list)   |   0.0% |
-|  [Google](https://github.com/codetracer/horus/tree/master/rule/Loon/Google)    | 124   | [3](https://github.com/codetracer/horus/tree/master/rule/Loon/YouTube/Repeat.list)   |   2.42% |
-|  [Global](https://github.com/codetracer/horus/tree/master/rule/Loon/Global)    | 826   | [9](https://github.com/codetracer/horus/tree/master/rule/Loon/YouTube/Repeat.list)   |   1.09% |
-|  [GlobalMedia](https://github.com/codetracer/horus/tree/master/rule/Loon/GlobalMedia)    | 279   | [14](https://github.com/codetracer/horus/tree/master/rule/Loon/YouTube/Repeat.list)   |   5.02% |
-|  [Proxy](https://github.com/codetracer/horus/tree/master/rule/Loon/Proxy)    | 6022   | [7](https://github.com/codetracer/horus/tree/master/rule/Loon/YouTube/Repeat.list)   |   0.12% |
-|  [YouTubeMusic](https://github.com/codetracer/horus/tree/master/rule/Loon/YouTubeMusic)    | 4   | [2](https://github.com/codetracer/horus/tree/master/rule/Loon/YouTube/Repeat.list)   |   50.0% |
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising)    | 94142   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/YouTube/Repeat.list)   |   0.0% |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingTest)    | 110443   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/YouTube/Repeat.list)   |   0.0% |
+|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingLite)    | 41837   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/YouTube/Repeat.list)   |   0.0% |
+|  [BlackList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/BlackList)    | 781   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/YouTube/Repeat.list)   |   0.38% |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaTest)    | 73337   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/YouTube/Repeat.list)   |   0.0% |
+|  [Google](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Google)    | 124   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/YouTube/Repeat.list)   |   2.42% |
+|  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Global)    | 826   | [9](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/YouTube/Repeat.list)   |   1.09% |
+|  [GlobalMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/GlobalMedia)    | 279   | [14](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/YouTube/Repeat.list)   |   5.02% |
+|  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Proxy)    | 6022   | [7](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/YouTube/Repeat.list)   |   0.12% |
+|  [YouTubeMusic](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/YouTubeMusic)    | 4   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/YouTube/Repeat.list)   |   50.0% |
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化
@@ -50,11 +50,11 @@ YouTube分流规则，与本项目其他分流规则重复情况统计。
 ### Loon 
 实时版：
 
-https://raw.githubusercontent.com/codetracer/horus/master/rule/Loon/YouTube/YouTube.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/YouTube/YouTube.list
 
 稳定版：
 
-https://raw.githubusercontent.com/codetracer/horus/release/rule/Loon/YouTube/YouTube.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon/YouTube/YouTube.list
 
 ## 数据来源
 
@@ -95,7 +95,7 @@ https://raw.githubusercontent.com/codetracer/horus/release/rule/Loon/YouTube/You
 4. 在使用分流规则时出现异常
 5. 有其他问题
 
-欢迎通过[issues](https://github.com/codetracer/horus/issues/new)提交反馈，共同完善本项目的YouTube分流规则。
+欢迎通过[issues](https://github.com/blackmatrix7/ios_rule_script/issues/new)提交反馈，共同完善本项目的YouTube分流规则。
 
 感谢
 

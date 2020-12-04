@@ -9,7 +9,7 @@
 
 
 
-最后检查时间：2020-12-03 17:30:47。
+最后检查时间：2020-12-04 23:32:32。
 
 ## 规则统计
 
@@ -30,11 +30,11 @@ TeamViewer分流规则，与本项目其他分流规则重复情况统计。
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [BlackList](https://github.com/codetracer/horus/tree/master/rule/Surge/BlackList)    | 782   | [1](https://github.com/codetracer/horus/tree/master/rule/Surge/TeamViewer/Repeat.list)   |   0.13% |
-|  [China](https://github.com/codetracer/horus/tree/master/rule/Surge/China)    | 593   | [5](https://github.com/codetracer/horus/tree/master/rule/Surge/TeamViewer/Repeat.list)   |   0.84% |
-|  [ChinaTest](https://github.com/codetracer/horus/tree/master/rule/Surge/ChinaTest)    | 73289   | [5](https://github.com/codetracer/horus/tree/master/rule/Surge/TeamViewer/Repeat.list)   |   0.01% |
-|  [Telegram](https://github.com/codetracer/horus/tree/master/rule/Surge/Telegram)    | 20   | [1](https://github.com/codetracer/horus/tree/master/rule/Surge/TeamViewer/Repeat.list)   |   5.0% |
-|  [Proxy](https://github.com/codetracer/horus/tree/master/rule/Surge/Proxy)    | 6022   | [2](https://github.com/codetracer/horus/tree/master/rule/Surge/TeamViewer/Repeat.list)   |   0.03% |
+|  [BlackList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/BlackList)    | 782   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/TeamViewer/Repeat.list)   |   0.13% |
+|  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/China)    | 593   | [5](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/TeamViewer/Repeat.list)   |   0.84% |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaTest)    | 73337   | [5](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/TeamViewer/Repeat.list)   |   0.01% |
+|  [Telegram](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Telegram)    | 20   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/TeamViewer/Repeat.list)   |   5.0% |
+|  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Proxy)    | 6022   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/TeamViewer/Repeat.list)   |   0.03% |
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化
@@ -44,11 +44,11 @@ TeamViewer分流规则，与本项目其他分流规则重复情况统计。
 ### Surge 
 实时版：
 
-https://raw.githubusercontent.com/codetracer/horus/master/rule/Surge/TeamViewer/TeamViewer.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TeamViewer/TeamViewer.list
 
 稳定版：
 
-https://raw.githubusercontent.com/codetracer/horus/release/rule/Surge/TeamViewer/TeamViewer.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/TeamViewer/TeamViewer.list
 
 ## 数据来源
 
@@ -85,7 +85,7 @@ https://raw.githubusercontent.com/codetracer/horus/release/rule/Surge/TeamViewer
 4. 在使用分流规则时出现异常
 5. 有其他问题
 
-欢迎通过[issues](https://github.com/codetracer/horus/issues/new)提交反馈，共同完善本项目的TeamViewer分流规则。
+欢迎通过[issues](https://github.com/blackmatrix7/ios_rule_script/issues/new)提交反馈，共同完善本项目的TeamViewer分流规则。
 
 感谢
 

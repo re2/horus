@@ -6,11 +6,11 @@
 
 定时爬取互联网上开源的知乎广告拦截分流规则，将其进行清洗、去重、合并、优化后，形成单一的分流规则文件，旨在解决引用大量外部规则造成规则重复的问题。
 
-本分流规则，需要搭配 https://github.com/codetracer/horus/tree/master/script/zhihu 使用。
+本分流规则，需要搭配 https://github.com/blackmatrix7/ios_rule_script/tree/master/script/zhihu 使用。
 
 知乎广告拦截分流规则中含有URL-REGEX类型，此类的规则对于HTTPS请求需要MITM使用才能生效。程序已默认根据正则推导一份MITM的模块/复写/插件在当前分流规则的目录中，便于参考搭配使用。
 
-最后检查时间：2020-12-03 17:30:50。
+最后检查时间：2020-12-04 23:32:34。
 
 ## 规则统计
 
@@ -38,17 +38,17 @@
 ### Loon 
 实时版：
 
-https://raw.githubusercontent.com/codetracer/horus/master/rule/Loon/Zhihu/Zhihu.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Zhihu/Zhihu.list
 
 稳定版：
 
-https://raw.githubusercontent.com/codetracer/horus/release/rule/Loon/Zhihu/Zhihu.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon/Zhihu/Zhihu.list
 
 ## 数据来源
 
 本项目的知乎广告拦截分流规则的数据来自以下链接，通常已涵盖所有数据来源的分流规则。如果你正在使用这些分流规则，建议不要与本项目的知乎广告拦截分流规则混合使用，以免造成规则重复。
 
-- https://raw.githubusercontent.com/codetracer/horus/master/script/zhihu/zhihu_remove_ads.list
+- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zhihu/zhihu_remove_ads.list
 
 
 感谢以上分流规则作者的辛勤付出（排名不分先后）。
@@ -79,7 +79,7 @@ https://raw.githubusercontent.com/codetracer/horus/release/rule/Loon/Zhihu/Zhihu
 4. 在使用分流规则时出现异常
 5. 有其他问题
 
-欢迎通过[issues](https://github.com/codetracer/horus/issues/new)提交反馈，共同完善本项目的知乎广告拦截分流规则。
+欢迎通过[issues](https://github.com/blackmatrix7/ios_rule_script/issues/new)提交反馈，共同完善本项目的知乎广告拦截分流规则。
 
 感谢
 

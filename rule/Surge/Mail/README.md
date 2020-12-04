@@ -9,7 +9,7 @@
 
 
 
-最后检查时间：2020-12-03 17:30:47。
+最后检查时间：2020-12-04 23:32:32。
 
 ## 规则统计
 
@@ -33,11 +33,11 @@ Global分流规则，与本项目其他分流规则没有重复。
 ### Surge 
 实时版：
 
-https://raw.githubusercontent.com/codetracer/horus/master/rule/Surge/Mail/Mail.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Mail/Mail.list
 
 稳定版：
 
-https://raw.githubusercontent.com/codetracer/horus/release/rule/Surge/Mail/Mail.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/Mail/Mail.list
 
 ## 数据来源
 
@@ -74,7 +74,7 @@ https://raw.githubusercontent.com/codetracer/horus/release/rule/Surge/Mail/Mail.
 4. 在使用分流规则时出现异常
 5. 有其他问题
 
-欢迎通过[issues](https://github.com/codetracer/horus/issues/new)提交反馈，共同完善本项目的Global分流规则。
+欢迎通过[issues](https://github.com/blackmatrix7/ios_rule_script/issues/new)提交反馈，共同完善本项目的Global分流规则。
 
 感谢
 

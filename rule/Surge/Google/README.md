@@ -9,7 +9,7 @@
 
 
 
-最后检查时间：2020-12-03 17:30:46。
+最后检查时间：2020-12-04 23:32:32。
 
 ## 规则统计
 
@@ -30,17 +30,17 @@ Google分流规则，与本项目其他分流规则重复情况统计。
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [Advertising](https://github.com/codetracer/horus/tree/master/rule/Surge/Advertising)    | 94016   | [14](https://github.com/codetracer/horus/tree/master/rule/Surge/Google/Repeat.list)   |   0.01% |
-|  [AdvertisingTest](https://github.com/codetracer/horus/tree/master/rule/Surge/AdvertisingTest)    | 110363   | [23](https://github.com/codetracer/horus/tree/master/rule/Surge/Google/Repeat.list)   |   0.02% |
-|  [AdvertisingLite](https://github.com/codetracer/horus/tree/master/rule/Surge/AdvertisingLite)    | 41837   | [10](https://github.com/codetracer/horus/tree/master/rule/Surge/Google/Repeat.list)   |   0.02% |
-|  [BlackList](https://github.com/codetracer/horus/tree/master/rule/Surge/BlackList)    | 782   | [39](https://github.com/codetracer/horus/tree/master/rule/Surge/Google/Repeat.list)   |   4.99% |
-|  [ChinaTest](https://github.com/codetracer/horus/tree/master/rule/Surge/ChinaTest)    | 73289   | [43](https://github.com/codetracer/horus/tree/master/rule/Surge/Google/Repeat.list)   |   0.06% |
-|  [YouTube](https://github.com/codetracer/horus/tree/master/rule/Surge/YouTube)    | 14   | [3](https://github.com/codetracer/horus/tree/master/rule/Surge/Google/Repeat.list)   |   21.43% |
-|  [Global](https://github.com/codetracer/horus/tree/master/rule/Surge/Global)    | 827   | [56](https://github.com/codetracer/horus/tree/master/rule/Surge/Google/Repeat.list)   |   6.77% |
-|  [GlobalMedia](https://github.com/codetracer/horus/tree/master/rule/Surge/GlobalMedia)    | 279   | [4](https://github.com/codetracer/horus/tree/master/rule/Surge/Google/Repeat.list)   |   1.43% |
-|  [Spark](https://github.com/codetracer/horus/tree/master/rule/Surge/Spark)    | 4   | [1](https://github.com/codetracer/horus/tree/master/rule/Surge/Google/Repeat.list)   |   25.0% |
-|  [Privacy](https://github.com/codetracer/horus/tree/master/rule/Surge/Privacy)    | 2754   | [3](https://github.com/codetracer/horus/tree/master/rule/Surge/Google/Repeat.list)   |   0.11% |
-|  [Proxy](https://github.com/codetracer/horus/tree/master/rule/Surge/Proxy)    | 6022   | [55](https://github.com/codetracer/horus/tree/master/rule/Surge/Google/Repeat.list)   |   0.91% |
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Advertising)    | 94142   | [14](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Google/Repeat.list)   |   0.01% |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingTest)    | 110443   | [23](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Google/Repeat.list)   |   0.02% |
+|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingLite)    | 41837   | [10](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Google/Repeat.list)   |   0.02% |
+|  [BlackList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/BlackList)    | 782   | [39](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Google/Repeat.list)   |   4.99% |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaTest)    | 73337   | [43](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Google/Repeat.list)   |   0.06% |
+|  [YouTube](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/YouTube)    | 14   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Google/Repeat.list)   |   21.43% |
+|  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Global)    | 827   | [56](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Google/Repeat.list)   |   6.77% |
+|  [GlobalMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/GlobalMedia)    | 279   | [4](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Google/Repeat.list)   |   1.43% |
+|  [Spark](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Spark)    | 4   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Google/Repeat.list)   |   25.0% |
+|  [Privacy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Privacy)    | 2754   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Google/Repeat.list)   |   0.11% |
+|  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Proxy)    | 6022   | [55](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Google/Repeat.list)   |   0.91% |
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化
@@ -50,11 +50,11 @@ Google分流规则，与本项目其他分流规则重复情况统计。
 ### Surge 
 实时版：
 
-https://raw.githubusercontent.com/codetracer/horus/master/rule/Surge/Google/Google.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Google/Google.list
 
 稳定版：
 
-https://raw.githubusercontent.com/codetracer/horus/release/rule/Surge/Google/Google.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/Google/Google.list
 
 ## 数据来源
 
@@ -94,7 +94,7 @@ https://raw.githubusercontent.com/codetracer/horus/release/rule/Surge/Google/Goo
 4. 在使用分流规则时出现异常
 5. 有其他问题
 
-欢迎通过[issues](https://github.com/codetracer/horus/issues/new)提交反馈，共同完善本项目的Google分流规则。
+欢迎通过[issues](https://github.com/blackmatrix7/ios_rule_script/issues/new)提交反馈，共同完善本项目的Google分流规则。
 
 感谢
 

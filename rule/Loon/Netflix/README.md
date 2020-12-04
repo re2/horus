@@ -9,7 +9,7 @@
 
 
 
-最后检查时间：2020-12-03 17:30:49。
+最后检查时间：2020-12-04 23:32:34。
 
 ## 规则统计
 
@@ -31,10 +31,10 @@ Netflix分流规则，与本项目其他分流规则重复情况统计。
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [Speedtest](https://github.com/codetracer/horus/tree/master/rule/Loon/Speedtest)    | 5   | [1](https://github.com/codetracer/horus/tree/master/rule/Loon/Netflix/Repeat.list)   |   20.0% |
-|  [Global](https://github.com/codetracer/horus/tree/master/rule/Loon/Global)    | 826   | [28](https://github.com/codetracer/horus/tree/master/rule/Loon/Netflix/Repeat.list)   |   3.39% |
-|  [GlobalMedia](https://github.com/codetracer/horus/tree/master/rule/Loon/GlobalMedia)    | 279   | [40](https://github.com/codetracer/horus/tree/master/rule/Loon/Netflix/Repeat.list)   |   14.34% |
-|  [Proxy](https://github.com/codetracer/horus/tree/master/rule/Loon/Proxy)    | 6022   | [6](https://github.com/codetracer/horus/tree/master/rule/Loon/Netflix/Repeat.list)   |   0.1% |
+|  [Speedtest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Speedtest)    | 5   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Netflix/Repeat.list)   |   20.0% |
+|  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Global)    | 826   | [28](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Netflix/Repeat.list)   |   3.39% |
+|  [GlobalMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/GlobalMedia)    | 279   | [40](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Netflix/Repeat.list)   |   14.34% |
+|  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Proxy)    | 6022   | [6](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Netflix/Repeat.list)   |   0.1% |
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化
@@ -44,11 +44,11 @@ Netflix分流规则，与本项目其他分流规则重复情况统计。
 ### Loon 
 实时版：
 
-https://raw.githubusercontent.com/codetracer/horus/master/rule/Loon/Netflix/Netflix.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Netflix/Netflix.list
 
 稳定版：
 
-https://raw.githubusercontent.com/codetracer/horus/release/rule/Loon/Netflix/Netflix.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon/Netflix/Netflix.list
 
 ## 数据来源
 
@@ -88,7 +88,7 @@ https://raw.githubusercontent.com/codetracer/horus/release/rule/Loon/Netflix/Net
 4. 在使用分流规则时出现异常
 5. 有其他问题
 
-欢迎通过[issues](https://github.com/codetracer/horus/issues/new)提交反馈，共同完善本项目的Netflix分流规则。
+欢迎通过[issues](https://github.com/blackmatrix7/ios_rule_script/issues/new)提交反馈，共同完善本项目的Netflix分流规则。
 
 感谢
 

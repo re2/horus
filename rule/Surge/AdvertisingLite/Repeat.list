@@ -1,7 +1,7 @@
 # NAME: AdvertisingLite 规则重复情况
-# AUTHOR: codetracer
-# GITHUB: https://github.com/codetracer/horus
-# UPDATED: 2020-12-03 17:30:44
+# AUTHOR: blackmatrix7
+# GITHUB: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2020-12-04 23:32:30
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件
 # AdvertisingLite 与 Adobe 共 5 条规则重复
 DOMAIN-SUFFIX,adbecrsl.com
@@ -9,7 +9,7 @@ DOMAIN-SUFFIX,bam.nr-data.net
 DOMAIN-SUFFIX,demdex.net
 DOMAIN-SUFFIX,newrelic.com
 DOMAIN-SUFFIX,omtrdc.net
-# AdvertisingLite 与 Advertising 共 22367 条规则重复
+# AdvertisingLite 与 Advertising 共 22363 条规则重复
 DOMAIN,0.up.qingdaonews.com
 DOMAIN,0026645142c89aeb1.com
 DOMAIN,01.yd-jun.com
@@ -412,6 +412,7 @@ DOMAIN,atrcoikdyagv.com
 DOMAIN,aubhiple2.com
 DOMAIN,audersmi.com
 DOMAIN,augrenso.com
+DOMAIN,authedmine.eu
 DOMAIN,autologica.ga
 DOMAIN,avoljljeif.com
 DOMAIN,avonnfckdeqeyr.com
@@ -855,7 +856,6 @@ DOMAIN,demo.vertexinfo.in
 DOMAIN,denixsips.com
 DOMAIN,dentairemalin.com
 DOMAIN,denza.pro
-DOMAIN,depttake.ga
 DOMAIN,derlatas.com
 DOMAIN,dethao.com
 DOMAIN,dev.dc.letv.com
@@ -1296,6 +1296,7 @@ DOMAIN,flightsy.bid
 DOMAIN,flightsy.win
 DOMAIN,flirrfbpb.com
 DOMAIN,flix360.com
+DOMAIN,flnqmin.org
 DOMAIN,flophous.cf
 DOMAIN,flowplus.meituan.net
 DOMAIN,flrqdjglshsbi.com
@@ -1352,7 +1353,6 @@ DOMAIN,ftxekufylzqis.com
 DOMAIN,funchill.com
 DOMAIN,funmatrix.net
 DOMAIN,fupgvldb.com
-DOMAIN,furtherescottom.info
 DOMAIN,fuxhdhdjlyrwhq.com
 DOMAIN,fuymatqqiyz.com
 DOMAIN,fveegvyfe.com
@@ -1760,6 +1760,7 @@ DOMAIN,jioivnytpmam.com
 DOMAIN,jipzvmzzycg.com
 DOMAIN,jitvspfwwmzcu.com
 DOMAIN,jivnpidyteh.com
+DOMAIN,jjb168.net
 DOMAIN,jjhnnzef.com
 DOMAIN,jjvdpetfxbjdbq.com
 DOMAIN,jkamuwyswgk.com
@@ -1901,6 +1902,7 @@ DOMAIN,ldvfvwkjtacrfm.com
 DOMAIN,ldzqhq.biz
 DOMAIN,leadacceptor.com
 DOMAIN,lebqrivt.com
+DOMAIN,ledinund.com
 DOMAIN,legendsdtv.com
 DOMAIN,legisland.net
 DOMAIN,leohd59.ru
@@ -2256,6 +2258,7 @@ DOMAIN,mgti1kofb8.com
 DOMAIN,mguqjbjgs.com
 DOMAIN,mh1.zhengdongwuye.cn
 DOMAIN,mhmgeilfkcgov.com
+DOMAIN,mhwozc.cn
 DOMAIN,milleniumpapelaria.com.br
 DOMAIN,miner.beeppool.org
 DOMAIN,ministerio-publi.info
@@ -2700,7 +2703,6 @@ DOMAIN,popcornvod.com
 DOMAIN,popped.biz
 DOMAIN,poprevenue.net
 DOMAIN,popsuperbbrands.com
-DOMAIN,popularitish.com
 DOMAIN,porn-hitz.com
 DOMAIN,porn-site-builder.com
 DOMAIN,pornomovies.com
@@ -2711,10 +2713,8 @@ DOMAIN,portablevaporizer.com
 DOMAIN,portraitphotographygroup.com
 DOMAIN,pos-kupang.com
 DOMAIN,postrsyk.com
-DOMAIN,postut.cn
 DOMAIN,potpourrichordataoscilloscope.com
 DOMAIN,potvaporizer.com
-DOMAIN,povbdf.cn
 DOMAIN,powermarketing.com
 DOMAIN,powershopnet.net
 DOMAIN,poxcldtepiulo.com
@@ -2940,7 +2940,6 @@ DOMAIN,regardensa.com
 DOMAIN,regdsvee.com
 DOMAIN,reishus.de
 DOMAIN,remotefilez.info
-DOMAIN,renhertfo.com
 DOMAIN,rentfromart.com
 DOMAIN,replase.ga
 DOMAIN,replase.tk
@@ -2948,7 +2947,6 @@ DOMAIN,reports.wes.df.telemetry.microsoft.com
 DOMAIN,repressina.com
 DOMAIN,researchnow.co.uk
 DOMAIN,reseireejoch.info
-DOMAIN,reservedoffers.club
 DOMAIN,resimler.randevum.com
 DOMAIN,resolvethem.com
 DOMAIN,retainguaninefluorite.info
@@ -3022,6 +3020,7 @@ DOMAIN,rxhrftozn.com
 DOMAIN,rxnnfethxprv.com
 DOMAIN,rz.w8r4q.cn
 DOMAIN,rzjhxwfbxp.com
+DOMAIN,s.aiweigou.top
 DOMAIN,s.e739.cn
 DOMAIN,s.hoverming.cn
 DOMAIN,s.lianmeng.360.cn
@@ -3116,7 +3115,6 @@ DOMAIN,sisyqzktimhrgo.com
 DOMAIN,sitestats.live
 DOMAIN,sitionne.pro
 DOMAIN,sivqblzejhx.com
-DOMAIN,siyuanmall.com
 DOMAIN,sjwdbzsa.com
 DOMAIN,skgroup.kiev.ua
 DOMAIN,skidki-yuga.ru
@@ -3176,7 +3174,6 @@ DOMAIN,ssl.aszy.club
 DOMAIN,ssl.youkag.com
 DOMAIN,ssl2.dottexpress.com
 DOMAIN,ssl2anyone.com
-DOMAIN,ssl4anyone5.com
 DOMAIN,sslboost.com
 DOMAIN,ssmyceoxbjqdp.com
 DOMAIN,ssqzsdcnoqv.com
@@ -3214,7 +3211,6 @@ DOMAIN,summitemarketinganalytics.com
 DOMAIN,sumsmoxssy.com
 DOMAIN,sunlux.net
 DOMAIN,sunmcre.com
-DOMAIN,sunnimiq1.cf
 DOMAIN,sunny99.cholerik.cz
 DOMAIN,surveyend.com
 DOMAIN,surveyspaid.com
@@ -3240,6 +3236,7 @@ DOMAIN,szinhaz.hu
 DOMAIN,szzzpqcuxqq.com
 DOMAIN,t.basictool.vip
 DOMAIN,t.douyaobuy.com
+DOMAIN,t.lzrkj.top
 DOMAIN,t.sdpaji.com
 DOMAIN,t.xymj.xyz
 DOMAIN,t.zisu.cn.com
@@ -3340,8 +3337,8 @@ DOMAIN,tnkqfatbtlaw.com
 DOMAIN,tnwjldvivhgr.com
 DOMAIN,toads.id
 DOMAIN,toarqsglo.com
-DOMAIN,tokyodrift.ga
 DOMAIN,tomalinoalambres.com.ar
+DOMAIN,tongji.tt.shouji56.com
 DOMAIN,toolbar.cdn.gigya.com
 DOMAIN,tooso.ai
 DOMAIN,top.baidu.com
@@ -3455,7 +3452,6 @@ DOMAIN,unkrokwhwn.com
 DOMAIN,unlim-app.tk
 DOMAIN,unmhxfutdmxcdw.com
 DOMAIN,unpaundlagot.pro
-DOMAIN,unrummaged.com
 DOMAIN,unyhjoehc.com
 DOMAIN,uo.jstaogu.com
 DOMAIN,uoicsyuiof.com
@@ -3479,6 +3475,7 @@ DOMAIN,uqemcyylvcdrgs.com
 DOMAIN,uqyirvghv.com
 DOMAIN,urfdvrrg.com
 DOMAIN,url-cameralist.tk
+DOMAIN,url.jiemengle.com
 DOMAIN,us.cfcdist.loan
 DOMAIN,us.vortex-win.data.microsoft.com
 DOMAIN,usclxdvvvnkdrv.com
@@ -3505,7 +3502,6 @@ DOMAIN,uvyfszshvgassp.com
 DOMAIN,uvzfodimtska.com
 DOMAIN,uwidtpjwh.com
 DOMAIN,uwkwhedvie.com
-DOMAIN,uxbewzrfyp.com
 DOMAIN,uxkkltrrxlowzo.com
 DOMAIN,uxnssjly.com
 DOMAIN,uyeluxauiq.com
@@ -3541,7 +3537,6 @@ DOMAIN,vdztrack.com
 DOMAIN,veehdmymwvvexv.com
 DOMAIN,vemrhavwgchp.com
 DOMAIN,vernoblisk.com
-DOMAIN,verresof.com
 DOMAIN,vestlitt.online
 DOMAIN,vette-porno.nl
 DOMAIN,vfgbeaayncdya.com
@@ -3588,7 +3583,6 @@ DOMAIN,votes.buzz.yahoo.com
 DOMAIN,vpgwdlayctn.com
 DOMAIN,vpn.baolq666.com
 DOMAIN,vpn.celueziben.com
-DOMAIN,vpn.yike0515.com
 DOMAIN,vpndcpxavg.com
 DOMAIN,vpnfortorrents.cc
 DOMAIN,vqmdezgkkklcc.com
@@ -3621,7 +3615,6 @@ DOMAIN,vwzvqkcoaszyw.com
 DOMAIN,vxkupxpf.com
 DOMAIN,vxzudzbjvtegu.com
 DOMAIN,vygekimhrfto.com
-DOMAIN,vzhjnorkudcxbiy.com
 DOMAIN,vzhlsmmboaqxlv.com
 DOMAIN,vzreguys.com
 DOMAIN,vzxnrtxpdnl.com
@@ -3939,6 +3932,7 @@ DOMAIN,xicaxique.com.br
 DOMAIN,xihkdzijh.com
 DOMAIN,xindalawyer.com
 DOMAIN,xituxufpy.com
+DOMAIN,xj.eh456yje4.pw
 DOMAIN,xjfjx8hw.com
 DOMAIN,xjjfgxdfpr.com
 DOMAIN,xkgbbiqqekja.com
@@ -4008,7 +4002,9 @@ DOMAIN,xyzzyxxyzzyx.com
 DOMAIN,xz.tongji.shouji56.com
 DOMAIN,xzbilyblsjrg.com
 DOMAIN,y.btdc8.cn
+DOMAIN,y71.ylems.club
 DOMAIN,y72yuyr9.com
+DOMAIN,y76.ylems.club
 DOMAIN,ya88s1yk.com
 DOMAIN,yaikleyabl.com
 DOMAIN,yatnozin.info
@@ -22377,7 +22373,7 @@ URL-REGEX,^https?:\/\/www\.zybang\.com\/adx\/
 URL-REGEX,^https?:\/\/xyst\.yuanfudao\.com\/iphone\/splashesV\d
 URL-REGEX,^https?:\/\/xyz\.cnki\.net\/resourcev7\/api\/manualpush\/SlidsList$
 URL-REGEX,^https?:\/\/yxyapi\d\.drcuiyutao\.com\/yxy-api-gateway\/api\/json\/advert\/
-# AdvertisingLite 与 AdvertisingTest 共 21977 条规则重复
+# AdvertisingLite 与 AdvertisingTest 共 21984 条规则重复
 DOMAIN,0.up.qingdaonews.com
 DOMAIN,0026645142c89aeb1.com
 DOMAIN,01.yd-jun.com
@@ -23543,6 +23539,7 @@ DOMAIN,fktrlckpmsxx.com
 DOMAIN,flashsavant.com
 DOMAIN,flirrfbpb.com
 DOMAIN,flix360.com
+DOMAIN,flnqmin.org
 DOMAIN,flowplus.meituan.net
 DOMAIN,flrqdjglshsbi.com
 DOMAIN,fmxnlkoaf.com
@@ -23961,6 +23958,7 @@ DOMAIN,jioivnytpmam.com
 DOMAIN,jipzvmzzycg.com
 DOMAIN,jitvspfwwmzcu.com
 DOMAIN,jivnpidyteh.com
+DOMAIN,jjb168.net
 DOMAIN,jjhnnzef.com
 DOMAIN,jjvdpetfxbjdbq.com
 DOMAIN,jkamuwyswgk.com
@@ -24429,6 +24427,7 @@ DOMAIN,mgti1kofb8.com
 DOMAIN,mguqjbjgs.com
 DOMAIN,mh1.zhengdongwuye.cn
 DOMAIN,mhmgeilfkcgov.com
+DOMAIN,mhwozc.cn
 DOMAIN,milleniumpapelaria.com.br
 DOMAIN,ministerio-publi.info
 DOMAIN,mioxtidzcrh.com
@@ -24832,7 +24831,6 @@ DOMAIN,portraitphotographygroup.com
 DOMAIN,pos-kupang.com
 DOMAIN,postrsyk.com
 DOMAIN,potvaporizer.com
-DOMAIN,povbdf.cn
 DOMAIN,powermarketing.com
 DOMAIN,powershopnet.net
 DOMAIN,poxcldtepiulo.com
@@ -25107,6 +25105,7 @@ DOMAIN,rxhrftozn.com
 DOMAIN,rxnnfethxprv.com
 DOMAIN,rz.w8r4q.cn
 DOMAIN,rzjhxwfbxp.com
+DOMAIN,s.aiweigou.top
 DOMAIN,s.e739.cn
 DOMAIN,s.hoverming.cn
 DOMAIN,s.share.baidu.com
@@ -25184,7 +25183,6 @@ DOMAIN,siqcrwlrqjc.com
 DOMAIN,sisyqzktimhrgo.com
 DOMAIN,sitestats.live
 DOMAIN,sivqblzejhx.com
-DOMAIN,siyuanmall.com
 DOMAIN,sjwdbzsa.com
 DOMAIN,skgroup.kiev.ua
 DOMAIN,skidki-yuga.ru
@@ -25287,6 +25285,7 @@ DOMAIN,szinhaz.hu
 DOMAIN,szzzpqcuxqq.com
 DOMAIN,t.basictool.vip
 DOMAIN,t.douyaobuy.com
+DOMAIN,t.lzrkj.top
 DOMAIN,t.sdpaji.com
 DOMAIN,t.xymj.xyz
 DOMAIN,t.zisu.cn.com
@@ -25381,6 +25380,7 @@ DOMAIN,tnwjldvivhgr.com
 DOMAIN,toads.id
 DOMAIN,toarqsglo.com
 DOMAIN,tomalinoalambres.com.ar
+DOMAIN,tongji.tt.shouji56.com
 DOMAIN,toolbar.cdn.gigya.com
 DOMAIN,tooso.ai
 DOMAIN,top.baidu.com
@@ -25504,6 +25504,7 @@ DOMAIN,uqemcyylvcdrgs.com
 DOMAIN,uqyirvghv.com
 DOMAIN,urfdvrrg.com
 DOMAIN,url-cameralist.tk
+DOMAIN,url.jiemengle.com
 DOMAIN,us.vortex-win.data.microsoft.com
 DOMAIN,usclxdvvvnkdrv.com
 DOMAIN,usenetoffer.download
@@ -25603,7 +25604,6 @@ DOMAIN,voqkuiowjtkwgc.com
 DOMAIN,votes.buzz.yahoo.com
 DOMAIN,vpgwdlayctn.com
 DOMAIN,vpn.celueziben.com
-DOMAIN,vpn.yike0515.com
 DOMAIN,vpndcpxavg.com
 DOMAIN,vqmdezgkkklcc.com
 DOMAIN,vqzqkhumdad.com
@@ -25928,6 +25928,7 @@ DOMAIN,xicaxique.com.br
 DOMAIN,xihkdzijh.com
 DOMAIN,xindalawyer.com
 DOMAIN,xituxufpy.com
+DOMAIN,xj.eh456yje4.pw
 DOMAIN,xjfjx8hw.com
 DOMAIN,xjjfgxdfpr.com
 DOMAIN,xkgbbiqqekja.com
@@ -25994,7 +25995,9 @@ DOMAIN,xyzzyxxyzzyx.com
 DOMAIN,xz.tongji.shouji56.com
 DOMAIN,xzbilyblsjrg.com
 DOMAIN,y.btdc8.cn
+DOMAIN,y71.ylems.club
 DOMAIN,y72yuyr9.com
+DOMAIN,y76.ylems.club
 DOMAIN,ya88s1yk.com
 DOMAIN,yaikleyabl.com
 DOMAIN,yatnozin.info

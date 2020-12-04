@@ -9,7 +9,7 @@
 
 
 
-最后检查时间：2020-12-03 17:30:48。
+最后检查时间：2020-12-04 23:32:33。
 
 ## 规则统计
 
@@ -32,27 +32,27 @@ GlobalMedia分流规则，与本项目其他分流规则重复情况统计。
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [Advertising](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Advertising)    | 93705   | [6](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/GlobalMedia/Repeat.list)   |   0.01% |
-|  [AdvertisingTest](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/AdvertisingTest)    | 110052   | [9](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/GlobalMedia/Repeat.list)   |   0.01% |
-|  [AdvertisingLite](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/AdvertisingLite)    | 41534   | [4](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/GlobalMedia/Repeat.list)   |   0.01% |
-|  [AppleNews](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/AppleNews)    | 8   | [3](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/GlobalMedia/Repeat.list)   |   37.5% |
-|  [AppleTV](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/AppleTV)    | 3   | [3](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/GlobalMedia/Repeat.list)   |   100.0% |
-|  [Bahamut](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Bahamut)    | 5   | [3](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/GlobalMedia/Repeat.list)   |   60.0% |
-|  [BlackList](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/BlackList)    | 781   | [19](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/GlobalMedia/Repeat.list)   |   2.43% |
-|  [China](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/China)    | 593   | [3](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/GlobalMedia/Repeat.list)   |   0.51% |
-|  [ChinaTest](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/ChinaTest)    | 73289   | [4](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/GlobalMedia/Repeat.list)   |   0.01% |
-|  [Google](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Google)    | 124   | [4](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/GlobalMedia/Repeat.list)   |   3.23% |
-|  [YouTube](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/YouTube)    | 14   | [14](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/GlobalMedia/Repeat.list)   |   100.0% |
-|  [Niconico](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Niconico)    | 5   | [5](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/GlobalMedia/Repeat.list)   |   100.0% |
-|  [Speedtest](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Speedtest)    | 5   | [1](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/GlobalMedia/Repeat.list)   |   20.0% |
-|  [Netflix](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Netflix)    | 40   | [40](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/GlobalMedia/Repeat.list)   |   100.0% |
-|  [TikTok](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/TikTok)    | 11   | [11](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/GlobalMedia/Repeat.list)   |   100.0% |
-|  [Disney](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Disney)    | 6   | [5](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/GlobalMedia/Repeat.list)   |   83.33% |
-|  [Global](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Global)    | 825   | [171](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/GlobalMedia/Repeat.list)   |   20.73% |
-|  [Spotify](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Spotify)    | 8   | [8](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/GlobalMedia/Repeat.list)   |   100.0% |
-|  [Spark](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Spark)    | 4   | [1](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/GlobalMedia/Repeat.list)   |   25.0% |
-|  [Proxy](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Proxy)    | 6022   | [54](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/GlobalMedia/Repeat.list)   |   0.9% |
-|  [YouTubeMusic](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/YouTubeMusic)    | 4   | [4](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/GlobalMedia/Repeat.list)   |   100.0% |
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Advertising)    | 93831   | [6](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/GlobalMedia/Repeat.list)   |   0.01% |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AdvertisingTest)    | 110132   | [9](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/GlobalMedia/Repeat.list)   |   0.01% |
+|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AdvertisingLite)    | 41534   | [4](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/GlobalMedia/Repeat.list)   |   0.01% |
+|  [AppleNews](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AppleNews)    | 8   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/GlobalMedia/Repeat.list)   |   37.5% |
+|  [AppleTV](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AppleTV)    | 3   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/GlobalMedia/Repeat.list)   |   100.0% |
+|  [Bahamut](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Bahamut)    | 5   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/GlobalMedia/Repeat.list)   |   60.0% |
+|  [BlackList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/BlackList)    | 781   | [19](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/GlobalMedia/Repeat.list)   |   2.43% |
+|  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/China)    | 593   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/GlobalMedia/Repeat.list)   |   0.51% |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/ChinaTest)    | 73337   | [4](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/GlobalMedia/Repeat.list)   |   0.01% |
+|  [Google](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Google)    | 124   | [4](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/GlobalMedia/Repeat.list)   |   3.23% |
+|  [YouTube](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/YouTube)    | 14   | [14](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/GlobalMedia/Repeat.list)   |   100.0% |
+|  [Niconico](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Niconico)    | 5   | [5](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/GlobalMedia/Repeat.list)   |   100.0% |
+|  [Speedtest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Speedtest)    | 5   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/GlobalMedia/Repeat.list)   |   20.0% |
+|  [Netflix](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Netflix)    | 40   | [40](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/GlobalMedia/Repeat.list)   |   100.0% |
+|  [TikTok](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/TikTok)    | 11   | [11](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/GlobalMedia/Repeat.list)   |   100.0% |
+|  [Disney](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Disney)    | 6   | [5](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/GlobalMedia/Repeat.list)   |   83.33% |
+|  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Global)    | 825   | [171](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/GlobalMedia/Repeat.list)   |   20.73% |
+|  [Spotify](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Spotify)    | 8   | [8](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/GlobalMedia/Repeat.list)   |   100.0% |
+|  [Spark](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Spark)    | 4   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/GlobalMedia/Repeat.list)   |   25.0% |
+|  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Proxy)    | 6022   | [54](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/GlobalMedia/Repeat.list)   |   0.9% |
+|  [YouTubeMusic](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/YouTubeMusic)    | 4   | [4](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/GlobalMedia/Repeat.list)   |   100.0% |
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化
@@ -62,11 +62,11 @@ GlobalMedia分流规则，与本项目其他分流规则重复情况统计。
 ### QuantumultX 
 实时版：
 
-https://raw.githubusercontent.com/codetracer/horus/master/rule/QuantumultX/GlobalMedia/GlobalMedia.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/GlobalMedia/GlobalMedia.list
 
 稳定版：
 
-https://raw.githubusercontent.com/codetracer/horus/release/rule/QuantumultX/GlobalMedia/GlobalMedia.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/GlobalMedia/GlobalMedia.list
 
 ## 数据来源
 
@@ -74,7 +74,7 @@ https://raw.githubusercontent.com/codetracer/horus/release/rule/QuantumultX/Glob
 
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list
 - https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/GlobalMedia.list
-- https://raw.githubusercontent.com/codetracer/horus/master/source/connershua/Quantumult/X/Filter/ForeignMedia.list
+- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/connershua/Quantumult/X/Filter/ForeignMedia.list
 - https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/GlobalMedia.list
 
 
@@ -106,7 +106,7 @@ https://raw.githubusercontent.com/codetracer/horus/release/rule/QuantumultX/Glob
 4. 在使用分流规则时出现异常
 5. 有其他问题
 
-欢迎通过[issues](https://github.com/codetracer/horus/issues/new)提交反馈，共同完善本项目的GlobalMedia分流规则。
+欢迎通过[issues](https://github.com/blackmatrix7/ios_rule_script/issues/new)提交反馈，共同完善本项目的GlobalMedia分流规则。
 
 感谢
 

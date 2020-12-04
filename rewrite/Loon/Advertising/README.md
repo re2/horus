@@ -9,7 +9,7 @@
 
 
 
-最后检查时间：2020-12-03 17:30:56。
+最后检查时间：2020-12-04 23:32:40。
 
 ## 复写统计
 
@@ -30,11 +30,11 @@
 
 实时版：
 
-https://raw.githubusercontent.com/codetracer/horus/master/rewrite/Loon/Advertising/Advertising.plugin
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/Advertising/Advertising.plugin
 
 稳定版：
 
-https://raw.githubusercontent.com/codetracer/horus/release/rewrite/Loon/Advertising/Advertising.plugin
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/Loon/Advertising/Advertising.plugin
 
 如果稳定版无法访问 ，可能是尚未从实时版的分支合并，建议您先使用实时版，或等待下次稳定版分支合并。
 
@@ -47,10 +47,10 @@ https://raw.githubusercontent.com/codetracer/horus/release/rewrite/Loon/Advertis
 - https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Rewrite_lhie1.conf
 - https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Module/RewriteRules.sgmodule
 - https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Loon/Advertising.conf
-- https://raw.githubusercontent.com/codetracer/horus/master/script/smzdm/smzdm_remove_ads.sgmodule
-- https://raw.githubusercontent.com/codetracer/horus/master/source/rewrite/Advertising/advertising.lnplugin
-- https://raw.githubusercontent.com/codetracer/horus/master/source/rewrite/Advertising/advertising.lnwrite
-- https://raw.githubusercontent.com/codetracer/horus/master/source/rewrite/Advertising/advertising.sgmodule
+- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_remove_ads.sgmodule
+- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Advertising/advertising.lnplugin
+- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Advertising/advertising.lnwrite
+- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Advertising/advertising.sgmodule
 - https://raw.githubusercontent.com/eHpo1/Rules/master/Loon/Rewrite.conf
 - https://raw.githubusercontent.com/eHpo1/Rules/master/QuantumultX/Rewrite.txt
 
@@ -71,11 +71,11 @@ https://raw.githubusercontent.com/codetracer/horus/release/rewrite/Loon/Advertis
 
 #### 知乎
 
-本规则不包含知乎去广告，知乎去广告请移步：https://github.com/codetracer/horus/tree/master/script/zhihu
+本规则不包含知乎去广告，知乎去广告请移步：https://github.com/blackmatrix7/ios_rule_script/tree/master/script/zhihu
 
 #### 哔哩哔哩
 
-如需更完整的哔哩哔哩去广告，请移步：https://github.com/codetracer/horus/tree/master/script/bilibili
+如需更完整的哔哩哔哩去广告，请移步：https://github.com/blackmatrix7/ios_rule_script/tree/master/script/bilibili
 
 #### YouTube
 
@@ -87,7 +87,7 @@ https://raw.githubusercontent.com/codetracer/horus/release/rewrite/Loon/Advertis
 
 ### 正则合并
 
-爬虫程序除对完全一样的正则表达式进行去重外，还会通过算法对较为相似的正则进行去重合并。目前算法初步初步过滤600多条相似的正则。但因为正则表达式的复杂性，算法无法100%精确过滤所有重复正则，并可能误过滤一些相似但并不重复的正则。如果你在使用中，发现以上的情况，欢迎通过[issues](https://github.com/codetracer/horus/issues/new)提交反馈。
+爬虫程序除对完全一样的正则表达式进行去重外，还会通过算法对较为相似的正则进行去重合并。目前算法初步初步过滤600多条相似的正则。但因为正则表达式的复杂性，算法无法100%精确过滤所有重复正则，并可能误过滤一些相似但并不重复的正则。如果你在使用中，发现以上的情况，欢迎通过[issues](https://github.com/blackmatrix7/ios_rule_script/issues/new)提交反馈。
 
 ### 正则校验
 
@@ -95,7 +95,7 @@ https://raw.githubusercontent.com/codetracer/horus/release/rewrite/Loon/Advertis
 
 ### MITM
 
-爬虫程序除保留数据源中的MITM主机名外， 还会通过算法，根据正则反推部分主机名，用于补充数据源中可能遗漏的MITM主机名。但因为正则表达式的复杂性，算法无法100%反推所有的正确主机名。如果你在使用中，发现主机名错误的情况，欢迎通过[issues](https://github.com/codetracer/horus/issues/new)提交反馈。
+爬虫程序除保留数据源中的MITM主机名外， 还会通过算法，根据正则反推部分主机名，用于补充数据源中可能遗漏的MITM主机名。但因为正则表达式的复杂性，算法无法100%反推所有的正确主机名。如果你在使用中，发现主机名错误的情况，欢迎通过[issues](https://github.com/blackmatrix7/ios_rule_script/issues/new)提交反馈。
 
 ### 正则过滤
 
@@ -115,7 +115,7 @@ https://raw.githubusercontent.com/codetracer/horus/release/rewrite/Loon/Advertis
 4. 在使用复写规则时出现异常
 5. 有其他问题
 
-欢迎通过[issues](https://github.com/codetracer/horus/issues/new)提交反馈，共同完善本项目的去广告复写规则。
+欢迎通过[issues](https://github.com/blackmatrix7/ios_rule_script/issues/new)提交反馈，共同完善本项目的去广告复写规则。
 
 感谢
 

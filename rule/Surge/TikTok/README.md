@@ -9,7 +9,7 @@
 
 
 
-最后检查时间：2020-12-03 17:30:47。
+最后检查时间：2020-12-04 23:32:32。
 
 ## 规则统计
 
@@ -30,9 +30,9 @@ TikTok分流规则，与本项目其他分流规则重复情况统计。
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [China](https://github.com/codetracer/horus/tree/master/rule/Surge/China)    | 593   | [2](https://github.com/codetracer/horus/tree/master/rule/Surge/TikTok/Repeat.list)   |   0.34% |
-|  [ChinaTest](https://github.com/codetracer/horus/tree/master/rule/Surge/ChinaTest)    | 73289   | [2](https://github.com/codetracer/horus/tree/master/rule/Surge/TikTok/Repeat.list)   |   0.0% |
-|  [GlobalMedia](https://github.com/codetracer/horus/tree/master/rule/Surge/GlobalMedia)    | 279   | [11](https://github.com/codetracer/horus/tree/master/rule/Surge/TikTok/Repeat.list)   |   3.94% |
+|  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/China)    | 593   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/TikTok/Repeat.list)   |   0.34% |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaTest)    | 73337   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/TikTok/Repeat.list)   |   0.0% |
+|  [GlobalMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/GlobalMedia)    | 279   | [11](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/TikTok/Repeat.list)   |   3.94% |
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化
@@ -42,11 +42,11 @@ TikTok分流规则，与本项目其他分流规则重复情况统计。
 ### Surge 
 实时版：
 
-https://raw.githubusercontent.com/codetracer/horus/master/rule/Surge/TikTok/TikTok.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TikTok/TikTok.list
 
 稳定版：
 
-https://raw.githubusercontent.com/codetracer/horus/release/rule/Surge/TikTok/TikTok.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/TikTok/TikTok.list
 
 ## 数据来源
 
@@ -85,7 +85,7 @@ https://raw.githubusercontent.com/codetracer/horus/release/rule/Surge/TikTok/Tik
 4. 在使用分流规则时出现异常
 5. 有其他问题
 
-欢迎通过[issues](https://github.com/codetracer/horus/issues/new)提交反馈，共同完善本项目的TikTok分流规则。
+欢迎通过[issues](https://github.com/blackmatrix7/ios_rule_script/issues/new)提交反馈，共同完善本项目的TikTok分流规则。
 
 感谢
 

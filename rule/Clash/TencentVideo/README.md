@@ -9,7 +9,7 @@
 
 
 
-最后检查时间：2020-12-03 17:30:51。
+最后检查时间：2020-12-04 23:32:36。
 
 ## 规则统计
 
@@ -28,8 +28,8 @@
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [AsianMedia](https://github.com/codetracer/horus/tree/master/rule/Clash/AsianMedia)    | 23   | [1](https://github.com/codetracer/horus/tree/master/rule/Clash/TencentVideo/Repeat.list)   |   4.35% |
-|  [ChinaMedia](https://github.com/codetracer/horus/tree/master/rule/Clash/ChinaMedia)    | 52   | [2](https://github.com/codetracer/horus/tree/master/rule/Clash/TencentVideo/Repeat.list)   |   3.85% |
+|  [AsianMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/AsianMedia)    | 23   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/TencentVideo/Repeat.list)   |   4.35% |
+|  [ChinaMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/ChinaMedia)    | 52   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/TencentVideo/Repeat.list)   |   3.85% |
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化
@@ -39,11 +39,11 @@
 ### Clash 
 实时版：
 
-https://raw.githubusercontent.com/codetracer/horus/master/rule/Clash/TencentVideo/TencentVideo.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/TencentVideo/TencentVideo.yaml
 
 稳定版：
 
-https://raw.githubusercontent.com/codetracer/horus/release/rule/Clash/TencentVideo/TencentVideo.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/TencentVideo/TencentVideo.yaml
 
 ## 数据来源
 
@@ -81,7 +81,7 @@ https://raw.githubusercontent.com/codetracer/horus/release/rule/Clash/TencentVid
 4. 在使用分流规则时出现异常
 5. 有其他问题
 
-欢迎通过[issues](https://github.com/codetracer/horus/issues/new)提交反馈，共同完善本项目的腾讯视频分流规则。
+欢迎通过[issues](https://github.com/blackmatrix7/ios_rule_script/issues/new)提交反馈，共同完善本项目的腾讯视频分流规则。
 
 感谢
 

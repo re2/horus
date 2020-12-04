@@ -10,7 +10,7 @@
 
 
 
-最后检查时间：2020-12-03 17:30:48。
+最后检查时间：2020-12-04 23:32:33。
 
 ## 规则统计
 
@@ -29,9 +29,9 @@ YouTubeMusic分流规则，与本项目其他分流规则重复情况统计。
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [YouTube](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/YouTube)    | 14   | [2](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/YouTubeMusic/Repeat.list)   |   14.29% |
-|  [Global](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Global)    | 825   | [2](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/YouTubeMusic/Repeat.list)   |   0.24% |
-|  [GlobalMedia](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/GlobalMedia)    | 279   | [4](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/YouTubeMusic/Repeat.list)   |   1.43% |
+|  [YouTube](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/YouTube)    | 14   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/YouTubeMusic/Repeat.list)   |   14.29% |
+|  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Global)    | 825   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/YouTubeMusic/Repeat.list)   |   0.24% |
+|  [GlobalMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/GlobalMedia)    | 279   | [4](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/YouTubeMusic/Repeat.list)   |   1.43% |
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化
@@ -41,11 +41,11 @@ YouTubeMusic分流规则，与本项目其他分流规则重复情况统计。
 ### QuantumultX 
 实时版：
 
-https://raw.githubusercontent.com/codetracer/horus/master/rule/QuantumultX/YouTubeMusic/YouTubeMusic.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/YouTubeMusic/YouTubeMusic.list
 
 稳定版：
 
-https://raw.githubusercontent.com/codetracer/horus/release/rule/QuantumultX/YouTubeMusic/YouTubeMusic.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/YouTubeMusic/YouTubeMusic.list
 
 ## 数据来源
 
@@ -83,7 +83,7 @@ https://raw.githubusercontent.com/codetracer/horus/release/rule/QuantumultX/YouT
 4. 在使用分流规则时出现异常
 5. 有其他问题
 
-欢迎通过[issues](https://github.com/codetracer/horus/issues/new)提交反馈，共同完善本项目的YouTubeMusic分流规则。
+欢迎通过[issues](https://github.com/blackmatrix7/ios_rule_script/issues/new)提交反馈，共同完善本项目的YouTubeMusic分流规则。
 
 感谢
 

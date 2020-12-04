@@ -10,7 +10,7 @@
 
 
 
-最后检查时间：2020-12-03 17:30:51。
+最后检查时间：2020-12-04 23:32:35。
 
 ## 规则统计
 
@@ -30,14 +30,14 @@
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [Blizzard](https://github.com/codetracer/horus/tree/master/rule/Clash/Blizzard)    | 6   | [6](https://github.com/codetracer/horus/tree/master/rule/Clash/Game/Repeat.list)   |   100.0% |
-|  [China](https://github.com/codetracer/horus/tree/master/rule/Clash/China)    | 579   | [10](https://github.com/codetracer/horus/tree/master/rule/Clash/Game/Repeat.list)   |   1.73% |
-|  [ChinaTest](https://github.com/codetracer/horus/tree/master/rule/Clash/ChinaTest)    | 73275   | [10](https://github.com/codetracer/horus/tree/master/rule/Clash/Game/Repeat.list)   |   0.01% |
-|  [Discord](https://github.com/codetracer/horus/tree/master/rule/Clash/Discord)    | 6   | [6](https://github.com/codetracer/horus/tree/master/rule/Clash/Game/Repeat.list)   |   100.0% |
-|  [Steam](https://github.com/codetracer/horus/tree/master/rule/Clash/Steam)    | 16   | [16](https://github.com/codetracer/horus/tree/master/rule/Clash/Game/Repeat.list)   |   100.0% |
-|  [SteamCN](https://github.com/codetracer/horus/tree/master/rule/Clash/SteamCN)    | 13   | [5](https://github.com/codetracer/horus/tree/master/rule/Clash/Game/Repeat.list)   |   38.46% |
-|  [Global](https://github.com/codetracer/horus/tree/master/rule/Clash/Global)    | 785   | [4](https://github.com/codetracer/horus/tree/master/rule/Clash/Game/Repeat.list)   |   0.51% |
-|  [Proxy](https://github.com/codetracer/horus/tree/master/rule/Clash/Proxy)    | 6016   | [12](https://github.com/codetracer/horus/tree/master/rule/Clash/Game/Repeat.list)   |   0.2% |
+|  [Blizzard](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Blizzard)    | 6   | [6](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Game/Repeat.list)   |   100.0% |
+|  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/China)    | 579   | [10](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Game/Repeat.list)   |   1.73% |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/ChinaTest)    | 73323   | [10](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Game/Repeat.list)   |   0.01% |
+|  [Discord](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Discord)    | 6   | [6](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Game/Repeat.list)   |   100.0% |
+|  [Steam](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Steam)    | 16   | [16](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Game/Repeat.list)   |   100.0% |
+|  [SteamCN](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/SteamCN)    | 13   | [5](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Game/Repeat.list)   |   38.46% |
+|  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Global)    | 785   | [4](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Game/Repeat.list)   |   0.51% |
+|  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Proxy)    | 6016   | [12](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Game/Repeat.list)   |   0.2% |
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化
@@ -47,11 +47,11 @@
 ### Clash 
 实时版：
 
-https://raw.githubusercontent.com/codetracer/horus/master/rule/Clash/Game/Game.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Game/Game.yaml
 
 稳定版：
 
-https://raw.githubusercontent.com/codetracer/horus/release/rule/Clash/Game/Game.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Game/Game.yaml
 
 ## 数据来源
 
@@ -91,7 +91,7 @@ https://raw.githubusercontent.com/codetracer/horus/release/rule/Clash/Game/Game.
 4. 在使用分流规则时出现异常
 5. 有其他问题
 
-欢迎通过[issues](https://github.com/codetracer/horus/issues/new)提交反馈，共同完善本项目的游戏分流规则。
+欢迎通过[issues](https://github.com/blackmatrix7/ios_rule_script/issues/new)提交反馈，共同完善本项目的游戏分流规则。
 
 感谢
 

@@ -9,7 +9,7 @@
 
 
 
-最后检查时间：2020-12-03 17:30:51。
+最后检查时间：2020-12-04 23:32:35。
 
 ## 规则统计
 
@@ -30,12 +30,12 @@
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [Advertising](https://github.com/codetracer/horus/tree/master/rule/Clash/Advertising)    | 93705   | [2723](https://github.com/codetracer/horus/tree/master/rule/Clash/Privacy/Repeat.list)   |   2.91% |
-|  [AdvertisingTest](https://github.com/codetracer/horus/tree/master/rule/Clash/AdvertisingTest)    | 110052   | [2726](https://github.com/codetracer/horus/tree/master/rule/Clash/Privacy/Repeat.list)   |   2.48% |
-|  [AdvertisingLite](https://github.com/codetracer/horus/tree/master/rule/Clash/AdvertisingLite)    | 41534   | [2411](https://github.com/codetracer/horus/tree/master/rule/Clash/Privacy/Repeat.list)   |   5.8% |
-|  [China](https://github.com/codetracer/horus/tree/master/rule/Clash/China)    | 579   | [1](https://github.com/codetracer/horus/tree/master/rule/Clash/Privacy/Repeat.list)   |   0.17% |
-|  [ChinaTest](https://github.com/codetracer/horus/tree/master/rule/Clash/ChinaTest)    | 73275   | [2](https://github.com/codetracer/horus/tree/master/rule/Clash/Privacy/Repeat.list)   |   0.0% |
-|  [Google](https://github.com/codetracer/horus/tree/master/rule/Clash/Google)    | 121   | [3](https://github.com/codetracer/horus/tree/master/rule/Clash/Privacy/Repeat.list)   |   2.48% |
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Advertising)    | 93831   | [2723](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Privacy/Repeat.list)   |   2.9% |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/AdvertisingTest)    | 110132   | [2726](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Privacy/Repeat.list)   |   2.48% |
+|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/AdvertisingLite)    | 41534   | [2411](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Privacy/Repeat.list)   |   5.8% |
+|  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/China)    | 579   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Privacy/Repeat.list)   |   0.17% |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/ChinaTest)    | 73323   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Privacy/Repeat.list)   |   0.0% |
+|  [Google](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Google)    | 121   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Privacy/Repeat.list)   |   2.48% |
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化
@@ -45,11 +45,11 @@
 ### Clash 
 实时版：
 
-https://raw.githubusercontent.com/codetracer/horus/master/rule/Clash/Privacy/Privacy.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Privacy/Privacy.yaml
 
 稳定版：
 
-https://raw.githubusercontent.com/codetracer/horus/release/rule/Clash/Privacy/Privacy.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Privacy/Privacy.yaml
 
 ## 数据来源
 
@@ -87,7 +87,7 @@ https://raw.githubusercontent.com/codetracer/horus/release/rule/Clash/Privacy/Pr
 4. 在使用分流规则时出现异常
 5. 有其他问题
 
-欢迎通过[issues](https://github.com/codetracer/horus/issues/new)提交反馈，共同完善本项目的隐私分流规则。
+欢迎通过[issues](https://github.com/blackmatrix7/ios_rule_script/issues/new)提交反馈，共同完善本项目的隐私分流规则。
 
 感谢
 

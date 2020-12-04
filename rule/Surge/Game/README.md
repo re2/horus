@@ -10,7 +10,7 @@
 
 
 
-最后检查时间：2020-12-03 17:30:46。
+最后检查时间：2020-12-04 23:32:32。
 
 ## 规则统计
 
@@ -30,14 +30,14 @@
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [Blizzard](https://github.com/codetracer/horus/tree/master/rule/Surge/Blizzard)    | 6   | [6](https://github.com/codetracer/horus/tree/master/rule/Surge/Game/Repeat.list)   |   100.0% |
-|  [China](https://github.com/codetracer/horus/tree/master/rule/Surge/China)    | 593   | [10](https://github.com/codetracer/horus/tree/master/rule/Surge/Game/Repeat.list)   |   1.69% |
-|  [ChinaTest](https://github.com/codetracer/horus/tree/master/rule/Surge/ChinaTest)    | 73289   | [10](https://github.com/codetracer/horus/tree/master/rule/Surge/Game/Repeat.list)   |   0.01% |
-|  [Discord](https://github.com/codetracer/horus/tree/master/rule/Surge/Discord)    | 6   | [6](https://github.com/codetracer/horus/tree/master/rule/Surge/Game/Repeat.list)   |   100.0% |
-|  [Steam](https://github.com/codetracer/horus/tree/master/rule/Surge/Steam)    | 16   | [16](https://github.com/codetracer/horus/tree/master/rule/Surge/Game/Repeat.list)   |   100.0% |
-|  [SteamCN](https://github.com/codetracer/horus/tree/master/rule/Surge/SteamCN)    | 13   | [5](https://github.com/codetracer/horus/tree/master/rule/Surge/Game/Repeat.list)   |   38.46% |
-|  [Global](https://github.com/codetracer/horus/tree/master/rule/Surge/Global)    | 827   | [4](https://github.com/codetracer/horus/tree/master/rule/Surge/Game/Repeat.list)   |   0.48% |
-|  [Proxy](https://github.com/codetracer/horus/tree/master/rule/Surge/Proxy)    | 6022   | [12](https://github.com/codetracer/horus/tree/master/rule/Surge/Game/Repeat.list)   |   0.2% |
+|  [Blizzard](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Blizzard)    | 6   | [6](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Game/Repeat.list)   |   100.0% |
+|  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/China)    | 593   | [10](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Game/Repeat.list)   |   1.69% |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaTest)    | 73337   | [10](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Game/Repeat.list)   |   0.01% |
+|  [Discord](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Discord)    | 6   | [6](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Game/Repeat.list)   |   100.0% |
+|  [Steam](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Steam)    | 16   | [16](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Game/Repeat.list)   |   100.0% |
+|  [SteamCN](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/SteamCN)    | 13   | [5](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Game/Repeat.list)   |   38.46% |
+|  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Global)    | 827   | [4](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Game/Repeat.list)   |   0.48% |
+|  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Proxy)    | 6022   | [12](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Game/Repeat.list)   |   0.2% |
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化
@@ -47,11 +47,11 @@
 ### Surge 
 实时版：
 
-https://raw.githubusercontent.com/codetracer/horus/master/rule/Surge/Game/Game.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Game/Game.list
 
 稳定版：
 
-https://raw.githubusercontent.com/codetracer/horus/release/rule/Surge/Game/Game.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/Game/Game.list
 
 ## 数据来源
 
@@ -91,7 +91,7 @@ https://raw.githubusercontent.com/codetracer/horus/release/rule/Surge/Game/Game.
 4. 在使用分流规则时出现异常
 5. 有其他问题
 
-欢迎通过[issues](https://github.com/codetracer/horus/issues/new)提交反馈，共同完善本项目的游戏分流规则。
+欢迎通过[issues](https://github.com/blackmatrix7/ios_rule_script/issues/new)提交反馈，共同完善本项目的游戏分流规则。
 
 感谢
 

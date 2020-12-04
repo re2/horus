@@ -9,7 +9,7 @@
 
 
 
-最后检查时间：2020-12-03 17:30:46。
+最后检查时间：2020-12-04 23:32:31。
 
 ## 规则统计
 
@@ -30,9 +30,9 @@ Bahamut分流规则，与本项目其他分流规则重复情况统计。
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [Global](https://github.com/codetracer/horus/tree/master/rule/Surge/Global)    | 827   | [5](https://github.com/codetracer/horus/tree/master/rule/Surge/Bahamut/Repeat.list)   |   0.6% |
-|  [GlobalMedia](https://github.com/codetracer/horus/tree/master/rule/Surge/GlobalMedia)    | 279   | [3](https://github.com/codetracer/horus/tree/master/rule/Surge/Bahamut/Repeat.list)   |   1.08% |
-|  [Proxy](https://github.com/codetracer/horus/tree/master/rule/Surge/Proxy)    | 6022   | [1](https://github.com/codetracer/horus/tree/master/rule/Surge/Bahamut/Repeat.list)   |   0.02% |
+|  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Global)    | 827   | [5](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Bahamut/Repeat.list)   |   0.6% |
+|  [GlobalMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/GlobalMedia)    | 279   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Bahamut/Repeat.list)   |   1.08% |
+|  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Proxy)    | 6022   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Bahamut/Repeat.list)   |   0.02% |
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化
@@ -42,11 +42,11 @@ Bahamut分流规则，与本项目其他分流规则重复情况统计。
 ### Surge 
 实时版：
 
-https://raw.githubusercontent.com/codetracer/horus/master/rule/Surge/Bahamut/Bahamut.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Bahamut/Bahamut.list
 
 稳定版：
 
-https://raw.githubusercontent.com/codetracer/horus/release/rule/Surge/Bahamut/Bahamut.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/Bahamut/Bahamut.list
 
 ## 数据来源
 
@@ -84,7 +84,7 @@ https://raw.githubusercontent.com/codetracer/horus/release/rule/Surge/Bahamut/Ba
 4. 在使用分流规则时出现异常
 5. 有其他问题
 
-欢迎通过[issues](https://github.com/codetracer/horus/issues/new)提交反馈，共同完善本项目的Bahamut分流规则。
+欢迎通过[issues](https://github.com/blackmatrix7/ios_rule_script/issues/new)提交反馈，共同完善本项目的Bahamut分流规则。
 
 感谢
 

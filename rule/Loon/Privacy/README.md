@@ -9,7 +9,7 @@
 
 
 
-最后检查时间：2020-12-03 17:30:50。
+最后检查时间：2020-12-04 23:32:34。
 
 ## 规则统计
 
@@ -30,12 +30,12 @@
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [Advertising](https://github.com/codetracer/horus/tree/master/rule/Loon/Advertising)    | 94016   | [2723](https://github.com/codetracer/horus/tree/master/rule/Loon/Privacy/Repeat.list)   |   2.9% |
-|  [AdvertisingTest](https://github.com/codetracer/horus/tree/master/rule/Loon/AdvertisingTest)    | 110363   | [2726](https://github.com/codetracer/horus/tree/master/rule/Loon/Privacy/Repeat.list)   |   2.47% |
-|  [AdvertisingLite](https://github.com/codetracer/horus/tree/master/rule/Loon/AdvertisingLite)    | 41837   | [2411](https://github.com/codetracer/horus/tree/master/rule/Loon/Privacy/Repeat.list)   |   5.76% |
-|  [China](https://github.com/codetracer/horus/tree/master/rule/Loon/China)    | 593   | [1](https://github.com/codetracer/horus/tree/master/rule/Loon/Privacy/Repeat.list)   |   0.17% |
-|  [ChinaTest](https://github.com/codetracer/horus/tree/master/rule/Loon/ChinaTest)    | 73289   | [2](https://github.com/codetracer/horus/tree/master/rule/Loon/Privacy/Repeat.list)   |   0.0% |
-|  [Google](https://github.com/codetracer/horus/tree/master/rule/Loon/Google)    | 124   | [3](https://github.com/codetracer/horus/tree/master/rule/Loon/Privacy/Repeat.list)   |   2.42% |
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising)    | 94142   | [2723](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Privacy/Repeat.list)   |   2.89% |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingTest)    | 110443   | [2726](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Privacy/Repeat.list)   |   2.47% |
+|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingLite)    | 41837   | [2411](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Privacy/Repeat.list)   |   5.76% |
+|  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/China)    | 593   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Privacy/Repeat.list)   |   0.17% |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaTest)    | 73337   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Privacy/Repeat.list)   |   0.0% |
+|  [Google](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Google)    | 124   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Privacy/Repeat.list)   |   2.42% |
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化
@@ -45,15 +45,15 @@
 ### Loon 
 实时版：
 
-https://raw.githubusercontent.com/codetracer/horus/master/rule/Loon/Privacy/Privacy.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Privacy/Privacy.list
 
-https://raw.githubusercontent.com/codetracer/horus/master/rule/Loon/Privacy/Domain.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Privacy/Domain.list
 
 稳定版：
 
-https://raw.githubusercontent.com/codetracer/horus/release/rule/Loon/Privacy/Privacy.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon/Privacy/Privacy.list
 
-https://raw.githubusercontent.com/codetracer/horus/release/rule/Loon/Privacy/Domain.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon/Privacy/Domain.list
 
 如果稳定版无法访问 ，可能是尚未从实时版的分支合并，建议您先使用实时版，或等待下次稳定版分支合并。
 
@@ -93,7 +93,7 @@ https://raw.githubusercontent.com/codetracer/horus/release/rule/Loon/Privacy/Dom
 4. 在使用分流规则时出现异常
 5. 有其他问题
 
-欢迎通过[issues](https://github.com/codetracer/horus/issues/new)提交反馈，共同完善本项目的隐私分流规则。
+欢迎通过[issues](https://github.com/blackmatrix7/ios_rule_script/issues/new)提交反馈，共同完善本项目的隐私分流规则。
 
 感谢
 

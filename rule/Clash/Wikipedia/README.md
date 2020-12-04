@@ -9,7 +9,7 @@
 
 
 
-最后检查时间：2020-12-03 17:30:51。
+最后检查时间：2020-12-04 23:32:36。
 
 ## 规则统计
 
@@ -28,9 +28,9 @@
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [BlackList](https://github.com/codetracer/horus/tree/master/rule/Clash/BlackList)    | 779   | [3](https://github.com/codetracer/horus/tree/master/rule/Clash/Wikipedia/Repeat.list)   |   0.39% |
-|  [Global](https://github.com/codetracer/horus/tree/master/rule/Clash/Global)    | 785   | [5](https://github.com/codetracer/horus/tree/master/rule/Clash/Wikipedia/Repeat.list)   |   0.64% |
-|  [Proxy](https://github.com/codetracer/horus/tree/master/rule/Clash/Proxy)    | 6016   | [12](https://github.com/codetracer/horus/tree/master/rule/Clash/Wikipedia/Repeat.list)   |   0.2% |
+|  [BlackList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/BlackList)    | 779   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Wikipedia/Repeat.list)   |   0.39% |
+|  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Global)    | 785   | [5](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Wikipedia/Repeat.list)   |   0.64% |
+|  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Proxy)    | 6016   | [12](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Wikipedia/Repeat.list)   |   0.2% |
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化
@@ -40,11 +40,11 @@
 ### Clash 
 实时版：
 
-https://raw.githubusercontent.com/codetracer/horus/master/rule/Clash/Wikipedia/Wikipedia.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Wikipedia/Wikipedia.yaml
 
 稳定版：
 
-https://raw.githubusercontent.com/codetracer/horus/release/rule/Clash/Wikipedia/Wikipedia.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Wikipedia/Wikipedia.yaml
 
 ## 数据来源
 
@@ -81,7 +81,7 @@ https://raw.githubusercontent.com/codetracer/horus/release/rule/Clash/Wikipedia/
 4. 在使用分流规则时出现异常
 5. 有其他问题
 
-欢迎通过[issues](https://github.com/codetracer/horus/issues/new)提交反馈，共同完善本项目的维基分流规则。
+欢迎通过[issues](https://github.com/blackmatrix7/ios_rule_script/issues/new)提交反馈，共同完善本项目的维基分流规则。
 
 感谢
 

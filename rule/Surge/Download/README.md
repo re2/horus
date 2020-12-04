@@ -9,7 +9,7 @@
 
 下载分流规则中含有URL-REGEX类型，此类的规则对于HTTPS请求需要MITM使用才能生效。程序已默认根据正则推导一份MITM的模块/复写/插件在当前分流规则的目录中，便于参考搭配使用。
 
-最后检查时间：2020-12-03 17:30:46。
+最后检查时间：2020-12-04 23:32:32。
 
 ## 规则统计
 
@@ -36,11 +36,11 @@
 ### Surge 
 实时版：
 
-https://raw.githubusercontent.com/codetracer/horus/master/rule/Surge/Download/Download.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Download/Download.list
 
 稳定版：
 
-https://raw.githubusercontent.com/codetracer/horus/release/rule/Surge/Download/Download.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/Download/Download.list
 
 ## 数据来源
 
@@ -78,7 +78,7 @@ https://raw.githubusercontent.com/codetracer/horus/release/rule/Surge/Download/D
 4. 在使用分流规则时出现异常
 5. 有其他问题
 
-欢迎通过[issues](https://github.com/codetracer/horus/issues/new)提交反馈，共同完善本项目的下载分流规则。
+欢迎通过[issues](https://github.com/blackmatrix7/ios_rule_script/issues/new)提交反馈，共同完善本项目的下载分流规则。
 
 感谢
 

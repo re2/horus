@@ -9,7 +9,7 @@
 
 
 
-最后检查时间：2020-12-03 17:30:48。
+最后检查时间：2020-12-04 23:32:33。
 
 ## 规则统计
 
@@ -31,10 +31,10 @@
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [AsianMedia](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/AsianMedia)    | 28   | [7](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/IQiyi/Repeat.list)   |   25.0% |
-|  [ChinaTest](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/ChinaTest)    | 73289   | [1](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/IQiyi/Repeat.list)   |   0.0% |
-|  [ChinaIPs](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/ChinaIPs)    | 7227   | [2](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/IQiyi/Repeat.list)   |   0.03% |
-|  [ChinaMedia](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/ChinaMedia)    | 74   | [7](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/IQiyi/Repeat.list)   |   9.46% |
+|  [AsianMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AsianMedia)    | 28   | [7](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/IQiyi/Repeat.list)   |   25.0% |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/ChinaTest)    | 73337   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/IQiyi/Repeat.list)   |   0.0% |
+|  [ChinaIPs](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/ChinaIPs)    | 7227   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/IQiyi/Repeat.list)   |   0.03% |
+|  [ChinaMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/ChinaMedia)    | 74   | [7](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/IQiyi/Repeat.list)   |   9.46% |
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化
@@ -44,11 +44,11 @@
 ### QuantumultX 
 实时版：
 
-https://raw.githubusercontent.com/codetracer/horus/master/rule/QuantumultX/IQiyi/IQiyi.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/IQiyi/IQiyi.list
 
 稳定版：
 
-https://raw.githubusercontent.com/codetracer/horus/release/rule/QuantumultX/IQiyi/IQiyi.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/IQiyi/IQiyi.list
 
 ## 数据来源
 
@@ -85,7 +85,7 @@ https://raw.githubusercontent.com/codetracer/horus/release/rule/QuantumultX/IQiy
 4. 在使用分流规则时出现异常
 5. 有其他问题
 
-欢迎通过[issues](https://github.com/codetracer/horus/issues/new)提交反馈，共同完善本项目的爱奇艺分流规则。
+欢迎通过[issues](https://github.com/blackmatrix7/ios_rule_script/issues/new)提交反馈，共同完善本项目的爱奇艺分流规则。
 
 感谢
 

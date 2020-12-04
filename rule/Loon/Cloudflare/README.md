@@ -9,7 +9,7 @@
 
 
 
-最后检查时间：2020-12-03 17:30:49。
+最后检查时间：2020-12-04 23:32:34。
 
 ## 规则统计
 
@@ -29,8 +29,8 @@ Cloudflare分流规则，与本项目其他分流规则重复情况统计。
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [BlackList](https://github.com/codetracer/horus/tree/master/rule/Loon/BlackList)    | 781   | [1](https://github.com/codetracer/horus/tree/master/rule/Loon/Cloudflare/Repeat.list)   |   0.13% |
-|  [Proxy](https://github.com/codetracer/horus/tree/master/rule/Loon/Proxy)    | 6022   | [1](https://github.com/codetracer/horus/tree/master/rule/Loon/Cloudflare/Repeat.list)   |   0.02% |
+|  [BlackList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/BlackList)    | 781   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Cloudflare/Repeat.list)   |   0.13% |
+|  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Proxy)    | 6022   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Cloudflare/Repeat.list)   |   0.02% |
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化
@@ -40,11 +40,11 @@ Cloudflare分流规则，与本项目其他分流规则重复情况统计。
 ### Loon 
 实时版：
 
-https://raw.githubusercontent.com/codetracer/horus/master/rule/Loon/Cloudflare/Cloudflare.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Cloudflare/Cloudflare.list
 
 稳定版：
 
-https://raw.githubusercontent.com/codetracer/horus/release/rule/Loon/Cloudflare/Cloudflare.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon/Cloudflare/Cloudflare.list
 
 ## 数据来源
 
@@ -82,7 +82,7 @@ https://raw.githubusercontent.com/codetracer/horus/release/rule/Loon/Cloudflare/
 4. 在使用分流规则时出现异常
 5. 有其他问题
 
-欢迎通过[issues](https://github.com/codetracer/horus/issues/new)提交反馈，共同完善本项目的Cloudflare分流规则。
+欢迎通过[issues](https://github.com/blackmatrix7/ios_rule_script/issues/new)提交反馈，共同完善本项目的Cloudflare分流规则。
 
 感谢
 

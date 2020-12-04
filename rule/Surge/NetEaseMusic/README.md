@@ -9,7 +9,7 @@
 
 
 
-最后检查时间：2020-12-03 17:30:46。
+最后检查时间：2020-12-04 23:32:32。
 
 ## 规则统计
 
@@ -30,13 +30,13 @@
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [Advertising](https://github.com/codetracer/horus/tree/master/rule/Surge/Advertising)    | 94016   | [1](https://github.com/codetracer/horus/tree/master/rule/Surge/NetEaseMusic/Repeat.list)   |   0.0% |
-|  [AdvertisingTest](https://github.com/codetracer/horus/tree/master/rule/Surge/AdvertisingTest)    | 110363   | [1](https://github.com/codetracer/horus/tree/master/rule/Surge/NetEaseMusic/Repeat.list)   |   0.0% |
-|  [China](https://github.com/codetracer/horus/tree/master/rule/Surge/China)    | 593   | [9](https://github.com/codetracer/horus/tree/master/rule/Surge/NetEaseMusic/Repeat.list)   |   1.52% |
-|  [ChinaTest](https://github.com/codetracer/horus/tree/master/rule/Surge/ChinaTest)    | 73289   | [9](https://github.com/codetracer/horus/tree/master/rule/Surge/NetEaseMusic/Repeat.list)   |   0.01% |
-|  [ChinaIPs](https://github.com/codetracer/horus/tree/master/rule/Surge/ChinaIPs)    | 7227   | [3](https://github.com/codetracer/horus/tree/master/rule/Surge/NetEaseMusic/Repeat.list)   |   0.04% |
-|  [ChinaMedia](https://github.com/codetracer/horus/tree/master/rule/Surge/ChinaMedia)    | 74   | [2](https://github.com/codetracer/horus/tree/master/rule/Surge/NetEaseMusic/Repeat.list)   |   2.7% |
-|  [NetEase](https://github.com/codetracer/horus/tree/master/rule/Surge/NetEase)    | 9   | [9](https://github.com/codetracer/horus/tree/master/rule/Surge/NetEaseMusic/Repeat.list)   |   100.0% |
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Advertising)    | 94142   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/NetEaseMusic/Repeat.list)   |   0.0% |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingTest)    | 110443   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/NetEaseMusic/Repeat.list)   |   0.0% |
+|  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/China)    | 593   | [9](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/NetEaseMusic/Repeat.list)   |   1.52% |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaTest)    | 73337   | [9](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/NetEaseMusic/Repeat.list)   |   0.01% |
+|  [ChinaIPs](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaIPs)    | 7227   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/NetEaseMusic/Repeat.list)   |   0.04% |
+|  [ChinaMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaMedia)    | 74   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/NetEaseMusic/Repeat.list)   |   2.7% |
+|  [NetEase](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/NetEase)    | 9   | [9](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/NetEaseMusic/Repeat.list)   |   100.0% |
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化
@@ -46,11 +46,11 @@
 ### Surge 
 实时版：
 
-https://raw.githubusercontent.com/codetracer/horus/master/rule/Surge/NetEaseMusic/NetEaseMusic.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NetEaseMusic/NetEaseMusic.list
 
 稳定版：
 
-https://raw.githubusercontent.com/codetracer/horus/release/rule/Surge/NetEaseMusic/NetEaseMusic.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/NetEaseMusic/NetEaseMusic.list
 
 ## 数据来源
 
@@ -89,7 +89,7 @@ https://raw.githubusercontent.com/codetracer/horus/release/rule/Surge/NetEaseMus
 4. 在使用分流规则时出现异常
 5. 有其他问题
 
-欢迎通过[issues](https://github.com/codetracer/horus/issues/new)提交反馈，共同完善本项目的网易云音乐分流规则。
+欢迎通过[issues](https://github.com/blackmatrix7/ios_rule_script/issues/new)提交反馈，共同完善本项目的网易云音乐分流规则。
 
 感谢
 

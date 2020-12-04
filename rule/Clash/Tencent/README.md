@@ -9,7 +9,7 @@
 
 
 
-最后检查时间：2020-12-03 17:30:51。
+最后检查时间：2020-12-04 23:32:36。
 
 ## 规则统计
 
@@ -28,11 +28,11 @@ Tencent分流规则，与本项目其他分流规则重复情况统计。
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [Advertising](https://github.com/codetracer/horus/tree/master/rule/Clash/Advertising)    | 93705   | [1](https://github.com/codetracer/horus/tree/master/rule/Clash/Tencent/Repeat.list)   |   0.0% |
-|  [AdvertisingTest](https://github.com/codetracer/horus/tree/master/rule/Clash/AdvertisingTest)    | 110052   | [1](https://github.com/codetracer/horus/tree/master/rule/Clash/Tencent/Repeat.list)   |   0.0% |
-|  [AdvertisingLite](https://github.com/codetracer/horus/tree/master/rule/Clash/AdvertisingLite)    | 41534   | [1](https://github.com/codetracer/horus/tree/master/rule/Clash/Tencent/Repeat.list)   |   0.0% |
-|  [China](https://github.com/codetracer/horus/tree/master/rule/Clash/China)    | 579   | [13](https://github.com/codetracer/horus/tree/master/rule/Clash/Tencent/Repeat.list)   |   2.25% |
-|  [ChinaTest](https://github.com/codetracer/horus/tree/master/rule/Clash/ChinaTest)    | 73275   | [19](https://github.com/codetracer/horus/tree/master/rule/Clash/Tencent/Repeat.list)   |   0.03% |
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Advertising)    | 93831   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Tencent/Repeat.list)   |   0.0% |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/AdvertisingTest)    | 110132   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Tencent/Repeat.list)   |   0.0% |
+|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/AdvertisingLite)    | 41534   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Tencent/Repeat.list)   |   0.0% |
+|  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/China)    | 579   | [13](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Tencent/Repeat.list)   |   2.25% |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/ChinaTest)    | 73323   | [19](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Tencent/Repeat.list)   |   0.03% |
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化
@@ -42,11 +42,11 @@ Tencent分流规则，与本项目其他分流规则重复情况统计。
 ### Clash 
 实时版：
 
-https://raw.githubusercontent.com/codetracer/horus/master/rule/Clash/Tencent/Tencent.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Tencent/Tencent.yaml
 
 稳定版：
 
-https://raw.githubusercontent.com/codetracer/horus/release/rule/Clash/Tencent/Tencent.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Tencent/Tencent.yaml
 
 ## 数据来源
 
@@ -83,7 +83,7 @@ https://raw.githubusercontent.com/codetracer/horus/release/rule/Clash/Tencent/Te
 4. 在使用分流规则时出现异常
 5. 有其他问题
 
-欢迎通过[issues](https://github.com/codetracer/horus/issues/new)提交反馈，共同完善本项目的Tencent分流规则。
+欢迎通过[issues](https://github.com/blackmatrix7/ios_rule_script/issues/new)提交反馈，共同完善本项目的Tencent分流规则。
 
 感谢
 

@@ -9,7 +9,7 @@
 
 
 
-最后检查时间：2020-12-03 17:30:48。
+最后检查时间：2020-12-04 23:32:33。
 
 ## 规则统计
 
@@ -29,9 +29,9 @@
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [China](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/China)    | 593   | [3](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Weibo/Repeat.list)   |   0.51% |
-|  [ChinaTest](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/ChinaTest)    | 73289   | [3](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Weibo/Repeat.list)   |   0.0% |
-|  [Sina](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Sina)    | 10   | [4](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Weibo/Repeat.list)   |   40.0% |
+|  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/China)    | 593   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Weibo/Repeat.list)   |   0.51% |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/ChinaTest)    | 73337   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Weibo/Repeat.list)   |   0.0% |
+|  [Sina](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Sina)    | 10   | [4](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Weibo/Repeat.list)   |   40.0% |
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化
@@ -41,17 +41,17 @@
 ### QuantumultX 
 实时版：
 
-https://raw.githubusercontent.com/codetracer/horus/master/rule/QuantumultX/Weibo/Weibo.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Weibo/Weibo.list
 
 稳定版：
 
-https://raw.githubusercontent.com/codetracer/horus/release/rule/QuantumultX/Weibo/Weibo.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/Weibo/Weibo.list
 
 ## 数据来源
 
 本项目的微博分流规则的数据来自以下链接，通常已涵盖所有数据来源的分流规则。如果你正在使用这些分流规则，建议不要与本项目的微博分流规则混合使用，以免造成规则重复。
 
-- https://raw.githubusercontent.com/codetracer/horus/master/source/rule/Weibo/Weibo.list
+- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Weibo/Weibo.list
 
 
 感谢以上分流规则作者的辛勤付出（排名不分先后）。
@@ -82,7 +82,7 @@ https://raw.githubusercontent.com/codetracer/horus/release/rule/QuantumultX/Weib
 4. 在使用分流规则时出现异常
 5. 有其他问题
 
-欢迎通过[issues](https://github.com/codetracer/horus/issues/new)提交反馈，共同完善本项目的微博分流规则。
+欢迎通过[issues](https://github.com/blackmatrix7/ios_rule_script/issues/new)提交反馈，共同完善本项目的微博分流规则。
 
 感谢
 

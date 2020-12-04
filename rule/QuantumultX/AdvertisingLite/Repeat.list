@@ -1,7 +1,7 @@
 # NAME: AdvertisingLite 规则重复情况
-# AUTHOR: codetracer
-# GITHUB: https://github.com/codetracer/horus
-# UPDATED: 2020-12-03 17:30:45
+# AUTHOR: blackmatrix7
+# GITHUB: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2020-12-04 23:32:30
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件
 # AdvertisingLite 与 Adobe 共 5 条规则重复
 HOST-SUFFIX,adbecrsl.com
@@ -9,7 +9,7 @@ HOST-SUFFIX,bam.nr-data.net
 HOST-SUFFIX,demdex.net
 HOST-SUFFIX,newrelic.com
 HOST-SUFFIX,omtrdc.net
-# AdvertisingLite 与 Advertising 共 22064 条规则重复
+# AdvertisingLite 与 Advertising 共 22060 条规则重复
 HOST,0.up.qingdaonews.com
 HOST,0026645142c89aeb1.com
 HOST,01.yd-jun.com
@@ -412,6 +412,7 @@ HOST,atrcoikdyagv.com
 HOST,aubhiple2.com
 HOST,audersmi.com
 HOST,augrenso.com
+HOST,authedmine.eu
 HOST,autologica.ga
 HOST,avoljljeif.com
 HOST,avonnfckdeqeyr.com
@@ -855,7 +856,6 @@ HOST,demo.vertexinfo.in
 HOST,denixsips.com
 HOST,dentairemalin.com
 HOST,denza.pro
-HOST,depttake.ga
 HOST,derlatas.com
 HOST,dethao.com
 HOST,dev.dc.letv.com
@@ -1296,6 +1296,7 @@ HOST,flightsy.bid
 HOST,flightsy.win
 HOST,flirrfbpb.com
 HOST,flix360.com
+HOST,flnqmin.org
 HOST,flophous.cf
 HOST,flowplus.meituan.net
 HOST,flrqdjglshsbi.com
@@ -1352,7 +1353,6 @@ HOST,ftxekufylzqis.com
 HOST,funchill.com
 HOST,funmatrix.net
 HOST,fupgvldb.com
-HOST,furtherescottom.info
 HOST,fuxhdhdjlyrwhq.com
 HOST,fuymatqqiyz.com
 HOST,fveegvyfe.com
@@ -1760,6 +1760,7 @@ HOST,jioivnytpmam.com
 HOST,jipzvmzzycg.com
 HOST,jitvspfwwmzcu.com
 HOST,jivnpidyteh.com
+HOST,jjb168.net
 HOST,jjhnnzef.com
 HOST,jjvdpetfxbjdbq.com
 HOST,jkamuwyswgk.com
@@ -1901,6 +1902,7 @@ HOST,ldvfvwkjtacrfm.com
 HOST,ldzqhq.biz
 HOST,leadacceptor.com
 HOST,lebqrivt.com
+HOST,ledinund.com
 HOST,legendsdtv.com
 HOST,legisland.net
 HOST,leohd59.ru
@@ -2256,6 +2258,7 @@ HOST,mgti1kofb8.com
 HOST,mguqjbjgs.com
 HOST,mh1.zhengdongwuye.cn
 HOST,mhmgeilfkcgov.com
+HOST,mhwozc.cn
 HOST,milleniumpapelaria.com.br
 HOST,miner.beeppool.org
 HOST,ministerio-publi.info
@@ -2700,7 +2703,6 @@ HOST,popcornvod.com
 HOST,popped.biz
 HOST,poprevenue.net
 HOST,popsuperbbrands.com
-HOST,popularitish.com
 HOST,porn-hitz.com
 HOST,porn-site-builder.com
 HOST,pornomovies.com
@@ -2711,10 +2713,8 @@ HOST,portablevaporizer.com
 HOST,portraitphotographygroup.com
 HOST,pos-kupang.com
 HOST,postrsyk.com
-HOST,postut.cn
 HOST,potpourrichordataoscilloscope.com
 HOST,potvaporizer.com
-HOST,povbdf.cn
 HOST,powermarketing.com
 HOST,powershopnet.net
 HOST,poxcldtepiulo.com
@@ -2940,7 +2940,6 @@ HOST,regardensa.com
 HOST,regdsvee.com
 HOST,reishus.de
 HOST,remotefilez.info
-HOST,renhertfo.com
 HOST,rentfromart.com
 HOST,replase.ga
 HOST,replase.tk
@@ -2948,7 +2947,6 @@ HOST,reports.wes.df.telemetry.microsoft.com
 HOST,repressina.com
 HOST,researchnow.co.uk
 HOST,reseireejoch.info
-HOST,reservedoffers.club
 HOST,resimler.randevum.com
 HOST,resolvethem.com
 HOST,retainguaninefluorite.info
@@ -3022,6 +3020,7 @@ HOST,rxhrftozn.com
 HOST,rxnnfethxprv.com
 HOST,rz.w8r4q.cn
 HOST,rzjhxwfbxp.com
+HOST,s.aiweigou.top
 HOST,s.e739.cn
 HOST,s.hoverming.cn
 HOST,s.lianmeng.360.cn
@@ -3116,7 +3115,6 @@ HOST,sisyqzktimhrgo.com
 HOST,sitestats.live
 HOST,sitionne.pro
 HOST,sivqblzejhx.com
-HOST,siyuanmall.com
 HOST,sjwdbzsa.com
 HOST,skgroup.kiev.ua
 HOST,skidki-yuga.ru
@@ -3176,7 +3174,6 @@ HOST,ssl.aszy.club
 HOST,ssl.youkag.com
 HOST,ssl2.dottexpress.com
 HOST,ssl2anyone.com
-HOST,ssl4anyone5.com
 HOST,sslboost.com
 HOST,ssmyceoxbjqdp.com
 HOST,ssqzsdcnoqv.com
@@ -3214,7 +3211,6 @@ HOST,summitemarketinganalytics.com
 HOST,sumsmoxssy.com
 HOST,sunlux.net
 HOST,sunmcre.com
-HOST,sunnimiq1.cf
 HOST,sunny99.cholerik.cz
 HOST,surveyend.com
 HOST,surveyspaid.com
@@ -3240,6 +3236,7 @@ HOST,szinhaz.hu
 HOST,szzzpqcuxqq.com
 HOST,t.basictool.vip
 HOST,t.douyaobuy.com
+HOST,t.lzrkj.top
 HOST,t.sdpaji.com
 HOST,t.xymj.xyz
 HOST,t.zisu.cn.com
@@ -3340,8 +3337,8 @@ HOST,tnkqfatbtlaw.com
 HOST,tnwjldvivhgr.com
 HOST,toads.id
 HOST,toarqsglo.com
-HOST,tokyodrift.ga
 HOST,tomalinoalambres.com.ar
+HOST,tongji.tt.shouji56.com
 HOST,toolbar.cdn.gigya.com
 HOST,tooso.ai
 HOST,top.baidu.com
@@ -3455,7 +3452,6 @@ HOST,unkrokwhwn.com
 HOST,unlim-app.tk
 HOST,unmhxfutdmxcdw.com
 HOST,unpaundlagot.pro
-HOST,unrummaged.com
 HOST,unyhjoehc.com
 HOST,uo.jstaogu.com
 HOST,uoicsyuiof.com
@@ -3479,6 +3475,7 @@ HOST,uqemcyylvcdrgs.com
 HOST,uqyirvghv.com
 HOST,urfdvrrg.com
 HOST,url-cameralist.tk
+HOST,url.jiemengle.com
 HOST,us.cfcdist.loan
 HOST,us.vortex-win.data.microsoft.com
 HOST,usclxdvvvnkdrv.com
@@ -3505,7 +3502,6 @@ HOST,uvyfszshvgassp.com
 HOST,uvzfodimtska.com
 HOST,uwidtpjwh.com
 HOST,uwkwhedvie.com
-HOST,uxbewzrfyp.com
 HOST,uxkkltrrxlowzo.com
 HOST,uxnssjly.com
 HOST,uyeluxauiq.com
@@ -3541,7 +3537,6 @@ HOST,vdztrack.com
 HOST,veehdmymwvvexv.com
 HOST,vemrhavwgchp.com
 HOST,vernoblisk.com
-HOST,verresof.com
 HOST,vestlitt.online
 HOST,vette-porno.nl
 HOST,vfgbeaayncdya.com
@@ -3588,7 +3583,6 @@ HOST,votes.buzz.yahoo.com
 HOST,vpgwdlayctn.com
 HOST,vpn.baolq666.com
 HOST,vpn.celueziben.com
-HOST,vpn.yike0515.com
 HOST,vpndcpxavg.com
 HOST,vpnfortorrents.cc
 HOST,vqmdezgkkklcc.com
@@ -3621,7 +3615,6 @@ HOST,vwzvqkcoaszyw.com
 HOST,vxkupxpf.com
 HOST,vxzudzbjvtegu.com
 HOST,vygekimhrfto.com
-HOST,vzhjnorkudcxbiy.com
 HOST,vzhlsmmboaqxlv.com
 HOST,vzreguys.com
 HOST,vzxnrtxpdnl.com
@@ -3939,6 +3932,7 @@ HOST,xicaxique.com.br
 HOST,xihkdzijh.com
 HOST,xindalawyer.com
 HOST,xituxufpy.com
+HOST,xj.eh456yje4.pw
 HOST,xjfjx8hw.com
 HOST,xjjfgxdfpr.com
 HOST,xkgbbiqqekja.com
@@ -4008,7 +4002,9 @@ HOST,xyzzyxxyzzyx.com
 HOST,xz.tongji.shouji56.com
 HOST,xzbilyblsjrg.com
 HOST,y.btdc8.cn
+HOST,y71.ylems.club
 HOST,y72yuyr9.com
+HOST,y76.ylems.club
 HOST,ya88s1yk.com
 HOST,yaikleyabl.com
 HOST,yatnozin.info
@@ -22074,7 +22070,7 @@ IP-CIDR,67.229.224.28/32
 IP-CIDR,69.28.57.245/32
 IP-CIDR,74.117.182.77/32
 IP-CIDR,78.140.131.214/32
-# AdvertisingLite 与 AdvertisingTest 共 21674 条规则重复
+# AdvertisingLite 与 AdvertisingTest 共 21681 条规则重复
 HOST,0.up.qingdaonews.com
 HOST,0026645142c89aeb1.com
 HOST,01.yd-jun.com
@@ -23240,6 +23236,7 @@ HOST,fktrlckpmsxx.com
 HOST,flashsavant.com
 HOST,flirrfbpb.com
 HOST,flix360.com
+HOST,flnqmin.org
 HOST,flowplus.meituan.net
 HOST,flrqdjglshsbi.com
 HOST,fmxnlkoaf.com
@@ -23658,6 +23655,7 @@ HOST,jioivnytpmam.com
 HOST,jipzvmzzycg.com
 HOST,jitvspfwwmzcu.com
 HOST,jivnpidyteh.com
+HOST,jjb168.net
 HOST,jjhnnzef.com
 HOST,jjvdpetfxbjdbq.com
 HOST,jkamuwyswgk.com
@@ -24126,6 +24124,7 @@ HOST,mgti1kofb8.com
 HOST,mguqjbjgs.com
 HOST,mh1.zhengdongwuye.cn
 HOST,mhmgeilfkcgov.com
+HOST,mhwozc.cn
 HOST,milleniumpapelaria.com.br
 HOST,ministerio-publi.info
 HOST,mioxtidzcrh.com
@@ -24529,7 +24528,6 @@ HOST,portraitphotographygroup.com
 HOST,pos-kupang.com
 HOST,postrsyk.com
 HOST,potvaporizer.com
-HOST,povbdf.cn
 HOST,powermarketing.com
 HOST,powershopnet.net
 HOST,poxcldtepiulo.com
@@ -24804,6 +24802,7 @@ HOST,rxhrftozn.com
 HOST,rxnnfethxprv.com
 HOST,rz.w8r4q.cn
 HOST,rzjhxwfbxp.com
+HOST,s.aiweigou.top
 HOST,s.e739.cn
 HOST,s.hoverming.cn
 HOST,s.share.baidu.com
@@ -24881,7 +24880,6 @@ HOST,siqcrwlrqjc.com
 HOST,sisyqzktimhrgo.com
 HOST,sitestats.live
 HOST,sivqblzejhx.com
-HOST,siyuanmall.com
 HOST,sjwdbzsa.com
 HOST,skgroup.kiev.ua
 HOST,skidki-yuga.ru
@@ -24984,6 +24982,7 @@ HOST,szinhaz.hu
 HOST,szzzpqcuxqq.com
 HOST,t.basictool.vip
 HOST,t.douyaobuy.com
+HOST,t.lzrkj.top
 HOST,t.sdpaji.com
 HOST,t.xymj.xyz
 HOST,t.zisu.cn.com
@@ -25078,6 +25077,7 @@ HOST,tnwjldvivhgr.com
 HOST,toads.id
 HOST,toarqsglo.com
 HOST,tomalinoalambres.com.ar
+HOST,tongji.tt.shouji56.com
 HOST,toolbar.cdn.gigya.com
 HOST,tooso.ai
 HOST,top.baidu.com
@@ -25201,6 +25201,7 @@ HOST,uqemcyylvcdrgs.com
 HOST,uqyirvghv.com
 HOST,urfdvrrg.com
 HOST,url-cameralist.tk
+HOST,url.jiemengle.com
 HOST,us.vortex-win.data.microsoft.com
 HOST,usclxdvvvnkdrv.com
 HOST,usenetoffer.download
@@ -25300,7 +25301,6 @@ HOST,voqkuiowjtkwgc.com
 HOST,votes.buzz.yahoo.com
 HOST,vpgwdlayctn.com
 HOST,vpn.celueziben.com
-HOST,vpn.yike0515.com
 HOST,vpndcpxavg.com
 HOST,vqmdezgkkklcc.com
 HOST,vqzqkhumdad.com
@@ -25625,6 +25625,7 @@ HOST,xicaxique.com.br
 HOST,xihkdzijh.com
 HOST,xindalawyer.com
 HOST,xituxufpy.com
+HOST,xj.eh456yje4.pw
 HOST,xjfjx8hw.com
 HOST,xjjfgxdfpr.com
 HOST,xkgbbiqqekja.com
@@ -25691,7 +25692,9 @@ HOST,xyzzyxxyzzyx.com
 HOST,xz.tongji.shouji56.com
 HOST,xzbilyblsjrg.com
 HOST,y.btdc8.cn
+HOST,y71.ylems.club
 HOST,y72yuyr9.com
+HOST,y76.ylems.club
 HOST,ya88s1yk.com
 HOST,yaikleyabl.com
 HOST,yatnozin.info

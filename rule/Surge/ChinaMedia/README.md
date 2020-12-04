@@ -9,7 +9,7 @@
 
 
 
-最后检查时间：2020-12-03 17:30:46。
+最后检查时间：2020-12-04 23:32:31。
 
 ## 规则统计
 
@@ -32,18 +32,18 @@ GlobalMedia分流规则，与本项目其他分流规则重复情况统计。
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [Advertising](https://github.com/codetracer/horus/tree/master/rule/Surge/Advertising)    | 94016   | [1](https://github.com/codetracer/horus/tree/master/rule/Surge/ChinaMedia/Repeat.list)   |   0.0% |
-|  [AdvertisingTest](https://github.com/codetracer/horus/tree/master/rule/Surge/AdvertisingTest)    | 110363   | [1](https://github.com/codetracer/horus/tree/master/rule/Surge/ChinaMedia/Repeat.list)   |   0.0% |
-|  [AdvertisingLite](https://github.com/codetracer/horus/tree/master/rule/Surge/AdvertisingLite)    | 41837   | [1](https://github.com/codetracer/horus/tree/master/rule/Surge/ChinaMedia/Repeat.list)   |   0.0% |
-|  [AsianMedia](https://github.com/codetracer/horus/tree/master/rule/Surge/AsianMedia)    | 28   | [25](https://github.com/codetracer/horus/tree/master/rule/Surge/ChinaMedia/Repeat.list)   |   89.29% |
-|  [Bilibili](https://github.com/codetracer/horus/tree/master/rule/Surge/Bilibili)    | 13   | [13](https://github.com/codetracer/horus/tree/master/rule/Surge/ChinaMedia/Repeat.list)   |   100.0% |
-|  [China](https://github.com/codetracer/horus/tree/master/rule/Surge/China)    | 593   | [21](https://github.com/codetracer/horus/tree/master/rule/Surge/ChinaMedia/Repeat.list)   |   3.54% |
-|  [ChinaTest](https://github.com/codetracer/horus/tree/master/rule/Surge/ChinaTest)    | 73289   | [33](https://github.com/codetracer/horus/tree/master/rule/Surge/ChinaMedia/Repeat.list)   |   0.05% |
-|  [ChinaIPs](https://github.com/codetracer/horus/tree/master/rule/Surge/ChinaIPs)    | 7227   | [2](https://github.com/codetracer/horus/tree/master/rule/Surge/ChinaMedia/Repeat.list)   |   0.03% |
-|  [NetEaseMusic](https://github.com/codetracer/horus/tree/master/rule/Surge/NetEaseMusic)    | 44   | [2](https://github.com/codetracer/horus/tree/master/rule/Surge/ChinaMedia/Repeat.list)   |   4.55% |
-|  [SohuSogo](https://github.com/codetracer/horus/tree/master/rule/Surge/SohuSogo)    | 10   | [2](https://github.com/codetracer/horus/tree/master/rule/Surge/ChinaMedia/Repeat.list)   |   20.0% |
-|  [IQiyi](https://github.com/codetracer/horus/tree/master/rule/Surge/IQiyi)    | 7   | [7](https://github.com/codetracer/horus/tree/master/rule/Surge/ChinaMedia/Repeat.list)   |   100.0% |
-|  [TencentVideo](https://github.com/codetracer/horus/tree/master/rule/Surge/TencentVideo)    | 2   | [2](https://github.com/codetracer/horus/tree/master/rule/Surge/ChinaMedia/Repeat.list)   |   100.0% |
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Advertising)    | 94142   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaMedia/Repeat.list)   |   0.0% |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingTest)    | 110443   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaMedia/Repeat.list)   |   0.0% |
+|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingLite)    | 41837   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaMedia/Repeat.list)   |   0.0% |
+|  [AsianMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AsianMedia)    | 28   | [25](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaMedia/Repeat.list)   |   89.29% |
+|  [Bilibili](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Bilibili)    | 13   | [13](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaMedia/Repeat.list)   |   100.0% |
+|  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/China)    | 593   | [21](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaMedia/Repeat.list)   |   3.54% |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaTest)    | 73337   | [33](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaMedia/Repeat.list)   |   0.04% |
+|  [ChinaIPs](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaIPs)    | 7227   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaMedia/Repeat.list)   |   0.03% |
+|  [NetEaseMusic](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/NetEaseMusic)    | 44   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaMedia/Repeat.list)   |   4.55% |
+|  [SohuSogo](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/SohuSogo)    | 10   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaMedia/Repeat.list)   |   20.0% |
+|  [IQiyi](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/IQiyi)    | 7   | [7](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaMedia/Repeat.list)   |   100.0% |
+|  [TencentVideo](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/TencentVideo)    | 2   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaMedia/Repeat.list)   |   100.0% |
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化
@@ -53,11 +53,11 @@ GlobalMedia分流规则，与本项目其他分流规则重复情况统计。
 ### Surge 
 实时版：
 
-https://raw.githubusercontent.com/codetracer/horus/master/rule/Surge/ChinaMedia/ChinaMedia.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaMedia/ChinaMedia.list
 
 稳定版：
 
-https://raw.githubusercontent.com/codetracer/horus/release/rule/Surge/ChinaMedia/ChinaMedia.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/ChinaMedia/ChinaMedia.list
 
 ## 数据来源
 
@@ -96,7 +96,7 @@ https://raw.githubusercontent.com/codetracer/horus/release/rule/Surge/ChinaMedia
 4. 在使用分流规则时出现异常
 5. 有其他问题
 
-欢迎通过[issues](https://github.com/codetracer/horus/issues/new)提交反馈，共同完善本项目的GlobalMedia分流规则。
+欢迎通过[issues](https://github.com/blackmatrix7/ios_rule_script/issues/new)提交反馈，共同完善本项目的GlobalMedia分流规则。
 
 感谢
 

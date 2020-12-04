@@ -9,7 +9,7 @@
 
 
 
-最后检查时间：2020-12-03 17:30:48。
+最后检查时间：2020-12-04 23:32:33。
 
 ## 规则统计
 
@@ -30,17 +30,17 @@ Google分流规则，与本项目其他分流规则重复情况统计。
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [Advertising](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Advertising)    | 93705   | [14](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Google/Repeat.list)   |   0.01% |
-|  [AdvertisingTest](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/AdvertisingTest)    | 110052   | [23](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Google/Repeat.list)   |   0.02% |
-|  [AdvertisingLite](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/AdvertisingLite)    | 41534   | [10](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Google/Repeat.list)   |   0.02% |
-|  [BlackList](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/BlackList)    | 781   | [39](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Google/Repeat.list)   |   4.99% |
-|  [ChinaTest](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/ChinaTest)    | 73289   | [43](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Google/Repeat.list)   |   0.06% |
-|  [YouTube](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/YouTube)    | 14   | [3](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Google/Repeat.list)   |   21.43% |
-|  [Global](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Global)    | 825   | [56](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Google/Repeat.list)   |   6.79% |
-|  [GlobalMedia](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/GlobalMedia)    | 279   | [4](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Google/Repeat.list)   |   1.43% |
-|  [Spark](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Spark)    | 4   | [1](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Google/Repeat.list)   |   25.0% |
-|  [Privacy](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Privacy)    | 2754   | [3](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Google/Repeat.list)   |   0.11% |
-|  [Proxy](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Proxy)    | 6022   | [55](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Google/Repeat.list)   |   0.91% |
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Advertising)    | 93831   | [14](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Google/Repeat.list)   |   0.01% |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AdvertisingTest)    | 110132   | [23](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Google/Repeat.list)   |   0.02% |
+|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AdvertisingLite)    | 41534   | [10](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Google/Repeat.list)   |   0.02% |
+|  [BlackList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/BlackList)    | 781   | [39](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Google/Repeat.list)   |   4.99% |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/ChinaTest)    | 73337   | [43](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Google/Repeat.list)   |   0.06% |
+|  [YouTube](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/YouTube)    | 14   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Google/Repeat.list)   |   21.43% |
+|  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Global)    | 825   | [56](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Google/Repeat.list)   |   6.79% |
+|  [GlobalMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/GlobalMedia)    | 279   | [4](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Google/Repeat.list)   |   1.43% |
+|  [Spark](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Spark)    | 4   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Google/Repeat.list)   |   25.0% |
+|  [Privacy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Privacy)    | 2754   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Google/Repeat.list)   |   0.11% |
+|  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Proxy)    | 6022   | [55](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Google/Repeat.list)   |   0.91% |
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化
@@ -50,11 +50,11 @@ Google分流规则，与本项目其他分流规则重复情况统计。
 ### QuantumultX 
 实时版：
 
-https://raw.githubusercontent.com/codetracer/horus/master/rule/QuantumultX/Google/Google.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Google/Google.list
 
 稳定版：
 
-https://raw.githubusercontent.com/codetracer/horus/release/rule/QuantumultX/Google/Google.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/Google/Google.list
 
 ## 数据来源
 
@@ -94,7 +94,7 @@ https://raw.githubusercontent.com/codetracer/horus/release/rule/QuantumultX/Goog
 4. 在使用分流规则时出现异常
 5. 有其他问题
 
-欢迎通过[issues](https://github.com/codetracer/horus/issues/new)提交反馈，共同完善本项目的Google分流规则。
+欢迎通过[issues](https://github.com/blackmatrix7/ios_rule_script/issues/new)提交反馈，共同完善本项目的Google分流规则。
 
 感谢
 

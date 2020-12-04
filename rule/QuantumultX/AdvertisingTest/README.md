@@ -10,18 +10,18 @@
 
 
 
-最后检查时间：2020-12-03 17:30:47。
+最后检查时间：2020-12-04 23:32:32。
 
 ## 规则统计
 
-总计规则：110052 条。
+总计规则：110132 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| HOST-SUFFIX | 70812 |
-| HOST | 38939 |
+| HOST-SUFFIX | 70904 |
+| HOST | 38927 |
 | HOST-KEYWORD | 55 |
 | IP-CIDR | 246 |
 ## 重复统计
@@ -32,26 +32,26 @@
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [Adobe](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Adobe)    | 34   | [7](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/AdvertisingTest/Repeat.list)   |   20.59% |
-|  [Advertising](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Advertising)    | 93705   | [84099](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/AdvertisingTest/Repeat.list)   |   89.75% |
-|  [AdvertisingLite](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/AdvertisingLite)    | 41534   | [21674](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/AdvertisingTest/Repeat.list)   |   52.18% |
-|  [Apple](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Apple)    | 161   | [2](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/AdvertisingTest/Repeat.list)   |   1.24% |
-|  [BlackList](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/BlackList)    | 781   | [31](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/AdvertisingTest/Repeat.list)   |   3.97% |
-|  [China](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/China)    | 593   | [9](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/AdvertisingTest/Repeat.list)   |   1.52% |
-|  [ChinaTest](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/ChinaTest)    | 73289   | [1172](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/AdvertisingTest/Repeat.list)   |   1.6% |
-|  [ChinaMedia](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/ChinaMedia)    | 74   | [1](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/AdvertisingTest/Repeat.list)   |   1.35% |
-|  [Google](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Google)    | 124   | [23](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/AdvertisingTest/Repeat.list)   |   18.55% |
-|  [YouTube](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/YouTube)    | 14   | [2](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/AdvertisingTest/Repeat.list)   |   14.29% |
-|  [Microsoft](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Microsoft)    | 97   | [2](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/AdvertisingTest/Repeat.list)   |   2.06% |
-|  [Niconico](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Niconico)    | 5   | [1](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/AdvertisingTest/Repeat.list)   |   20.0% |
-|  [NetEaseMusic](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/NetEaseMusic)    | 44   | [1](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/AdvertisingTest/Repeat.list)   |   2.27% |
-|  [Global](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Global)    | 825   | [5](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/AdvertisingTest/Repeat.list)   |   0.61% |
-|  [GlobalMedia](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/GlobalMedia)    | 279   | [9](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/AdvertisingTest/Repeat.list)   |   3.23% |
-|  [Hijacking](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Hijacking)    | 209   | [208](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/AdvertisingTest/Repeat.list)   |   99.52% |
-|  [Spark](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Spark)    | 4   | [1](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/AdvertisingTest/Repeat.list)   |   25.0% |
-|  [Privacy](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Privacy)    | 2754   | [2726](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/AdvertisingTest/Repeat.list)   |   98.98% |
-|  [Proxy](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Proxy)    | 6022   | [100](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/AdvertisingTest/Repeat.list)   |   1.66% |
-|  [Tencent](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Tencent)    | 19   | [1](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/AdvertisingTest/Repeat.list)   |   5.26% |
+|  [Adobe](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Adobe)    | 34   | [7](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AdvertisingTest/Repeat.list)   |   20.59% |
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Advertising)    | 93831   | [84249](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AdvertisingTest/Repeat.list)   |   89.79% |
+|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AdvertisingLite)    | 41534   | [21681](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AdvertisingTest/Repeat.list)   |   52.2% |
+|  [Apple](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Apple)    | 161   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AdvertisingTest/Repeat.list)   |   1.24% |
+|  [BlackList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/BlackList)    | 781   | [31](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AdvertisingTest/Repeat.list)   |   3.97% |
+|  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/China)    | 593   | [9](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AdvertisingTest/Repeat.list)   |   1.52% |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/ChinaTest)    | 73337   | [1173](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AdvertisingTest/Repeat.list)   |   1.6% |
+|  [ChinaMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/ChinaMedia)    | 74   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AdvertisingTest/Repeat.list)   |   1.35% |
+|  [Google](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Google)    | 124   | [23](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AdvertisingTest/Repeat.list)   |   18.55% |
+|  [YouTube](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/YouTube)    | 14   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AdvertisingTest/Repeat.list)   |   14.29% |
+|  [Microsoft](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Microsoft)    | 97   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AdvertisingTest/Repeat.list)   |   2.06% |
+|  [Niconico](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Niconico)    | 5   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AdvertisingTest/Repeat.list)   |   20.0% |
+|  [NetEaseMusic](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/NetEaseMusic)    | 44   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AdvertisingTest/Repeat.list)   |   2.27% |
+|  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Global)    | 825   | [5](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AdvertisingTest/Repeat.list)   |   0.61% |
+|  [GlobalMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/GlobalMedia)    | 279   | [9](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AdvertisingTest/Repeat.list)   |   3.23% |
+|  [Hijacking](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Hijacking)    | 209   | [208](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AdvertisingTest/Repeat.list)   |   99.52% |
+|  [Spark](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Spark)    | 4   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AdvertisingTest/Repeat.list)   |   25.0% |
+|  [Privacy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Privacy)    | 2754   | [2726](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AdvertisingTest/Repeat.list)   |   98.98% |
+|  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Proxy)    | 6022   | [100](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AdvertisingTest/Repeat.list)   |   1.66% |
+|  [Tencent](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Tencent)    | 19   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AdvertisingTest/Repeat.list)   |   5.26% |
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化
@@ -61,11 +61,11 @@
 ### QuantumultX 
 实时版：
 
-https://raw.githubusercontent.com/codetracer/horus/master/rule/QuantumultX/AdvertisingTest/AdvertisingTest.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AdvertisingTest/AdvertisingTest.list
 
 稳定版：
 
-https://raw.githubusercontent.com/codetracer/horus/release/rule/QuantumultX/AdvertisingTest/AdvertisingTest.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/AdvertisingTest/AdvertisingTest.list
 
 ## 数据来源
 
@@ -91,9 +91,9 @@ https://raw.githubusercontent.com/codetracer/horus/release/rule/QuantumultX/Adve
 - https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/AdRuleTest.list
 - https://raw.githubusercontent.com/NobyDa/Script/master/Surge/AdRule.list
 - https://raw.githubusercontent.com/NobyDa/Script/master/Surge/AdRuleTest.list
-- https://raw.githubusercontent.com/codetracer/horus/master/source/connershua/Quantumult/X/Filter/Advertising.list
-- https://raw.githubusercontent.com/codetracer/horus/master/source/rule/Advertising/Advertising.list
-- https://raw.githubusercontent.com/codetracer/horus/master/source/rule/Advertising/LianXiangJia/LianXiangJia.list
+- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/connershua/Quantumult/X/Filter/Advertising.list
+- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Advertising/Advertising.list
+- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Advertising/LianXiangJia/LianXiangJia.list
 - https://raw.githubusercontent.com/eHpo1/Rules/master/QuantumultX/Filter/Liby.txt
 - https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Liby.list
 - https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Tide.list
@@ -125,11 +125,11 @@ https://raw.githubusercontent.com/codetracer/horus/release/rule/QuantumultX/Adve
 
 #### 知乎
 
-本规则不包含知乎去广告，知乎去广告请移步：https://github.com/codetracer/horus/tree/master/script/zhihu
+本规则不包含知乎去广告，知乎去广告请移步：https://github.com/blackmatrix7/ios_rule_script/tree/master/script/zhihu
 
 #### 哔哩哔哩
 
-如需更完整的哔哩哔哩去广告，请移步：https://github.com/codetracer/horus/tree/master/script/bilibili
+如需更完整的哔哩哔哩去广告，请移步：https://github.com/blackmatrix7/ios_rule_script/tree/master/script/bilibili
 
 #### YouTube
 
@@ -157,7 +157,7 @@ https://raw.githubusercontent.com/codetracer/horus/release/rule/QuantumultX/Adve
 4. 在使用分流规则时出现异常
 5. 有其他问题
 
-欢迎通过[issues](https://github.com/codetracer/horus/issues/new)提交反馈，共同完善本项目的去广告测试版分流规则。
+欢迎通过[issues](https://github.com/blackmatrix7/ios_rule_script/issues/new)提交反馈，共同完善本项目的去广告测试版分流规则。
 
 感谢
 

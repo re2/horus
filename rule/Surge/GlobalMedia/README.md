@@ -9,7 +9,7 @@
 
 
 
-最后检查时间：2020-12-03 17:30:47。
+最后检查时间：2020-12-04 23:32:32。
 
 ## 规则统计
 
@@ -32,27 +32,27 @@ GlobalMedia分流规则，与本项目其他分流规则重复情况统计。
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [Advertising](https://github.com/codetracer/horus/tree/master/rule/Surge/Advertising)    | 94016   | [6](https://github.com/codetracer/horus/tree/master/rule/Surge/GlobalMedia/Repeat.list)   |   0.01% |
-|  [AdvertisingTest](https://github.com/codetracer/horus/tree/master/rule/Surge/AdvertisingTest)    | 110363   | [9](https://github.com/codetracer/horus/tree/master/rule/Surge/GlobalMedia/Repeat.list)   |   0.01% |
-|  [AdvertisingLite](https://github.com/codetracer/horus/tree/master/rule/Surge/AdvertisingLite)    | 41837   | [4](https://github.com/codetracer/horus/tree/master/rule/Surge/GlobalMedia/Repeat.list)   |   0.01% |
-|  [AppleNews](https://github.com/codetracer/horus/tree/master/rule/Surge/AppleNews)    | 9   | [3](https://github.com/codetracer/horus/tree/master/rule/Surge/GlobalMedia/Repeat.list)   |   33.33% |
-|  [AppleTV](https://github.com/codetracer/horus/tree/master/rule/Surge/AppleTV)    | 3   | [3](https://github.com/codetracer/horus/tree/master/rule/Surge/GlobalMedia/Repeat.list)   |   100.0% |
-|  [Bahamut](https://github.com/codetracer/horus/tree/master/rule/Surge/Bahamut)    | 5   | [3](https://github.com/codetracer/horus/tree/master/rule/Surge/GlobalMedia/Repeat.list)   |   60.0% |
-|  [BlackList](https://github.com/codetracer/horus/tree/master/rule/Surge/BlackList)    | 782   | [19](https://github.com/codetracer/horus/tree/master/rule/Surge/GlobalMedia/Repeat.list)   |   2.43% |
-|  [China](https://github.com/codetracer/horus/tree/master/rule/Surge/China)    | 593   | [3](https://github.com/codetracer/horus/tree/master/rule/Surge/GlobalMedia/Repeat.list)   |   0.51% |
-|  [ChinaTest](https://github.com/codetracer/horus/tree/master/rule/Surge/ChinaTest)    | 73289   | [4](https://github.com/codetracer/horus/tree/master/rule/Surge/GlobalMedia/Repeat.list)   |   0.01% |
-|  [Google](https://github.com/codetracer/horus/tree/master/rule/Surge/Google)    | 124   | [4](https://github.com/codetracer/horus/tree/master/rule/Surge/GlobalMedia/Repeat.list)   |   3.23% |
-|  [YouTube](https://github.com/codetracer/horus/tree/master/rule/Surge/YouTube)    | 14   | [14](https://github.com/codetracer/horus/tree/master/rule/Surge/GlobalMedia/Repeat.list)   |   100.0% |
-|  [Niconico](https://github.com/codetracer/horus/tree/master/rule/Surge/Niconico)    | 5   | [5](https://github.com/codetracer/horus/tree/master/rule/Surge/GlobalMedia/Repeat.list)   |   100.0% |
-|  [Speedtest](https://github.com/codetracer/horus/tree/master/rule/Surge/Speedtest)    | 5   | [1](https://github.com/codetracer/horus/tree/master/rule/Surge/GlobalMedia/Repeat.list)   |   20.0% |
-|  [Netflix](https://github.com/codetracer/horus/tree/master/rule/Surge/Netflix)    | 40   | [40](https://github.com/codetracer/horus/tree/master/rule/Surge/GlobalMedia/Repeat.list)   |   100.0% |
-|  [TikTok](https://github.com/codetracer/horus/tree/master/rule/Surge/TikTok)    | 11   | [11](https://github.com/codetracer/horus/tree/master/rule/Surge/GlobalMedia/Repeat.list)   |   100.0% |
-|  [Disney](https://github.com/codetracer/horus/tree/master/rule/Surge/Disney)    | 6   | [5](https://github.com/codetracer/horus/tree/master/rule/Surge/GlobalMedia/Repeat.list)   |   83.33% |
-|  [Global](https://github.com/codetracer/horus/tree/master/rule/Surge/Global)    | 827   | [171](https://github.com/codetracer/horus/tree/master/rule/Surge/GlobalMedia/Repeat.list)   |   20.68% |
-|  [Spotify](https://github.com/codetracer/horus/tree/master/rule/Surge/Spotify)    | 8   | [8](https://github.com/codetracer/horus/tree/master/rule/Surge/GlobalMedia/Repeat.list)   |   100.0% |
-|  [Spark](https://github.com/codetracer/horus/tree/master/rule/Surge/Spark)    | 4   | [1](https://github.com/codetracer/horus/tree/master/rule/Surge/GlobalMedia/Repeat.list)   |   25.0% |
-|  [Proxy](https://github.com/codetracer/horus/tree/master/rule/Surge/Proxy)    | 6022   | [54](https://github.com/codetracer/horus/tree/master/rule/Surge/GlobalMedia/Repeat.list)   |   0.9% |
-|  [YouTubeMusic](https://github.com/codetracer/horus/tree/master/rule/Surge/YouTubeMusic)    | 4   | [4](https://github.com/codetracer/horus/tree/master/rule/Surge/GlobalMedia/Repeat.list)   |   100.0% |
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Advertising)    | 94142   | [6](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/GlobalMedia/Repeat.list)   |   0.01% |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingTest)    | 110443   | [9](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/GlobalMedia/Repeat.list)   |   0.01% |
+|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingLite)    | 41837   | [4](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/GlobalMedia/Repeat.list)   |   0.01% |
+|  [AppleNews](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AppleNews)    | 9   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/GlobalMedia/Repeat.list)   |   33.33% |
+|  [AppleTV](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AppleTV)    | 3   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/GlobalMedia/Repeat.list)   |   100.0% |
+|  [Bahamut](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Bahamut)    | 5   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/GlobalMedia/Repeat.list)   |   60.0% |
+|  [BlackList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/BlackList)    | 782   | [19](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/GlobalMedia/Repeat.list)   |   2.43% |
+|  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/China)    | 593   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/GlobalMedia/Repeat.list)   |   0.51% |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaTest)    | 73337   | [4](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/GlobalMedia/Repeat.list)   |   0.01% |
+|  [Google](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Google)    | 124   | [4](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/GlobalMedia/Repeat.list)   |   3.23% |
+|  [YouTube](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/YouTube)    | 14   | [14](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/GlobalMedia/Repeat.list)   |   100.0% |
+|  [Niconico](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Niconico)    | 5   | [5](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/GlobalMedia/Repeat.list)   |   100.0% |
+|  [Speedtest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Speedtest)    | 5   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/GlobalMedia/Repeat.list)   |   20.0% |
+|  [Netflix](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Netflix)    | 40   | [40](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/GlobalMedia/Repeat.list)   |   100.0% |
+|  [TikTok](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/TikTok)    | 11   | [11](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/GlobalMedia/Repeat.list)   |   100.0% |
+|  [Disney](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Disney)    | 6   | [5](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/GlobalMedia/Repeat.list)   |   83.33% |
+|  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Global)    | 827   | [171](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/GlobalMedia/Repeat.list)   |   20.68% |
+|  [Spotify](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Spotify)    | 8   | [8](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/GlobalMedia/Repeat.list)   |   100.0% |
+|  [Spark](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Spark)    | 4   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/GlobalMedia/Repeat.list)   |   25.0% |
+|  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Proxy)    | 6022   | [54](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/GlobalMedia/Repeat.list)   |   0.9% |
+|  [YouTubeMusic](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/YouTubeMusic)    | 4   | [4](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/GlobalMedia/Repeat.list)   |   100.0% |
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化
@@ -62,11 +62,11 @@ GlobalMedia分流规则，与本项目其他分流规则重复情况统计。
 ### Surge 
 实时版：
 
-https://raw.githubusercontent.com/codetracer/horus/master/rule/Surge/GlobalMedia/GlobalMedia.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GlobalMedia/GlobalMedia.list
 
 稳定版：
 
-https://raw.githubusercontent.com/codetracer/horus/release/rule/Surge/GlobalMedia/GlobalMedia.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/GlobalMedia/GlobalMedia.list
 
 ## 数据来源
 
@@ -74,7 +74,7 @@ https://raw.githubusercontent.com/codetracer/horus/release/rule/Surge/GlobalMedi
 
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list
 - https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/GlobalMedia.list
-- https://raw.githubusercontent.com/codetracer/horus/master/source/connershua/Quantumult/X/Filter/ForeignMedia.list
+- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/connershua/Quantumult/X/Filter/ForeignMedia.list
 - https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/GlobalMedia.list
 
 
@@ -106,7 +106,7 @@ https://raw.githubusercontent.com/codetracer/horus/release/rule/Surge/GlobalMedi
 4. 在使用分流规则时出现异常
 5. 有其他问题
 
-欢迎通过[issues](https://github.com/codetracer/horus/issues/new)提交反馈，共同完善本项目的GlobalMedia分流规则。
+欢迎通过[issues](https://github.com/blackmatrix7/ios_rule_script/issues/new)提交反馈，共同完善本项目的GlobalMedia分流规则。
 
 感谢
 

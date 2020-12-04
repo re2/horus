@@ -1,7 +1,7 @@
 # NAME: AdvertisingLite 规则重复情况
-# AUTHOR: codetracer
-# GITHUB: https://github.com/codetracer/horus
-# UPDATED: 2020-12-03 17:30:45
+# AUTHOR: blackmatrix7
+# GITHUB: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2020-12-04 23:32:31
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件
 payload:
 # AdvertisingLite 与 Adobe 共 5 条规则重复
@@ -10,7 +10,7 @@ payload:
   - DOMAIN-SUFFIX,demdex.net
   - DOMAIN-SUFFIX,newrelic.com
   - DOMAIN-SUFFIX,omtrdc.net
-# AdvertisingLite 与 Advertising 共 22064 条规则重复
+# AdvertisingLite 与 Advertising 共 22060 条规则重复
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,0026645142c89aeb1.com
   - DOMAIN,01.yd-jun.com
@@ -413,6 +413,7 @@ payload:
   - DOMAIN,aubhiple2.com
   - DOMAIN,audersmi.com
   - DOMAIN,augrenso.com
+  - DOMAIN,authedmine.eu
   - DOMAIN,autologica.ga
   - DOMAIN,avoljljeif.com
   - DOMAIN,avonnfckdeqeyr.com
@@ -856,7 +857,6 @@ payload:
   - DOMAIN,denixsips.com
   - DOMAIN,dentairemalin.com
   - DOMAIN,denza.pro
-  - DOMAIN,depttake.ga
   - DOMAIN,derlatas.com
   - DOMAIN,dethao.com
   - DOMAIN,dev.dc.letv.com
@@ -1297,6 +1297,7 @@ payload:
   - DOMAIN,flightsy.win
   - DOMAIN,flirrfbpb.com
   - DOMAIN,flix360.com
+  - DOMAIN,flnqmin.org
   - DOMAIN,flophous.cf
   - DOMAIN,flowplus.meituan.net
   - DOMAIN,flrqdjglshsbi.com
@@ -1353,7 +1354,6 @@ payload:
   - DOMAIN,funchill.com
   - DOMAIN,funmatrix.net
   - DOMAIN,fupgvldb.com
-  - DOMAIN,furtherescottom.info
   - DOMAIN,fuxhdhdjlyrwhq.com
   - DOMAIN,fuymatqqiyz.com
   - DOMAIN,fveegvyfe.com
@@ -1761,6 +1761,7 @@ payload:
   - DOMAIN,jipzvmzzycg.com
   - DOMAIN,jitvspfwwmzcu.com
   - DOMAIN,jivnpidyteh.com
+  - DOMAIN,jjb168.net
   - DOMAIN,jjhnnzef.com
   - DOMAIN,jjvdpetfxbjdbq.com
   - DOMAIN,jkamuwyswgk.com
@@ -1902,6 +1903,7 @@ payload:
   - DOMAIN,ldzqhq.biz
   - DOMAIN,leadacceptor.com
   - DOMAIN,lebqrivt.com
+  - DOMAIN,ledinund.com
   - DOMAIN,legendsdtv.com
   - DOMAIN,legisland.net
   - DOMAIN,leohd59.ru
@@ -2257,6 +2259,7 @@ payload:
   - DOMAIN,mguqjbjgs.com
   - DOMAIN,mh1.zhengdongwuye.cn
   - DOMAIN,mhmgeilfkcgov.com
+  - DOMAIN,mhwozc.cn
   - DOMAIN,milleniumpapelaria.com.br
   - DOMAIN,miner.beeppool.org
   - DOMAIN,ministerio-publi.info
@@ -2701,7 +2704,6 @@ payload:
   - DOMAIN,popped.biz
   - DOMAIN,poprevenue.net
   - DOMAIN,popsuperbbrands.com
-  - DOMAIN,popularitish.com
   - DOMAIN,porn-hitz.com
   - DOMAIN,porn-site-builder.com
   - DOMAIN,pornomovies.com
@@ -2712,10 +2714,8 @@ payload:
   - DOMAIN,portraitphotographygroup.com
   - DOMAIN,pos-kupang.com
   - DOMAIN,postrsyk.com
-  - DOMAIN,postut.cn
   - DOMAIN,potpourrichordataoscilloscope.com
   - DOMAIN,potvaporizer.com
-  - DOMAIN,povbdf.cn
   - DOMAIN,powermarketing.com
   - DOMAIN,powershopnet.net
   - DOMAIN,poxcldtepiulo.com
@@ -2941,7 +2941,6 @@ payload:
   - DOMAIN,regdsvee.com
   - DOMAIN,reishus.de
   - DOMAIN,remotefilez.info
-  - DOMAIN,renhertfo.com
   - DOMAIN,rentfromart.com
   - DOMAIN,replase.ga
   - DOMAIN,replase.tk
@@ -2949,7 +2948,6 @@ payload:
   - DOMAIN,repressina.com
   - DOMAIN,researchnow.co.uk
   - DOMAIN,reseireejoch.info
-  - DOMAIN,reservedoffers.club
   - DOMAIN,resimler.randevum.com
   - DOMAIN,resolvethem.com
   - DOMAIN,retainguaninefluorite.info
@@ -3023,6 +3021,7 @@ payload:
   - DOMAIN,rxnnfethxprv.com
   - DOMAIN,rz.w8r4q.cn
   - DOMAIN,rzjhxwfbxp.com
+  - DOMAIN,s.aiweigou.top
   - DOMAIN,s.e739.cn
   - DOMAIN,s.hoverming.cn
   - DOMAIN,s.lianmeng.360.cn
@@ -3117,7 +3116,6 @@ payload:
   - DOMAIN,sitestats.live
   - DOMAIN,sitionne.pro
   - DOMAIN,sivqblzejhx.com
-  - DOMAIN,siyuanmall.com
   - DOMAIN,sjwdbzsa.com
   - DOMAIN,skgroup.kiev.ua
   - DOMAIN,skidki-yuga.ru
@@ -3177,7 +3175,6 @@ payload:
   - DOMAIN,ssl.youkag.com
   - DOMAIN,ssl2.dottexpress.com
   - DOMAIN,ssl2anyone.com
-  - DOMAIN,ssl4anyone5.com
   - DOMAIN,sslboost.com
   - DOMAIN,ssmyceoxbjqdp.com
   - DOMAIN,ssqzsdcnoqv.com
@@ -3215,7 +3212,6 @@ payload:
   - DOMAIN,sumsmoxssy.com
   - DOMAIN,sunlux.net
   - DOMAIN,sunmcre.com
-  - DOMAIN,sunnimiq1.cf
   - DOMAIN,sunny99.cholerik.cz
   - DOMAIN,surveyend.com
   - DOMAIN,surveyspaid.com
@@ -3241,6 +3237,7 @@ payload:
   - DOMAIN,szzzpqcuxqq.com
   - DOMAIN,t.basictool.vip
   - DOMAIN,t.douyaobuy.com
+  - DOMAIN,t.lzrkj.top
   - DOMAIN,t.sdpaji.com
   - DOMAIN,t.xymj.xyz
   - DOMAIN,t.zisu.cn.com
@@ -3341,8 +3338,8 @@ payload:
   - DOMAIN,tnwjldvivhgr.com
   - DOMAIN,toads.id
   - DOMAIN,toarqsglo.com
-  - DOMAIN,tokyodrift.ga
   - DOMAIN,tomalinoalambres.com.ar
+  - DOMAIN,tongji.tt.shouji56.com
   - DOMAIN,toolbar.cdn.gigya.com
   - DOMAIN,tooso.ai
   - DOMAIN,top.baidu.com
@@ -3456,7 +3453,6 @@ payload:
   - DOMAIN,unlim-app.tk
   - DOMAIN,unmhxfutdmxcdw.com
   - DOMAIN,unpaundlagot.pro
-  - DOMAIN,unrummaged.com
   - DOMAIN,unyhjoehc.com
   - DOMAIN,uo.jstaogu.com
   - DOMAIN,uoicsyuiof.com
@@ -3480,6 +3476,7 @@ payload:
   - DOMAIN,uqyirvghv.com
   - DOMAIN,urfdvrrg.com
   - DOMAIN,url-cameralist.tk
+  - DOMAIN,url.jiemengle.com
   - DOMAIN,us.cfcdist.loan
   - DOMAIN,us.vortex-win.data.microsoft.com
   - DOMAIN,usclxdvvvnkdrv.com
@@ -3506,7 +3503,6 @@ payload:
   - DOMAIN,uvzfodimtska.com
   - DOMAIN,uwidtpjwh.com
   - DOMAIN,uwkwhedvie.com
-  - DOMAIN,uxbewzrfyp.com
   - DOMAIN,uxkkltrrxlowzo.com
   - DOMAIN,uxnssjly.com
   - DOMAIN,uyeluxauiq.com
@@ -3542,7 +3538,6 @@ payload:
   - DOMAIN,veehdmymwvvexv.com
   - DOMAIN,vemrhavwgchp.com
   - DOMAIN,vernoblisk.com
-  - DOMAIN,verresof.com
   - DOMAIN,vestlitt.online
   - DOMAIN,vette-porno.nl
   - DOMAIN,vfgbeaayncdya.com
@@ -3589,7 +3584,6 @@ payload:
   - DOMAIN,vpgwdlayctn.com
   - DOMAIN,vpn.baolq666.com
   - DOMAIN,vpn.celueziben.com
-  - DOMAIN,vpn.yike0515.com
   - DOMAIN,vpndcpxavg.com
   - DOMAIN,vpnfortorrents.cc
   - DOMAIN,vqmdezgkkklcc.com
@@ -3622,7 +3616,6 @@ payload:
   - DOMAIN,vxkupxpf.com
   - DOMAIN,vxzudzbjvtegu.com
   - DOMAIN,vygekimhrfto.com
-  - DOMAIN,vzhjnorkudcxbiy.com
   - DOMAIN,vzhlsmmboaqxlv.com
   - DOMAIN,vzreguys.com
   - DOMAIN,vzxnrtxpdnl.com
@@ -3940,6 +3933,7 @@ payload:
   - DOMAIN,xihkdzijh.com
   - DOMAIN,xindalawyer.com
   - DOMAIN,xituxufpy.com
+  - DOMAIN,xj.eh456yje4.pw
   - DOMAIN,xjfjx8hw.com
   - DOMAIN,xjjfgxdfpr.com
   - DOMAIN,xkgbbiqqekja.com
@@ -4009,7 +4003,9 @@ payload:
   - DOMAIN,xz.tongji.shouji56.com
   - DOMAIN,xzbilyblsjrg.com
   - DOMAIN,y.btdc8.cn
+  - DOMAIN,y71.ylems.club
   - DOMAIN,y72yuyr9.com
+  - DOMAIN,y76.ylems.club
   - DOMAIN,ya88s1yk.com
   - DOMAIN,yaikleyabl.com
   - DOMAIN,yatnozin.info
@@ -22075,7 +22071,7 @@ payload:
   - IP-CIDR,69.28.57.245/32
   - IP-CIDR,74.117.182.77/32
   - IP-CIDR,78.140.131.214/32
-# AdvertisingLite 与 AdvertisingTest 共 21674 条规则重复
+# AdvertisingLite 与 AdvertisingTest 共 21681 条规则重复
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,0026645142c89aeb1.com
   - DOMAIN,01.yd-jun.com
@@ -23241,6 +23237,7 @@ payload:
   - DOMAIN,flashsavant.com
   - DOMAIN,flirrfbpb.com
   - DOMAIN,flix360.com
+  - DOMAIN,flnqmin.org
   - DOMAIN,flowplus.meituan.net
   - DOMAIN,flrqdjglshsbi.com
   - DOMAIN,fmxnlkoaf.com
@@ -23659,6 +23656,7 @@ payload:
   - DOMAIN,jipzvmzzycg.com
   - DOMAIN,jitvspfwwmzcu.com
   - DOMAIN,jivnpidyteh.com
+  - DOMAIN,jjb168.net
   - DOMAIN,jjhnnzef.com
   - DOMAIN,jjvdpetfxbjdbq.com
   - DOMAIN,jkamuwyswgk.com
@@ -24127,6 +24125,7 @@ payload:
   - DOMAIN,mguqjbjgs.com
   - DOMAIN,mh1.zhengdongwuye.cn
   - DOMAIN,mhmgeilfkcgov.com
+  - DOMAIN,mhwozc.cn
   - DOMAIN,milleniumpapelaria.com.br
   - DOMAIN,ministerio-publi.info
   - DOMAIN,mioxtidzcrh.com
@@ -24530,7 +24529,6 @@ payload:
   - DOMAIN,pos-kupang.com
   - DOMAIN,postrsyk.com
   - DOMAIN,potvaporizer.com
-  - DOMAIN,povbdf.cn
   - DOMAIN,powermarketing.com
   - DOMAIN,powershopnet.net
   - DOMAIN,poxcldtepiulo.com
@@ -24805,6 +24803,7 @@ payload:
   - DOMAIN,rxnnfethxprv.com
   - DOMAIN,rz.w8r4q.cn
   - DOMAIN,rzjhxwfbxp.com
+  - DOMAIN,s.aiweigou.top
   - DOMAIN,s.e739.cn
   - DOMAIN,s.hoverming.cn
   - DOMAIN,s.share.baidu.com
@@ -24882,7 +24881,6 @@ payload:
   - DOMAIN,sisyqzktimhrgo.com
   - DOMAIN,sitestats.live
   - DOMAIN,sivqblzejhx.com
-  - DOMAIN,siyuanmall.com
   - DOMAIN,sjwdbzsa.com
   - DOMAIN,skgroup.kiev.ua
   - DOMAIN,skidki-yuga.ru
@@ -24985,6 +24983,7 @@ payload:
   - DOMAIN,szzzpqcuxqq.com
   - DOMAIN,t.basictool.vip
   - DOMAIN,t.douyaobuy.com
+  - DOMAIN,t.lzrkj.top
   - DOMAIN,t.sdpaji.com
   - DOMAIN,t.xymj.xyz
   - DOMAIN,t.zisu.cn.com
@@ -25079,6 +25078,7 @@ payload:
   - DOMAIN,toads.id
   - DOMAIN,toarqsglo.com
   - DOMAIN,tomalinoalambres.com.ar
+  - DOMAIN,tongji.tt.shouji56.com
   - DOMAIN,toolbar.cdn.gigya.com
   - DOMAIN,tooso.ai
   - DOMAIN,top.baidu.com
@@ -25202,6 +25202,7 @@ payload:
   - DOMAIN,uqyirvghv.com
   - DOMAIN,urfdvrrg.com
   - DOMAIN,url-cameralist.tk
+  - DOMAIN,url.jiemengle.com
   - DOMAIN,us.vortex-win.data.microsoft.com
   - DOMAIN,usclxdvvvnkdrv.com
   - DOMAIN,usenetoffer.download
@@ -25301,7 +25302,6 @@ payload:
   - DOMAIN,votes.buzz.yahoo.com
   - DOMAIN,vpgwdlayctn.com
   - DOMAIN,vpn.celueziben.com
-  - DOMAIN,vpn.yike0515.com
   - DOMAIN,vpndcpxavg.com
   - DOMAIN,vqmdezgkkklcc.com
   - DOMAIN,vqzqkhumdad.com
@@ -25626,6 +25626,7 @@ payload:
   - DOMAIN,xihkdzijh.com
   - DOMAIN,xindalawyer.com
   - DOMAIN,xituxufpy.com
+  - DOMAIN,xj.eh456yje4.pw
   - DOMAIN,xjfjx8hw.com
   - DOMAIN,xjjfgxdfpr.com
   - DOMAIN,xkgbbiqqekja.com
@@ -25692,7 +25693,9 @@ payload:
   - DOMAIN,xz.tongji.shouji56.com
   - DOMAIN,xzbilyblsjrg.com
   - DOMAIN,y.btdc8.cn
+  - DOMAIN,y71.ylems.club
   - DOMAIN,y72yuyr9.com
+  - DOMAIN,y76.ylems.club
   - DOMAIN,ya88s1yk.com
   - DOMAIN,yaikleyabl.com
   - DOMAIN,yatnozin.info

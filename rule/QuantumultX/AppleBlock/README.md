@@ -9,7 +9,7 @@
 
 
 
-最后检查时间：2020-12-03 17:30:47。
+最后检查时间：2020-12-04 23:32:32。
 
 ## 规则统计
 
@@ -29,10 +29,10 @@ AppleBlock分流规则，与本项目其他分流规则重复情况统计。
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [Apple](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Apple)    | 161   | [1](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/AppleBlock/Repeat.list)   |   0.62% |
-|  [BlackList](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/BlackList)    | 781   | [5](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/AppleBlock/Repeat.list)   |   0.64% |
-|  [Global](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Global)    | 825   | [5](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/AppleBlock/Repeat.list)   |   0.61% |
-|  [Proxy](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Proxy)    | 6022   | [1](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/AppleBlock/Repeat.list)   |   0.02% |
+|  [Apple](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Apple)    | 161   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AppleBlock/Repeat.list)   |   0.62% |
+|  [BlackList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/BlackList)    | 781   | [5](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AppleBlock/Repeat.list)   |   0.64% |
+|  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Global)    | 825   | [5](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AppleBlock/Repeat.list)   |   0.61% |
+|  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Proxy)    | 6022   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AppleBlock/Repeat.list)   |   0.02% |
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化
@@ -42,17 +42,17 @@ AppleBlock分流规则，与本项目其他分流规则重复情况统计。
 ### QuantumultX 
 实时版：
 
-https://raw.githubusercontent.com/codetracer/horus/master/rule/QuantumultX/AppleBlock/AppleBlock.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AppleBlock/AppleBlock.list
 
 稳定版：
 
-https://raw.githubusercontent.com/codetracer/horus/release/rule/QuantumultX/AppleBlock/AppleBlock.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/AppleBlock/AppleBlock.list
 
 ## 数据来源
 
 本项目的AppleBlock分流规则的数据来自以下链接，通常已涵盖所有数据来源的分流规则。如果你正在使用这些分流规则，建议不要与本项目的AppleBlock分流规则混合使用，以免造成规则重复。
 
-- https://raw.githubusercontent.com/codetracer/horus/master/source/rule/AppleBlock/AppleBlock.list
+- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/AppleBlock/AppleBlock.list
 
 
 感谢以上分流规则作者的辛勤付出（排名不分先后）。
@@ -83,7 +83,7 @@ https://raw.githubusercontent.com/codetracer/horus/release/rule/QuantumultX/Appl
 4. 在使用分流规则时出现异常
 5. 有其他问题
 
-欢迎通过[issues](https://github.com/codetracer/horus/issues/new)提交反馈，共同完善本项目的AppleBlock分流规则。
+欢迎通过[issues](https://github.com/blackmatrix7/ios_rule_script/issues/new)提交反馈，共同完善本项目的AppleBlock分流规则。
 
 感谢
 

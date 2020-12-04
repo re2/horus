@@ -9,7 +9,7 @@
 
 
 
-最后检查时间：2020-12-03 17:30:48。
+最后检查时间：2020-12-04 23:32:33。
 
 ## 规则统计
 
@@ -28,8 +28,8 @@
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [Global](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Global)    | 825   | [2](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Dubox/Repeat.list)   |   0.24% |
-|  [Proxy](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Proxy)    | 6022   | [2](https://github.com/codetracer/horus/tree/master/rule/QuantumultX/Dubox/Repeat.list)   |   0.03% |
+|  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Global)    | 825   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Dubox/Repeat.list)   |   0.24% |
+|  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Proxy)    | 6022   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Dubox/Repeat.list)   |   0.03% |
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化
@@ -39,11 +39,11 @@
 ### QuantumultX 
 实时版：
 
-https://raw.githubusercontent.com/codetracer/horus/master/rule/QuantumultX/Dubox/Dubox.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Dubox/Dubox.list
 
 稳定版：
 
-https://raw.githubusercontent.com/codetracer/horus/release/rule/QuantumultX/Dubox/Dubox.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/Dubox/Dubox.list
 
 ## 数据来源
 
@@ -80,7 +80,7 @@ https://raw.githubusercontent.com/codetracer/horus/release/rule/QuantumultX/Dubo
 4. 在使用分流规则时出现异常
 5. 有其他问题
 
-欢迎通过[issues](https://github.com/codetracer/horus/issues/new)提交反馈，共同完善本项目的百度网盘国际版分流规则。
+欢迎通过[issues](https://github.com/blackmatrix7/ios_rule_script/issues/new)提交反馈，共同完善本项目的百度网盘国际版分流规则。
 
 感谢
 
