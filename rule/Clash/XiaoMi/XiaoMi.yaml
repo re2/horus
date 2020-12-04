@@ -1,0 +1,14 @@
+# NAME: XiaoMi
+# AUTHOR: codetracer
+# GITHUB: https://github.com/codetracer/horus
+# UPDATED: 2020-12-03 17:30:44
+# DOMAIN-SUFFIX: 7
+# TOTAL: 7
+payload:
+  - DOMAIN-SUFFIX,duokan.com
+  - DOMAIN-SUFFIX,mi-img.com
+  - DOMAIN-SUFFIX,mi.com
+  - DOMAIN-SUFFIX,miui.com
+  - DOMAIN-SUFFIX,xiaomi.com
+  - DOMAIN-SUFFIX,xiaomi.net
+  - DOMAIN-SUFFIX,xiaomicp.com

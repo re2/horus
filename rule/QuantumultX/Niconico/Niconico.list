@@ -1,0 +1,12 @@
+# NAME: Niconico
+# AUTHOR: codetracer
+# GITHUB: https://github.com/codetracer/horus
+# UPDATED: 2020-12-03 14:07:33
+# USER-AGENT: 1
+# HOST-SUFFIX: 4
+# TOTAL: 5
+HOST-SUFFIX,dmc.nico,Niconico
+HOST-SUFFIX,nicovideo.jp,Niconico
+HOST-SUFFIX,nimg.jp,Niconico
+HOST-SUFFIX,socdm.com,Niconico
+USER-AGENT,niconico*,Niconico

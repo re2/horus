@@ -1,0 +1,13 @@
+# NAME: Mail
+# AUTHOR: codetracer
+# GITHUB: https://github.com/codetracer/horus
+# UPDATED: 2020-12-03 17:30:43
+# DOMAIN: 7
+# TOTAL: 7
+DOMAIN,pop.gmail.com
+DOMAIN,imap.gmail.com
+DOMAIN,smtp.gmail.com
+DOMAIN,outlook.office365.com
+DOMAIN,smtp.office365.com
+DOMAIN,imap-mail.outlook.com
+DOMAIN,smtp-mail.outlook.com

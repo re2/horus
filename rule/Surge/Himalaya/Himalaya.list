@@ -1,0 +1,11 @@
+# NAME: Himalaya
+# AUTHOR: codetracer
+# GITHUB: https://github.com/codetracer/horus
+# UPDATED: 2020-12-03 17:30:42
+# USER-AGENT: 1
+# DOMAIN-SUFFIX: 3
+# TOTAL: 4
+DOMAIN-SUFFIX,himalaya.com
+DOMAIN-SUFFIX,ximalaya.com
+DOMAIN-SUFFIX,xmcdn.com
+USER-AGENT,himalaya*

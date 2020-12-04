@@ -1,0 +1,8 @@
+#!name=Global MITM
+#!desc=最后更新时间 2020-12-03 17:30:42
+#!author=codetracer
+#!github=https://github.com/codetracer/horus
+#!mitm=1
+
+[MITM]
+hostname = %APPEND% img.sina.com

@@ -1,0 +1,10 @@
+# NAME: AppleTV
+# AUTHOR: codetracer
+# GITHUB: https://github.com/codetracer/horus
+# UPDATED: 2020-12-03 14:07:33
+# HOST: 2
+# HOST-SUFFIX: 1
+# TOTAL: 3
+HOST,np-edge.itunes.apple.com,AppleTV
+HOST,play-edge.itunes.apple.com,AppleTV
+HOST-SUFFIX,tv.apple.com,AppleTV

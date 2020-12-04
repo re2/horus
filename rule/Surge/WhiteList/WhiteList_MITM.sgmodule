@@ -1,0 +1,8 @@
+#!name=WhiteList MITM
+#!desc=最后更新时间 2020-12-03 17:30:42
+#!author=codetracer
+#!github=https://github.com/codetracer/horus
+#!mitm=2
+
+[MITM]
+hostname = %APPEND% app.bilibili.com,www.didapinche.com

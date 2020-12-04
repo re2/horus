@@ -1,0 +1,10 @@
+# NAME: YouTubeMusic
+# AUTHOR: codetracer
+# GITHUB: https://github.com/codetracer/horus
+# UPDATED: 2020-12-03 14:07:33
+# USER-AGENT: 4
+# TOTAL: 4
+USER-AGENT,com.google.ios.youtubemusic*,YouTubeMusic
+USER-AGENT,youtubemusic*,YouTubeMusic
+USER-AGENT,*youtubemusic*,YouTubeMusic
+USER-AGENT,*com.google.ios.youtubemusic*,YouTubeMusic

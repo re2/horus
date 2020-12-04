@@ -1,0 +1,14 @@
+# NAME: Disney
+# AUTHOR: codetracer
+# GITHUB: https://github.com/codetracer/horus
+# UPDATED: 2020-12-03 14:07:33
+# USER-AGENT: 1
+# HOST-SUFFIX: 4
+# HOST: 1
+# TOTAL: 6
+HOST,cdn.registerdisney.go.com,Disney
+HOST-SUFFIX,bamgrid.com,Disney
+HOST-SUFFIX,disney-plus.net,Disney
+HOST-SUFFIX,disneyplus.com,Disney
+HOST-SUFFIX,dssott.com,Disney
+USER-AGENT,disney+*,Disney

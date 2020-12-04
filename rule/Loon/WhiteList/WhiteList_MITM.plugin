@@ -1,0 +1,8 @@
+# NAME: WhiteList MITM
+# AUTHOR: codetracer
+# GITHUB: https://github.com/codetracer/horus
+# UPDATED: 2020-12-03 17:30:43
+# MITM: 2
+
+[MITM]
+hostname = app.bilibili.com,www.didapinche.com

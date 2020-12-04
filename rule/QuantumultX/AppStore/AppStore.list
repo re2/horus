@@ -1,0 +1,8 @@
+# NAME: AppStore
+# AUTHOR: codetracer
+# GITHUB: https://github.com/codetracer/horus
+# UPDATED: 2020-12-03 14:07:33
+# HOST: 2
+# TOTAL: 2
+HOST,apps.apple.com,AppStore
+HOST,itunes.apple.com,AppStore

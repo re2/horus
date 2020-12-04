@@ -1,0 +1,13 @@
+# NAME: Download
+# AUTHOR: codetracer
+# GITHUB: https://github.com/codetracer/horus
+# UPDATED: 2020-12-03 14:07:33
+# HOST-KEYWORD: 5
+# HOST-SUFFIX: 1
+# TOTAL: 6
+HOST-SUFFIX,smtp,Download
+HOST-KEYWORD,aria2,Download
+HOST-KEYWORD,xunlei,Download
+HOST-KEYWORD,yunpan,Download
+HOST-KEYWORD,thunder,Download
+HOST-KEYWORD,xlliveud,Download

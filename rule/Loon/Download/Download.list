@@ -1,0 +1,19 @@
+# NAME: Download
+# AUTHOR: codetracer
+# GITHUB: https://github.com/codetracer/horus
+# UPDATED: 2020-12-03 17:30:43
+# DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
+# DOMAIN-KEYWORD: 5
+# DOMAIN-SUFFIX: 1
+# URL-REGEX: 4
+# TOTAL: 10
+DOMAIN-SUFFIX,smtp
+DOMAIN-KEYWORD,aria2
+DOMAIN-KEYWORD,xunlei
+DOMAIN-KEYWORD,yunpan
+DOMAIN-KEYWORD,thunder
+DOMAIN-KEYWORD,xlliveud
+URL-REGEX,(Subject|HELO|SMTP)
+URL-REGEX,(api|ps|sv|offnavi|newvector|ulog.imap|newloc)(.map|).(baidu|n.shifen).com
+URL-REGEX,(.?)(xunlei|sandai|Thunder|XLLiveUD)(.)
+URL-REGEX,(.+\.|^)(360|so)\.(cn|com)

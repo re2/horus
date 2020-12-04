@@ -1,0 +1,18 @@
+# NAME: Sina
+# AUTHOR: codetracer
+# GITHUB: https://github.com/codetracer/horus
+# UPDATED: 2020-12-03 17:30:44
+# DOMAIN-SUFFIX: 9
+# DOMAIN-KEYWORD: 1
+# TOTAL: 10
+payload:
+  - DOMAIN-SUFFIX,leju.com
+  - DOMAIN-SUFFIX,miaopai.com
+  - DOMAIN-SUFFIX,sina.com
+  - DOMAIN-SUFFIX,sinaapp.com
+  - DOMAIN-SUFFIX,sinaimg.com
+  - DOMAIN-SUFFIX,weibo.cn
+  - DOMAIN-SUFFIX,weibo.com
+  - DOMAIN-SUFFIX,weibocdn.com
+  - DOMAIN-SUFFIX,xiaoka.tv
+  - DOMAIN-KEYWORD,weibo

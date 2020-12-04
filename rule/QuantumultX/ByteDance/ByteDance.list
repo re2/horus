@@ -1,0 +1,10 @@
+# NAME: ByteDance
+# AUTHOR: codetracer
+# GITHUB: https://github.com/codetracer/horus
+# UPDATED: 2020-12-03 14:07:33
+# HOST-SUFFIX: 4
+# TOTAL: 4
+HOST-SUFFIX,snssdk.com,ByteDance
+HOST-SUFFIX,toutiao.com,ByteDance
+HOST-SUFFIX,toutiaocloud.com,ByteDance
+HOST-SUFFIX,toutiaocloud.net,ByteDance

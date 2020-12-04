@@ -1,0 +1,12 @@
+# NAME: Speedtest
+# AUTHOR: codetracer
+# GITHUB: https://github.com/codetracer/horus
+# UPDATED: 2020-12-03 17:30:44
+# DOMAIN-SUFFIX: 3
+# DOMAIN-KEYWORD: 1
+# TOTAL: 4
+payload:
+  - DOMAIN-SUFFIX,fast.com
+  - DOMAIN-SUFFIX,ooklaserver.net
+  - DOMAIN-SUFFIX,speed.cloudflare.com
+  - DOMAIN-KEYWORD,speedtest

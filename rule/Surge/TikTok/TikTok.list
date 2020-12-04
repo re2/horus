@@ -1,0 +1,19 @@
+# NAME: TikTok
+# AUTHOR: codetracer
+# GITHUB: https://github.com/codetracer/horus
+# UPDATED: 2020-12-03 17:30:42
+# USER-AGENT: 1
+# DOMAIN-SUFFIX: 9
+# DOMAIN-KEYWORD: 1
+# TOTAL: 11
+DOMAIN-SUFFIX,muscdn.com
+DOMAIN-SUFFIX,musical.ly
+DOMAIN-SUFFIX,tiktokv.com
+DOMAIN-SUFFIX,tiktokcdn.com
+DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,ibytedtos.com
+DOMAIN-SUFFIX,ipstatp.com
+DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,tik-tokapi.com
+DOMAIN-KEYWORD,-tiktokcdn-com
+USER-AGENT,tiktok*

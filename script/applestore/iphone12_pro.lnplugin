@@ -1,0 +1,6 @@
+#!name=Apple Store
+#!desc=定时获取iPhone12 Pro库存
+#!system=ios
+
+[Script]
+Apple_获取iPhone库存 = type=cron,cronexp=*/1 * * * *,script-path=https://raw.githubusercontent.com/codetracer/horus/master/script/applestore/iphone_12_pro.js

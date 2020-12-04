@@ -1,0 +1,8 @@
+# NAME: Instagram
+# AUTHOR: codetracer
+# GITHUB: https://github.com/codetracer/horus
+# UPDATED: 2020-12-03 14:07:33
+# HOST-SUFFIX: 2
+# TOTAL: 2
+HOST-SUFFIX,cdninstagram.com,Instagram
+HOST-SUFFIX,instagram.com,Instagram

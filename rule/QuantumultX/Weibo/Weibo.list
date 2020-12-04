@@ -1,0 +1,11 @@
+# NAME: Weibo
+# AUTHOR: codetracer
+# GITHUB: https://github.com/codetracer/horus
+# UPDATED: 2020-12-03 14:07:33
+# HOST-SUFFIX: 3
+# HOST-KEYWORD: 1
+# TOTAL: 4
+HOST-SUFFIX,weibo.com,Weibo
+HOST-SUFFIX,weibo.cn,Weibo
+HOST-SUFFIX,weibocdn.com,Weibo
+HOST-KEYWORD,weibo,Weibo

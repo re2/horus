@@ -1,0 +1,33 @@
+# NAME: WhiteList
+# AUTHOR: codetracer
+# GITHUB: https://github.com/codetracer/horus
+# UPDATED: 2020-12-03 17:30:42
+# DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
+# DOMAIN-SUFFIX: 4
+# DOMAIN-KEYWORD: 1
+# DOMAIN: 11
+# URL-REGEX: 2
+# USER-AGENT: 4
+# TOTAL: 22
+DOMAIN,ad.10010.com
+DOMAIN,analytics.95516.com
+DOMAIN,analytics.strava.com
+DOMAIN,msg.umeng.com
+DOMAIN,msg.umengcloud.com
+DOMAIN,tracking.miui.com
+DOMAIN,app.adjust.com
+DOMAIN,bdtj.tagtic.cn
+DOMAIN,log.mmstat.com
+DOMAIN,sycm.mmstat.com
+DOMAIN,fairplay.l.qq.com
+DOMAIN-SUFFIX,f.video.weibocdn.com
+DOMAIN-SUFFIX,fus.cdn.krcom.cn
+DOMAIN-SUFFIX,ol.epicgames.com
+DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net
+DOMAIN-KEYWORD,wb_ad
+USER-AGENT,archero*
+USER-AGENT,coffeecorp*
+USER-AGENT,coffee%20corp*
+USER-AGENT,restaurant-mobile*
+URL-REGEX,^https?:\/\/www\.didapinche\.com\/app\/adstat.*&ad_type=(ride_paid|benefits)
+URL-REGEX,^https?:\/\/app\.bilibili\.com\/x\/v2\/splash\/brand\/set

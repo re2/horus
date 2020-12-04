@@ -1,0 +1,10 @@
+# NAME: TestFlight
+# AUTHOR: codetracer
+# GITHUB: https://github.com/codetracer/horus
+# UPDATED: 2020-12-03 14:07:33
+# HOST: 2
+# HOST-KEYWORD: 1
+# TOTAL: 3
+HOST,testflight.apple.com,TestFlight
+HOST,beta.apple.com,TestFlight
+HOST-KEYWORD,testflight,TestFlight

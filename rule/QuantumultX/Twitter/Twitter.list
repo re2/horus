@@ -1,0 +1,18 @@
+# NAME: Twitter
+# AUTHOR: codetracer
+# GITHUB: https://github.com/codetracer/horus
+# UPDATED: 2020-12-03 14:07:33
+# HOST-SUFFIX: 10
+# HOST-KEYWORD: 1
+# TOTAL: 11
+HOST-SUFFIX,pscp.tv,Twitter
+HOST-SUFFIX,periscope.tv,Twitter
+HOST-SUFFIX,t.co,Twitter
+HOST-SUFFIX,twimg.co,Twitter
+HOST-SUFFIX,twimg.com,Twitter
+HOST-SUFFIX,twitpic.com,Twitter
+HOST-SUFFIX,vine.co,Twitter
+HOST-SUFFIX,twimg.org,Twitter
+HOST-SUFFIX,twitter.com,Twitter
+HOST-SUFFIX,twitter.jp,Twitter
+HOST-KEYWORD,twitter,Twitter

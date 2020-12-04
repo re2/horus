@@ -1,0 +1,15 @@
+# NAME: AppleBlock
+# AUTHOR: codetracer
+# GITHUB: https://github.com/codetracer/horus
+# UPDATED: 2020-12-03 17:30:44
+# DOMAIN-SUFFIX: 1
+# DOMAIN: 4
+# PROCESS-NAME: 1
+# TOTAL: 6
+payload:
+  - DOMAIN,api-glb-sea.smoot.apple.com
+  - DOMAIN,books.itunes.apple.com
+  - DOMAIN,hls.itunes.apple.com
+  - DOMAIN,lookup-api.apple.com
+  - DOMAIN-SUFFIX,appsto.re
+  - PROCESS-NAME,lookupviewservice

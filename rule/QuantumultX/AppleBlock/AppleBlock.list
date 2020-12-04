@@ -1,0 +1,12 @@
+# NAME: AppleBlock
+# AUTHOR: codetracer
+# GITHUB: https://github.com/codetracer/horus
+# UPDATED: 2020-12-03 14:07:33
+# HOST-SUFFIX: 1
+# HOST: 4
+# TOTAL: 5
+HOST,books.itunes.apple.com,AppleBlock
+HOST,hls.itunes.apple.com,AppleBlock
+HOST,api-glb-sea.smoot.apple.com,AppleBlock
+HOST,lookup-api.apple.com,AppleBlock
+HOST-SUFFIX,appsto.re,AppleBlock

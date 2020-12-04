@@ -1,0 +1,10 @@
+#!name=顺丰速运
+#!desc=顺丰速运每日自动签到
+#!system=ios
+
+[Script]
+顺丰速运_每日签到 = type=cron,cronexp=30 0 * * *,timeout=10,script-path=https://raw.githubusercontent.com/codetracer/horus/master/script/sfexpress/sf_checkin.js
+顺丰速运_获取cookie = type=http-request,pattern=^https?:\/\/sf-integral-sign-in\.weixinjia\.net\/app\/init,script-path=https://raw.githubusercontent.com/codetracer/horus/master/script/sfexpress/sf_checkin.js
+
+[MITM] 
+hostname = %APPEND% sf-integral-sign-in.weixinjia.net

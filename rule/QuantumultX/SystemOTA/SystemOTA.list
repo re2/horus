@@ -1,0 +1,14 @@
+# NAME: SystemOTA
+# AUTHOR: codetracer
+# GITHUB: https://github.com/codetracer/horus
+# UPDATED: 2020-12-03 14:07:33
+# HOST-SUFFIX: 8
+# TOTAL: 8
+HOST-SUFFIX,mesu.apple.com,SystemOTA
+HOST-SUFFIX,appldnld.apple.com,SystemOTA
+HOST-SUFFIX,gdmf.apple.com,SystemOTA
+HOST-SUFFIX,gdmf.apple.com.akadns.net,SystemOTA
+HOST-SUFFIX,mesu-cdn.apple.com.akadns.net,SystemOTA
+HOST-SUFFIX,mesu-cdn.origin-apple.com.akadns.net,SystemOTA
+HOST-SUFFIX,mesu.g.aaplimg.com,SystemOTA
+HOST-SUFFIX,appldnld.apple.com.akadns.net,SystemOTA

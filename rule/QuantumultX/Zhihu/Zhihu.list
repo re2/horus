@@ -1,0 +1,14 @@
+# NAME: Zhihu
+# AUTHOR: codetracer
+# GITHUB: https://github.com/codetracer/horus
+# UPDATED: 2020-12-03 14:07:33
+# HOST: 2
+# HOST-KEYWORD: 1
+# IP-CIDR: 1
+# USER-AGENT: 1
+# TOTAL: 5
+HOST,118.89.204.198,Zhihu
+HOST,appcloud2.in.zhihu.com,Zhihu
+HOST-KEYWORD,118.89.204.198,Zhihu
+USER-AGENT,avos*,Zhihu
+IP-CIDR,118.89.204.198/32,Zhihu

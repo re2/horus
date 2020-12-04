@@ -1,0 +1,16 @@
+# NAME: AppleNews
+# AUTHOR: codetracer
+# GITHUB: https://github.com/codetracer/horus
+# UPDATED: 2020-12-03 17:30:43
+# DOMAIN: 5
+# USER-AGENT: 2
+# DOMAIN-SUFFIX: 1
+# TOTAL: 8
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN,news-client.apple.com
+DOMAIN,news-edge.apple.com
+DOMAIN,news-events.apple.com
+DOMAIN,apple.comscoreresearch.com
+DOMAIN-SUFFIX,apple.news
+USER-AGENT,applenews*
+USER-AGENT,com.apple.news*
