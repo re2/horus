@@ -83,7 +83,6 @@ let magicJS = MagicJS(scriptName, 'INFO');
       // 我的页面处理，去除一些推广按钮
       case /^https?:\/\/app\.bilibili\.com\/x\/v2\/account\/mine/.test(magicJS.request.url):
         try{
-          magicJS.notify('我的页面处理触发');
           const item0List = new Set(['离线缓存', '历史记录', '我的收藏', '稍后再看']);
           const item1List = new Set(['创作首页', '创作学院', '打卡挑战']);
           const item2List = new Set(['我的课程', '个性装扮', '我的钱包', '直播中心']);
@@ -101,6 +100,7 @@ let magicJS = MagicJS(scriptName, 'INFO');
           let items3 = obj['data']['sections_v2'][3]['items'].filter((e) =>{return item3List.has(e.title);});
           obj['data']['sections_v2'][3]['items'] = items3;
           body = JSON.stringify(obj);
+          magicJS.logInfo(body);
           magicJS.notify('我的页面处理完成');
         }
         catch (err){
