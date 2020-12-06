@@ -102,7 +102,6 @@ let magicJS = MagicJS(scriptName, 'INFO');
           body = JSON.stringify(obj);
           magicJS.logInfo(body);
           magicJS.done({body});
-          magicJS.notify('我的页面处理完成');
         }
         catch (err){
           magicJS.logError(`我的页面处理出现异常：${err}`);
