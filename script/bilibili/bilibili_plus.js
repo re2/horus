@@ -101,6 +101,7 @@ let magicJS = MagicJS(scriptName, 'INFO');
           obj['data']['sections_v2'][3]['items'] = items3;
           body = JSON.stringify(obj);
           magicJS.logInfo(body);
+          magicJS.done({body});
           magicJS.notify('我的页面处理完成');
         }
         catch (err){
