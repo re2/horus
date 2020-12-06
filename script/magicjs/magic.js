@@ -1,3 +1,4 @@
+// MagicJS_变量维护 = type=http-request,requires-body=1,max-size=0,pattern=^http:\/\/magicjs\/value\/(write|read|del),script-path=https://raw.githubusercontent.com/codetracer/horus/master/script/magicjs/magic.js
 const SET_VALUE_REGEX = /http:\/\/(www\.)?magic\.js\/value\/write/
 const GET_VALUE_REGEX = /http:\/\/(www\.)?magic\.js\/value\/read/
 const DEL_VALUE_REGEX = /http:\/\/(www\.)?magic\.js\/value\/del/
