@@ -89,16 +89,16 @@ let magicJS = MagicJS(scriptName, 'INFO');
           const item2List = new Set(['我的课程', '个性装扮', '我的钱包', '直播中心']);
           const item3List = new Set(['联系客服', '设置']);
           let obj = JSON.parse(magicJS.response.body);
-          let items0 = obj['data']['sections_v2'][0]['items'].filter((e) =>{return item0List.has(e);});
+          let items0 = obj['data']['sections_v2'][0]['items'].filter((e) =>{return item0List.has(e.title);});
           obj['data']['sections_v2'][0]['items'] = items0;
           // 创作中心
-          let items1 = obj['data']['sections_v2'][1]['items'].filter((e) =>{return item1List.has(e);});
+          let items1 = obj['data']['sections_v2'][1]['items'].filter((e) =>{return item1List.has(e.title);});
           obj['data']['sections_v2'][1]['items'] = items1;
           // 推荐服务
-          let items2 = obj['data']['sections_v2'][2]['items'].filter((e) =>{return item2List.has(e)});
+          let items2 = obj['data']['sections_v2'][2]['items'].filter((e) =>{return item2List.has(e.title);});
           obj['data']['sections_v2'][2]['items'] = items2;
           // 更多服务，去掉课堂模式和青少年模式
-          let items3 = obj['data']['sections_v2'][3]['items'].filter((e) =>{return item3List.has(e)});
+          let items3 = obj['data']['sections_v2'][3]['items'].filter((e) =>{return item3List.has(e.title);});
           obj['data']['sections_v2'][3]['items'] = items3;
           body = JSON.stringify(obj);
           magicJS.notify('我的页面处理完成');
@@ -124,6 +124,7 @@ let magicJS = MagicJS(scriptName, 'INFO');
           let obj = JSON.parse(magicJS.response.body);
           for (let card of obj.data.cards){
             delete card['extra'];
+            
           }
           delete obj['data']['attentions'];
           body = JSON.stringify(obj);
