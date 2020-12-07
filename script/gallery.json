@@ -57,7 +57,7 @@
       "addons":"https://raw.githubusercontent.com/codetracer/horus/master/script/zhihu/zhihu_lite.qxrewrite"
     },
     {
-      "config":"00 3 * * * https://raw.githubusercontent.com/codetracer/horus/master/script/smzdm/smzdm_remove_ads.js, tag=什么值得买去广告, img-url=https://raw.githubusercontent.com/codetracer/horus/master/script/smzdm/smzdm.png, enabled=true",
+      "config":"00 3 * * * https://raw.githubusercontent.com/codetracer/horus/master/script/smzdm/smzdm_remove_ads.js, tag=去广告, img-url=https://raw.githubusercontent.com/codetracer/horus/master/script/smzdm/smzdm.png, enabled=true",
       "addons":"https://raw.githubusercontent.com/codetracer/horus/master/script/smzdm/smzdm_remove_ads.qxrewrite"
     }
   ],
