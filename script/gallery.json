@@ -17,11 +17,11 @@
       "addons":"https://raw.githubusercontent.com/codetracer/horus/master/script/dingdong/dingdong_checkin.qxrewrite"
     },
     {
-      "config":"10 00 * * * https://raw.githubusercontent.com/codetracer/horus/master/script/eleme/eleme_daily.js, tag=饿了么_领取吃货豆, img-url=https:\/\/raw.githubusercontent.com\/Orz-3\/task\/master\/elem.png, enabled=true",
+      "config":"10 00 * * * https://raw.githubusercontent.com/codetracer/horus/master/script/eleme/eleme_daily.js, tag=领取吃货豆, img-url=https:\/\/raw.githubusercontent.com\/Orz-3\/task\/master\/elem.png, enabled=true",
       "addons":"https://raw.githubusercontent.com/codetracer/horus/master/script/eleme/eleme_daily.qxrewrite"
     },
     {
-      "config":"00 10 * * * https://raw.githubusercontent.com/codetracer/horus/master/script/eleme/eleme_mission.js, tag=饿了么_领取任务, img-url=https:\/\/raw.githubusercontent.com\/Orz-3\/task\/master\/elem.png, enabled=true",
+      "config":"00 10 * * * https://raw.githubusercontent.com/codetracer/horus/master/script/eleme/eleme_mission.js, tag=领取会员任务, img-url=https:\/\/raw.githubusercontent.com\/Orz-3\/task\/master\/elem.png, enabled=true",
       "addons":"https://raw.githubusercontent.com/codetracer/horus/master/script/eleme/eleme_daily.qxrewrite"
     },
     {
@@ -29,5 +29,5 @@
       "addons":"https://raw.githubusercontent.com/codetracer/horus/master/script/famijia/famijia_checkin.qxrewrite"
     }
   ],
-  "description":"签到脚本汇总"
+  "description":"Task gallery"
 }
