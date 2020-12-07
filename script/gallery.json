@@ -27,6 +27,10 @@
     {
       "config":"15 0 * * * https://raw.githubusercontent.com/codetracer/horus/master/script/famijia/famijia_checkin.js, tag=Fa米家, img-url=https://raw.githubusercontent.com/codetracer/horus/master/script/famijia/famijia.png, enabled=true",
       "addons":"https://raw.githubusercontent.com/codetracer/horus/master/script/famijia/famijia_checkin.qxrewrite"
+    },
+    {
+      "config":"20 0 * * * https://raw.githubusercontent.com/codetracer/horus/master/script/luka/luka_signin.js, tag=Luka, img-url=https://raw.githubusercontent.com/codetracer/horus/master/script/luka/luka.png, enabled=true",
+      "addons":"https://raw.githubusercontent.com/codetracer/horus/master/script/famijia/famijia_checkin.qxrewrite"
     }
   ],
   "description":"Task gallery"
