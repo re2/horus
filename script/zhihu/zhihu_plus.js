@@ -80,6 +80,7 @@ let magicJS = MagicJS(scriptName, "INFO");
       // 推荐去广告与黑名单增强
       case /^https:\/\/api\.zhihu\.com\/topstory\/recommend\?/.test(magicJS.request.url):
         try{
+          magicJS.logInfo(magicJS.response.body);
           let user_info = GetUserInfo();
           let custom_blocked_users = magicJS.read(blocked_users_key, user_info.id);
           custom_blocked_users = !!custom_blocked_users ? custom_blocked_users : {};
