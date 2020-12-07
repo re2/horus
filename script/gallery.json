@@ -45,7 +45,7 @@
       "addons":"https://raw.githubusercontent.com/codetracer/horus/master/script/smzdm/smzdm_checkin.qxrewrite"
     },
     {
-      "config":"20 0 * * * https://raw.githubusercontent.com/codetracer/horus/master/script/wanda/wanda_checkin.js, tag=万达电影, img-url=https://raw.githubusercontent.com/codetracer/horus/master/script/smzdm/smzdm.png, enabled=true",
+      "config":"20 0 * * * https://raw.githubusercontent.com/codetracer/horus/master/script/wanda/wanda_checkin.js, tag=万达电影, img-url=https://raw.githubusercontent.com/codetracer/horus/master/script/wanda/wanda.png, enabled=true",
       "addons":"https://raw.githubusercontent.com/codetracer/horus/master/script/wanda/wanda_checkin.qxrewrite"
     }
   ],
