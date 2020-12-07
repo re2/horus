@@ -30,7 +30,19 @@
     },
     {
       "config":"20 0 * * * https://raw.githubusercontent.com/codetracer/horus/master/script/luka/luka_signin.js, tag=Luka, img-url=https://raw.githubusercontent.com/codetracer/horus/master/script/luka/luka.png, enabled=true",
-      "addons":"https://raw.githubusercontent.com/codetracer/horus/master/script/famijia/famijia_checkin.qxrewrite"
+      "addons":"https://raw.githubusercontent.com/codetracer/horus/master/script/luka/luka_signin.qxrewrite"
+    },
+    {
+      "config":"20 0 * * * https://raw.githubusercontent.com/codetracer/horus/master/script/manmanbuy/manmanbuy_checkin.js, tag=慢慢买, img-url=https://raw.githubusercontent.com/codetracer/horus/master/script/luka/luka.png, enabled=true",
+      "addons":"https://raw.githubusercontent.com/codetracer/horus/master/script/manmanbuy/manmanbuy_checkin.qxrewrite"
+    },
+    {
+      "config":"20 0 * * * https://raw.githubusercontent.com/codetracer/horus/master/script/manmanbuy/manmanbuy_checkin.js, tag=慢慢买, img-url=https://raw.githubusercontent.com/codetracer/horus/master/script/luka/luka.png, enabled=true",
+      "addons":"https://raw.githubusercontent.com/codetracer/horus/master/script/manmanbuy/manmanbuy_checkin.qxrewrite"
+    },
+    {
+      "config":"5 0 * * * https://raw.githubusercontent.com/codetracer/horus/master/script/smzdm/smzdm_checkin.js, tag=什么值得买, img-url=https://raw.githubusercontent.com/codetracer/horus/master/script/luka/luka.png, enabled=true",
+      "addons":"https://raw.githubusercontent.com/codetracer/horus/master/script/smzdm/smzdm_checkin.qxrewrite"
     }
   ],
   "description":"Task gallery"
