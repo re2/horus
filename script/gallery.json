@@ -1,7 +1,7 @@
 {"name":"blackmatrix7",
   "task":[
     {
-      "config":"15 0 * * * https://raw.githubusercontent.com/codetracer/horus/master/script/10010/unicom_checkin.js, tag=中国联通, img-url=https:\/\/raw.githubusercontent.com/Orz-3/task\/master\/10010.png, enabled=true",
+      "config":"15 0 * * * https://raw.githubusercontent.com/codetracer/horus/master/script/10010/unicom_checkin.js, tag=中国联通, img-url=https://raw.githubusercontent.com/codetracer/horus/master/script/10010/10010.png, enabled=true",
       "addons":"https://raw.githubusercontent.com/codetracer/horus/master/script/10010/unicom_checkin.qxrewrite"
     },
     {
