@@ -33,7 +33,7 @@
       "addons":"https://raw.githubusercontent.com/codetracer/horus/master/script/luka/luka_signin.qxrewrite"
     },
     {
-      "config":"20 0 * * * https://raw.githubusercontent.com/codetracer/horus/master/script/manmanbuy/manmanbuy_checkin.js, tag=慢慢买, img-url=https://raw.githubusercontent.com/codetracer/horus/master/script/luka/luka.png, enabled=true",
+      "config":"30 0 * * *  https://raw.githubusercontent.com/codetracer/horus/master/script/tieba/tieba_checkin.js, tag=百度贴吧, img-url=https://raw.githubusercontent.com/codetracer/horus/master/script/manmanbuy/manmanmai.png, enabled=true",
       "addons":"https://raw.githubusercontent.com/codetracer/horus/master/script/manmanbuy/manmanbuy_checkin.qxrewrite"
     },
     {
@@ -41,7 +41,7 @@
       "addons":"https://raw.githubusercontent.com/codetracer/horus/master/script/manmanbuy/manmanbuy_checkin.qxrewrite"
     },
     {
-      "config":"5 0 * * * https://raw.githubusercontent.com/codetracer/horus/master/script/smzdm/smzdm_checkin.js, tag=什么值得买, img-url=https://raw.githubusercontent.com/codetracer/horus/master/script/luka/luka.png, enabled=true",
+      "config":"5 0 * * * https://raw.githubusercontent.com/codetracer/horus/master/script/smzdm/smzdm_checkin.js, tag=什么值得买, img-url=https://raw.githubusercontent.com/codetracer/horus/master/script/smzdm/smzdm.png, enabled=true",
       "addons":"https://raw.githubusercontent.com/codetracer/horus/master/script/smzdm/smzdm_checkin.qxrewrite"
     }
   ],
