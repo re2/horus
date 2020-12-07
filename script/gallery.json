@@ -49,12 +49,8 @@
       "addons":"https://raw.githubusercontent.com/codetracer/horus/master/script/wanda/wanda_checkin.qxrewrite"
     },
     {
-      "config":"00 3 * * * https://raw.githubusercontent.com/codetracer/horus/master/script/wanda/wanda_checkin.js, tag=知乎助手PLUS, img-url=https://raw.githubusercontent.com/codetracer/horus/master/script/zhihu/zhihu.png, enabled=true",
+      "config":"00 3 * * * https://raw.githubusercontent.com/codetracer/horus/master/script/zhihu/zhihu_plus.js, tag=知乎助手PLUS, img-url=https://raw.githubusercontent.com/codetracer/horus/master/script/zhihu/zhihu.png, enabled=true",
       "addons":"https://raw.githubusercontent.com/codetracer/horus/master/script/zhihu/zhihu_plus.qxrewrite"
-    },
-    {
-      "config":"00 3 * * * https://raw.githubusercontent.com/codetracer/horus/master/script/zhihu/zhihu_plus.js, tag=知乎助手LITE, img-url=https://raw.githubusercontent.com/codetracer/horus/master/script/zhihu/zhihu.png, enabled=true",
-      "addons":"https://raw.githubusercontent.com/codetracer/horus/master/script/zhihu/zhihu_lite.qxrewrite"
     },
     {
       "config":"00 3 * * * https://raw.githubusercontent.com/codetracer/horus/master/script/bilibili/bilibili_plus.js, tag=BiliBili去广告, img-url=https://raw.githubusercontent.com/codetracer/horus/master/script/bilibili/bilibili.png, enabled=true",
