@@ -5,7 +5,7 @@
       "addons":"https://raw.githubusercontent.com/codetracer/horus/master/script/10010/unicom_checkin.qxrewrite"
     },
     {
-      "config":"10 0 * * * https://raw.githubusercontent.com/codetracer/horus/master/script/didachuxing/didachuxing_plus.js, tag=嘀嗒出行, img-url=https://raw.githubusercontent.com/codetracer/horus/master/script/didachuxing/didachuxing.png, enabled=true",
+      "config":"10 0 * * * https://raw.githubusercontent.com/codetracer/horus/master/script/didachuxing/didachuxing_plus.js, tag=嘀嗒出行, img-url=https://raw.githubusercontent.com/codetracer/horus/master/script/didachuxing/didachuxing.jpg, enabled=true",
       "addons":"https://raw.githubusercontent.com/codetracer/horus/master/script/didachuxing/didachuxing_plus.qxrewrite"
     },
     {
