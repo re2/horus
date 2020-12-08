@@ -9,17 +9,17 @@
 
 
 
-最后检查时间：2020-12-08 16:08:23。
+最后检查时间：2020-12-08 16:16:48。
 
 ## 规则统计
 
-总计规则：73147 条。
+总计规则：73149 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| DOMAIN-SUFFIX | 73130 |
+| DOMAIN-SUFFIX | 73132 |
 | DOMAIN | 8 |
 | IP-CIDR | 7 |
 | DOMAIN-KEYWORD | 2 |
@@ -38,7 +38,7 @@ China分流规则，与本项目其他分流规则重复情况统计。
 |  [Apple](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Apple)    | 162   | [10](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/ChinaTest/Repeat.list)   |   6.17% |
 |  [AsianMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/AsianMedia)    | 23   | [14](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/ChinaTest/Repeat.list)   |   60.87% |
 |  [Bilibili](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Bilibili)    | 12   | [12](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/ChinaTest/Repeat.list)   |   100.0% |
-|  [BlackList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/BlackList)    | 779   | [17](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/ChinaTest/Repeat.list)   |   2.18% |
+|  [BlackList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/BlackList)    | 779   | [18](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/ChinaTest/Repeat.list)   |   2.31% |
 |  [Blizzard](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Blizzard)    | 6   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/ChinaTest/Repeat.list)   |   50.0% |
 |  [ByteDance](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/ByteDance)    | 4   | [4](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/ChinaTest/Repeat.list)   |   100.0% |
 |  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/China)    | 569   | [565](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/ChinaTest/Repeat.list)   |   99.3% |
@@ -67,7 +67,7 @@ China分流规则，与本项目其他分流规则重复情况统计。
 |  [Privacy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Privacy)    | 2754   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/ChinaTest/Repeat.list)   |   0.07% |
 |  [Weibo](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Weibo)    | 4   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/ChinaTest/Repeat.list)   |   75.0% |
 |  [IQiyi](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/IQiyi)    | 5   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/ChinaTest/Repeat.list)   |   20.0% |
-|  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Proxy)    | 6016   | [37](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/ChinaTest/Repeat.list)   |   0.62% |
+|  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Proxy)    | 6016   | [38](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/ChinaTest/Repeat.list)   |   0.63% |
 |  [Himalaya](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Himalaya)    | 3   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/ChinaTest/Repeat.list)   |   66.67% |
 |  [Xunlei](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Xunlei)    | 8   | [6](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/ChinaTest/Repeat.list)   |   75.0% |
 |  [Tencent](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Tencent)    | 19   | [19](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/ChinaTest/Repeat.list)   |   100.0% |

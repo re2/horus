@@ -10,7 +10,7 @@
 
 
 
-最后检查时间：2020-12-08 16:08:23。
+最后检查时间：2020-12-08 16:16:48。
 
 ## 规则统计
 
@@ -39,7 +39,7 @@ Microsoft分流规则，与本项目其他分流规则重复情况统计。
 |  [Apple](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Apple)    | 162   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Microsoft/Repeat.list)   |   0.62% |
 |  [BlackList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/BlackList)    | 779   | [12](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Microsoft/Repeat.list)   |   1.54% |
 |  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/China)    | 569   | [12](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Microsoft/Repeat.list)   |   2.11% |
-|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/ChinaTest)    | 73147   | [12](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Microsoft/Repeat.list)   |   0.02% |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/ChinaTest)    | 73149   | [12](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Microsoft/Repeat.list)   |   0.02% |
 |  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Global)    | 785   | [9](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Microsoft/Repeat.list)   |   1.15% |
 |  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Proxy)    | 6016   | [27](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Microsoft/Repeat.list)   |   0.45% |
 ## 配置说明

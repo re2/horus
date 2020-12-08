@@ -9,7 +9,7 @@
 
 
 
-最后检查时间：2020-12-08 16:08:21。
+最后检查时间：2020-12-08 16:16:46。
 
 ## 规则统计
 
@@ -35,7 +35,7 @@ Adobe分流规则，与本项目其他分流规则重复情况统计。
 |  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingLite)    | 41837   | [5](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Adobe/Repeat.list)   |   0.01% |
 |  [BlackList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/BlackList)    | 781   | [7](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Adobe/Repeat.list)   |   0.9% |
 |  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/China)    | 583   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Adobe/Repeat.list)   |   0.34% |
-|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaTest)    | 73161   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Adobe/Repeat.list)   |   0.0% |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaTest)    | 73163   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Adobe/Repeat.list)   |   0.0% |
 |  [Microsoft](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Microsoft)    | 97   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Adobe/Repeat.list)   |   1.03% |
 |  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Global)    | 826   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Adobe/Repeat.list)   |   0.12% |
 |  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Proxy)    | 6022   | [8](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Adobe/Repeat.list)   |   0.13% |

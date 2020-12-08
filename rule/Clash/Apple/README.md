@@ -10,7 +10,7 @@
 
 
 
-最后检查时间：2020-12-08 16:08:22。
+最后检查时间：2020-12-08 16:16:48。
 
 ## 规则统计
 
@@ -39,7 +39,7 @@ Apple分流规则，与本项目其他分流规则重复情况统计。
 |  [AppleNews](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/AppleNews)    | 7   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Apple/Repeat.list)   |   14.29% |
 |  [BlackList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/BlackList)    | 779   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Apple/Repeat.list)   |   0.13% |
 |  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/China)    | 569   | [5](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Apple/Repeat.list)   |   0.88% |
-|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/ChinaTest)    | 73147   | [10](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Apple/Repeat.list)   |   0.01% |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/ChinaTest)    | 73149   | [10](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Apple/Repeat.list)   |   0.01% |
 |  [SystemOTA](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/SystemOTA)    | 8   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Apple/Repeat.list)   |   37.5% |
 |  [Microsoft](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Microsoft)    | 97   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Apple/Repeat.list)   |   1.03% |
 |  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Global)    | 785   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Apple/Repeat.list)   |   0.13% |

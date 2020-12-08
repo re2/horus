@@ -1,7 +1,7 @@
 # NAME: ChinaTest 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-08 16:08:17
+# UPDATED: 2020-12-08 16:16:42
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件
 # ChinaTest 与 Adobe 共 3 条规则重复
 DOMAIN-SUFFIX,ctldl.windowsupdate.com
@@ -3030,10 +3030,11 @@ DOMAIN-SUFFIX,biligame.net
 DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,im9.com
-# ChinaTest 与 BlackList 共 17 条规则重复
+# ChinaTest 与 BlackList 共 18 条规则重复
 DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,culturedcode.com
+DOMAIN-SUFFIX,edgekey.net
 DOMAIN-SUFFIX,getpricetag.com
 DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,licdn.com
@@ -3956,13 +3957,14 @@ DOMAIN-SUFFIX,weibo.com
 DOMAIN-SUFFIX,weibocdn.com
 # ChinaTest 与 IQiyi 共 1 条规则重复
 DOMAIN-SUFFIX,qy.net
-# ChinaTest 与 Proxy 共 37 条规则重复
+# ChinaTest 与 Proxy 共 38 条规则重复
 DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,bet365.com
 DOMAIN-SUFFIX,culturedcode.com
 DOMAIN-SUFFIX,cz.cc
+DOMAIN-SUFFIX,edgekey.net
 DOMAIN-SUFFIX,gameloft.com
 DOMAIN-SUFFIX,getpricetag.com
 DOMAIN-SUFFIX,hao123.com

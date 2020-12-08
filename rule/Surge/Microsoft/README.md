@@ -10,7 +10,7 @@
 
 
 
-最后检查时间：2020-12-08 16:08:19。
+最后检查时间：2020-12-08 16:16:44。
 
 ## 规则统计
 
@@ -40,7 +40,7 @@ Microsoft分流规则，与本项目其他分流规则重复情况统计。
 |  [Apple](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Apple)    | 163   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Microsoft/Repeat.list)   |   0.61% |
 |  [BlackList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/BlackList)    | 782   | [12](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Microsoft/Repeat.list)   |   1.53% |
 |  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/China)    | 583   | [12](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Microsoft/Repeat.list)   |   2.06% |
-|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaTest)    | 73161   | [12](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Microsoft/Repeat.list)   |   0.02% |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaTest)    | 73163   | [12](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Microsoft/Repeat.list)   |   0.02% |
 |  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Global)    | 827   | [9](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Microsoft/Repeat.list)   |   1.09% |
 |  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Proxy)    | 6022   | [27](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Microsoft/Repeat.list)   |   0.45% |
 ## 配置说明

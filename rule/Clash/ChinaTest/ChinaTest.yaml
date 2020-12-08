@@ -1,12 +1,12 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-08 16:08:17
-# DOMAIN-SUFFIX: 73130
+# UPDATED: 2020-12-08 16:16:42
+# DOMAIN-SUFFIX: 73132
 # DOMAIN: 8
 # IP-CIDR: 7
 # DOMAIN-KEYWORD: 2
-# TOTAL: 73147
+# TOTAL: 73149
 payload:
   - DOMAIN,analytics.strava.com
   - DOMAIN,blzddist1-a.akamaihd.net
@@ -23237,6 +23237,8 @@ payload:
   - DOMAIN-SUFFIX,edenab.com
   - DOMAIN-SUFFIX,edenw.com
   - DOMAIN-SUFFIX,edgeiptv.com
+  - DOMAIN-SUFFIX,edgekey.net
+  - DOMAIN-SUFFIX,edgekey.net.globalredir.akadns.net
   - DOMAIN-SUFFIX,edgezzz.com
   - DOMAIN-SUFFIX,edhic.com
   - DOMAIN-SUFFIX,edianchi.com
