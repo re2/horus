@@ -9,7 +9,7 @@
 
 
 
-最后检查时间：2020-12-08 16:26:27。
+最后检查时间：2020-12-09 03:17:31。
 
 ## 规则统计
 
@@ -30,9 +30,9 @@
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Advertising)    | 93876   | [2723](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Privacy/Repeat.list)   |   2.9% |
-|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/AdvertisingTest)    | 110232   | [2726](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Privacy/Repeat.list)   |   2.47% |
-|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/AdvertisingLite)    | 41534   | [2411](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Privacy/Repeat.list)   |   5.8% |
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Advertising)    | 93875   | [2723](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Privacy/Repeat.list)   |   2.9% |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/AdvertisingTest)    | 110231   | [2726](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Privacy/Repeat.list)   |   2.47% |
+|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/AdvertisingLite)    | 41518   | [2411](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Privacy/Repeat.list)   |   5.81% |
 |  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/China)    | 569   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Privacy/Repeat.list)   |   0.18% |
 |  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/ChinaTest)    | 73149   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Privacy/Repeat.list)   |   0.0% |
 |  [Google](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Google)    | 121   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Privacy/Repeat.list)   |   2.48% |

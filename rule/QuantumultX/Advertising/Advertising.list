@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-08 16:26:19
+# UPDATED: 2020-12-09 03:17:23
 # HOST-SUFFIX: 45038
 # HOST: 48535
-# HOST-KEYWORD: 57
+# HOST-KEYWORD: 56
 # IP-CIDR: 246
-# TOTAL: 93876
+# TOTAL: 93875
 HOST,0.nextyourcontent.com,Advertising
 HOST,0.up.qingdaonews.com,Advertising
 HOST,0000mps.webpreview.dsl.net,Advertising
@@ -93633,7 +93633,6 @@ HOST-KEYWORD,tracking,Advertising
 HOST-KEYWORD,traffic,Advertising
 HOST-KEYWORD,uedas,Advertising
 HOST-KEYWORD,umeng,Advertising
-HOST-KEYWORD,umtrack,Advertising
 HOST-KEYWORD,uploadmobiledata,Advertising
 HOST-KEYWORD,wlmonitor,Advertising
 HOST-KEYWORD,zjtoolbar,Advertising

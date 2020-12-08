@@ -9,7 +9,7 @@
 
 
 
-最后检查时间：2020-12-08 16:26:25。
+最后检查时间：2020-12-09 03:17:29。
 
 ## 规则统计
 
@@ -30,8 +30,8 @@
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising)    | 94187   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/NetEaseMusic/Repeat.list)   |   0.0% |
-|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingTest)    | 110543   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/NetEaseMusic/Repeat.list)   |   0.0% |
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising)    | 94186   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/NetEaseMusic/Repeat.list)   |   0.0% |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingTest)    | 110542   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/NetEaseMusic/Repeat.list)   |   0.0% |
 |  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/China)    | 583   | [9](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/NetEaseMusic/Repeat.list)   |   1.54% |
 |  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaTest)    | 73163   | [9](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/NetEaseMusic/Repeat.list)   |   0.01% |
 |  [ChinaIPs](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaIPs)    | 7227   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/NetEaseMusic/Repeat.list)   |   0.04% |

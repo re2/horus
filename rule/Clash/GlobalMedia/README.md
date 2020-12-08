@@ -9,7 +9,7 @@
 
 
 
-最后检查时间：2020-12-08 16:26:27。
+最后检查时间：2020-12-09 03:17:31。
 
 ## 规则统计
 
@@ -31,9 +31,9 @@ GlobalMedia分流规则，与本项目其他分流规则重复情况统计。
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Advertising)    | 93876   | [6](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/GlobalMedia/Repeat.list)   |   0.01% |
-|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/AdvertisingTest)    | 110232   | [9](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/GlobalMedia/Repeat.list)   |   0.01% |
-|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/AdvertisingLite)    | 41534   | [4](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/GlobalMedia/Repeat.list)   |   0.01% |
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Advertising)    | 93875   | [6](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/GlobalMedia/Repeat.list)   |   0.01% |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/AdvertisingTest)    | 110231   | [9](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/GlobalMedia/Repeat.list)   |   0.01% |
+|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/AdvertisingLite)    | 41518   | [4](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/GlobalMedia/Repeat.list)   |   0.01% |
 |  [AppleNews](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/AppleNews)    | 7   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/GlobalMedia/Repeat.list)   |   14.29% |
 |  [AppleTV](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/AppleTV)    | 3   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/GlobalMedia/Repeat.list)   |   100.0% |
 |  [Bahamut](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Bahamut)    | 4   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/GlobalMedia/Repeat.list)   |   50.0% |

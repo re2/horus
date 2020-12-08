@@ -1,7 +1,7 @@
 # NAME: AdvertisingTest 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-08 16:26:21
+# UPDATED: 2020-12-09 03:17:26
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件
 # AdvertisingTest 与 Adobe 共 7 条规则重复
 DOMAIN-SUFFIX,adbecrsl.com
@@ -11,7 +11,7 @@ DOMAIN-SUFFIX,demdex.net
 DOMAIN-SUFFIX,newrelic.com
 DOMAIN-SUFFIX,omniture.com
 DOMAIN-SUFFIX,omtrdc.net
-# AdvertisingTest 与 Advertising 共 84591 条规则重复
+# AdvertisingTest 与 Advertising 共 84590 条规则重复
 DOMAIN,0.up.qingdaonews.com
 DOMAIN,0000mps.webpreview.dsl.net
 DOMAIN,0001.2waky.com
@@ -39020,7 +39020,6 @@ DOMAIN-KEYWORD,tracking
 DOMAIN-KEYWORD,traffic
 DOMAIN-KEYWORD,uedas
 DOMAIN-KEYWORD,umeng
-DOMAIN-KEYWORD,umtrack
 DOMAIN-KEYWORD,uploadmobiledata
 DOMAIN-KEYWORD,wlmonitor
 DOMAIN-KEYWORD,zjtoolbar
@@ -84603,7 +84602,7 @@ URL-REGEX,^https?:\/\/www\.zybang\.com\/adx\/
 URL-REGEX,^https?:\/\/xyst\.yuanfudao\.com\/iphone\/splashesV\d
 URL-REGEX,^https?:\/\/xyz\.cnki\.net\/resourcev7\/api\/manualpush\/SlidsList$
 URL-REGEX,^https?:\/\/yxyapi\d\.drcuiyutao\.com\/yxy-api-gateway\/api\/json\/advert\/
-# AdvertisingTest 与 AdvertisingLite 共 21996 条规则重复
+# AdvertisingTest 与 AdvertisingLite 共 21980 条规则重复
 DOMAIN,0.up.qingdaonews.com
 DOMAIN,0026645142c89aeb1.com
 DOMAIN,01.yd-jun.com
@@ -88412,46 +88411,30 @@ DOMAIN,zzwajufm.com
 DOMAIN,zzxosget.com
 DOMAIN-KEYWORD,admarvel
 DOMAIN-KEYWORD,admaster
-DOMAIN-KEYWORD,admdfs
-DOMAIN-KEYWORD,adnewnc
 DOMAIN-KEYWORD,adsage
-DOMAIN-KEYWORD,adsame
 DOMAIN-KEYWORD,adsensor
-DOMAIN-KEYWORD,adserver
 DOMAIN-KEYWORD,adservice
 DOMAIN-KEYWORD,adsmogo
 DOMAIN-KEYWORD,adsrvmedia
 DOMAIN-KEYWORD,adsserving
 DOMAIN-KEYWORD,adsystem
-DOMAIN-KEYWORD,advert
 DOMAIN-KEYWORD,adwords
-DOMAIN-KEYWORD,allyes
 DOMAIN-KEYWORD,analysis
-DOMAIN-KEYWORD,analysys
 DOMAIN-KEYWORD,applovin
 DOMAIN-KEYWORD,appsflyer
-DOMAIN-KEYWORD,dnserror
 DOMAIN-KEYWORD,domob
 DOMAIN-KEYWORD,duomeng
 DOMAIN-KEYWORD,dwtrack
-DOMAIN-KEYWORD,fenxi
 DOMAIN-KEYWORD,guanggao
-DOMAIN-KEYWORD,inmobi
 DOMAIN-KEYWORD,lianmeng
-DOMAIN-KEYWORD,mobaders
 DOMAIN-KEYWORD,omgmta
 DOMAIN-KEYWORD,omniture
 DOMAIN-KEYWORD,openx
 DOMAIN-KEYWORD,partnerad
 DOMAIN-KEYWORD,pingfore
-DOMAIN-KEYWORD,securepubads
 DOMAIN-KEYWORD,socdm
 DOMAIN-KEYWORD,supersonicads
-DOMAIN-KEYWORD,taboola
 DOMAIN-KEYWORD,tracking
-DOMAIN-KEYWORD,uedas
-DOMAIN-KEYWORD,umtrack
-DOMAIN-KEYWORD,uploadmobiledata
 DOMAIN-KEYWORD,wlmonitor
 DOMAIN-KEYWORD,zjtoolbar
 DOMAIN-SUFFIX,0.r.msn.com

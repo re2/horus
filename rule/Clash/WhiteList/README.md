@@ -10,7 +10,7 @@
 
 
 
-最后检查时间：2020-12-08 16:26:26。
+最后检查时间：2020-12-09 03:17:30。
 
 ## 规则统计
 
@@ -31,7 +31,7 @@
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/AdvertisingLite)    | 41534   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/WhiteList/Repeat.list)   |   0.0% |
+|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/AdvertisingLite)    | 41518   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/WhiteList/Repeat.list)   |   0.0% |
 |  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/China)    | 569   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/WhiteList/Repeat.list)   |   0.18% |
 |  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/ChinaTest)    | 73149   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/WhiteList/Repeat.list)   |   0.0% |
 ## 配置说明
