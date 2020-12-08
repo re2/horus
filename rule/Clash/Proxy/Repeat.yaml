@@ -1,7 +1,7 @@
 # NAME: Proxy 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-08 03:17:27
+# UPDATED: 2020-12-08 16:08:18
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件
 payload:
 # Proxy 与 Adobe 共 8 条规则重复
@@ -1013,10 +1013,9 @@ payload:
   - IP-CIDR,74.125.0.0/16
   - IP-CIDR,74.86.0.0/16
   - IP-CIDR,75.126.0.0/16
-# Proxy 与 China 共 24 条规则重复
+# Proxy 与 China 共 23 条规则重复
   - DOMAIN-SUFFIX,akamaized.net
   - DOMAIN-SUFFIX,bet365.com
-  - DOMAIN-SUFFIX,cdn-apple.com
   - DOMAIN-SUFFIX,culturedcode.com
   - DOMAIN-SUFFIX,gameloft.com
   - DOMAIN-SUFFIX,getpricetag.com
@@ -1038,12 +1037,11 @@ payload:
   - DOMAIN-SUFFIX,teamviewer.com
   - DOMAIN-SUFFIX,trello.com
   - DOMAIN-SUFFIX,unity3d.com
-# Proxy 与 ChinaTest 共 38 条规则重复
+# Proxy 与 ChinaTest 共 37 条规则重复
   - DOMAIN-SUFFIX,2mdn.net
   - DOMAIN-SUFFIX,akamaized.net
   - DOMAIN-SUFFIX,app-measurement.com
   - DOMAIN-SUFFIX,bet365.com
-  - DOMAIN-SUFFIX,cdn-apple.com
   - DOMAIN-SUFFIX,culturedcode.com
   - DOMAIN-SUFFIX,cz.cc
   - DOMAIN-SUFFIX,gameloft.com

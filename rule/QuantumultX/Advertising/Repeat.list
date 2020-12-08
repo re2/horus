@@ -1,7 +1,7 @@
 # NAME: Advertising 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-08 03:17:25
+# UPDATED: 2020-12-08 16:08:17
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件
 # Advertising 与 Adobe 共 6 条规则重复
 HOST-SUFFIX,adbecrsl.com
@@ -10,7 +10,7 @@ HOST-SUFFIX,demandbase.com
 HOST-SUFFIX,demdex.net
 HOST-SUFFIX,newrelic.com
 HOST-SUFFIX,omtrdc.net
-# Advertising 与 AdvertisingTest 共 84276 条规则重复
+# Advertising 与 AdvertisingTest 共 84280 条规则重复
 HOST,0.up.qingdaonews.com
 HOST,0000mps.webpreview.dsl.net
 HOST,0001.2waky.com
@@ -4549,6 +4549,7 @@ HOST,bambuuafryk.com
 HOST,bams1.manhatan2018.com
 HOST,bams2.manhatan2018.com
 HOST,ban.xpays.com
+HOST,banacity.gasuki.com
 HOST,bananakomputer.com
 HOST,bananarepubic.com
 HOST,banashreeandco.com
@@ -4606,6 +4607,7 @@ HOST,banner.casinotropez.com
 HOST,banner.freeservers.com
 HOST,banner.gasuki.com
 HOST,banner.jobsahead.com
+HOST,banner.maido3.com
 HOST,banner.missingkids.com
 HOST,banner.passion.com
 HOST,banner.scasino.com
@@ -13011,6 +13013,7 @@ HOST,flppy.sakinadirect.com
 HOST,flrqdjglshsbi.com
 HOST,flstudioflp.com
 HOST,flttracksecure.com
+HOST,fluidads.co
 HOST,flukebiomedicai.com
 HOST,fluohbiy.com
 HOST,fluunrkjjhv.com
@@ -36031,6 +36034,7 @@ HOST,weqmhzexkepgdb.com
 HOST,weqpkntrxqzh.com
 HOST,weqwdwdda.com
 HOST,wer.bendougou.cn
+HOST,werbe-sponsor.de
 HOST,werbe-system.com
 HOST,werbemittelgenerator.com
 HOST,werhackers.net
@@ -106729,6 +106733,7 @@ HOST-SUFFIX,cm-analysis.com
 HOST-SUFFIX,cmcore.com
 HOST-SUFFIX,cnbanbao.com
 HOST-SUFFIX,cnkok.com
+HOST-SUFFIX,cnliken.com
 HOST-SUFFIX,cnsjx.net
 HOST-SUFFIX,cnxad.com
 HOST-SUFFIX,cnzz.com
@@ -106922,7 +106927,6 @@ HOST-SUFFIX,hysdknb.com
 HOST-SUFFIX,hyyazhaji.com
 HOST-SUFFIX,hyz86.com
 HOST-SUFFIX,ia22.com
-HOST-SUFFIX,iadsdk.apple.com
 HOST-SUFFIX,id6.me
 HOST-SUFFIX,ideng.com
 HOST-SUFFIX,idting.com

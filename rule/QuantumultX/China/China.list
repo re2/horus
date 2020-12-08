@@ -1,14 +1,14 @@
 # NAME: China
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-08 03:17:23
-# HOST-SUFFIX: 556
+# UPDATED: 2020-12-08 16:08:15
+# HOST-SUFFIX: 548
 # USER-AGENT: 10
-# HOST-KEYWORD: 4
 # HOST: 12
 # IP-CIDR: 7
+# HOST-KEYWORD: 2
 # IP6-CIDR: 4
-# TOTAL: 593
+# TOTAL: 583
 HOST,ip.istatmenus.app,China
 HOST,sms.imagetasks.com,China
 HOST,speedtest.macpaw.com,China
@@ -41,13 +41,6 @@ HOST-SUFFIX,youku.com,China
 HOST-SUFFIX,xiami.com,China
 HOST-SUFFIX,xiami.net,China
 HOST-SUFFIX,aaplimg.com,China
-HOST-SUFFIX,apple.co,China
-HOST-SUFFIX,apple.com,China
-HOST-SUFFIX,apple-cloudkit.com,China
-HOST-SUFFIX,appstore.com,China
-HOST-SUFFIX,cdn-apple.com,China
-HOST-SUFFIX,icloud.com,China
-HOST-SUFFIX,icloud-content.com,China
 HOST-SUFFIX,me.com,China
 HOST-SUFFIX,mzstatic.com,China
 HOST-SUFFIX,baidu.com,China
@@ -256,7 +249,6 @@ HOST-SUFFIX,geilicdn.com,China
 HOST-SUFFIX,getpricetag.com,China
 HOST-SUFFIX,gifshow.com,China
 HOST-SUFFIX,godic.net,China
-HOST-SUFFIX,hicloud.com,China
 HOST-SUFFIX,hongxiu.com,China
 HOST-SUFFIX,hostbuf.com,China
 HOST-SUFFIX,huxiucdn.com,China
@@ -577,8 +569,6 @@ HOST-SUFFIX,17jita.com,China
 HOST-SUFFIX,iyingdi.com,China
 HOST-SUFFIX,novipnoad.com,China
 HOST-SUFFIX,unity3d.com,China
-HOST-KEYWORD,apple.com.akadns.net,China
-HOST-KEYWORD,icloud.com.akadns.net,China
 HOST-KEYWORD,beplay,China
 HOST-KEYWORD,speedtest,China
 USER-AGENT,%e4%bc%98%e9%85%b7*,China

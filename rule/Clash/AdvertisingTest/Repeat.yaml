@@ -1,7 +1,7 @@
 # NAME: AdvertisingTest 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-08 03:17:26
+# UPDATED: 2020-12-08 16:08:18
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件
 payload:
 # AdvertisingTest 与 Adobe 共 7 条规则重复
@@ -12,7 +12,7 @@ payload:
   - DOMAIN-SUFFIX,newrelic.com
   - DOMAIN-SUFFIX,omniture.com
   - DOMAIN-SUFFIX,omtrdc.net
-# AdvertisingTest 与 Advertising 共 84276 条规则重复
+# AdvertisingTest 与 Advertising 共 84280 条规则重复
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,0000mps.webpreview.dsl.net
   - DOMAIN,0001.2waky.com
@@ -4551,6 +4551,7 @@ payload:
   - DOMAIN,bams1.manhatan2018.com
   - DOMAIN,bams2.manhatan2018.com
   - DOMAIN,ban.xpays.com
+  - DOMAIN,banacity.gasuki.com
   - DOMAIN,bananakomputer.com
   - DOMAIN,bananarepubic.com
   - DOMAIN,banashreeandco.com
@@ -4608,6 +4609,7 @@ payload:
   - DOMAIN,banner.freeservers.com
   - DOMAIN,banner.gasuki.com
   - DOMAIN,banner.jobsahead.com
+  - DOMAIN,banner.maido3.com
   - DOMAIN,banner.missingkids.com
   - DOMAIN,banner.passion.com
   - DOMAIN,banner.scasino.com
@@ -13013,6 +13015,7 @@ payload:
   - DOMAIN,flrqdjglshsbi.com
   - DOMAIN,flstudioflp.com
   - DOMAIN,flttracksecure.com
+  - DOMAIN,fluidads.co
   - DOMAIN,flukebiomedicai.com
   - DOMAIN,fluohbiy.com
   - DOMAIN,fluunrkjjhv.com
@@ -36033,6 +36036,7 @@ payload:
   - DOMAIN,weqpkntrxqzh.com
   - DOMAIN,weqwdwdda.com
   - DOMAIN,wer.bendougou.cn
+  - DOMAIN,werbe-sponsor.de
   - DOMAIN,werbe-system.com
   - DOMAIN,werbemittelgenerator.com
   - DOMAIN,werhackers.net
@@ -84289,7 +84293,7 @@ payload:
   - IP-CIDR,74.117.182.77/32
   - IP-CIDR,78.140.131.214/32
   - IP-CIDR,91.196.216.64/32
-# AdvertisingTest 与 AdvertisingLite 共 21691 条规则重复
+# AdvertisingTest 与 AdvertisingLite 共 21693 条规则重复
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,0026645142c89aeb1.com
   - DOMAIN,01.yd-jun.com
@@ -85460,6 +85464,7 @@ payload:
   - DOMAIN,flnqmin.org
   - DOMAIN,flowplus.meituan.net
   - DOMAIN,flrqdjglshsbi.com
+  - DOMAIN,fluidads.co
   - DOMAIN,fmxnlkoaf.com
   - DOMAIN,fnprtscsvux.com
   - DOMAIN,foastail.net
@@ -87592,6 +87597,7 @@ payload:
   - DOMAIN,wenpsnpqher.com
   - DOMAIN,weqfcudxrrbwn.com
   - DOMAIN,weqwdwdda.com
+  - DOMAIN,werbe-sponsor.de
   - DOMAIN,wetunfdnruy.com
   - DOMAIN,wffiuoyzo.com
   - DOMAIN,wfghrgscs.com
@@ -106360,6 +106366,7 @@ payload:
   - DOMAIN-SUFFIX,cmcore.com
   - DOMAIN-SUFFIX,cnbanbao.com
   - DOMAIN-SUFFIX,cnkok.com
+  - DOMAIN-SUFFIX,cnliken.com
   - DOMAIN-SUFFIX,cnsjx.net
   - DOMAIN-SUFFIX,cnxad.com
   - DOMAIN-SUFFIX,cnzz.com
@@ -106561,7 +106568,6 @@ payload:
   - DOMAIN-SUFFIX,hyyazhaji.com
   - DOMAIN-SUFFIX,hyz86.com
   - DOMAIN-SUFFIX,ia22.com
-  - DOMAIN-SUFFIX,iadsdk.apple.com
   - DOMAIN-SUFFIX,id6.me
   - DOMAIN-SUFFIX,ideng.com
   - DOMAIN-SUFFIX,idting.com

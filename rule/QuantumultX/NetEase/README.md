@@ -9,7 +9,7 @@
 
 
 
-最后检查时间：2020-12-08 03:17:29。
+最后检查时间：2020-12-08 16:08:20。
 
 ## 规则统计
 
@@ -28,8 +28,8 @@
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/China)    | 593   | [9](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/NetEase/Repeat.list)   |   1.52% |
-|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/ChinaTest)    | 73331   | [9](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/NetEase/Repeat.list)   |   0.01% |
+|  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/China)    | 583   | [9](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/NetEase/Repeat.list)   |   1.54% |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/ChinaTest)    | 73161   | [9](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/NetEase/Repeat.list)   |   0.01% |
 |  [NetEaseMusic](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/NetEaseMusic)    | 44   | [9](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/NetEase/Repeat.list)   |   20.45% |
 ## 配置说明
 
