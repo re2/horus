@@ -18,8 +18,11 @@ let magicJS = MagicJS(scriptName, 'INFO');
                   bannerItems.push(banner);
                 }
               }
-              item['banner_item'] = bannerItems;
-              items.push(item);
+              // 去除广告后，如果banner大于等于1个才添加到响应体
+              if (bannerItems.length >= 1){
+                item['banner_item'] = bannerItems;
+                items.push(item);
+              }
             }
             else if (!item.hasOwnProperty('ad_info') && (item['card_type'] === 'small_cover_v2' || item['card_type'] === 'large_cover_v1')){
               items.push(item);
