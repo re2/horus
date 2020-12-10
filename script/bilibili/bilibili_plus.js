@@ -14,7 +14,7 @@ let magicJS = MagicJS(scriptName, 'INFO');
             if (item.hasOwnProperty('banner_item')){
               let bannerItems = [];
               for (let banner of item['banner_item']){
-                if (banner['is_ad'] != true){
+                if (banner['is_ad'] != true && banner['is_ad_loc'] != true){
                   bannerItems.push(banner);
                 }
               }
