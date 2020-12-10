@@ -9,17 +9,17 @@
 
 
 
-最后检查时间：2020-12-10 03:17:58。
+最后检查时间：2020-12-10 09:26:19。
 
 ## 规则统计
 
-总计规则：73080 条。
+总计规则：73081 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| DOMAIN-SUFFIX | 73063 |
+| DOMAIN-SUFFIX | 73064 |
 | DOMAIN | 8 |
 | IP-CIDR | 7 |
 | DOMAIN-KEYWORD | 2 |
@@ -33,7 +33,7 @@ China分流规则，与本项目其他分流规则重复情况统计。
 | ---- | ---- | ---- | ------ |
 |  [Adobe](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Adobe)    | 34   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/ChinaTest/Repeat.list)   |   8.82% |
 |  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Advertising)    | 93875   | [1137](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/ChinaTest/Repeat.list)   |   1.21% |
-|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/AdvertisingTest)    | 110233   | [1168](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/ChinaTest/Repeat.list)   |   1.06% |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/AdvertisingTest)    | 110260   | [1168](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/ChinaTest/Repeat.list)   |   1.06% |
 |  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/AdvertisingLite)    | 41518   | [666](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/ChinaTest/Repeat.list)   |   1.6% |
 |  [Apple](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Apple)    | 162   | [10](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/ChinaTest/Repeat.list)   |   6.17% |
 |  [AsianMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/AsianMedia)    | 23   | [14](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/ChinaTest/Repeat.list)   |   60.87% |

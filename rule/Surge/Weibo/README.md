@@ -9,7 +9,7 @@
 
 
 
-最后检查时间：2020-12-10 03:17:55。
+最后检查时间：2020-12-10 09:26:15。
 
 ## 规则统计
 
@@ -30,7 +30,7 @@
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
 |  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/China)    | 583   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Weibo/Repeat.list)   |   0.51% |
-|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaTest)    | 73094   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Weibo/Repeat.list)   |   0.0% |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaTest)    | 73095   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Weibo/Repeat.list)   |   0.0% |
 |  [Sina](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Sina)    | 10   | [4](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Weibo/Repeat.list)   |   40.0% |
 ## 配置说明
 

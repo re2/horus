@@ -1,7 +1,7 @@
 # NAME: Advertising 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-10 03:17:52
+# UPDATED: 2020-12-10 09:26:13
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件
 # Advertising 与 Adobe 共 6 条规则重复
 HOST-SUFFIX,adbecrsl.com
@@ -10,7 +10,7 @@ HOST-SUFFIX,demandbase.com
 HOST-SUFFIX,demdex.net
 HOST-SUFFIX,newrelic.com
 HOST-SUFFIX,omtrdc.net
-# Advertising 与 AdvertisingTest 共 84302 条规则重复
+# Advertising 与 AdvertisingTest 共 84325 条规则重复
 HOST,0.up.qingdaonews.com
 HOST,0000mps.webpreview.dsl.net
 HOST,0001.2waky.com
@@ -1377,8 +1377,10 @@ HOST,ab8ce655c175b0d.com
 HOST,ababaloka.com
 HOST,abacuspresents.com
 HOST,abagifts.com
+HOST,abandonedclover.com
 HOST,abandonedminesafrica.org
 HOST,abaselectric.com
+HOST,abashedangle.com
 HOST,abatakindergarten.com
 HOST,abbahoxgss.com
 HOST,abbanreddy.com
@@ -2407,6 +2409,7 @@ HOST,adx.timesdaily.com
 HOST,adxpddpc.com
 HOST,adyoz.com
 HOST,adzmediatracking.com
+HOST,adzoe.de
 HOST,adzposter.com
 HOST,adztracking.com
 HOST,ae.adserver.yahoo.com
@@ -3324,6 +3327,7 @@ HOST,anolysis.privacy.cliqz.com
 HOST,anong8286.000webhostapp.com
 HOST,anonymous-hacks.com
 HOST,anonymouscheaters.com
+HOST,anonymousdmp.com
 HOST,anonymoushack.com
 HOST,anonyscrip.com
 HOST,anothersuccess.com
@@ -3867,6 +3871,7 @@ HOST,arcadefree.com
 HOST,arcadegamesrfun.com
 HOST,arcartall.club
 HOST,arcfwcxi.com
+HOST,arch-nicto.com
 HOST,archanatraderspilathara.com
 HOST,archarleton.com
 HOST,architectchurch.com
@@ -3931,6 +3936,7 @@ HOST,arorazphotoworld.com
 HOST,aros-multilinks.com
 HOST,arpitvaish.com
 HOST,arpucyhlmes.com
+HOST,arpuonline.com
 HOST,arquitetup.com
 HOST,arraiaame.sslblindado.com
 HOST,arresearch.com
@@ -3959,6 +3965,7 @@ HOST,artsybabic.xyz
 HOST,artteachers.drudesk.com
 HOST,arttoxfb.com
 HOST,artucripkzu.com
+HOST,arturtrack.com
 HOST,artwatchghana.org
 HOST,arubapec.wufoo.com
 HOST,arubtrading.com
@@ -4534,6 +4541,7 @@ HOST,bakingbybusi.com
 HOST,balajiecosolar.com
 HOST,balajinursinghomecare.com
 HOST,balance-alone.com
+HOST,balancebreath.com
 HOST,balancediario.com
 HOST,balancelouisville.com
 HOST,balboacheckpro.com
@@ -4872,9 +4880,11 @@ HOST,beacon2.indieclicktv.com
 HOST,beaconplanning.net
 HOST,beads.sx.atl.publicus.com
 HOST,beaglebeatrecords.com
+HOST,beamkite.com
 HOST,beamland.actonsoftware.com
 HOST,beamslife.com
 HOST,beanexperience.com
+HOST,beanscattering.jp
 HOST,beap.adx.yahoo.com
 HOST,bearsonthemantlepiece.com
 HOST,beasthacks.com
@@ -5092,6 +5102,7 @@ HOST,betagameskeys.com
 HOST,betaghosts.net
 HOST,betagiveaway.com
 HOST,betakey-giveaway.com
+HOST,betarget.net
 HOST,betawi.pashuber.net
 HOST,betawildstarkey.com
 HOST,bethelsozonetworknigeria.org
@@ -5444,6 +5455,7 @@ HOST,blirmance.com
 HOST,blissinstalls.com
 HOST,blitzcsgo.com
 HOST,blixiaobao1688.com
+HOST,blizzardcheck.com
 HOST,blkivkplpn.com
 HOST,bllhicksco.com
 HOST,bllttrex.com
@@ -5799,6 +5811,7 @@ HOST,brandnewop.com
 HOST,brandonomicsenterprise.com
 HOST,brandsandproduct.com
 HOST,branovate.com
+HOST,brassrule.com
 HOST,brassyobedientcotangent.com
 HOST,bratfeldt.com
 HOST,brave-frontier-hack.com
@@ -7205,6 +7218,7 @@ HOST,chekmyacount.com
 HOST,chelswrk.com
 HOST,cheminfos.com
 HOST,chengupei.com
+HOST,cherrythread.com
 HOST,cheshirehockey.com
 HOST,chesterfieldhypnosis.com
 HOST,chetnamehrotra.com
@@ -7212,6 +7226,7 @@ HOST,chewbacca.cybereps.com
 HOST,chfreedom.com
 HOST,chiccocarseatreviews.com
 HOST,chickolith.com
+HOST,chiefcurrent.com
 HOST,chiem78.000webhostapp.com
 HOST,chihaktower.com
 HOST,chikaxilvanatmae.com
@@ -7245,6 +7260,7 @@ HOST,chinapower7.com
 HOST,chinashadenet.com
 HOST,chinatlz.com
 HOST,chinavigator.com
+HOST,chinchickens.com
 HOST,chinco.000webhostapp.com
 HOST,chinemiss.com
 HOST,chinese-amezon.com
@@ -11512,6 +11528,7 @@ HOST,error404.000webhost.com
 HOST,errorception.com
 HOST,errordoctor.com
 HOST,errors.perfectgonzo.com
+HOST,errortablet.com
 HOST,ersecompany.com
 HOST,ersinkayisli.com
 HOST,erszwzaidmlc.com
@@ -19566,6 +19583,7 @@ HOST,kneelandgeographics.com
 HOST,knepsiwviviwed.com
 HOST,knewline.in.net
 HOST,knickelbein.com
+HOST,knifeoctopus.com
 HOST,knightsanddragonshack.com
 HOST,knigonosha.net
 HOST,knimmqli.com
@@ -28981,6 +28999,7 @@ HOST,rtb-usync.com
 HOST,rtb-west1.p.veruta.com
 HOST,rtb.p.veruta.com
 HOST,rtbatlanta.com
+HOST,rtbauction.com
 HOST,rtbpops.com
 HOST,rtctxxxvdq.com
 HOST,rtdogcdkovndho.com
@@ -30384,6 +30403,7 @@ HOST,simcity5crackdownload.com
 HOST,simcity5hack.com
 HOST,simetservizi.com
 HOST,similardeals.net
+HOST,similarsabine.com
 HOST,simis.siambrothersvn.com
 HOST,simpatiaose.com
 HOST,simple-share-buttons.com
@@ -32507,6 +32527,7 @@ HOST,telefonica.inq.com
 HOST,telegraphcouk.skimlinks.com
 HOST,telekom-onlines.webs.com
 HOST,telemetry.layer.com
+HOST,telemetrytaxonomy.net
 HOST,telesaldo.com
 HOST,telestarinc.com
 HOST,tellus-resources.com
@@ -33750,6 +33771,7 @@ HOST,ts3plug-in.com
 HOST,ts3plugins.com
 HOST,ts3plugins.org
 HOST,tsbinterativalocal.com
+HOST,tscapeplay.com
 HOST,tscl.com.bd
 HOST,tsd3.ciscofreak.com
 HOST,tsdown.hzbtwy.com
@@ -34497,6 +34519,7 @@ HOST,uptime-as.net
 HOST,uptime-eu.net
 HOST,uptime-us.net
 HOST,uptimechecker.com
+HOST,uptimeviewer.com
 HOST,uptodate-tikso.com
 HOST,uptodatecontent.net
 HOST,uptodatemovie.com

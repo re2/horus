@@ -1,7 +1,7 @@
 # NAME: AdvertisingTest 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-10 03:17:53
+# UPDATED: 2020-12-10 09:26:14
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件
 payload:
 # AdvertisingTest 与 Adobe 共 7 条规则重复
@@ -12,7 +12,7 @@ payload:
   - DOMAIN-SUFFIX,newrelic.com
   - DOMAIN-SUFFIX,omniture.com
   - DOMAIN-SUFFIX,omtrdc.net
-# AdvertisingTest 与 Advertising 共 84302 条规则重复
+# AdvertisingTest 与 Advertising 共 84325 条规则重复
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,0000mps.webpreview.dsl.net
   - DOMAIN,0001.2waky.com
@@ -1379,8 +1379,10 @@ payload:
   - DOMAIN,ababaloka.com
   - DOMAIN,abacuspresents.com
   - DOMAIN,abagifts.com
+  - DOMAIN,abandonedclover.com
   - DOMAIN,abandonedminesafrica.org
   - DOMAIN,abaselectric.com
+  - DOMAIN,abashedangle.com
   - DOMAIN,abatakindergarten.com
   - DOMAIN,abbahoxgss.com
   - DOMAIN,abbanreddy.com
@@ -2409,6 +2411,7 @@ payload:
   - DOMAIN,adxpddpc.com
   - DOMAIN,adyoz.com
   - DOMAIN,adzmediatracking.com
+  - DOMAIN,adzoe.de
   - DOMAIN,adzposter.com
   - DOMAIN,adztracking.com
   - DOMAIN,ae.adserver.yahoo.com
@@ -3326,6 +3329,7 @@ payload:
   - DOMAIN,anong8286.000webhostapp.com
   - DOMAIN,anonymous-hacks.com
   - DOMAIN,anonymouscheaters.com
+  - DOMAIN,anonymousdmp.com
   - DOMAIN,anonymoushack.com
   - DOMAIN,anonyscrip.com
   - DOMAIN,anothersuccess.com
@@ -3869,6 +3873,7 @@ payload:
   - DOMAIN,arcadegamesrfun.com
   - DOMAIN,arcartall.club
   - DOMAIN,arcfwcxi.com
+  - DOMAIN,arch-nicto.com
   - DOMAIN,archanatraderspilathara.com
   - DOMAIN,archarleton.com
   - DOMAIN,architectchurch.com
@@ -3933,6 +3938,7 @@ payload:
   - DOMAIN,aros-multilinks.com
   - DOMAIN,arpitvaish.com
   - DOMAIN,arpucyhlmes.com
+  - DOMAIN,arpuonline.com
   - DOMAIN,arquitetup.com
   - DOMAIN,arraiaame.sslblindado.com
   - DOMAIN,arresearch.com
@@ -3961,6 +3967,7 @@ payload:
   - DOMAIN,artteachers.drudesk.com
   - DOMAIN,arttoxfb.com
   - DOMAIN,artucripkzu.com
+  - DOMAIN,arturtrack.com
   - DOMAIN,artwatchghana.org
   - DOMAIN,arubapec.wufoo.com
   - DOMAIN,arubtrading.com
@@ -4536,6 +4543,7 @@ payload:
   - DOMAIN,balajiecosolar.com
   - DOMAIN,balajinursinghomecare.com
   - DOMAIN,balance-alone.com
+  - DOMAIN,balancebreath.com
   - DOMAIN,balancediario.com
   - DOMAIN,balancelouisville.com
   - DOMAIN,balboacheckpro.com
@@ -4874,9 +4882,11 @@ payload:
   - DOMAIN,beaconplanning.net
   - DOMAIN,beads.sx.atl.publicus.com
   - DOMAIN,beaglebeatrecords.com
+  - DOMAIN,beamkite.com
   - DOMAIN,beamland.actonsoftware.com
   - DOMAIN,beamslife.com
   - DOMAIN,beanexperience.com
+  - DOMAIN,beanscattering.jp
   - DOMAIN,beap.adx.yahoo.com
   - DOMAIN,bearsonthemantlepiece.com
   - DOMAIN,beasthacks.com
@@ -5094,6 +5104,7 @@ payload:
   - DOMAIN,betaghosts.net
   - DOMAIN,betagiveaway.com
   - DOMAIN,betakey-giveaway.com
+  - DOMAIN,betarget.net
   - DOMAIN,betawi.pashuber.net
   - DOMAIN,betawildstarkey.com
   - DOMAIN,bethelsozonetworknigeria.org
@@ -5446,6 +5457,7 @@ payload:
   - DOMAIN,blissinstalls.com
   - DOMAIN,blitzcsgo.com
   - DOMAIN,blixiaobao1688.com
+  - DOMAIN,blizzardcheck.com
   - DOMAIN,blkivkplpn.com
   - DOMAIN,bllhicksco.com
   - DOMAIN,bllttrex.com
@@ -5801,6 +5813,7 @@ payload:
   - DOMAIN,brandonomicsenterprise.com
   - DOMAIN,brandsandproduct.com
   - DOMAIN,branovate.com
+  - DOMAIN,brassrule.com
   - DOMAIN,brassyobedientcotangent.com
   - DOMAIN,bratfeldt.com
   - DOMAIN,brave-frontier-hack.com
@@ -7207,6 +7220,7 @@ payload:
   - DOMAIN,chelswrk.com
   - DOMAIN,cheminfos.com
   - DOMAIN,chengupei.com
+  - DOMAIN,cherrythread.com
   - DOMAIN,cheshirehockey.com
   - DOMAIN,chesterfieldhypnosis.com
   - DOMAIN,chetnamehrotra.com
@@ -7214,6 +7228,7 @@ payload:
   - DOMAIN,chfreedom.com
   - DOMAIN,chiccocarseatreviews.com
   - DOMAIN,chickolith.com
+  - DOMAIN,chiefcurrent.com
   - DOMAIN,chiem78.000webhostapp.com
   - DOMAIN,chihaktower.com
   - DOMAIN,chikaxilvanatmae.com
@@ -7247,6 +7262,7 @@ payload:
   - DOMAIN,chinashadenet.com
   - DOMAIN,chinatlz.com
   - DOMAIN,chinavigator.com
+  - DOMAIN,chinchickens.com
   - DOMAIN,chinco.000webhostapp.com
   - DOMAIN,chinemiss.com
   - DOMAIN,chinese-amezon.com
@@ -11514,6 +11530,7 @@ payload:
   - DOMAIN,errorception.com
   - DOMAIN,errordoctor.com
   - DOMAIN,errors.perfectgonzo.com
+  - DOMAIN,errortablet.com
   - DOMAIN,ersecompany.com
   - DOMAIN,ersinkayisli.com
   - DOMAIN,erszwzaidmlc.com
@@ -19568,6 +19585,7 @@ payload:
   - DOMAIN,knepsiwviviwed.com
   - DOMAIN,knewline.in.net
   - DOMAIN,knickelbein.com
+  - DOMAIN,knifeoctopus.com
   - DOMAIN,knightsanddragonshack.com
   - DOMAIN,knigonosha.net
   - DOMAIN,knimmqli.com
@@ -28983,6 +29001,7 @@ payload:
   - DOMAIN,rtb-west1.p.veruta.com
   - DOMAIN,rtb.p.veruta.com
   - DOMAIN,rtbatlanta.com
+  - DOMAIN,rtbauction.com
   - DOMAIN,rtbpops.com
   - DOMAIN,rtctxxxvdq.com
   - DOMAIN,rtdogcdkovndho.com
@@ -30386,6 +30405,7 @@ payload:
   - DOMAIN,simcity5hack.com
   - DOMAIN,simetservizi.com
   - DOMAIN,similardeals.net
+  - DOMAIN,similarsabine.com
   - DOMAIN,simis.siambrothersvn.com
   - DOMAIN,simpatiaose.com
   - DOMAIN,simple-share-buttons.com
@@ -32509,6 +32529,7 @@ payload:
   - DOMAIN,telegraphcouk.skimlinks.com
   - DOMAIN,telekom-onlines.webs.com
   - DOMAIN,telemetry.layer.com
+  - DOMAIN,telemetrytaxonomy.net
   - DOMAIN,telesaldo.com
   - DOMAIN,telestarinc.com
   - DOMAIN,tellus-resources.com
@@ -33752,6 +33773,7 @@ payload:
   - DOMAIN,ts3plugins.com
   - DOMAIN,ts3plugins.org
   - DOMAIN,tsbinterativalocal.com
+  - DOMAIN,tscapeplay.com
   - DOMAIN,tscl.com.bd
   - DOMAIN,tsd3.ciscofreak.com
   - DOMAIN,tsdown.hzbtwy.com
@@ -34499,6 +34521,7 @@ payload:
   - DOMAIN,uptime-eu.net
   - DOMAIN,uptime-us.net
   - DOMAIN,uptimechecker.com
+  - DOMAIN,uptimeviewer.com
   - DOMAIN,uptodate-tikso.com
   - DOMAIN,uptodatecontent.net
   - DOMAIN,uptodatemovie.com
@@ -84315,7 +84338,7 @@ payload:
   - IP-CIDR,74.117.182.77/32
   - IP-CIDR,78.140.131.214/32
   - IP-CIDR,91.196.216.64/32
-# AdvertisingTest 与 AdvertisingLite 共 21678 条规则重复
+# AdvertisingTest 与 AdvertisingLite 共 21684 条规则重复
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,0026645142c89aeb1.com
   - DOMAIN,01.yd-jun.com
@@ -84548,6 +84571,7 @@ payload:
   - DOMAIN,adverigo.com
   - DOMAIN,advertisement.taobao.com
   - DOMAIN,adyoz.com
+  - DOMAIN,adzoe.de
   - DOMAIN,aebhdrkiybgy.com
   - DOMAIN,aefvxtue.com
   - DOMAIN,aeizbvtknp.com
@@ -84620,6 +84644,7 @@ payload:
   - DOMAIN,amrfscxvdvfvpa.com
   - DOMAIN,anjqxwvqfnri.com
   - DOMAIN,anmvuuhgo.com
+  - DOMAIN,anonymousdmp.com
   - DOMAIN,antalya.ru
   - DOMAIN,antivirustoolext.com
   - DOMAIN,antotu.info
@@ -84698,6 +84723,7 @@ payload:
   - DOMAIN,backup.customstat.video.51togic.com
   - DOMAIN,baerxupsjjegb.com
   - DOMAIN,bahnjhnrcdwi.com
+  - DOMAIN,balancebreath.com
   - DOMAIN,banner.gasuki.com
   - DOMAIN,bannerblasters.com
   - DOMAIN,bannercde.com
@@ -84729,6 +84755,7 @@ payload:
   - DOMAIN,bdyhvguiq.com
   - DOMAIN,be-funk.com
   - DOMAIN,beacon2.indieclicktv.com
+  - DOMAIN,beanscattering.jp
   - DOMAIN,beautysafari.com
   - DOMAIN,becomedebtfree.com.au
   - DOMAIN,beelzgkdjr.com
@@ -87128,6 +87155,7 @@ payload:
   - DOMAIN,sihciabzm.com
   - DOMAIN,sihjnaojbrs.com
   - DOMAIN,silurian.cn
+  - DOMAIN,similarsabine.com
   - DOMAIN,sindatontherrom.info
   - DOMAIN,siqcrwlrqjc.com
   - DOMAIN,sisyqzktimhrgo.com
@@ -87359,6 +87387,7 @@ payload:
   - DOMAIN,trkpointcloud.com
   - DOMAIN,troytempest.com
   - DOMAIN,trustedadserver.com
+  - DOMAIN,tscapeplay.com
   - DOMAIN,tscl.com.bd
   - DOMAIN,tsdzmkpewrdxyl.com
   - DOMAIN,tsmdmunzbtu.com

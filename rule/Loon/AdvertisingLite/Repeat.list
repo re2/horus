@@ -1,7 +1,7 @@
 # NAME: AdvertisingLite 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-10 03:17:53
+# UPDATED: 2020-12-10 09:26:14
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件
 # AdvertisingLite 与 Adobe 共 5 条规则重复
 DOMAIN-SUFFIX,adbecrsl.com
@@ -22379,7 +22379,7 @@ URL-REGEX,^https?:\/\/www\.zybang\.com\/adx\/
 URL-REGEX,^https?:\/\/xyst\.yuanfudao\.com\/iphone\/splashesV\d
 URL-REGEX,^https?:\/\/xyz\.cnki\.net\/resourcev7\/api\/manualpush\/SlidsList$
 URL-REGEX,^https?:\/\/yxyapi\d\.drcuiyutao\.com\/yxy-api-gateway\/api\/json\/advert\/
-# AdvertisingLite 与 AdvertisingTest 共 21981 条规则重复
+# AdvertisingLite 与 AdvertisingTest 共 21987 条规则重复
 DOMAIN,0.up.qingdaonews.com
 DOMAIN,0026645142c89aeb1.com
 DOMAIN,01.yd-jun.com
@@ -22612,6 +22612,7 @@ DOMAIN,advancetec.co.uk
 DOMAIN,adverigo.com
 DOMAIN,advertisement.taobao.com
 DOMAIN,adyoz.com
+DOMAIN,adzoe.de
 DOMAIN,aebhdrkiybgy.com
 DOMAIN,aefvxtue.com
 DOMAIN,aeizbvtknp.com
@@ -22684,6 +22685,7 @@ DOMAIN,amliands.info
 DOMAIN,amrfscxvdvfvpa.com
 DOMAIN,anjqxwvqfnri.com
 DOMAIN,anmvuuhgo.com
+DOMAIN,anonymousdmp.com
 DOMAIN,antalya.ru
 DOMAIN,antivirustoolext.com
 DOMAIN,antotu.info
@@ -22762,6 +22764,7 @@ DOMAIN,babsitlehaphow.com
 DOMAIN,backup.customstat.video.51togic.com
 DOMAIN,baerxupsjjegb.com
 DOMAIN,bahnjhnrcdwi.com
+DOMAIN,balancebreath.com
 DOMAIN,banner.gasuki.com
 DOMAIN,bannerblasters.com
 DOMAIN,bannercde.com
@@ -22793,6 +22796,7 @@ DOMAIN,bdnfszdqwaduv.com
 DOMAIN,bdyhvguiq.com
 DOMAIN,be-funk.com
 DOMAIN,beacon2.indieclicktv.com
+DOMAIN,beanscattering.jp
 DOMAIN,beautysafari.com
 DOMAIN,becomedebtfree.com.au
 DOMAIN,beelzgkdjr.com
@@ -25192,6 +25196,7 @@ DOMAIN,sierra-fox.com
 DOMAIN,sihciabzm.com
 DOMAIN,sihjnaojbrs.com
 DOMAIN,silurian.cn
+DOMAIN,similarsabine.com
 DOMAIN,sindatontherrom.info
 DOMAIN,siqcrwlrqjc.com
 DOMAIN,sisyqzktimhrgo.com
@@ -25423,6 +25428,7 @@ DOMAIN,trjmgercl.com
 DOMAIN,trkpointcloud.com
 DOMAIN,troytempest.com
 DOMAIN,trustedadserver.com
+DOMAIN,tscapeplay.com
 DOMAIN,tscl.com.bd
 DOMAIN,tsdzmkpewrdxyl.com
 DOMAIN,tsmdmunzbtu.com
