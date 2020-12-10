@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-10 10:17:38
+# UPDATED: 2020-12-10 14:09:58
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN-SUFFIX: 70956
-# DOMAIN: 39004
+# DOMAIN-SUFFIX: 70958
+# DOMAIN: 38990
 # DOMAIN-KEYWORD: 54
 # IP-CIDR: 246
 # URL-REGEX: 311
-# TOTAL: 110571
+# TOTAL: 110559
 0.up.qingdaonews.com
 0000mps.webpreview.dsl.net
 0001.2waky.com
@@ -9592,7 +9592,6 @@ dev.imp.nextmedia.com
 dev.interfusedcreative.com
 dev.mitzvah-store.com
 dev.parisianist.com
-dev.ratingtoplist.com
 dev.soletriangle.com
 dev.wrathofshadows.net
 dev1.redanchormedia.com
@@ -13095,6 +13094,7 @@ fnprtscsvux.com
 fnutdrjkcebyw.com
 fnuuhrhfkvpbnm.com
 fo5.a1-downloader.org
+foaks.com
 foamybox.com
 foastail.net
 fobertinia.com
@@ -17495,7 +17495,6 @@ img.discovery.com
 img.dt00.net
 img.dynamoads.com
 img.hcwifi.cn
-img.jwgro.com
 img.launcher.ksmobile.com
 img.mmtcdn.com
 img.momode.net
@@ -23539,7 +23538,6 @@ myezt1q2il.com
 myfacebookstalkers.com
 myfbhacks.com
 myfebqficpi.com
-myfhology.sbhmn-miner.com
 myfilefresh.com
 myfilehigh.com
 myfilehome.com
@@ -28096,7 +28094,6 @@ ratexchange.net
 ratherer.com
 rathibearings.com
 rathorekriti.com
-ratingtoplist.com
 raufkhalid.com
 ravageskins.com
 ravelotti.cn
@@ -28223,7 +28220,6 @@ reallifecam.com
 realmedia-a592.d4p.net
 realmedia.channel4.com
 realmoneygametester.com
-realnetwrk.com
 realnwspfbumn.com
 realpropertyrighttime.com
 realracinghack.com
@@ -28418,7 +28414,6 @@ remowindowsnow.com
 renatarabelo.com
 renatocal.com
 renaulrtcenturytrick.top
-rencohep.com
 renderer.qmerce.com
 reneerojanaro.com
 reneeshop1.com
@@ -28518,7 +28513,6 @@ restrictedpagesapple.com
 resulotions-ppa.com
 results.cafefind.net
 resultt-appleecc.com
-retadint.com
 retail.renodio.com
 retailkidetail.com
 retailrealestatenyc.com
@@ -28657,7 +28651,6 @@ rijadpczqbdsvb.com
 rimgak.mmtcdn.com
 rimghtlak.mmtcdn.com
 rimvtigoyajas.com
-rineventrec.com
 ringtonematcher.com
 rioclassof75.com
 riot-codes.com
@@ -29174,7 +29167,6 @@ s.qiangger.pw
 s.share.baidu.com
 s.shopify.com
 s.skimlinks.com
-s.ssggba.top
 s.stats.wordpress.com
 s.targetserving.com
 s.tkm.ink
@@ -29466,7 +29458,6 @@ sbergonzi.org
 sbethot.com
 sbftffngpzwt.com
 sbhackguide.com
-sbhmn-miner.com
 sbhnftwdlpbo.com
 sbmijpifoszz.com
 sbopaitvwpzilp.com
@@ -29992,6 +29983,7 @@ sevvalsenturk.com
 sewardweb.com
 sex-and-flirt.com
 sex-interactive.com
+sex-journey.com
 sexfromindia.com
 sexfunxcash.com
 sexmonitor.top
@@ -30788,7 +30780,6 @@ smzvvqztihof.com
 smzxkkyuinecwa.com
 sn-gzzx.com
 snackygame.com
-snahome.com
 snapchat-safe.com
 snapchat-save.blogspot.com
 snapchathack.org
@@ -31016,6 +31007,7 @@ soundfyles.eloyed.com
 source-hack.com
 sourcelemon.com
 sources.kpdir.cn
+sourcescdn.xiaobingw.cn
 soushop.net
 southernchampion.com
 southernoutdoorproducts.com
@@ -32696,7 +32688,6 @@ thaoduoctoc.com
 thaotranland.com
 tharcons.000webhostapp.com
 thatonerandomfan.com
-thatresha.com
 thatshowwerollalways.com
 thatterians.pro
 thbuhcnpt.com
@@ -35855,10 +35846,8 @@ wbvwcyssssh.com
 wc.istwire.com
 wc.wanmancn.com
 wc0x83ghk.homepage.t-online.de
-wc3-soft.sbhmn-miner.com
 wcabsbogwfxv.com
 wcgquaaknuha.com
-wckp.sbhmn-miner.com
 wcksovhmd.com
 wclpvyexgrglobal.com
 wclpvyexgrmart.com
@@ -35901,7 +35890,6 @@ web-bird.jp
 web-feed.net
 web-inf-0-supp-0rt-help.net
 web-khalkruezye.com
-web-master.sbhmn-miner.com
 web-nova.j8inn1zektoe.com
 web-object-paypaccount.com
 web-olymp.ru
@@ -36254,7 +36242,6 @@ wihspueerhpw.com
 wiicjajh.com
 wijczxvihjyu.com
 wijjidqydgsxas.com
-wijzeman.sbhmn-miner.com
 wiki.unbounce.com
 wikiarabmothers.com
 wikipediacount.net
@@ -36347,7 +36334,6 @@ withersby.com
 withlovestudio.net
 withrows.com
 witifyooqkumwn.com
-witkom.sbhmn-miner.com
 wittinhohemmo.net
 wittyvideos.com
 wiykefcon.com
@@ -36457,7 +36443,6 @@ woojeoung.com
 wooplr.j8inn1zektoe.com
 wooptrk.com
 woorionline.com
-woork.sbhmn-miner.com
 woosungelec.com
 wopyaricbatain.com
 worchids.net
@@ -38721,6 +38706,7 @@ zjgswtl.com
 zjgygpdfudfu.com
 zjhnmbfqylme.com
 zjhuashi.net
+zjj.xhdccz.com
 zjjlf.croukwexdbyerr.net
 zjkdrqtjowihn.com
 zjkxunda.com
@@ -40898,6 +40884,7 @@ zzzpooeaz-france.com
 .6o87d.cn
 .6ou47b.cn
 .6oug.cn
+.6ow9rhxtolls.gq
 .6pal.consobaby.com
 .6pdd2.cn
 .6ped2nd3yp.com
@@ -42220,6 +42207,7 @@ zzzpooeaz-france.com
 .abjusouft.com
 .ablaze-class.space
 .ablehed.pro
+.ablen08.tk
 .ablenctionalle.info
 .ablerivetdoubted.com
 .ablida-rotation.com
@@ -46773,7 +46761,6 @@ zzzpooeaz-france.com
 .adultsadv.com
 .adultsense.com
 .adultsense.org
-.adultsonly.pro
 .adulttds.com
 .adultterritory.net
 .adulttraffic.ru
@@ -50257,6 +50244,7 @@ zzzpooeaz-france.com
 .as.yomonda.de
 .as.yuewz.com
 .as00.estara.com
+.as01.overbuff.com
 .as07d698u9.com
 .as1.inoventiv.com
 .as1.m.hao123.com
@@ -56318,6 +56306,7 @@ zzzpooeaz-france.com
 .clickaine.com
 .clickalyzer.com
 .clickanalytics208.com
+.clickandbuy.review
 .clickandjoinyourgirl.com
 .clickansave.net
 .clickarrows.com
@@ -57680,6 +57669,7 @@ zzzpooeaz-france.com
 .cookieconsent.silktide.com
 .cookiecontainer.blox.pl
 .cookiee1.veinteractive.com
+.cookiefirst.com
 .cookiehub.net
 .cookieinformation.com
 .cookieinfoscript.com
@@ -59769,6 +59759,7 @@ zzzpooeaz-france.com
 .dardwebertoha.info
 .daredorm.com
 .darersan.co
+.darking06.tk
 .darking07.tk
 .darlingtonandstocktontimes-gb.darlingtonandstocktontimes.co.uk
 .darmowe-liczniki.info
@@ -65557,7 +65548,6 @@ zzzpooeaz-france.com
 .fnytdllpzdv.com
 .fo4n.com
 .foagoasu.net
-.foaks.com
 .foamyfood.com
 .foapsovi.net
 .foavistu.net
@@ -71289,6 +71279,7 @@ zzzpooeaz-france.com
 .img.img18.com
 .img.jgchq.com
 .img.jizzads.com
+.img.jwgro.com
 .img.kanuxian.cn
 .img.khlxw.com
 .img.kukudm.com
@@ -75043,6 +75034,7 @@ zzzpooeaz-france.com
 .kxpkadaivbm.com
 .kxqoiypoasab.com
 .kxqvnfcg.xyz
+.kxrcjhogag.ru
 .kxrxh.com
 .kxrzz.superpromo.7112531.com
 .kxswxnbr.com
@@ -77401,7 +77393,6 @@ zzzpooeaz-france.com
 .m.cdfzcz.com
 .m.cdxtny.cn
 .m.cenrs.com
-.m.cepga.cn
 .m.cfanm.com
 .m.chenhuia.com
 .m.chexiw.com
@@ -82227,6 +82218,7 @@ zzzpooeaz-france.com
 .nization.com
 .nj.5.p2l.info
 .nj.t.bcsp2p.baidu.com
+.nj1r.valorbuff.com
 .njapplovinrtb.lfstmedia.com
 .njawafwpmv.com
 .njcn888.com
@@ -82813,6 +82805,7 @@ zzzpooeaz-france.com
 .nvbwgk.com
 .nvcwpexqk.com
 .nvdljujp.com
+.nvea.valorbuff.com
 .nvergetpatr.top
 .nvhzkdltdxfoax.com
 .nvikgaormj.com
@@ -82936,6 +82929,7 @@ zzzpooeaz-france.com
 .nzkxmphfbqrfzs.com
 .nzlydrgumirn.com
 .nzme-ads.co.nz
+.nzmelistings.co.nz
 .nzopgzncs.com
 .nzopiswswp.com
 .nzphoenix.com
@@ -83774,6 +83768,7 @@ zzzpooeaz-france.com
 .onepush.app
 .onepush.query.yahoo.com
 .onergong.com
+.oneroof.co.nz
 .onerror.cf
 .onerror.ga
 .onerror.gq
@@ -87592,6 +87587,7 @@ zzzpooeaz-france.com
 .prsaln.com
 .prscripts.com
 .prsitecheck.com
+.prsrjdr.ru
 .prstats.postrelease.com
 .prt-stsdk.vivo.com.cn
 .prt-stsdk.vivoglobal.com
@@ -87667,6 +87663,7 @@ zzzpooeaz-france.com
 .psvgnczo.com
 .psxxbhheqxoy.com
 .psychologicaltotalnumeric.com
+.psychomining.de
 .psylefywha.pro
 .psyma-statistics.com
 .psywed.com
@@ -88641,6 +88638,7 @@ zzzpooeaz-france.com
 .qlssbq.cn
 .qlyfjtkl.com
 .qlzn6i1l.com
+.qlzwfzfatjth.ru
 .qmhigtmwikvzin.com
 .qmin.xin
 .qmiypgoukkl.com
@@ -88705,6 +88703,7 @@ zzzpooeaz-france.com
 .qpianhkxxuc.com
 .qplcqdbiob.com
 .qpljfpwdpk.com
+.qpmsybxqvlje.ru
 .qpmue.xyz
 .qpokok.com
 .qpqnbnsnosdss.com
@@ -89265,6 +89264,7 @@ zzzpooeaz-france.com
 .rating.in
 .rating6.kingsoft-office-service.com
 .ratings.lycos.com
+.ratingtoplist.com
 .ratioboom.ru
 .ratkalol.com
 .ratke.biz
@@ -89309,6 +89309,7 @@ zzzpooeaz-france.com
 .rbck.st3pst3p.com
 .rbefyepmgrhp.com
 .rbign.cn
+.rbkshort.info
 .rbkubbeytzp.com
 .rbmcash.com
 .rbmry.com
@@ -89359,6 +89360,7 @@ zzzpooeaz-france.com
 .rcp.c.appier.net
 .rcsadv.it
 .rcsmetrics.it
+.rctfgrazkha.ru
 .rcudacimrqdlk.com
 .rcurn.com
 .rcv.iclicash.com
@@ -89496,6 +89498,7 @@ zzzpooeaz-france.com
 .realmedia.advance.net
 .realmedia.com
 .realmpallduns.com
+.realnetwrk.com
 .realplayz.com
 .realpush.media
 .realpush.network
@@ -89719,6 +89722,8 @@ zzzpooeaz-france.com
 .refpaumckl.top
 .refpazcx.xyz
 .refractionius.com
+.refreshnerer27.info
+.refreshnerer27rb.info
 .reftagger.com
 .reftedlettiny.info
 .refunevent.com
@@ -89890,6 +89895,7 @@ zzzpooeaz-france.com
 .remultiesbee.fun
 .renaissanto.com
 .rencai56.com
+.rencohep.com
 .rencontreavenue.com
 .renderer.apester.com
 .renewads.com
@@ -90027,6 +90033,7 @@ zzzpooeaz-france.com
 .reseireejoch.info
 .resencejuy.club
 .resentaticexhaus.info
+.reservedoffers.cl
 .reservedoffers.club
 .reservices.info
 .reservoircourthouse.com
@@ -90087,6 +90094,7 @@ zzzpooeaz-france.com
 .reszkzmyzceve.com
 .ret.xinlongrubber.com
 .retaconnerons.site
+.retadint.com
 .retag.xyz
 .retagapp.com
 .retagro.com
@@ -90347,6 +90355,7 @@ zzzpooeaz-france.com
 .rinconpx.net
 .rindicalapa.fun
 .rinedcountilconsiden.info
+.rineventrec.com
 .ringassum.club
 .ringplayground.com
 .ringsrecord.com
@@ -90648,6 +90657,7 @@ zzzpooeaz-france.com
 .rote8mino.com
 .rotobanner468.utro.ru
 .rotorads.com
+.rottenwhorememe.cf
 .rottilderum.cam
 .rotumal.com
 .roughroll.com
@@ -91071,6 +91081,7 @@ zzzpooeaz-france.com
 .rutvind.com
 .ruunews.info
 .ruuwkftrtegqj.com
+.ruvuryua.ru
 .ruwertur.com
 .ruwithough.club
 .ruxianke.com
@@ -91338,6 +91349,7 @@ zzzpooeaz-france.com
 .s.soha.vn
 .s.srvsynd.com
 .s.ssacdn.com
+.s.ssggba.top
 .s.staqnet.com
 .s.statistici.ro
 .s.tagsrvcs.com
@@ -91980,6 +91992,7 @@ zzzpooeaz-france.com
 .sbgftsoe.com
 .sbgsodufuosmmvsdf.info
 .sbhc.portalhc.com
+.sbhmn-miner.com
 .sbietlbug.com
 .sbifdctojpisuw.com
 .sbiim.com
@@ -92519,6 +92532,7 @@ zzzpooeaz-france.com
 .searchwe.com
 .searchx.eu
 .seasonale.1.p2l.info
+.seasonaloffers.club
 .seasonalsamplerspecials.com
 .seasonssna.fun
 .seativeflypa.top
@@ -93158,7 +93172,6 @@ zzzpooeaz-france.com
 .sevootie.com
 .sevwhetheles.club
 .sex-finger.com
-.sex-journey.com
 .sex-now5.com
 .sex-sex-sex5.com
 .sex1.party
@@ -93665,6 +93678,7 @@ zzzpooeaz-france.com
 .sibautomation.com
 .sibilantcliffrecommendation.com
 .siblesectiveal.club
+.sibozhihui-lc.com
 .sibulla.com
 .sicaurtu.net
 .siccash.com
@@ -94197,6 +94211,7 @@ zzzpooeaz-france.com
 .smartmad.com
 .smartnews-ads.com
 .smartocto.com
+.smartoffer.si
 .smartoffer.site
 .smartology.co
 .smartpixel.auditorius.ru
@@ -94331,6 +94346,7 @@ zzzpooeaz-france.com
 .sn.baventures.com
 .sn00.net
 .snack-media.com
+.snahome.com
 .snailsengine.com
 .snakemineral.com
 .snakesort.com
@@ -94675,7 +94691,6 @@ zzzpooeaz-france.com
 .sourcepoint-mms.history.com
 .sourcepoint-mms.mylifetime.com
 .sourcepoint.vice.com
-.sourcescdn.xiaobingw.cn
 .sourcetobin.com
 .sourmath.com
 .sousaira.com
@@ -95642,6 +95657,7 @@ zzzpooeaz-france.com
 .stat.zuimeitianqi.com
 .stat0.888.ku6.com
 .stat08.com
+.stat0808.info
 .stat1.888.ku6.com
 .stat1.z-stat.com
 .stat2.888.ku6.com
@@ -98332,6 +98348,7 @@ zzzpooeaz-france.com
 .tharbadir.com
 .thathersevengid.ru
 .thathislitt.ru
+.thatresha.com
 .thatsallfolks.link
 .thatsjustgay.com
 .thatsphucked.com
@@ -98425,7 +98442,6 @@ zzzpooeaz-france.com
 .thepiratebay.be
 .thepiratebay.cr
 .thepiratebay.is
-.thepiratebay.wtf
 .thepiratetrader.com
 .thepornsurvey.com
 .thepounder.com
@@ -99350,7 +99366,6 @@ zzzpooeaz-france.com
 .tpatrongva.top
 .tpb.tw
 .tpbid.com
-.tpbpiratbay.cl
 .tpbpojpo.com
 .tpbproxyone.org
 .tpc.googlesyndication.com
@@ -100346,18 +100361,14 @@ zzzpooeaz-france.com
 .traffic-c.com
 .traffic-delivery.com
 .traffic-exchange.com
-.traffic-gate-service.info
 .traffic-go.com
 .traffic-in.com
-.traffic-info-service.info
 .traffic-media.co
 .traffic-media.co.uk
-.traffic-optical-service.info
 .traffic-redirecting.com
 .traffic-service.info
 .traffic-stats.streamsolutions.co.uk
 .traffic-supremacy.com
-.traffic-tech-service.info
 .traffic.acwebconnecting.com
 .traffic.adexprtz.com
 .traffic.buyservices.com
@@ -100520,7 +100531,6 @@ zzzpooeaz-france.com
 .trasholita.com
 .tratefirearly.top
 .tratouler.com
-.traumasister.tk
 .traumaticnoiseless.com
 .trav4life.site
 .travangeind.club
@@ -101457,7 +101467,6 @@ zzzpooeaz-france.com
 .udockoan.net
 .udorik.com
 .udpolimenew.baidu.com
-.udqgbokvzbnqkf.ru
 .udr26c.cn
 .udrig.com
 .udrivemyr54.com
@@ -101663,7 +101672,6 @@ zzzpooeaz-france.com
 .ulife17yeter.com
 .ulink.cc
 .ulink.immomo.com
-.ullnot.download
 .ulmdb.cn
 .ulml.mob.com
 .ulnawoyyzbljc.ru
@@ -101683,7 +101691,6 @@ zzzpooeaz-france.com
 .ultimateclixx.com
 .ultimatecounter.com
 .ultimatefashiongifts.com
-.ultra-cdn.pl
 .ultra2.tsinghua.edu.cn
 .ultraadserver.com
 .ultrabestportal.com
@@ -102216,7 +102223,6 @@ zzzpooeaz-france.com
 .us.bksn.se
 .us.bs.serving-sys.com
 .us.c1.yimg.com
-.us.cf
 .us.cfcdist.loan
 .us.cfcnet.top
 .us.d1.yimg.com
@@ -102463,6 +102469,7 @@ zzzpooeaz-france.com
 .uunewcar.com
 .uunriutbi.com
 .uuopp.com
+.uuqz.overbuff.com
 .uuribxuxsbdfof.com
 .uusee.adsame.com
 .uusftafycvolbk.com
@@ -102541,7 +102548,6 @@ zzzpooeaz-france.com
 .uzpvacvhdssq.com
 .uzrating.com
 .uzsqhuevese.com
-.uzsrh.cn
 .uzttnr.com
 .uzvqrimq.com
 .uzxbwsnhjlt.com
@@ -103749,7 +103755,6 @@ zzzpooeaz-france.com
 .votistics.com
 .vouhecem.net
 .vouky.com
-.voumxy.ru
 .vounoany.net
 .vouzgwau.com
 .vovhiwr.com
@@ -103806,7 +103811,6 @@ zzzpooeaz-france.com
 .vpwdweham.com
 .vpwlynobnnqg.com
 .vpyrfomwel.com
-.vpzccwpyilvoyg.ru
 .vq40567.com
 .vq6nsu.cn
 .vq7736.com
@@ -103904,7 +103908,6 @@ zzzpooeaz-france.com
 .vtrjqehu.com
 .vtrk.doubleverify.com
 .vtrtl.de
-.vtsgaqnfvzcyu.ru
 .vtvcab.xyz
 .vua1004.club
 .vua1005.club
@@ -104024,7 +104027,6 @@ zzzpooeaz-france.com
 .vzw.sp1.convertro.com
 .vzyat-kredit.info
 .vzyclgqffpojk.com
-.vzzexalcirfgrf.ru
 .vzzylo.com
 .w-m-w.net
 .w.admedia.com
@@ -104791,7 +104793,6 @@ zzzpooeaz-france.com
 .wemdsm.com
 .wemfbox.ch
 .wemgcdygokm.com
-.wemine.pro
 .wenbangsh.com.cn
 .wenda.io
 .wengesog.net
@@ -104932,7 +104933,6 @@ zzzpooeaz-france.com
 .where.com
 .whereascredentialsurmise.com
 .wheredoyoucomefrom.ovh
-.whereismommy.gq
 .wheretogo.bid
 .wheshaud.net
 .whethere.club
@@ -105007,7 +105007,6 @@ zzzpooeaz-france.com
 .whukroal.net
 .whusebsu.com
 .whxhhjx.com
-.whysoserius.cl
 .whysoserius.club
 .whytoss.com
 .whzavlaamjcnt.com
@@ -105237,7 +105236,6 @@ zzzpooeaz-france.com
 .witneygazette-gb.witneygazette.co.uk
 .witstandfridge.com
 .witthethim.com
-.wittyoffers.club
 .wityamdog.com
 .wiwapaxo.xyz
 .wiyun.com
@@ -105276,7 +105274,6 @@ zzzpooeaz-france.com
 .wkhkffefck.com
 .wkjava.top
 .wkjhd.com
-.wkkjfcgjofbix.ru
 .wkll7glfazgp.com
 .wkloqctyiyow.com
 .wkosrsfybeq.com
@@ -105330,7 +105327,6 @@ zzzpooeaz-france.com
 .wmclickz.ru
 .wmedia-track.uc.cn
 .wmedia.adk2x.com
-.wmemsnhgldd.ru
 .wmeng.feihuadns.com
 .wmflabs.org
 .wmhlch.com
@@ -105347,7 +105343,6 @@ zzzpooeaz-france.com
 .wmton.com
 .wmtyrdrpjbhnj.com
 .wmwloejxww.com
-.wmwmwwfmkvucbln.ru
 .wmwyq.xyz
 .wmzona.com
 .wn.pos.baidu.com
@@ -105362,7 +105357,6 @@ zzzpooeaz-france.com
 .wnfjzjmc.com
 .wnhzlesdqzu.com
 .wnlhbehajh.com
-.wnmyerzbjhu.ru
 .wnp.com
 .wnpbdan.bid
 .wnprot.com
@@ -105579,7 +105573,6 @@ zzzpooeaz-france.com
 .wrpmyymqowytz.com
 .wrvdmh.cn
 .wrwwvymy.com
-.wrxgandsfcz.ru
 .wrxivlclw.com
 .wryfinger.com
 .ws-eu.amazon-adsystem.com
@@ -105588,6 +105581,7 @@ zzzpooeaz-france.com
 .ws.audioeye.com
 .ws.batch.com
 .ws.bhzejltg.info
+.ws.etuch.cn
 .ws.inspectlet.com
 .ws.ksmobile.net
 .ws.mmstat.com
@@ -107057,7 +107051,6 @@ zzzpooeaz-france.com
 .xgames-04.com
 .xgcsr.com
 .xgctdamahrzy.com
-.xgefmxd.ru
 .xgfugivkvkak.com
 .xgievxfxhy.com
 .xgipqvffxrgs.com
@@ -107701,7 +107694,6 @@ zzzpooeaz-france.com
 .xv9xm6zxb8.com
 .xvcmsfoeheu.com
 .xvhvm.top
-.xvideosharing.si
 .xvideosharing.site
 .xvika.com
 .xviplxteu.com
@@ -108439,7 +108431,6 @@ zzzpooeaz-france.com
 .yo34b.cn
 .yo88.win
 .yo88vn.vip
-.yoaabgvkm.ru
 .yoads.net
 .yoads.network
 .yoajqj.com
@@ -109452,7 +109443,6 @@ zzzpooeaz-france.com
 .zixun8.com
 .ziye8.com
 .ziyeaiying.com
-.ziykrgc.ru
 .ziyouxiaoyuan.cn
 .ziyu.net
 .ziyuantx.com
@@ -109467,7 +109457,6 @@ zzzpooeaz-france.com
 .zjhoudao.com
 .zjhrondo.cn
 .zjiktkmjyo.com
-.zjj.xhdccz.com
 .zjjgtz.com
 .zjk24.com
 .zjkdaikuan.com
@@ -109548,7 +109537,6 @@ zzzpooeaz-france.com
 .znaptag.com
 .znbdr.com
 .znbokxhkwx.com
-.zndaowjdnf.st
 .zndaowjdnf.stream
 .zndsssp.dangbei.net
 .znews.su
