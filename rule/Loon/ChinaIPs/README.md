@@ -9,7 +9,7 @@
 
 
 
-最后检查时间：2020-12-10 14:10:05。
+最后检查时间：2020-12-10 14:32:34。
 
 ## 规则统计
 
@@ -42,11 +42,11 @@ ChinaIPs分流规则，与本项目其他分流规则重复情况统计。
 ### Loon 
 实时版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaIPs/Domain.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaIPs/ChinaIPs.list
 
 稳定版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon/ChinaIPs/Domain.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon/ChinaIPs/ChinaIPs.list
 
 ## 数据来源
 

@@ -9,7 +9,7 @@
 
 
 
-最后检查时间：2020-12-10 14:10:03。
+最后检查时间：2020-12-10 14:32:31。
 
 ## 规则统计
 
@@ -42,15 +42,11 @@ ChinaIPs分流规则，与本项目其他分流规则重复情况统计。
 ### Surge 
 实时版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaIPs/Domain.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaIPs/ChinaIPs.list
 
 稳定版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/ChinaIPs/Domain.list
-
-### 特别说明
-
-Domain.list请使用DOMAIN-SET。
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/ChinaIPs/ChinaIPs.list
 
 ## 数据来源
 
