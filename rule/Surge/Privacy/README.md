@@ -9,7 +9,7 @@
 
 
 
-最后检查时间：2020-12-10 09:26:15。
+最后检查时间：2020-12-10 10:17:43。
 
 ## 规则统计
 
@@ -59,7 +59,9 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surg
 
 ### 特别说明
 
-Privacy.list请使用RULE-SET，Domain.list请使用DOMAIN-SET。
+Privacy.list请使用RULE-SET。
+
+Domain.list请使用DOMAIN-SET。
 
 ## 数据来源
 
