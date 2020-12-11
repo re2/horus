@@ -9,7 +9,7 @@
 
 
 
-最后检查时间：2020-12-11 03:18:01。
+最后检查时间：2020-12-11 11:45:34。
 
 ## 规则统计
 
@@ -28,8 +28,8 @@
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Global)    | 827   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Dubox/Repeat.list)   |   0.24% |
-|  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Proxy)    | 6016   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Dubox/Repeat.list)   |   0.03% |
+|  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Global)    | 827   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Dubox/Repeat.list)   |   0.24% |
+|  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Proxy)    | 6016   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Dubox/Repeat.list)   |   0.03% |
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化

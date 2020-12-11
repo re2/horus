@@ -9,7 +9,7 @@
 
 
 
-最后检查时间：2020-12-11 03:18:01。
+最后检查时间：2020-12-11 11:45:34。
 
 ## 规则统计
 
@@ -30,11 +30,11 @@ Speedtest分流规则，与本项目其他分流规则重复情况统计。
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/China)    | 589   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Speedtest/Repeat.list)   |   0.34% |
-|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaTest)    | 73101   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Speedtest/Repeat.list)   |   0.0% |
-|  [Netflix](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Netflix)    | 40   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Speedtest/Repeat.list)   |   2.5% |
-|  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Global)    | 827   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Speedtest/Repeat.list)   |   0.12% |
-|  [GlobalMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/GlobalMedia)    | 279   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Speedtest/Repeat.list)   |   0.36% |
+|  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/China)    | 589   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Speedtest/Repeat.list)   |   0.34% |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaTest)    | 73101   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Speedtest/Repeat.list)   |   0.0% |
+|  [Netflix](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Netflix)    | 40   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Speedtest/Repeat.list)   |   2.5% |
+|  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Global)    | 827   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Speedtest/Repeat.list)   |   0.12% |
+|  [GlobalMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/GlobalMedia)    | 279   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Speedtest/Repeat.list)   |   0.36% |
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化

@@ -9,7 +9,7 @@
 
 
 
-最后检查时间：2020-12-11 03:18:05。
+最后检查时间：2020-12-11 11:45:38。
 
 ## 规则统计
 
@@ -28,7 +28,7 @@ AppStore分流规则，与本项目其他分流规则重复情况统计。
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Global)    | 785   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/AppStore/Repeat.list)   |   0.25% |
+|  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Global)    | 785   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AppStore/Repeat.list)   |   0.25% |
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化
