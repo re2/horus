@@ -1,7 +1,7 @@
 # NAME: Instagram
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-14 03:17:31
+# UPDATED: 2020-12-14 11:37:03
 # HOST-SUFFIX: 2
 # TOTAL: 2
 HOST-SUFFIX,cdninstagram.com,Instagram
