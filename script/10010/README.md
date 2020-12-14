@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/codetracer/horus/master/script/10010/unicom_ch
 
 ```ini
 [rewrite_remote]
-https://raw.githubusercontent.com/codetracer/horus/master/script/10010/unicom_checkin.quanx, tag=联通_获取cookie, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/codetracer/horus/master/script/10010/unicom_checkin.qxrewrite, tag=联通_获取cookie, update-interval=86400, opt-parser=false, enabled=true
 
 [task_local]
 15 0 * * * https://raw.githubusercontent.com/codetracer/horus/master/script/10010/unicom_checkin.js, tag=联通_签到与抽奖, enabled=true
@@ -35,7 +35,7 @@ https://raw.githubusercontent.com/codetracer/horus/master/script/10010/unicom_ch
 
 ## 获取Cookie
 
-在联通手机营业厅v7.4.3中，进入“我的”-”天天抽奖“，弹出 Cookie、手机号、手机号密文、城市四个项目获取成功即可。
+联通手机营业厅APP经常修改“天天抽奖”入口位置，比较稳定的方法是在联通手机营业厅中搜索“天天抽奖”，直接通过搜索结果进入。
 
 ## 签到效果图
 
