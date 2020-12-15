@@ -1,7 +1,7 @@
 # NAME: Advertising 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-15 10:41:02
+# UPDATED: 2020-12-16 03:17:40
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # Advertising 与 Adobe 共 6 条规则重复
 DOMAIN-SUFFIX,adbecrsl.com
@@ -10,7 +10,7 @@ DOMAIN-SUFFIX,demandbase.com
 DOMAIN-SUFFIX,demdex.net
 DOMAIN-SUFFIX,newrelic.com
 DOMAIN-SUFFIX,omtrdc.net
-# Advertising 与 AdvertisingTest 共 84775 条规则重复
+# Advertising 与 AdvertisingTest 共 84777 条规则重复
 DOMAIN,0.up.qingdaonews.com
 DOMAIN,0000mps.webpreview.dsl.net
 DOMAIN,0001.2waky.com
@@ -2330,6 +2330,8 @@ DOMAIN,adultlinksco.com
 DOMAIN,adultmoneymakers.com
 DOMAIN,adultsense.net
 DOMAIN,aduobooydxr.com
+DOMAIN,adv-adlog.variflight.com
+DOMAIN,adv-ads.variflight.com
 DOMAIN,adv.0tub.com
 DOMAIN,adv.440network.com
 DOMAIN,adv.adultpartnership.com
@@ -108611,7 +108613,7 @@ IP-CIDR,61.160.200.252/32
 IP-CIDR,61.174.50.214/32
 # Advertising 与 Spark 共 1 条规则重复
 DOMAIN-SUFFIX,amplitude.com
-# Advertising 与 Privacy 共 2741 条规则重复
+# Advertising 与 Privacy 共 2742 条规则重复
 DOMAIN,log.byteoversea.com
 DOMAIN,log.tiktokv.com
 DOMAIN-SUFFIX,0sbm.consobaby.co.uk
@@ -110897,6 +110899,7 @@ DOMAIN-SUFFIX,tr.webantenna.info
 DOMAIN-SUFFIX,tr.werkenntwen.de
 DOMAIN-SUFFIX,tr1.mailperformance.com
 DOMAIN-SUFFIX,traccoon.intellectsoft.net
+DOMAIN-SUFFIX,trace.qq.com
 DOMAIN-SUFFIX,tracelog.www.alibaba.com
 DOMAIN-SUFFIX,track.24heures.ch
 DOMAIN-SUFFIX,track.99acres.com

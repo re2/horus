@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-15 10:41:00
+# UPDATED: 2020-12-16 03:17:38
 # HOST-SUFFIX: 45103
-# HOST: 48640
+# HOST: 48642
 # HOST-KEYWORD: 56
 # IP-CIDR: 247
-# TOTAL: 94046
+# TOTAL: 94048
 HOST,0.nextyourcontent.com,Advertising
 HOST,0.up.qingdaonews.com,Advertising
 HOST,0000mps.webpreview.dsl.net,Advertising
@@ -4081,6 +4081,8 @@ HOST,adultsense.net,Advertising
 HOST,adunit.cdn.auditude.com,Advertising
 HOST,adunitv2.cdn.auditude.com,Advertising
 HOST,aduobooydxr.com,Advertising
+HOST,adv-adlog.variflight.com,Advertising
+HOST,adv-ads.variflight.com,Advertising
 HOST,adv-ettoday.cdn.hinet.net,Advertising
 HOST,adv-views.com,Advertising
 HOST,adv.0tub.com,Advertising

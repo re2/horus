@@ -1,7 +1,7 @@
 # NAME: AdvertisingTest 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-15 10:41:03
+# UPDATED: 2020-12-16 03:17:40
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # AdvertisingTest 与 Adobe 共 7 条规则重复
 HOST-SUFFIX,adbecrsl.com
@@ -11,7 +11,7 @@ HOST-SUFFIX,demdex.net
 HOST-SUFFIX,newrelic.com
 HOST-SUFFIX,omniture.com
 HOST-SUFFIX,omtrdc.net
-# AdvertisingTest 与 Advertising 共 84465 条规则重复
+# AdvertisingTest 与 Advertising 共 84467 条规则重复
 HOST,0.up.qingdaonews.com
 HOST,0000mps.webpreview.dsl.net
 HOST,0001.2waky.com
@@ -2331,6 +2331,8 @@ HOST,adultlinksco.com
 HOST,adultmoneymakers.com
 HOST,adultsense.net
 HOST,aduobooydxr.com
+HOST,adv-adlog.variflight.com
+HOST,adv-ads.variflight.com
 HOST,adv.0tub.com
 HOST,adv.440network.com
 HOST,adv.adultpartnership.com
@@ -107641,7 +107643,7 @@ IP-CIDR,61.160.200.252/32
 IP-CIDR,61.174.50.214/32
 # AdvertisingTest 与 Spark 共 1 条规则重复
 HOST-SUFFIX,amplitude.com
-# AdvertisingTest 与 Privacy 共 2745 条规则重复
+# AdvertisingTest 与 Privacy 共 2746 条规则重复
 HOST,log.byteoversea.com
 HOST,log.tiktokv.com
 HOST-SUFFIX,0sbm.consobaby.co.uk
@@ -109931,6 +109933,7 @@ HOST-SUFFIX,tr.webantenna.info
 HOST-SUFFIX,tr.werkenntwen.de
 HOST-SUFFIX,tr1.mailperformance.com
 HOST-SUFFIX,traccoon.intellectsoft.net
+HOST-SUFFIX,trace.qq.com
 HOST-SUFFIX,tracelog.www.alibaba.com
 HOST-SUFFIX,track.24heures.ch
 HOST-SUFFIX,track.99acres.com

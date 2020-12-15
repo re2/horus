@@ -1,7 +1,7 @@
 # NAME: AdvertisingLite 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-15 10:41:02
+# UPDATED: 2020-12-16 03:17:40
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # AdvertisingLite 与 Adobe 共 5 条规则重复
 DOMAIN-SUFFIX,adbecrsl.com
@@ -45314,7 +45314,7 @@ IP-CIDR,61.160.200.223/32
 IP-CIDR,61.160.200.242/32
 IP-CIDR,61.160.200.252/32
 IP-CIDR,61.174.50.214/32
-# AdvertisingLite 与 Privacy 共 2409 条规则重复
+# AdvertisingLite 与 Privacy 共 2410 条规则重复
 DOMAIN-SUFFIX,0sbm.consobaby.co.uk
 DOMAIN-SUFFIX,0x1f4b0.com
 DOMAIN-SUFFIX,1l-hit.mail.ru
@@ -47328,6 +47328,7 @@ DOMAIN-SUFFIX,tr.webantenna.info
 DOMAIN-SUFFIX,tr.werkenntwen.de
 DOMAIN-SUFFIX,tr1.mailperformance.com
 DOMAIN-SUFFIX,traccoon.intellectsoft.net
+DOMAIN-SUFFIX,trace.qq.com
 DOMAIN-SUFFIX,tracelog.www.alibaba.com
 DOMAIN-SUFFIX,track.24heures.ch
 DOMAIN-SUFFIX,track.99acres.com
