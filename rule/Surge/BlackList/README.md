@@ -10,7 +10,7 @@
 
 
 
-最后检查时间：2020-12-16 03:17:42。
+最后检查时间：2020-12-16 11:15:31。
 
 ## 规则统计
 
@@ -36,12 +36,12 @@
 | ---- | ---- | ---- | ------ |
 |  [Adobe](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Adobe)    | 34   | [7](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BlackList/Repeat.list)   |   20.59% |
 |  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Advertising)    | 94358   | [24](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BlackList/Repeat.list)   |   0.03% |
-|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingTest)    | 110687   | [31](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BlackList/Repeat.list)   |   0.03% |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingTest)    | 110786   | [31](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BlackList/Repeat.list)   |   0.03% |
 |  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingLite)    | 41818   | [10](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BlackList/Repeat.list)   |   0.02% |
 |  [Apple](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Apple)    | 163   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BlackList/Repeat.list)   |   0.61% |
 |  [AppleBlock](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AppleBlock)    | 6   | [6](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BlackList/Repeat.list)   |   100.0% |
 |  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/China)    | 589   | [12](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BlackList/Repeat.list)   |   2.04% |
-|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaTest)    | 73103   | [18](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BlackList/Repeat.list)   |   0.02% |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaTest)    | 73089   | [18](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BlackList/Repeat.list)   |   0.02% |
 |  [Cloudflare](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Cloudflare)    | 15   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BlackList/Repeat.list)   |   6.67% |
 |  [Facebook](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Facebook)    | 25   | [6](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BlackList/Repeat.list)   |   24.0% |
 |  [Google](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Google)    | 124   | [39](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BlackList/Repeat.list)   |   31.45% |

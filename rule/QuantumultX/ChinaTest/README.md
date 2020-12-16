@@ -9,17 +9,17 @@
 
 
 
-最后检查时间：2020-12-16 03:17:44。
+最后检查时间：2020-12-16 11:15:33。
 
 ## 规则统计
 
-总计规则：73103 条。
+总计规则：73089 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| HOST-SUFFIX | 73072 |
+| HOST-SUFFIX | 73058 |
 | USER-AGENT | 10 |
 | HOST | 8 |
 | IP-CIDR | 7 |
@@ -34,9 +34,9 @@ China分流规则，与本项目其他分流规则重复情况统计。
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
 |  [Adobe](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Adobe)    | 34   | [3](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/ChinaTest/Repeat.list)   |   8.82% |
-|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Advertising)    | 94048   | [1138](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/ChinaTest/Repeat.list)   |   1.21% |
-|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AdvertisingTest)    | 110377   | [1168](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/ChinaTest/Repeat.list)   |   1.06% |
-|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AdvertisingLite)    | 41516   | [666](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/ChinaTest/Repeat.list)   |   1.6% |
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Advertising)    | 94048   | [1140](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/ChinaTest/Repeat.list)   |   1.21% |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AdvertisingTest)    | 110476   | [1170](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/ChinaTest/Repeat.list)   |   1.06% |
+|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AdvertisingLite)    | 41516   | [664](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/ChinaTest/Repeat.list)   |   1.6% |
 |  [Apple](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Apple)    | 161   | [10](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/ChinaTest/Repeat.list)   |   6.21% |
 |  [AsianMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AsianMedia)    | 28   | [14](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/ChinaTest/Repeat.list)   |   50.0% |
 |  [Bilibili](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Bilibili)    | 13   | [12](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/ChinaTest/Repeat.list)   |   92.31% |

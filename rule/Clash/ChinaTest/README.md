@@ -9,17 +9,17 @@
 
 
 
-最后检查时间：2020-12-16 03:17:47。
+最后检查时间：2020-12-16 11:15:37。
 
 ## 规则统计
 
-总计规则：73089 条。
+总计规则：73075 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| DOMAIN-SUFFIX | 73072 |
+| DOMAIN-SUFFIX | 73058 |
 | DOMAIN | 8 |
 | IP-CIDR | 7 |
 | DOMAIN-KEYWORD | 2 |
@@ -32,9 +32,9 @@ China分流规则，与本项目其他分流规则重复情况统计。
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
 |  [Adobe](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Adobe)    | 34   | [3](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaTest/Repeat.list)   |   8.82% |
-|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Advertising)    | 94048   | [1138](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaTest/Repeat.list)   |   1.21% |
-|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/AdvertisingTest)    | 110377   | [1168](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaTest/Repeat.list)   |   1.06% |
-|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/AdvertisingLite)    | 41516   | [666](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaTest/Repeat.list)   |   1.6% |
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Advertising)    | 94048   | [1140](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaTest/Repeat.list)   |   1.21% |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/AdvertisingTest)    | 110476   | [1170](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaTest/Repeat.list)   |   1.06% |
+|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/AdvertisingLite)    | 41516   | [664](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaTest/Repeat.list)   |   1.6% |
 |  [Apple](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Apple)    | 162   | [10](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaTest/Repeat.list)   |   6.17% |
 |  [AsianMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/AsianMedia)    | 23   | [14](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaTest/Repeat.list)   |   60.87% |
 |  [Bilibili](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Bilibili)    | 12   | [12](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaTest/Repeat.list)   |   100.0% |

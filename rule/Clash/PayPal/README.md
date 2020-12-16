@@ -9,7 +9,7 @@
 
 
 
-最后检查时间：2020-12-16 03:17:47。
+最后检查时间：2020-12-16 11:15:37。
 
 ## 规则统计
 
@@ -30,7 +30,7 @@ PayPal分流规则，与本项目其他分流规则重复情况统计。
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
 |  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/China)    | 575   | [3](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/PayPal/Repeat.list)   |   0.52% |
-|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/ChinaTest)    | 73089   | [3](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/PayPal/Repeat.list)   |   0.0% |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/ChinaTest)    | 73075   | [3](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/PayPal/Repeat.list)   |   0.0% |
 |  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Global)    | 785   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/PayPal/Repeat.list)   |   0.25% |
 ## 配置说明
 

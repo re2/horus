@@ -9,7 +9,7 @@
 
 
 
-最后检查时间：2020-12-16 03:17:45。
+最后检查时间：2020-12-16 11:15:35。
 
 ## 规则统计
 
@@ -32,7 +32,7 @@ TeamViewer分流规则，与本项目其他分流规则重复情况统计。
 | ---- | ---- | ---- | ------ |
 |  [BlackList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/BlackList)    | 776   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/TeamViewer/Repeat.list)   |   0.13% |
 |  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/China)    | 589   | [5](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/TeamViewer/Repeat.list)   |   0.85% |
-|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/ChinaTest)    | 73103   | [5](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/TeamViewer/Repeat.list)   |   0.01% |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/ChinaTest)    | 73089   | [5](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/TeamViewer/Repeat.list)   |   0.01% |
 |  [Telegram](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Telegram)    | 20   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/TeamViewer/Repeat.list)   |   5.0% |
 |  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Proxy)    | 6016   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/TeamViewer/Repeat.list)   |   0.03% |
 ## 配置说明

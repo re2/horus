@@ -10,17 +10,17 @@
 
 
 
-最后检查时间：2020-12-16 03:17:46。
+最后检查时间：2020-12-16 11:15:36。
 
 ## 规则统计
 
-总计规则：110377 条。
+总计规则：110476 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| DOMAIN-SUFFIX | 70996 |
+| DOMAIN-SUFFIX | 71095 |
 | DOMAIN | 39080 |
 | DOMAIN-KEYWORD | 54 |
 | IP-CIDR | 247 |
@@ -38,7 +38,7 @@
 |  [Apple](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Apple)    | 162   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AdvertisingTest/Repeat.list)   |   1.23% |
 |  [BlackList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/BlackList)    | 774   | [31](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AdvertisingTest/Repeat.list)   |   4.01% |
 |  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/China)    | 575   | [9](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AdvertisingTest/Repeat.list)   |   1.57% |
-|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/ChinaTest)    | 73089   | [1168](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AdvertisingTest/Repeat.list)   |   1.6% |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/ChinaTest)    | 73075   | [1170](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AdvertisingTest/Repeat.list)   |   1.6% |
 |  [ChinaMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/ChinaMedia)    | 52   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AdvertisingTest/Repeat.list)   |   1.92% |
 |  [Google](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Google)    | 121   | [23](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AdvertisingTest/Repeat.list)   |   19.01% |
 |  [YouTube](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/YouTube)    | 9   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AdvertisingTest/Repeat.list)   |   22.22% |

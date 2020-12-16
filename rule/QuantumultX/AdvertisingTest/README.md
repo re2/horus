@@ -10,17 +10,17 @@
 
 
 
-最后检查时间：2020-12-16 03:17:43。
+最后检查时间：2020-12-16 11:15:33。
 
 ## 规则统计
 
-总计规则：110377 条。
+总计规则：110476 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| HOST-SUFFIX | 70996 |
+| HOST-SUFFIX | 71095 |
 | HOST | 39080 |
 | HOST-KEYWORD | 54 |
 | IP-CIDR | 247 |
@@ -38,7 +38,7 @@
 |  [Apple](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Apple)    | 161   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AdvertisingTest/Repeat.list)   |   1.24% |
 |  [BlackList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/BlackList)    | 776   | [31](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AdvertisingTest/Repeat.list)   |   3.99% |
 |  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/China)    | 589   | [9](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AdvertisingTest/Repeat.list)   |   1.53% |
-|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/ChinaTest)    | 73103   | [1168](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AdvertisingTest/Repeat.list)   |   1.6% |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/ChinaTest)    | 73089   | [1170](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AdvertisingTest/Repeat.list)   |   1.6% |
 |  [ChinaMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/ChinaMedia)    | 74   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AdvertisingTest/Repeat.list)   |   1.35% |
 |  [Google](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Google)    | 124   | [23](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AdvertisingTest/Repeat.list)   |   18.55% |
 |  [YouTube](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/YouTube)    | 14   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AdvertisingTest/Repeat.list)   |   14.29% |
