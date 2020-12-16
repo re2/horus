@@ -1,5 +1,5 @@
-# Luka每日自动签到
+# 美团买菜每日自动签到
 
-^https?:\/\/luka\-graphql\.ling\.cn\/graphql\/mobile\?operation=UserInfoWithPendingRobotQuery url script-request-header https://raw.githubusercontent.com/codetracer/horus/master/script/luka/luka_signin.js
+^https?:\/\/mall\.meituan\.com\/api\/c\/mallcoin\/checkIn\/getWeekCheckInProgressBar\? url script-request-header https://raw.githubusercontent.com/codetracer/horus/master/script/luka/luka_signin.js
 
-hostname = luka-graphql.ling.cn
+hostname = mall.meituan.com

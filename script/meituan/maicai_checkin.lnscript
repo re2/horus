@@ -1,6 +1,6 @@
-# Luka每日自动签到
+# 美团买菜自动签到
 
-http-request ^https?:\/\/luka\-graphql\.ling\.cn\/graphql\/mobile\?operation=UserInfoWithPendingRobotQuery requires-body=1,script-path=https://raw.https://raw.githubusercontent.com/codetracer/horus/master/script/luka/luka_signin.js,tag=Luka_获取cookie
-cron "30 0 * * *" script-path=https://raw.https://raw.githubusercontent.com/codetracer/horus/master/script/luka/luka_signin.js,timeout=30,tag=Luka_每日签到
+http-request ^https?:\/\/mall\.meituan\.com\/api\/c\/mallcoin\/checkIn\/getWeekCheckInProgressBar\? requires-body=0,script-path=https://raw.githubusercontent.com/codetracer/horus/master/script/meituan/maicai_checkin.js,tag=美团买菜_获取cookie
+cron "30 0 * * *" script-path=https://raw.githubusercontent.com/codetracer/horus/master/script/meituan/maicai_checkin.js,timeout=30,tag=美团买菜_每日签到
 
-hostname = luka-graphql.ling.cn
+hostname = mall.meituan.com
