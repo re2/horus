@@ -74,8 +74,8 @@ function CheckIn(cookie, t, queryString, uuid, userId){
     try{
       let cookie = magicJS.request.headers['Cookie'];
       let t = magicJS.request.headers['t'];
-      let userId = magicJS.request.url.match(/userCheckInNew\?.*userId=([^&]*)/)[1];
-      let uuid = magicJS.request.url.match(/userCheckInNew\?.*uuid=([^&]*)/)[1];
+      let userId = magicJS.request.url.match(/userId=([^&]*)/)[1];
+      let uuid = magicJS.request.url.match(/uuid=([^&]*)/)[1];
       let queryString = magicJS.request.url.match(/userCheckInNew\?(.*)/)[1];
       let hisCookie = magicJS.read(mallCookieKey);
       magicJS.write(mallTKey, t);
