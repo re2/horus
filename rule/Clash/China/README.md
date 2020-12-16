@@ -9,7 +9,7 @@
 
 
 
-最后检查时间：2020-12-16 20:33:25。
+最后检查时间：2020-12-16 20:42:43。
 
 ## 规则统计
 
@@ -50,6 +50,7 @@ China分流规则，与本项目其他分流规则重复情况统计。
 |  [SteamCN](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/SteamCN)    | 16   | [6](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/China/Repeat.list)   |   37.5% |
 |  [Game](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Game)    | 28   | [10](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/China/Repeat.list)   |   35.71% |
 |  [Microsoft](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Microsoft)    | 97   | [14](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/China/Repeat.list)   |   14.43% |
+|  [OneDriver](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/OneDriver)    | 17   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/China/Repeat.list)   |   5.88% |
 |  [Meitu](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Meitu)    | 4   | [4](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/China/Repeat.list)   |   100.0% |
 |  [NetEase](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/NetEase)    | 9   | [9](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/China/Repeat.list)   |   100.0% |
 |  [NetEaseMusic](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/NetEaseMusic)    | 44   | [9](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/China/Repeat.list)   |   20.45% |
