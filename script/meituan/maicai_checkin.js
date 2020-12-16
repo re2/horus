@@ -84,7 +84,7 @@ function CheckIn(cookie, t, queryString, uuid, userId){
       magicJS.write(mallQueryStringKey, queryString);
       if (cookie != hisCookie){
         magicJS.write(mallCookieKey, cookie);
-        magicJS.logInfo(`旧的Cookie：\n${hisAuth}\n新的Cookie：\n${auth}\nCookie不同，写入新的Cookie成功！`);
+        magicJS.logInfo(`旧的Cookie：\n${hisCookie}\n新的Cookie：\n${cookie}\nCookie不同，写入新的Cookie成功！`);
         magicJS.notify('🎈Cookie写入成功');
       }
       else{
