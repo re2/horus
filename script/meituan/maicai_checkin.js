@@ -1,14 +1,16 @@
 const scriptName = '美团买菜';
-const getCookieRegex = /^https?:\/\/mall\.meituan\.com\/api\/c\/mallcoin\/checkIn\/userCheckInNew\?/;
+const getCookieRegex = /^https?:\/\/mall\.meituan\.com\/api\/c\/mallcoin\/checkIn\/getWeekCheckInProgressBar\?/;
 const mallCookieKey = 'meituan_mall_cookie';
 const mallTKey = 'meituan_mall_t';
 const mallQueryStringKey = 'meituan_mall_querystring';
+const mallUUIDKey = 'meituan_mall_uuid';
+const mallUserIdKey = 'meituan_mall_userid';
 const mallBodyKey = 'meituan_mall_body';
 let magicJS = MagicJS(scriptName, "DEBUG");
 magicJS.unifiedPushUrl = magicJS.read('meituan_mall_unified_push_url') || magicJS.read('meituan_mall_unified_push_url');
 
 // 每日签到
-function CheckIn(cookie, t, queryString, body){
+function CheckIn(cookie, t, queryString, uuid, userId){
   return new Promise((resolve, reject)=>{
     let checkinOptions = {
       url: `https://mall.meituan.com/api/c/mallcoin/checkIn/userCheckInNew?${queryString}`,
@@ -24,7 +26,17 @@ function CheckIn(cookie, t, queryString, body){
         "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/6.5.7 miniprogram MMP/1.10.0.9.8",
         "t": t
       },
-      body: body
+      body: {
+        "userId": userId,
+        "riskMap": {
+          "platform": 13,
+          "app": 95,
+          "utm_term": "5.12.3",
+          "uuid": uuid,
+          "utm_medium": "tuanApp",
+          "fingerprint": ""
+        }
+      }
     }
     magicJS.post(checkinOptions, (err, resp, data)=>{
       if (err){
@@ -36,11 +48,11 @@ function CheckIn(cookie, t, queryString, body){
           magicJS.logDebug(`美团买菜签到响应结果：${data}`);
           let obj = typeof data === 'string'? JSON.parse(data) : data;
           if (obj.code === 0 && obj.data.result == true){
-            resolve(obj.data);
+            resolve([obj.data.rewardValue, obj.data.checkinCard]);
           }
           else if (obj.code === 0 && obj.data.result === false && obj.data.rewardValue === '-1'){
             magicJS.logWarning(`疑似重复签到，接口响应：${data}`);
-            resolve(obj.data);
+            resolve([obj.data.rewardValue, obj.data.checkinCard]);
           }
           else{
             magicJS.logError(`签到失败，响应异常：${data}`);
@@ -62,12 +74,15 @@ function CheckIn(cookie, t, queryString, body){
     try{
       let cookie = magicJS.request.headers['Cookie'];
       let t = magicJS.request.headers['t'];
+      let userId = magicJS.request.url.match(/userCheckInNew\?.*userId=([^&]*)/)[1];
+      let uuid = magicJS.request.url.match(/userCheckInNew\?.*uuid=([^&]*)/)[1];
       let queryString = magicJS.request.url.match(/userCheckInNew\?(.*)/)[1];
       let hisCookie = magicJS.read(mallCookieKey);
       magicJS.write(mallTKey, t);
-      magicJS.write(queryString, mallQueryStringKey);
+      magicJS.write(mallUserIdKey, userId);
+      magicJS.write(mallUUIDKey, uuid);
+      magicJS.write(mallQueryStringKey, queryString);
       if (cookie != hisCookie){
-        magicJS.write(mallCookieKey, cookie);
         magicJS.write(mallCookieKey, cookie);
         magicJS.logInfo(`旧的Cookie：\n${hisAuth}\n新的Cookie：\n${auth}\nCookie不同，写入新的Cookie成功！`);
         magicJS.notify('🎈Cookie写入成功');
@@ -87,23 +102,26 @@ function CheckIn(cookie, t, queryString, body){
     let cookie = magicJS.read(mallCookieKey);
     let t = magicJS.read(mallTKey);
     let queryString = magicJS.read(mallQueryStringKey);
-    let checkInBody = magicJS.read(mallBodyKey);
-    if (!t || !cookie || !queryString || !checkInBody){
+    let userId = magicJS.read(mallUserIdKey);
+    let uuid = magicJS.read(mallUUIDKey);
+    if (!t || !cookie || !queryString || !userId || !uuid){
       magicJS.logWarning('没有读取到Cookie，请先从App中获取一次Cookie！');
       magicJS.notify('❓没有读取到Cookie，请先从App中获取!!');
     }
     else{
-      let respBody = await magicJS.attempt(CheckIn(cookie, t, queryString, checkInBody));
-      if (respBody){
-        subTitle = signinErr;
-      }
-      else if (signinCoins){
-        subTitle = `🎉今日签到获得${signinCoins}个Luka币`;
-        // let [signinDays, coins, coinIncome, coinOutcome] = await SigninHomePage(cookie, auth);
-        // content = `本周期已签到${signinDays}天\n当前账户共${coins}个Luka币\n本日共收入${coinIncome}个，支出${coinOutcome}个Luka币`;
+      let [checkInErr, [rewardValue, checkinCard]] = await magicJS.attempt(CheckIn(cookie, t, queryString, uuid, userId));
+      if (checkInErr){
+        subTitle = '❌签到异常，请查阅日志';
       }
       else{
-        subTitle = '❌今日签到出现未知异常';
+        if (rewardValue != '-1'){
+          subTitle = `🎉${checkinCard.week}签到成功，获得买菜钱${rewardValue}元。`;
+          content = checkinCard.text;
+        }
+        else{
+          subTitle = `🎉${checkinCard.week}重复签到。`;
+          content = checkinCard.text;
+        }
       }
 
       // 通知
