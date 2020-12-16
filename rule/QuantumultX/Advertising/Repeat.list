@@ -1,7 +1,7 @@
 # NAME: Advertising 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-16 11:15:30
+# UPDATED: 2020-12-16 20:33:18
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # Advertising 与 Adobe 共 6 条规则重复
 HOST-SUFFIX,adbecrsl.com
@@ -106600,6 +106600,8 @@ HOST-SUFFIX,technorati.com
 HOST-SUFFIX,traffichaus.com
 HOST-SUFFIX,ubertags.com
 HOST-SUFFIX,xiti.com
+# Advertising 与 ByteDance 共 1 条规则重复
+HOST-SUFFIX,toutiaopage.com
 # Advertising 与 China 共 9 条规则重复
 HOST-SUFFIX,360in.com
 HOST-SUFFIX,71.am
@@ -110746,7 +110748,7 @@ HOST-SUFFIX,zs.dhl.de
 HOST-SUFFIX,zsi7.destinia.do
 HOST-SUFFIX,zyq2.destinia.sk
 HOST-SUFFIX,zz.bdstatic.com
-# Advertising 与 Proxy 共 85 条规则重复
+# Advertising 与 Proxy 共 87 条规则重复
 HOST-SUFFIX,24smile.org
 HOST-SUFFIX,2mdn.net
 HOST-SUFFIX,2o7.net
@@ -110755,6 +110757,7 @@ HOST-SUFFIX,aboluowang.com
 HOST-SUFFIX,admob.com
 HOST-SUFFIX,ads-twitter.com
 HOST-SUFFIX,adultfriendfinder.com
+HOST-SUFFIX,amplitude.com
 HOST-SUFFIX,anyporn.com
 HOST-SUFFIX,api.amplitude.com
 HOST-SUFFIX,app-measurement.com
@@ -110765,6 +110768,7 @@ HOST-SUFFIX,blogcatalog.com
 HOST-SUFFIX,bloglines.com
 HOST-SUFFIX,bongacams.com
 HOST-SUFFIX,boomtrain.com
+HOST-SUFFIX,crashlytics.com
 HOST-SUFFIX,dafahao.com
 HOST-SUFFIX,dajiyuan.com
 HOST-SUFFIX,ddns.name
@@ -110834,3 +110838,11 @@ HOST-SUFFIX,zhengwunet.org
 HOST-SUFFIX,zhuichaguoji.org
 # Advertising 与 Tencent 共 1 条规则重复
 HOST-SUFFIX,tencentmind.com
+# Advertising 与 360 共 1 条规则重复
+HOST-SUFFIX,qhupdate.com
+# Advertising 与 Alibaba 共 3 条规则重复
+HOST-SUFFIX,aliapp.org
+HOST-SUFFIX,mmstat.com
+HOST-SUFFIX,ucweb.com
+# Advertising 与 Baidu 共 1 条规则重复
+HOST-SUFFIX,baidustatic.com

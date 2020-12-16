@@ -1,7 +1,7 @@
 # NAME: AdvertisingTest 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-16 11:15:31
+# UPDATED: 2020-12-16 20:33:18
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 payload:
 # AdvertisingTest 与 Adobe 共 7 条规则重复
@@ -106201,6 +106201,8 @@ payload:
   - DOMAIN-SUFFIX,traffichaus.com
   - DOMAIN-SUFFIX,ubertags.com
   - DOMAIN-SUFFIX,xiti.com
+# AdvertisingTest 与 ByteDance 共 1 条规则重复
+  - DOMAIN-SUFFIX,toutiaopage.com
 # AdvertisingTest 与 China 共 9 条规则重复
   - DOMAIN-SUFFIX,360in.com
   - DOMAIN-SUFFIX,71.am
@@ -110393,7 +110395,7 @@ payload:
   - DOMAIN-SUFFIX,zsi7.destinia.do
   - DOMAIN-SUFFIX,zyq2.destinia.sk
   - DOMAIN-SUFFIX,zz.bdstatic.com
-# AdvertisingTest 与 Proxy 共 100 条规则重复
+# AdvertisingTest 与 Proxy 共 102 条规则重复
   - DOMAIN-SUFFIX,21sextury.com
   - DOMAIN-SUFFIX,24smile.org
   - DOMAIN-SUFFIX,2mdn.net
@@ -110403,6 +110405,7 @@ payload:
   - DOMAIN-SUFFIX,admob.com
   - DOMAIN-SUFFIX,ads-twitter.com
   - DOMAIN-SUFFIX,adultfriendfinder.com
+  - DOMAIN-SUFFIX,amplitude.com
   - DOMAIN-SUFFIX,anyporn.com
   - DOMAIN-SUFFIX,api.amplitude.com
   - DOMAIN-SUFFIX,api.mixpanel.com
@@ -110417,6 +110420,7 @@ payload:
   - DOMAIN-SUFFIX,boomtrain.com
   - DOMAIN-SUFFIX,cdn.segment.com
   - DOMAIN-SUFFIX,clien.net
+  - DOMAIN-SUFFIX,crashlytics.com
   - DOMAIN-SUFFIX,crittercism.com
   - DOMAIN-SUFFIX,dafahao.com
   - DOMAIN-SUFFIX,dajiyuan.com
@@ -110496,3 +110500,11 @@ payload:
   - DOMAIN-SUFFIX,zhuichaguoji.org
 # AdvertisingTest 与 Tencent 共 1 条规则重复
   - DOMAIN-SUFFIX,tencentmind.com
+# AdvertisingTest 与 360 共 1 条规则重复
+  - DOMAIN-SUFFIX,qhupdate.com
+# AdvertisingTest 与 Alibaba 共 3 条规则重复
+  - DOMAIN-SUFFIX,aliapp.org
+  - DOMAIN-SUFFIX,mmstat.com
+  - DOMAIN-SUFFIX,ucweb.com
+# AdvertisingTest 与 Baidu 共 1 条规则重复
+  - DOMAIN-SUFFIX,baidustatic.com

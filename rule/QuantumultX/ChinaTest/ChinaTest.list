@@ -1,14 +1,14 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-16 11:15:27
-# HOST-SUFFIX: 73058
-# USER-AGENT: 10
+# UPDATED: 2020-12-16 20:33:14
+# HOST-SUFFIX: 73063
+# USER-AGENT: 11
 # HOST: 8
 # IP-CIDR: 7
-# HOST-KEYWORD: 2
+# HOST-KEYWORD: 10
 # IP6-CIDR: 4
-# TOTAL: 73089
+# TOTAL: 73103
 HOST,analytics.strava.com,ChinaTest
 HOST,blzddist1-a.akamaihd.net,ChinaTest
 HOST,client.amplifi.com,ChinaTest
@@ -26212,6 +26212,7 @@ HOST-SUFFIX,fzyfan.net,ChinaTest
 HOST-SUFFIX,fzyfs.net,ChinaTest
 HOST-SUFFIX,fzzfwz.com,ChinaTest
 HOST-SUFFIX,fzzrlh.com,ChinaTest
+HOST-SUFFIX,g-cores.com,ChinaTest
 HOST-SUFFIX,g-emall.com,ChinaTest
 HOST-SUFFIX,g-film.com,ChinaTest
 HOST-SUFFIX,g-photography.net,ChinaTest
@@ -43474,6 +43475,7 @@ HOST-SUFFIX,micromouse.tech,ChinaTest
 HOST-SUFFIX,micropinion.net,ChinaTest
 HOST-SUFFIX,microrui.net,ChinaTest
 HOST-SUFFIX,microsoft.com,ChinaTest
+HOST-SUFFIX,microsoftonline.com,ChinaTest
 HOST-SUFFIX,microvcard.com,ChinaTest
 HOST-SUFFIX,microvirt.com,ChinaTest
 HOST-SUFFIX,microvoip.com,ChinaTest
@@ -46543,6 +46545,7 @@ HOST-SUFFIX,offcn.com,ChinaTest
 HOST-SUFFIX,offer-wow.com,ChinaTest
 HOST-SUFFIX,office-cn.net,ChinaTest
 HOST-SUFFIX,office-peixun.com,ChinaTest
+HOST-SUFFIX,office.com,ChinaTest
 HOST-SUFFIX,office26.com,ChinaTest
 HOST-SUFFIX,office365.com,ChinaTest
 HOST-SUFFIX,office68.com,ChinaTest
@@ -55252,6 +55255,7 @@ HOST-SUFFIX,speedcdns.com,ChinaTest
 HOST-SUFFIX,speednt.com,ChinaTest
 HOST-SUFFIX,speedpan.net,ChinaTest
 HOST-SUFFIX,speedsz.net,ChinaTest
+HOST-SUFFIX,speedtest.net,ChinaTest
 HOST-SUFFIX,speedws.info,ChinaTest
 HOST-SUFFIX,speedws.org,ChinaTest
 HOST-SUFFIX,speedycloud.cc,ChinaTest
@@ -72289,6 +72293,7 @@ HOST-SUFFIX,zoebon.com,ChinaTest
 HOST-SUFFIX,zoform.com,ChinaTest
 HOST-SUFFIX,zofund.com,ChinaTest
 HOST-SUFFIX,zohead.com,ChinaTest
+HOST-SUFFIX,zoho.com,ChinaTest
 HOST-SUFFIX,zoioo.com,ChinaTest
 HOST-SUFFIX,zoker.io,ChinaTest
 HOST-SUFFIX,zokogo.com,ChinaTest
@@ -73075,12 +73080,21 @@ HOST-SUFFIX,zzzyk.com,ChinaTest
 HOST-SUFFIX,zzzzaaaa.com,ChinaTest
 HOST-SUFFIX,zzzzhong.com,ChinaTest
 HOST-SUFFIX,zzzzmall.com,ChinaTest
+HOST-KEYWORD,-cn,ChinaTest
+HOST-KEYWORD,.tmall.com,ChinaTest
+HOST-KEYWORD,alicdn,ChinaTest
+HOST-KEYWORD,alipay,ChinaTest
+HOST-KEYWORD,aliyun,ChinaTest
+HOST-KEYWORD,baidu,ChinaTest
 HOST-KEYWORD,beplay,ChinaTest
+HOST-KEYWORD,officecdn,ChinaTest
 HOST-KEYWORD,speedtest,ChinaTest
+HOST-KEYWORD,taobao,ChinaTest
 USER-AGENT,%e4%bc%81%e4%b8%9a%e5%be%ae%e4%bf%a1*,ChinaTest
 USER-AGENT,%e4%bc%98%e9%85%b7*,ChinaTest
 USER-AGENT,%e7%bd%91%e6%98%93%e4%ba%91%e9%9f%b3%e4%b9%90*,ChinaTest
 USER-AGENT,hearthstone*,ChinaTest
+USER-AGENT,micromessenger client*,ChinaTest
 USER-AGENT,micromessenger%20client,ChinaTest
 USER-AGENT,neteasemusic*,ChinaTest
 USER-AGENT,paypal*,ChinaTest

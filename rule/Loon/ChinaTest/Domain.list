@@ -1,14 +1,14 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-16 11:15:28
-# DOMAIN-SUFFIX: 73058
-# USER-AGENT: 10
+# UPDATED: 2020-12-16 20:33:15
+# DOMAIN-SUFFIX: 73063
+# USER-AGENT: 11
 # DOMAIN: 8
 # IP-CIDR: 7
-# DOMAIN-KEYWORD: 2
+# DOMAIN-KEYWORD: 10
 # IP-CIDR6: 4
-# TOTAL: 73089
+# TOTAL: 73103
 analytics.strava.com
 blzddist1-a.akamaihd.net
 client.amplifi.com
@@ -26212,6 +26212,7 @@ speedtest.macpaw.com
 .fzyfs.net
 .fzzfwz.com
 .fzzrlh.com
+.g-cores.com
 .g-emall.com
 .g-film.com
 .g-photography.net
@@ -43474,6 +43475,7 @@ speedtest.macpaw.com
 .micropinion.net
 .microrui.net
 .microsoft.com
+.microsoftonline.com
 .microvcard.com
 .microvirt.com
 .microvoip.com
@@ -46543,6 +46545,7 @@ speedtest.macpaw.com
 .offer-wow.com
 .office-cn.net
 .office-peixun.com
+.office.com
 .office26.com
 .office365.com
 .office68.com
@@ -55252,6 +55255,7 @@ speedtest.macpaw.com
 .speednt.com
 .speedpan.net
 .speedsz.net
+.speedtest.net
 .speedws.info
 .speedws.org
 .speedycloud.cc
@@ -72289,6 +72293,7 @@ speedtest.macpaw.com
 .zoform.com
 .zofund.com
 .zohead.com
+.zoho.com
 .zoioo.com
 .zoker.io
 .zokogo.com

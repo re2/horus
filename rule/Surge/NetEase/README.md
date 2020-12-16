@@ -9,7 +9,7 @@
 
 
 
-最后检查时间：2020-12-16 11:15:32。
+最后检查时间：2020-12-16 20:33:20。
 
 ## 规则统计
 
@@ -28,8 +28,8 @@
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/China)    | 589   | [9](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NetEase/Repeat.list)   |   1.53% |
-|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaTest)    | 73089   | [9](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NetEase/Repeat.list)   |   0.01% |
+|  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/China)    | 618   | [9](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NetEase/Repeat.list)   |   1.46% |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaTest)    | 73103   | [9](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NetEase/Repeat.list)   |   0.01% |
 |  [NetEaseMusic](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/NetEaseMusic)    | 44   | [9](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/NetEase/Repeat.list)   |   20.45% |
 ## 配置说明
 
