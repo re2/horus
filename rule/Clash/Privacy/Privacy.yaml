@@ -1,11 +1,11 @@
 # NAME: Privacy
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-17 03:17:39
-# DOMAIN: 19
-# DOMAIN-SUFFIX: 2751
+# UPDATED: 2020-12-17 17:36:47
+# DOMAIN: 15
+# DOMAIN-SUFFIX: 2746
 # DOMAIN-KEYWORD: 3
-# TOTAL: 2773
+# TOTAL: 2764
 payload:
   - DOMAIN,data.mistat.xiaomi.com
   - DOMAIN,hm.baidu.com
@@ -17,15 +17,11 @@ payload:
   - DOMAIN,log.byteoversea.com
   - DOMAIN,log.tiktokv.com
   - DOMAIN,mc.51.la
-  - DOMAIN,mtrace.qq.com
   - DOMAIN,safebrowsing.googleapis.com
-  - DOMAIN,safebrowsing.urlsec.qq.com
   - DOMAIN,track.58.com
   - DOMAIN,tracking.intl.miui.com
   - DOMAIN,tracklog.58.com
-  - DOMAIN,wc.51.la
   - DOMAIN,xlog.snssdk.com
-  - DOMAIN,zgsdk.zhugeio.com
   - DOMAIN-SUFFIX,0sbm.consobaby.co.uk
   - DOMAIN-SUFFIX,0x1f4b0.com
   - DOMAIN-SUFFIX,1l-hit.mail.ru
@@ -1064,9 +1060,6 @@ payload:
   - DOMAIN-SUFFIX,gnar.grammarly.com
   - DOMAIN-SUFFIX,go.optifuze.com
   - DOMAIN-SUFFIX,google-analytics.com
-  - DOMAIN-SUFFIX,google-analytics.com/batch
-  - DOMAIN-SUFFIX,google-analytics.com/internal/collect
-  - DOMAIN-SUFFIX,google-analytics.com/r/collect
   - DOMAIN-SUFFIX,googletagmanager.com
   - DOMAIN-SUFFIX,graftpool.ovh
   - DOMAIN-SUFFIX,gramombird.com
@@ -1952,7 +1945,6 @@ payload:
   - DOMAIN-SUFFIX,stat.pravmir.ru
   - DOMAIN-SUFFIX,stat.prsmedia.fr
   - DOMAIN-SUFFIX,stat.pubhtml5.com
-  - DOMAIN-SUFFIX,stat.radar.imgsmail.ru
   - DOMAIN-SUFFIX,stat.ringier.sk
   - DOMAIN-SUFFIX,stat.rum.cdnvideo.ru
   - DOMAIN-SUFFIX,stat.russianfood.com
@@ -2229,7 +2221,6 @@ payload:
   - DOMAIN-SUFFIX,target.smi2.net
   - DOMAIN-SUFFIX,target.smi2.ru
   - DOMAIN-SUFFIX,target.ukr.net
-  - DOMAIN-SUFFIX,targeting.perso.aws.arc.pub
   - DOMAIN-SUFFIX,targeting.voxus.tv
   - DOMAIN-SUFFIX,tbe.tom.ru
   - DOMAIN-SUFFIX,tbskip.taobao.com

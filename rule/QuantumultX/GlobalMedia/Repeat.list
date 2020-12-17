@@ -1,32 +1,24 @@
 # NAME: GlobalMedia 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-17 03:17:40
+# UPDATED: 2020-12-17 17:36:48
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
-# GlobalMedia 与 Advertising 共 7 条规则重复
+# GlobalMedia 与 Advertising 共 5 条规则重复
 HOST-SUFFIX,app-measurement.com
 HOST-SUFFIX,braze.com
 HOST-SUFFIX,conviva.com
-HOST-SUFFIX,js-agent.newrelic.com
 HOST-SUFFIX,jwpcdn.com
-HOST-SUFFIX,logx.optimizely.com
 HOST-SUFFIX,socdm.com
-# GlobalMedia 与 AdvertisingTest 共 10 条规则重复
+# GlobalMedia 与 AdvertisingTest 共 6 条规则重复
 HOST-SUFFIX,app-measurement.com
 HOST-SUFFIX,braze.com
 HOST-SUFFIX,conviva.com
-HOST-SUFFIX,d9.flashtalking.com
 HOST-SUFFIX,gvt2.com
-HOST-SUFFIX,js-agent.newrelic.com
 HOST-SUFFIX,jwpcdn.com
-HOST-SUFFIX,logx.optimizely.com
-HOST-SUFFIX,mobileanalytics.us-east-1.amazonaws.com
 HOST-SUFFIX,socdm.com
-# GlobalMedia 与 AdvertisingLite 共 5 条规则重复
+# GlobalMedia 与 AdvertisingLite 共 3 条规则重复
 HOST-SUFFIX,app-measurement.com
 HOST-SUFFIX,conviva.com
-HOST-SUFFIX,js-agent.newrelic.com
-HOST-SUFFIX,logx.optimizely.com
 HOST-SUFFIX,socdm.com
 # GlobalMedia 与 AppleNews 共 3 条规则重复
 HOST,gspe1-ssl.ls.apple.com
@@ -97,8 +89,7 @@ HOST-SUFFIX,socdm.com
 USER-AGENT,niconico*
 # GlobalMedia 与 Speedtest 共 1 条规则重复
 HOST-SUFFIX,fast.com
-# GlobalMedia 与 Netflix 共 40 条规则重复
-HOST,netflix.com.edgesuite.net
+# GlobalMedia 与 Netflix 共 39 条规则重复
 HOST-SUFFIX,fast.com
 HOST-SUFFIX,netflix.com
 HOST-SUFFIX,netflix.net
@@ -157,7 +148,7 @@ HOST-SUFFIX,disneyplus.com
 HOST-SUFFIX,disneystreaming.com
 HOST-SUFFIX,dssott.com
 USER-AGENT,disney+*
-# GlobalMedia 与 Global 共 171 条规则重复
+# GlobalMedia 与 Global 共 162 条规则重复
 HOST,avodmp4s3ww-a.akamaihd.net
 HOST,bcbolt446c5271-a.akamaihd.net
 HOST,bcbolthboa-a.akamaihd.net
@@ -284,15 +275,6 @@ HOST-SUFFIX,viu.tv
 HOST-SUFFIX,youtu.be
 HOST-SUFFIX,youtube.com
 HOST-SUFFIX,ytimg.com
-IP-CIDR,108.175.32.0/20
-IP-CIDR,192.173.64.0/18
-IP-CIDR,198.38.96.0/19
-IP-CIDR,198.45.48.0/20
-IP-CIDR,23.246.0.0/18
-IP-CIDR,37.77.184.0/21
-IP-CIDR,45.57.0.0/17
-IP-CIDR,64.120.128.0/17
-IP-CIDR,66.197.128.0/17
 USER-AGENT,abematv*
 USER-AGENT,all4*
 USER-AGENT,anime*

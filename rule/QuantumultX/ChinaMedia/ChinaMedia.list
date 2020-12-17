@@ -1,14 +1,13 @@
 # NAME: ChinaMedia
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-17 03:17:37
-# HOST: 3
+# UPDATED: 2020-12-17 17:36:45
+# HOST: 2
 # USER-AGENT: 22
-# HOST-SUFFIX: 44
+# HOST-SUFFIX: 43
 # HOST-KEYWORD: 2
-# IP-CIDR: 3
-# TOTAL: 74
-HOST,aqqmusic.tc.qq.com,ChinaMedia
+# IP-CIDR: 2
+# TOTAL: 71
 HOST,cache.video.iqiyi.com,ChinaMedia
 HOST,upos-hz-mirrorakam.akamaized.net,ChinaMedia
 HOST-SUFFIX,56.com,ChinaMedia
@@ -49,7 +48,6 @@ HOST-SUFFIX,soku.com,ChinaMedia
 HOST-SUFFIX,v-56.com,ChinaMedia
 HOST-SUFFIX,v.smtcdns.com,ChinaMedia
 HOST-SUFFIX,video.qq.com,ChinaMedia
-HOST-SUFFIX,vv.video.qq.com,ChinaMedia
 HOST-SUFFIX,xiami.com,ChinaMedia
 HOST-SUFFIX,xiami.net,ChinaMedia
 HOST-SUFFIX,y.qq.com,ChinaMedia
@@ -79,6 +77,5 @@ USER-AGENT,tencentmidasconnect*,ChinaMedia
 USER-AGENT,walkman*,ChinaMedia
 USER-AGENT,xiami*,ChinaMedia
 USER-AGENT,youku*,ChinaMedia
-IP-CIDR,101.224.0.0/13,ChinaMedia
-IP-CIDR,101.227.0.0/16,ChinaMedia
-IP-CIDR,119.176.0.0/12,ChinaMedia
+IP-CIDR,1709178880,ChinaMedia
+IP-CIDR,2008023040,ChinaMedia
