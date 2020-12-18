@@ -10,11 +10,11 @@
 
 白名单分流规则中含有URL-REGEX类型，此类的规则对于HTTPS请求需要MITM使用才能生效。程序已默认根据正则推导一份MITM的模块/复写/插件在当前分流规则的目录中，便于参考搭配使用。
 
-最后检查时间：2020-12-18 14:58:38。
+最后检查时间：2020-12-18 15:07:40。
 
 ## 规则统计
 
-总计规则：22 条。
+总计规则：23 条。
 
 各类型规则统计：
 
@@ -22,7 +22,7 @@
 | ---- | ---- |
 | DOMAIN-SUFFIX | 4 |
 | DOMAIN-KEYWORD | 1 |
-| DOMAIN | 11 |
+| DOMAIN | 12 |
 | URL-REGEX | 2 |
 | USER-AGENT | 4 |
 ## 重复统计
@@ -33,6 +33,7 @@
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
+|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingLite)    | 35966   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WhiteList/Repeat.list)   |   0.0% |
 |  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/China)    | 612   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WhiteList/Repeat.list)   |   0.16% |
 |  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaTest)    | 72801   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WhiteList/Repeat.list)   |   0.0% |
 ### 特别说明
