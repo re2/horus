@@ -1,11 +1,11 @@
 # NAME: Privacy
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-18 15:07:34
-# DOMAIN: 18
+# UPDATED: 2020-12-18 16:45:50
+# DOMAIN: 19
 # DOMAIN-SUFFIX: 2746
 # DOMAIN-KEYWORD: 3
-# TOTAL: 2767
+# TOTAL: 2768
 data.mistat.xiaomi.com
 hm.baidu.com
 hmma.baidu.com
@@ -14,6 +14,7 @@ log-hl-ipv6.snssdk.com
 log-lq.snssdk.com
 log-va.tiktokv.com
 log.byteoversea.com
+log.tiktokv.com
 mc.51.la
 mtrace.qq.com
 safebrowsing.googleapis.com

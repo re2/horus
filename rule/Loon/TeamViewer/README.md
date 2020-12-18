@@ -9,7 +9,7 @@
 
 
 
-最后检查时间：2020-12-18 15:07:45。
+最后检查时间：2020-12-18 16:45:59。
 
 ## 规则统计
 
@@ -30,7 +30,7 @@ TeamViewer分流规则，与本项目其他分流规则重复情况统计。
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [BlackList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/BlackList)    | 770   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/TeamViewer/Repeat.list)   |   0.13% |
+|  [BlackList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/BlackList)    | 771   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/TeamViewer/Repeat.list)   |   0.13% |
 |  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/China)    | 612   | [5](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/TeamViewer/Repeat.list)   |   0.82% |
 |  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaTest)    | 72801   | [5](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/TeamViewer/Repeat.list)   |   0.01% |
 |  [Telegram](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Telegram)    | 14   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/TeamViewer/Repeat.list)   |   7.14% |
