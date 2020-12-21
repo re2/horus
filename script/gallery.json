@@ -49,16 +49,8 @@
       "addons":"https://raw.githubusercontent.com/codetracer/horus/master/script/wanda/wanda_checkin.qxrewrite"
     },
     {
-      "config":"00 3 * * * https://raw.githubusercontent.com/codetracer/horus/master/script/zhihu/zhihu_plus.js, tag=知乎助手, img-url=https://raw.githubusercontent.com/codetracer/horus/master/script/zhihu/zhihu.png, enabled=true",
-      "addons":"https://raw.githubusercontent.com/codetracer/horus/master/script/zhihu/zhihu_plus.qxrewrite"
-    },
-    {
-      "config":"00 3 * * * https://raw.githubusercontent.com/codetracer/horus/master/script/bilibili/bilibili_plus.js, tag=BiliBili去广告, img-url=https://raw.githubusercontent.com/codetracer/horus/master/script/bilibili/bilibili.png, enabled=true",
-      "addons":"https://raw.githubusercontent.com/codetracer/horus/master/script/zhihu/zhihu_lite.qxrewrite"
-    },
-    {
-      "config":"00 3 * * * https://raw.githubusercontent.com/codetracer/horus/master/script/smzdm/smzdm_remove_ads.js, tag=值得买去广告, img-url=https://raw.githubusercontent.com/codetracer/horus/master/script/smzdm/smzdm.png, enabled=true",
-      "addons":"https://raw.githubusercontent.com/codetracer/horus/master/script/smzdm/smzdm_remove_ads.qxrewrite"
+      "config":"30 0 * * * https://raw.githubusercontent.com/codetracer/horus/master/script/meituan/maicai_checkin.js, tag=美团买菜, img-url=https://raw.githubusercontent.com/codetracer/horus/master/script/meituan/maicai.png, enabled=true",
+      "addons":"https://raw.githubusercontent.com/codetracer/horus/master/script/meituan/maicai_checkin.qxrewrite"
     }
   ],
   "description":"Script gallery"

@@ -79,16 +79,13 @@ https://github.com/codetracer/horus/tree/master/rewrite
 | [饿了么](https://github.com/codetracer/horus/tree/master/script/eleme) | 每日自动领取会员任务                                         | 正常     |
 | [Fa米家](https://github.com/codetracer/horus/tree/master/script/famijia) | 每日自动签到                                                 | 正常     |
 | [Luka](https://github.com/codetracer/horus/tree/master/script/luka) | 每日自动签到                                                 | 正常     |
+| 美团买菜                                                     | 每日自动签到                                                 | 正常     |
 
 #### Quantumult X Gallery
 
 部分脚本已配置为Quantumult X Gallery。
 
 地址： https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/gallery.json
-
-为简化部署，部分去广告的脚本也配置到Gallery中，需要注意的是，对于此类脚本，不要点击绿色的“加号”，而应该点击图标后，选择“添加附加组件”。
-
-![](https://raw.githubusercontent.com/codetracer/horus/master/image/Gallery.png)
 
 ### 其他来源
 
