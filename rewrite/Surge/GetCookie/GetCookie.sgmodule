@@ -1,0 +1,20 @@
+#!name=获取签到脚本Cookie
+#!desc=最后更新时间 2020-12-22 00:04:33
+#!author=blackmatrix7
+#!github=https://github.com/blackmatrix7/ios_rule_script
+#!rewrite=9
+#!mitm=8
+
+[URL Rewrite]
+smzdm_checkin.js = type=http-request,requires-body=1,script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_checkin.js,pattern=^https?:\/\/user-api\.smzdm\.com\/user_login\/normal$
+smzdm_checkin.js = type=http-request,script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_checkin.js,pattern=^https?:\/\/zhiyou\.smzdm\.com\/user$
+万达电影_获取ActivityCode = type=http-request,requires-body=1,script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/wanda/wanda_checkin.js,pattern=https?:\/\/cms\-activity\-api\-prd\-mx\.wandafilm\.com\/activity\/activity_count\.api\?activityCode=(\d*)
+万达电影_获取cookie = type=http-request,requires-body=1,script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/wanda/wanda_checkin.js,pattern=https?:\/\/user-api-prd-mx\.wandafilm\.com\/user\/query_user_level\.api
+滴滴出行_获取GroupId = type=http-response,requires-body=1,script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/didichuxing/didi_checkin.js,pattern=^https?:\/\/bosp-api\.xiaojukeji\.com\/wechat\/benefit\/public\/v2\/index
+滴滴出行_获取LotteryId = type=http-request,script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/didichuxing/didi_checkin.js,pattern=^https?:\/\/bosp-api\.xiaojukeji\.com\/bosp-api\/lottery\/info?.*lid=([^&]*)
+滴滴出行_获取Ticket = type=http-request,script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/didichuxing/didi_checkin.js,pattern=^https?:\/\/as\.xiaojukeji\.com\/ep\/as\/toggles\?.*location_cityid=(\d+).*&ticket=([^&]*)
+滴滴出行_获取Token = type=http-request,script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/didichuxing/didi_checkin.js,pattern=^https?:\/\/api\.didialift\.com\/beatles\/userapi\/user\/user\/getuserinfo?.*city_id=(\d+).*token=([^&]*)
+滴滴金融_获取ActivityId与ChannelId = type=http-response,requires-body=1,script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/didichuxing/didi_checkin.js,pattern=^https?:\/\/pay\.diditaxi\.com\.cn\/web_wallet\/v2\/wallet\/home
+
+[MITM]
+hostname = %APPEND% api.didialift.com,as.xiaojukeji.com,bosp-api.xiaojukeji.com,cms-activity-api-prd-mx.wandafilm.com,pay.diditaxi.com.cn,user-api-prd-mx.wandafilm.com,user-api.smzdm.com,zhiyou.smzdm.com
