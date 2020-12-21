@@ -135,6 +135,19 @@ let magicJS = MagicJS(scriptName, 'INFO');
           magicJS.logError(`追番去广告出现异常：${err}`);
         }
         break;
+      // 动态去广告
+      case /https?:\/\/api\.bilibili\.com\/pgc\/season\/app\/related\/recommend\?/.test(magicJS.request.url):
+        try{
+          let obj = JSON.parse(magicJS.response.body);
+          let cards = obj.data.cards.filter(e => {return true? e.hasOwnProperty('display'): false});
+          obj.data.cards = cards;
+          body = JSON.stringify(obj);
+        }
+        catch (err){
+          magicJS.logError(`动态去广告出现异常：${err}`);
+        }
+        break;
+        
       default:
         magicJS.logWarning('触发意外的请求处理，请确认脚本或复写配置正常。');
         break;
