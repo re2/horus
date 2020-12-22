@@ -113,7 +113,7 @@ function GetWebCookie() {
 function WebGetCurrentInfoNewVersion(smzdmCookie){
   return new Promise(resolve =>{
     let getUserPointOptions ={
-      url : 'https://zhiyou.smzdm.com/user/point/',
+      url : 'https://zhiyou.smzdm.com/user/exp/',
       headers : {
         'Cookie': ''
       },
