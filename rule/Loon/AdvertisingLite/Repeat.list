@@ -1,15 +1,16 @@
 # NAME: AdvertisingLite 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-23 03:27:25
+# UPDATED: 2020-12-23 23:07:37
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # AdvertisingLite 与 Adobe 共 4 条规则重复
 DOMAIN-SUFFIX,adbecrsl.com
 DOMAIN-SUFFIX,demdex.net
 DOMAIN-SUFFIX,newrelic.com
 DOMAIN-SUFFIX,omtrdc.net
-# AdvertisingLite 与 Advertising 共 16101 条规则重复
+# AdvertisingLite 与 Advertising 共 16067 条规则重复
 DOMAIN,0.up.qingdaonews.com
+DOMAIN,01.yd-jun.com
 DOMAIN,0koryu0.easter.ne.jp
 DOMAIN,0nso0tq1sa4.ml
 DOMAIN,1.up.qingdaonews.com
@@ -18,7 +19,6 @@ DOMAIN,12648afd00d93.com
 DOMAIN,14119276be0852.com
 DOMAIN,1543b1db8a0825760.com
 DOMAIN,16e2ae8f200d975b.com
-DOMAIN,1e122c580cf.com
 DOMAIN,2.up.qingdaonews.com
 DOMAIN,21b507a044d841b.com
 DOMAIN,22a12efe35e3c2f.com
@@ -54,7 +54,6 @@ DOMAIN,activity.windows.com
 DOMAIN,acwyoynw.com
 DOMAIN,ad-channel.woyeahgo.tk
 DOMAIN,ad.10010.com
-DOMAIN,ad.21cn.com
 DOMAIN,ad.9tv.co.il
 DOMAIN,ad.getfond.info
 DOMAIN,ad.hori-gz.com
@@ -64,16 +63,11 @@ DOMAIN,adclick.lv
 DOMAIN,adcoin.click
 DOMAIN,adfile.hori-gz.com
 DOMAIN,adlock.in
-DOMAIN,admarketing.yahoo.net
 DOMAIN,adobeflashupdate14.com
 DOMAIN,ads-4u.com
-DOMAIN,ads-img-qc.xhscdn.com
 DOMAIN,ads-video-qc.xhscdn.com
-DOMAIN,ads.auctions.yahoo.com
-DOMAIN,ads.chinadaily.com.cn
 DOMAIN,ads.data.pplive.com
 DOMAIN,ads.finance.yahoo.com
-DOMAIN,ads.yahoo.de
 DOMAIN,adserving.favorit-network.com
 DOMAIN,adv.ettoday.net
 DOMAIN,adv.riza.it
@@ -134,21 +128,17 @@ DOMAIN,backup.customstat.video.51togic.com
 DOMAIN,bannersnack.com
 DOMAIN,bannersnack.net
 DOMAIN,bavftcgoapga.com
-DOMAIN,bbs.hori-gz.com
 DOMAIN,bde.be
-DOMAIN,be-funk.com
 DOMAIN,beacon2.indieclicktv.com
 DOMAIN,beap.gemini.yahoo.com
 DOMAIN,beespace.com.ua
 DOMAIN,beholder.xyz
-DOMAIN,beineiros.xyz
 DOMAIN,beldiplomcom.75.com1.ru
 DOMAIN,best100catfights.com
 DOMAIN,bestcontentpc.top
 DOMAIN,bezproudoff.cz
 DOMAIN,bidverdrs.com
 DOMAIN,bijscode.com
-DOMAIN,bilbaopisos.es
 DOMAIN,binchoise.ml
 DOMAIN,bizzibeans.net
 DOMAIN,blacknite.eu
@@ -164,11 +154,9 @@ DOMAIN,broadtech.co
 DOMAIN,btovopyov.com
 DOMAIN,buffalogoesout.com
 DOMAIN,buildviet.info
-DOMAIN,business-cdn.shouji.sogou.com
 DOMAIN,buzina.xyz
 DOMAIN,by98.com
 DOMAIN,byvue.com
-DOMAIN,bzvimexwdle.com
 DOMAIN,c75b9ac5103e5d125b8.com
 DOMAIN,calcch.com
 DOMAIN,callingcardsinstantly.com
@@ -188,7 +176,6 @@ DOMAIN,ciclismovalenciano.com
 DOMAIN,circularhub.com
 DOMAIN,citymediamagazin.hu
 DOMAIN,classicspeedway.com
-DOMAIN,clente.com
 DOMAIN,cleverusenet.club
 DOMAIN,click.absoluteagency.com
 DOMAIN,clkcln.com
@@ -201,7 +188,6 @@ DOMAIN,cmllk2.info
 DOMAIN,coagricu.net
 DOMAIN,coaha.frenchgerlemanelectric.com
 DOMAIN,coffeol.com
-DOMAIN,com-878979.info
 DOMAIN,com-online.website
 DOMAIN,concede.fmtlib.net
 DOMAIN,conds.ru
@@ -250,14 +236,12 @@ DOMAIN,dianepiette.co.uk
 DOMAIN,dieutribenhkhop.com
 DOMAIN,dimarsbg.com
 DOMAIN,dimenal.com.br
-DOMAIN,dimsnetwork.com
 DOMAIN,direct.wap.zol.com.cn
 DOMAIN,directxex.com
 DOMAIN,discvr.net
 DOMAIN,ditds.xyz
 DOMAIN,divine.lunarbreeze.com
 DOMAIN,dl.downf468.com
-DOMAIN,dns.jd.com
 DOMAIN,dntrax.com
 DOMAIN,dofeb.frenchgerlemanelectric.com
 DOMAIN,dogwuyrspt.com
@@ -276,9 +260,7 @@ DOMAIN,download.grandcloud.cn
 DOMAIN,downloads-whatsapp.com
 DOMAIN,dp-medien.eu
 DOMAIN,dradvice.in
-DOMAIN,dss0.bdstatic.com
 DOMAIN,e.tf.360.cn
-DOMAIN,earthcontrolsys.com
 DOMAIN,echoa.randbinternationaltravel.com
 DOMAIN,edf.fr.kfskz.com
 DOMAIN,eeps.me
@@ -297,7 +279,6 @@ DOMAIN,f.aty.sohu.com
 DOMAIN,f.gj555.net
 DOMAIN,f11.baidu.com
 DOMAIN,f12.baidu.com
-DOMAIN,fabolele.com
 DOMAIN,fadeatrighlet.com
 DOMAIN,falconsafe.com.sg
 DOMAIN,fapping.club
@@ -305,6 +286,7 @@ DOMAIN,faq-candrive.tk
 DOMAIN,fbku.com
 DOMAIN,fcanr.tracking.miui.com
 DOMAIN,fehsnwiem.com
+DOMAIN,femalewrestlingnow.com
 DOMAIN,fgawegwr.chez.com
 DOMAIN,fhserve.com
 DOMAIN,files.dsnetwb.com
@@ -313,7 +295,6 @@ DOMAIN,finnhair.co.uk
 DOMAIN,firehouse651.com
 DOMAIN,flashsavant.com
 DOMAIN,flix360.com
-DOMAIN,flowplus.meituan.net
 DOMAIN,foastail.net
 DOMAIN,fondazioneciampi.org
 DOMAIN,fonderredd.info
@@ -338,7 +319,6 @@ DOMAIN,gloorajo.com
 DOMAIN,go-quicky.com
 DOMAIN,gogetgorgeous.com
 DOMAIN,grand-ads.com
-DOMAIN,gredinatib.org
 DOMAIN,greerlies.pro
 DOMAIN,greev.randbinternationaltravel.com
 DOMAIN,grtbzrsndrrtsb.com
@@ -430,6 +410,7 @@ DOMAIN,kadman.net
 DOMAIN,kaizentraffic.com
 DOMAIN,kalantzis.net
 DOMAIN,kapcotool.com
+DOMAIN,kassabravo.com
 DOMAIN,kingsoft.com
 DOMAIN,kliklink.ru
 DOMAIN,kollagen4you.se
@@ -440,7 +421,6 @@ DOMAIN,letshareus.com
 DOMAIN,lexu.goggendorf.at
 DOMAIN,limbik.io
 DOMAIN,linkforme.tk
-DOMAIN,linkmyc.com
 DOMAIN,linkwelove.com
 DOMAIN,linkwelove.it
 DOMAIN,lite.hupu.com
@@ -448,9 +428,7 @@ DOMAIN,livechatflirt.com
 DOMAIN,livere.com
 DOMAIN,liversely.net
 DOMAIN,loft2126.dedicatedpanel.com
-DOMAIN,log.51wnl-cq.com
 DOMAIN,log.ad.xiaomi.com
-DOMAIN,log.qvb.qcloud.com
 DOMAIN,logs.datadoghq.com
 DOMAIN,logsss.com
 DOMAIN,lp.musicboxnewtab.com
@@ -487,8 +465,6 @@ DOMAIN,ministerio-publi.info
 DOMAIN,mirandolasrl.it
 DOMAIN,mktmobi.com
 DOMAIN,mmg.aty.sohu.com
-DOMAIN,mms.hori-gz.com
-DOMAIN,morenews3.net
 DOMAIN,mowithlerendu.pro
 DOMAIN,mp3vicio.com
 DOMAIN,ms11.net
@@ -545,6 +521,7 @@ DOMAIN,online-media24.de
 DOMAIN,onlinecashmethod.com
 DOMAIN,onpato.ru
 DOMAIN,onrio.com.br
+DOMAIN,oozrsmpieq.com
 DOMAIN,oprahsearch.com
 DOMAIN,optiker-michelmann.de
 DOMAIN,optimization-methods.com
@@ -600,7 +577,6 @@ DOMAIN,privatkunden.datapipe9271.com
 DOMAIN,prjcq.com
 DOMAIN,prodtraff.com
 DOMAIN,progettocrea.org
-DOMAIN,promo-market.net
 DOMAIN,promotions.sportsbet.com.au
 DOMAIN,prorodeosportmed.com
 DOMAIN,protect-your-privacy.net
@@ -619,7 +595,6 @@ DOMAIN,quantomcoding.com
 DOMAIN,quickcash-system.com
 DOMAIN,quotidiennokoue.com
 DOMAIN,qzxcvb.m.zwdu.com
-DOMAIN,r.51wnl-cq.com
 DOMAIN,r6.mo.baidu.com
 DOMAIN,rainbowtgx.com
 DOMAIN,ranklink.de
@@ -627,7 +602,6 @@ DOMAIN,rat-on-subway.mhwang.com
 DOMAIN,rbxtrk.com
 DOMAIN,rcads.net
 DOMAIN,rckpwmhqz.com
-DOMAIN,rcscaxhjmm.com
 DOMAIN,reallifecam.com
 DOMAIN,reclamus.com
 DOMAIN,redirections.site
@@ -642,10 +616,10 @@ DOMAIN,retainguaninefluorite.info
 DOMAIN,rev.da.netease.com
 DOMAIN,reviewdollars.com
 DOMAIN,rgadvert.com
-DOMAIN,rocksresort.com.au
 DOMAIN,roks.ua
 DOMAIN,roulettebotplus.com
 DOMAIN,rsiuk.co.uk
+DOMAIN,rumimorigu.info
 DOMAIN,runslin.com
 DOMAIN,rupor.info
 DOMAIN,s.lianmeng.360.cn
@@ -665,7 +639,6 @@ DOMAIN,scaner-figy.tk
 DOMAIN,scaner-or.tk
 DOMAIN,scaner-sbite.tk
 DOMAIN,scaner-sboom.tk
-DOMAIN,scdsfdfgdr12.tk
 DOMAIN,scriptall.gq
 DOMAIN,search.video.iqiyi.com
 DOMAIN,securesoft.info
@@ -682,10 +655,9 @@ DOMAIN,settings-win.data.microsoft.com
 DOMAIN,sex-journey.com
 DOMAIN,sexyoilwrestling.com
 DOMAIN,sexyster.tk
-DOMAIN,sf3-ttcdn-tos.pstatp.com
-DOMAIN,sf6-ttcdn-tos.pstatp.com
 DOMAIN,sgs.us.com
 DOMAIN,shalseey.com
+DOMAIN,shangmiss.wap.xsbiquge.com
 DOMAIN,shop17741405.m.youzan.com
 DOMAIN,shopeasy.by
 DOMAIN,show.1688.com
@@ -733,7 +705,6 @@ DOMAIN,tabex.sopharma.bg
 DOMAIN,targetctracker.com
 DOMAIN,tatami-solutions.com
 DOMAIN,tavuks.com
-DOMAIN,tbs.imtt.qq.com
 DOMAIN,tcrwharen.homepage.t-online.de
 DOMAIN,teameda.comcastbiz.net
 DOMAIN,teameda.net
@@ -744,10 +715,10 @@ DOMAIN,testtralala.xorg.pl
 DOMAIN,thcextractor.com
 DOMAIN,thcvaporizer.com
 DOMAIN,thefxarchive.com
+DOMAIN,thekat.nl
 DOMAIN,theweatherspace.com
 DOMAIN,thewinesteward.com
 DOMAIN,thogethoffic.co
-DOMAIN,tj.playcvn.com
 DOMAIN,tjoomo.com
 DOMAIN,tk-gregoric.si
 DOMAIN,tmotbq.xyz
@@ -765,7 +736,6 @@ DOMAIN,triangleservicesltd.com
 DOMAIN,tripedrated.xyz
 DOMAIN,troytempest.com
 DOMAIN,tscl.com.bd
-DOMAIN,tu.cvnad.com
 DOMAIN,tvduznfdgim.com
 DOMAIN,tvzhe.com
 DOMAIN,typeofmarijuana.com
@@ -787,7 +757,6 @@ DOMAIN,us.vortex-win.data.microsoft.com
 DOMAIN,users173.lolipop.jp
 DOMAIN,v.aty.sohu.com
 DOMAIN,v.tf.360.cn
-DOMAIN,v2.gdt.qq.com
 DOMAIN,veehdmymwvvexv.com
 DOMAIN,vernoblisk.com
 DOMAIN,vette-porno.nl
@@ -801,10 +770,8 @@ DOMAIN,vkont.bos.ru
 DOMAIN,vm.aty.sohu.com
 DOMAIN,vmay.com
 DOMAIN,voluumtrk3.com
-DOMAIN,vr.gdt.qq.com
 DOMAIN,vural-electronic.com
 DOMAIN,vvps.ws
-DOMAIN,wahyufian.zoomshare.com
 DOMAIN,warco.pl
 DOMAIN,wardparser.info
 DOMAIN,watson.ppe.telemetry.microsoft.com
@@ -814,7 +781,6 @@ DOMAIN,wbsadsdel2.com
 DOMAIN,wc0x83ghk.homepage.t-online.de
 DOMAIN,webcashmaker.com
 DOMAIN,webcom-software.ws
-DOMAIN,webkatalog.li
 DOMAIN,webordermanager.com
 DOMAIN,websalesusa.com
 DOMAIN,websearchers.net
@@ -948,6 +914,7 @@ DOMAIN,www.technix.it
 DOMAIN,www.thesparkmachine.com
 DOMAIN,www.tiergestuetzt.de
 DOMAIN,www.toochattoo.com
+DOMAIN,www.torgi.kz
 DOMAIN,www.tpt.edu.in
 DOMAIN,www.tvnews.or.kr
 DOMAIN,www.two-of-us.at
@@ -966,10 +933,10 @@ DOMAIN,www.xiruz.kit.net
 DOMAIN,www.ywvcomputerprocess.info
 DOMAIN,www.zatzy.com
 DOMAIN,www.zyxyfy.com
-DOMAIN,wxa.wxs.qq.com
 DOMAIN,wxbrdppfpr.com
 DOMAIN,x.mochiads.com
 DOMAIN,xdtraffic.com
+DOMAIN,xiamiss.wap.xsbiquge.com
 DOMAIN,xindalawyer.com
 DOMAIN,xn--18225-zta.biz
 DOMAIN,xnxx.com
@@ -984,7 +951,6 @@ DOMAIN,youtibe.com
 DOMAIN,youtuhe.com
 DOMAIN,yql.yahoo.com
 DOMAIN,yumekin.com
-DOMAIN,yxhd.hori-gz.com
 DOMAIN,zafrc.5780.site
 DOMAIN,zaloapp.com
 DOMAIN,zanyx.club
@@ -16110,8 +16076,9 @@ URL-REGEX,^https?:\/\/www\.zybang\.com\/adx\/
 URL-REGEX,^https?:\/\/xyst\.yuanfudao\.com\/iphone\/splashesV\d
 URL-REGEX,^https?:\/\/xyz\.cnki\.net\/resourcev7\/api\/manualpush\/SlidsList$
 URL-REGEX,^https?:\/\/yxyapi\d\.drcuiyutao\.com\/yxy-api-gateway\/api\/json\/advert\/
-# AdvertisingLite 与 AdvertisingTest 共 15821 条规则重复
+# AdvertisingLite 与 AdvertisingTest 共 15798 条规则重复
 DOMAIN,0.up.qingdaonews.com
+DOMAIN,01.yd-jun.com
 DOMAIN,0koryu0.easter.ne.jp
 DOMAIN,0nso0tq1sa4.ml
 DOMAIN,1.up.qingdaonews.com
@@ -16120,7 +16087,6 @@ DOMAIN,12648afd00d93.com
 DOMAIN,14119276be0852.com
 DOMAIN,1543b1db8a0825760.com
 DOMAIN,16e2ae8f200d975b.com
-DOMAIN,1e122c580cf.com
 DOMAIN,2.up.qingdaonews.com
 DOMAIN,21b507a044d841b.com
 DOMAIN,22a12efe35e3c2f.com
@@ -16153,7 +16119,6 @@ DOMAIN,accede.site
 DOMAIN,activity.windows.com
 DOMAIN,acwyoynw.com
 DOMAIN,ad-channel.woyeahgo.tk
-DOMAIN,ad.21cn.com
 DOMAIN,ad.9tv.co.il
 DOMAIN,ad.getfond.info
 DOMAIN,ad.hori-gz.com
@@ -16164,11 +16129,8 @@ DOMAIN,adfile.hori-gz.com
 DOMAIN,adlock.in
 DOMAIN,adobeflashupdate14.com
 DOMAIN,ads-4u.com
-DOMAIN,ads-img-qc.xhscdn.com
 DOMAIN,ads-video-qc.xhscdn.com
-DOMAIN,ads.chinadaily.com.cn
 DOMAIN,ads.finance.yahoo.com
-DOMAIN,ads.yahoo.de
 DOMAIN,adserving.favorit-network.com
 DOMAIN,adv.riza.it
 DOMAIN,advancetec.co.uk
@@ -16209,19 +16171,15 @@ DOMAIN,babos.scrapping.cc
 DOMAIN,backup.customstat.video.51togic.com
 DOMAIN,bannersnack.net
 DOMAIN,bavftcgoapga.com
-DOMAIN,bbs.hori-gz.com
 DOMAIN,bde.be
-DOMAIN,be-funk.com
 DOMAIN,beacon2.indieclicktv.com
 DOMAIN,beespace.com.ua
 DOMAIN,beholder.xyz
-DOMAIN,beineiros.xyz
 DOMAIN,beldiplomcom.75.com1.ru
 DOMAIN,best100catfights.com
 DOMAIN,bestcontentpc.top
 DOMAIN,bezproudoff.cz
 DOMAIN,bijscode.com
-DOMAIN,bilbaopisos.es
 DOMAIN,binchoise.ml
 DOMAIN,bizzibeans.net
 DOMAIN,blacknite.eu
@@ -16236,10 +16194,8 @@ DOMAIN,broadtech.co
 DOMAIN,btovopyov.com
 DOMAIN,buffalogoesout.com
 DOMAIN,buildviet.info
-DOMAIN,business-cdn.shouji.sogou.com
 DOMAIN,buzina.xyz
 DOMAIN,by98.com
-DOMAIN,bzvimexwdle.com
 DOMAIN,c75b9ac5103e5d125b8.com
 DOMAIN,callingcardsinstantly.com
 DOMAIN,calltrk.com
@@ -16254,7 +16210,6 @@ DOMAIN,ciclismovalenciano.com
 DOMAIN,circularhub.com
 DOMAIN,citymediamagazin.hu
 DOMAIN,classicspeedway.com
-DOMAIN,clente.com
 DOMAIN,cleverusenet.club
 DOMAIN,click.absoluteagency.com
 DOMAIN,cm.lianmeng.360.cn
@@ -16302,13 +16257,11 @@ DOMAIN,dianepiette.co.uk
 DOMAIN,dieutribenhkhop.com
 DOMAIN,dimarsbg.com
 DOMAIN,dimenal.com.br
-DOMAIN,dimsnetwork.com
 DOMAIN,direct.wap.zol.com.cn
 DOMAIN,directxex.com
 DOMAIN,discvr.net
 DOMAIN,divine.lunarbreeze.com
 DOMAIN,dl.downf468.com
-DOMAIN,dns.jd.com
 DOMAIN,dofeb.frenchgerlemanelectric.com
 DOMAIN,dogwuyrspt.com
 DOMAIN,doktester.orgfree.com
@@ -16324,9 +16277,7 @@ DOMAIN,download.56.com
 DOMAIN,download.grandcloud.cn
 DOMAIN,downloads-whatsapp.com
 DOMAIN,dp-medien.eu
-DOMAIN,dss0.bdstatic.com
 DOMAIN,e.tf.360.cn
-DOMAIN,earthcontrolsys.com
 DOMAIN,echoa.randbinternationaltravel.com
 DOMAIN,edf.fr.kfskz.com
 DOMAIN,eeps.me
@@ -16348,13 +16299,13 @@ DOMAIN,faq-candrive.tk
 DOMAIN,fbku.com
 DOMAIN,fcanr.tracking.miui.com
 DOMAIN,fehsnwiem.com
+DOMAIN,femalewrestlingnow.com
 DOMAIN,fgawegwr.chez.com
 DOMAIN,files.dsnetwb.com
 DOMAIN,finnhair.co.uk
 DOMAIN,firehouse651.com
 DOMAIN,flashsavant.com
 DOMAIN,flix360.com
-DOMAIN,flowplus.meituan.net
 DOMAIN,foastail.net
 DOMAIN,fondazioneciampi.org
 DOMAIN,fonderredd.info
@@ -16446,6 +16397,7 @@ DOMAIN,kadirzerey.com
 DOMAIN,kadman.net
 DOMAIN,kalantzis.net
 DOMAIN,kapcotool.com
+DOMAIN,kassabravo.com
 DOMAIN,kingsoft.com
 DOMAIN,kliklink.ru
 DOMAIN,kollagen4you.se
@@ -16460,8 +16412,6 @@ DOMAIN,linkwelove.it
 DOMAIN,lite.hupu.com
 DOMAIN,livere.com
 DOMAIN,loft2126.dedicatedpanel.com
-DOMAIN,log.51wnl-cq.com
-DOMAIN,log.qvb.qcloud.com
 DOMAIN,lp.musicboxnewtab.com
 DOMAIN,lskwsx.m.zwdu.com
 DOMAIN,luckyblank.info
@@ -16493,8 +16443,6 @@ DOMAIN,mgfd1b.petrix.net
 DOMAIN,ministerio-publi.info
 DOMAIN,mirandolasrl.it
 DOMAIN,mmg.aty.sohu.com
-DOMAIN,mms.hori-gz.com
-DOMAIN,morenews3.net
 DOMAIN,mowithlerendu.pro
 DOMAIN,mp3vicio.com
 DOMAIN,ms11.net
@@ -16538,6 +16486,7 @@ DOMAIN,omrdatacapture.com
 DOMAIN,onecount.net
 DOMAIN,online-media24.de
 DOMAIN,onrio.com.br
+DOMAIN,oozrsmpieq.com
 DOMAIN,oprahsearch.com
 DOMAIN,optiker-michelmann.de
 DOMAIN,optimization-methods.com
@@ -16591,13 +16540,11 @@ DOMAIN,qualigo.com
 DOMAIN,quickcash-system.com
 DOMAIN,quotidiennokoue.com
 DOMAIN,qzxcvb.m.zwdu.com
-DOMAIN,r.51wnl-cq.com
 DOMAIN,r6.mo.baidu.com
 DOMAIN,rainbowtgx.com
 DOMAIN,rat-on-subway.mhwang.com
 DOMAIN,rcads.net
 DOMAIN,rckpwmhqz.com
-DOMAIN,rcscaxhjmm.com
 DOMAIN,reallifecam.com
 DOMAIN,reclamus.com
 DOMAIN,rediskina.com
@@ -16605,9 +16552,9 @@ DOMAIN,reishus.de
 DOMAIN,rentfromart.com
 DOMAIN,replase.tk
 DOMAIN,reports.wes.df.telemetry.microsoft.com
-DOMAIN,rocksresort.com.au
 DOMAIN,roks.ua
 DOMAIN,rsiuk.co.uk
+DOMAIN,rumimorigu.info
 DOMAIN,rupor.info
 DOMAIN,s.share.baidu.com
 DOMAIN,s1.stat.lianmeng.360.cn
@@ -16621,7 +16568,6 @@ DOMAIN,scaner-figy.tk
 DOMAIN,scaner-or.tk
 DOMAIN,scaner-sbite.tk
 DOMAIN,scaner-sboom.tk
-DOMAIN,scdsfdfgdr12.tk
 DOMAIN,scriptall.gq
 DOMAIN,search.video.iqiyi.com
 DOMAIN,securesoft.info
@@ -16639,6 +16585,7 @@ DOMAIN,sex-journey.com
 DOMAIN,sexyoilwrestling.com
 DOMAIN,sexyster.tk
 DOMAIN,sgs.us.com
+DOMAIN,shangmiss.wap.xsbiquge.com
 DOMAIN,shop17741405.m.youzan.com
 DOMAIN,show.1688.com
 DOMAIN,sierra-fox.com
@@ -16676,7 +16623,6 @@ DOMAIN,t4.a.market.xiaomi.com
 DOMAIN,t5.a.market.xiaomi.com
 DOMAIN,tabex.sopharma.bg
 DOMAIN,tavuks.com
-DOMAIN,tbs.imtt.qq.com
 DOMAIN,tcrwharen.homepage.t-online.de
 DOMAIN,teameda.comcastbiz.net
 DOMAIN,teameda.net
@@ -16687,10 +16633,10 @@ DOMAIN,testtralala.xorg.pl
 DOMAIN,thcextractor.com
 DOMAIN,thcvaporizer.com
 DOMAIN,thefxarchive.com
+DOMAIN,thekat.nl
 DOMAIN,theweatherspace.com
 DOMAIN,thewinesteward.com
 DOMAIN,thogethoffic.co
-DOMAIN,tj.playcvn.com
 DOMAIN,tk-gregoric.si
 DOMAIN,tmotbq.xyz
 DOMAIN,tomalinoalambres.com.ar
@@ -16705,7 +16651,6 @@ DOMAIN,triangleservicesltd.com
 DOMAIN,tripedrated.xyz
 DOMAIN,troytempest.com
 DOMAIN,tscl.com.bd
-DOMAIN,tu.cvnad.com
 DOMAIN,tvduznfdgim.com
 DOMAIN,tvzhe.com
 DOMAIN,typeofmarijuana.com
@@ -16737,10 +16682,8 @@ DOMAIN,vitamasaz.pl
 DOMAIN,vkont.bos.ru
 DOMAIN,vm.aty.sohu.com
 DOMAIN,vmay.com
-DOMAIN,vr.gdt.qq.com
 DOMAIN,vural-electronic.com
 DOMAIN,vvps.ws
-DOMAIN,wahyufian.zoomshare.com
 DOMAIN,warco.pl
 DOMAIN,watson.ppe.telemetry.microsoft.com
 DOMAIN,watson.telemetry.microsoft.com
@@ -16872,6 +16815,7 @@ DOMAIN,www.technix.it
 DOMAIN,www.thesparkmachine.com
 DOMAIN,www.tiergestuetzt.de
 DOMAIN,www.toochattoo.com
+DOMAIN,www.torgi.kz
 DOMAIN,www.tpt.edu.in
 DOMAIN,www.tvnews.or.kr
 DOMAIN,www.two-of-us.at
@@ -16890,8 +16834,8 @@ DOMAIN,www.xiruz.kit.net
 DOMAIN,www.ywvcomputerprocess.info
 DOMAIN,www.zatzy.com
 DOMAIN,www.zyxyfy.com
-DOMAIN,wxa.wxs.qq.com
 DOMAIN,wxbrdppfpr.com
+DOMAIN,xiamiss.wap.xsbiquge.com
 DOMAIN,xindalawyer.com
 DOMAIN,xn--18225-zta.biz
 DOMAIN,xnxx.com
@@ -16904,7 +16848,6 @@ DOMAIN,youtibe.com
 DOMAIN,youtuhe.com
 DOMAIN,yql.yahoo.com
 DOMAIN,yumekin.com
-DOMAIN,yxhd.hori-gz.com
 DOMAIN,zaloapp.com
 DOMAIN,zengenti.com
 DOMAIN,zkic.com

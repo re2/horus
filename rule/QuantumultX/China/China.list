@@ -1,7 +1,7 @@
 # NAME: China
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-23 03:27:22
+# UPDATED: 2020-12-23 23:07:34
 # HOST-SUFFIX: 571
 # USER-AGENT: 11
 # HOST: 12
@@ -606,8 +606,8 @@ USER-AGENT,%e4%bc%81%e4%b8%9a%e5%be%ae%e4%bf%a1*,China
 USER-AGENT,%e4%bc%98%e9%85%b7*,China
 USER-AGENT,%e7%bd%91%e6%98%93%e4%ba%91%e9%9f%b3%e4%b9%90*,China
 USER-AGENT,hearthstone*,China
-USER-AGENT,micromessenger client*,China
 USER-AGENT,micromessenger%20client,China
+USER-AGENT,micromessengerclient*,China
 USER-AGENT,neteasemusic*,China
 USER-AGENT,paypal*,China
 USER-AGENT,remoteplay*,China

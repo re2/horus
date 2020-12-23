@@ -1,7 +1,7 @@
 # NAME: China 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-23 03:27:24
+# UPDATED: 2020-12-23 23:07:36
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # China 与 Adobe 共 2 条规则重复
 HOST-SUFFIX,digicert.com
@@ -682,8 +682,8 @@ USER-AGENT,%e4%bc%81%e4%b8%9a%e5%be%ae%e4%bf%a1*
 USER-AGENT,%e4%bc%98%e9%85%b7*
 USER-AGENT,%e7%bd%91%e6%98%93%e4%ba%91%e9%9f%b3%e4%b9%90*
 USER-AGENT,hearthstone*
-USER-AGENT,micromessenger client*
 USER-AGENT,micromessenger%20client
+USER-AGENT,micromessengerclient*
 USER-AGENT,neteasemusic*
 USER-AGENT,paypal*
 USER-AGENT,remoteplay*

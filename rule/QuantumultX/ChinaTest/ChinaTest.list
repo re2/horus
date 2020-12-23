@@ -1,7 +1,7 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-23 03:27:22
+# UPDATED: 2020-12-23 23:07:34
 # HOST-SUFFIX: 72719
 # USER-AGENT: 11
 # HOST: 8
@@ -72750,8 +72750,8 @@ USER-AGENT,%e4%bc%81%e4%b8%9a%e5%be%ae%e4%bf%a1*,ChinaTest
 USER-AGENT,%e4%bc%98%e9%85%b7*,ChinaTest
 USER-AGENT,%e7%bd%91%e6%98%93%e4%ba%91%e9%9f%b3%e4%b9%90*,ChinaTest
 USER-AGENT,hearthstone*,ChinaTest
-USER-AGENT,micromessenger client*,ChinaTest
 USER-AGENT,micromessenger%20client,ChinaTest
+USER-AGENT,micromessengerclient*,ChinaTest
 USER-AGENT,neteasemusic*,ChinaTest
 USER-AGENT,paypal*,ChinaTest
 USER-AGENT,remoteplay*,ChinaTest
