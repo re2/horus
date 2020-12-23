@@ -8,13 +8,13 @@
 
 
 
-最后检查时间：2020-12-22 10:18:29。
+最后检查时间：2020-12-23 14:38:34。
 
 ## 复写统计
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| mitm | 18 |
+| mitm | 20 |
 | script-request-header | 10 |
 | script-response-body | 3 |
 | script-request-body | 7 |
