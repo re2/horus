@@ -18,11 +18,11 @@
     },
     {
       "config":"10 00 * * * https://raw.githubusercontent.com/codetracer/horus/master/script/eleme/eleme_daily.js, tag=领取吃货豆, img-url=https://raw.githubusercontent.com/codetracer/horus/master/script/eleme/elem.png, enabled=true",
-      "addons":"https://raw.githubusercontent.com/codetracer/horus/master/script/eleme/eleme_daily.qxrewrite"
+      "addons":"https://raw.githubusercontent.com/codetracer/horus/master/script/eleme/eleme_daily.qxrewrite,tag=饿了么_获取Cookie"
     },
     {
       "config":"00 10 * * * https://raw.githubusercontent.com/codetracer/horus/master/script/eleme/eleme_mission.js, tag=领取会员任务, img-url=https://raw.githubusercontent.com/codetracer/horus/master/script/eleme/elem.png, enabled=true",
-      "addons":"https://raw.githubusercontent.com/codetracer/horus/master/script/eleme/eleme_daily.qxrewrite"
+      "addons":"https://raw.githubusercontent.com/codetracer/horus/master/script/eleme/eleme_daily.qxrewrite,tag=饿了么_获取Cookie"
     },
     {
       "config":"15 0 * * * https://raw.githubusercontent.com/codetracer/horus/master/script/famijia/famijia_checkin.js, tag=Fa米家, img-url=https://raw.githubusercontent.com/codetracer/horus/master/script/famijia/famijia.png, enabled=true",
