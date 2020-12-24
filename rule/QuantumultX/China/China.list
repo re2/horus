@@ -1,7 +1,7 @@
 # NAME: China
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-23 23:07:34
+# UPDATED: 2020-12-24 11:06:45
 # HOST-SUFFIX: 571
 # USER-AGENT: 11
 # HOST: 12
@@ -156,7 +156,7 @@ HOST-SUFFIX,cootekservice.com,China
 HOST-SUFFIX,crashlytics.com,China
 HOST-SUFFIX,csdn.net,China
 HOST-SUFFIX,ctrip.com,China
-HOST-SUFFIX,culturedcode.com,China
+HOST-SUFFIX,cz88.net,China
 HOST-SUFFIX,czybjz.com,China
 HOST-SUFFIX,dandanzan.com,China
 HOST-SUFFIX,dct-cloud.com,China

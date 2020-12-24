@@ -1,14 +1,14 @@
 # NAME: AdvertisingLite 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-23 23:07:37
+# UPDATED: 2020-12-24 11:06:47
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # AdvertisingLite 与 Adobe 共 4 条规则重复
 DOMAIN-SUFFIX,adbecrsl.com
 DOMAIN-SUFFIX,demdex.net
 DOMAIN-SUFFIX,newrelic.com
 DOMAIN-SUFFIX,omtrdc.net
-# AdvertisingLite 与 Advertising 共 16067 条规则重复
+# AdvertisingLite 与 Advertising 共 16073 条规则重复
 DOMAIN,0.up.qingdaonews.com
 DOMAIN,01.yd-jun.com
 DOMAIN,0koryu0.easter.ne.jp
@@ -22,7 +22,6 @@ DOMAIN,16e2ae8f200d975b.com
 DOMAIN,2.up.qingdaonews.com
 DOMAIN,21b507a044d841b.com
 DOMAIN,22a12efe35e3c2f.com
-DOMAIN,2amsports.com
 DOMAIN,2xbpub.com
 DOMAIN,3.up.qingdaonews.com
 DOMAIN,31a5610ce3a8a2.com
@@ -205,7 +204,6 @@ DOMAIN,crackzone.net
 DOMAIN,creditbootcamp.com
 DOMAIN,csmail.iggcn.com
 DOMAIN,cswilliamsburg.com
-DOMAIN,ctyzd.com
 DOMAIN,customsboysint.com
 DOMAIN,d1.kuai8.com
 DOMAIN,d1054130-28095.cp.blacknight.com
@@ -218,7 +216,6 @@ DOMAIN,d4.cumshots.ws
 DOMAIN,d6e9d7d57085c0.com
 DOMAIN,daralasnan.com
 DOMAIN,date-for-more.com
-DOMAIN,datoporn.com
 DOMAIN,daurifek.net
 DOMAIN,dawnframing.com
 DOMAIN,ddd.gouwuke.cn
@@ -236,6 +233,7 @@ DOMAIN,dianepiette.co.uk
 DOMAIN,dieutribenhkhop.com
 DOMAIN,dimarsbg.com
 DOMAIN,dimenal.com.br
+DOMAIN,dimsnetwork.com
 DOMAIN,direct.wap.zol.com.cn
 DOMAIN,directxex.com
 DOMAIN,discvr.net
@@ -319,7 +317,6 @@ DOMAIN,gloorajo.com
 DOMAIN,go-quicky.com
 DOMAIN,gogetgorgeous.com
 DOMAIN,grand-ads.com
-DOMAIN,greerlies.pro
 DOMAIN,greev.randbinternationaltravel.com
 DOMAIN,grtbzrsndrrtsb.com
 DOMAIN,grtyv.com
@@ -401,6 +398,7 @@ DOMAIN,jeansvixens.com
 DOMAIN,josip-stadler.org
 DOMAIN,js.jrjimg.cn
 DOMAIN,juedische-kammerphilharmonie.de
+DOMAIN,juiceads.net
 DOMAIN,juicypussyclips.com
 DOMAIN,junbi-tracker.com
 DOMAIN,jx.cn
@@ -577,6 +575,7 @@ DOMAIN,privatkunden.datapipe9271.com
 DOMAIN,prjcq.com
 DOMAIN,prodtraff.com
 DOMAIN,progettocrea.org
+DOMAIN,promo-market.net
 DOMAIN,promotions.sportsbet.com.au
 DOMAIN,prorodeosportmed.com
 DOMAIN,protect-your-privacy.net
@@ -639,6 +638,7 @@ DOMAIN,scaner-figy.tk
 DOMAIN,scaner-or.tk
 DOMAIN,scaner-sbite.tk
 DOMAIN,scaner-sboom.tk
+DOMAIN,scdsfdfgdr12.tk
 DOMAIN,scriptall.gq
 DOMAIN,search.video.iqiyi.com
 DOMAIN,securesoft.info
@@ -705,11 +705,13 @@ DOMAIN,tabex.sopharma.bg
 DOMAIN,targetctracker.com
 DOMAIN,tatami-solutions.com
 DOMAIN,tavuks.com
+DOMAIN,tchmemnasaxpt.com
 DOMAIN,tcrwharen.homepage.t-online.de
 DOMAIN,teameda.comcastbiz.net
 DOMAIN,teameda.net
 DOMAIN,tecslide.com
 DOMAIN,telecommand.telemetry.microsoft.com
+DOMAIN,tendersource.com
 DOMAIN,test.ark.letv.com
 DOMAIN,testtralala.xorg.pl
 DOMAIN,thcextractor.com
@@ -736,6 +738,7 @@ DOMAIN,triangleservicesltd.com
 DOMAIN,tripedrated.xyz
 DOMAIN,troytempest.com
 DOMAIN,tscl.com.bd
+DOMAIN,tvas-b.pw
 DOMAIN,tvduznfdgim.com
 DOMAIN,tvzhe.com
 DOMAIN,typeofmarijuana.com
@@ -772,6 +775,7 @@ DOMAIN,vmay.com
 DOMAIN,voluumtrk3.com
 DOMAIN,vural-electronic.com
 DOMAIN,vvps.ws
+DOMAIN,wahyufian.zoomshare.com
 DOMAIN,warco.pl
 DOMAIN,wardparser.info
 DOMAIN,watson.ppe.telemetry.microsoft.com
@@ -781,6 +785,7 @@ DOMAIN,wbsadsdel2.com
 DOMAIN,wc0x83ghk.homepage.t-online.de
 DOMAIN,webcashmaker.com
 DOMAIN,webcom-software.ws
+DOMAIN,webkatalog.li
 DOMAIN,webordermanager.com
 DOMAIN,websalesusa.com
 DOMAIN,websearchers.net
@@ -875,6 +880,7 @@ DOMAIN,www.officialrdr.com
 DOMAIN,www.oiluk.net
 DOMAIN,www.ostsee-schnack.de
 DOMAIN,www.outlinearray.com
+DOMAIN,www.panazan.ro
 DOMAIN,www.perupuntocom.com
 DOMAIN,www.petpleasers.ca
 DOMAIN,www.pgathailand.com
@@ -16076,7 +16082,7 @@ URL-REGEX,^https?:\/\/www\.zybang\.com\/adx\/
 URL-REGEX,^https?:\/\/xyst\.yuanfudao\.com\/iphone\/splashesV\d
 URL-REGEX,^https?:\/\/xyz\.cnki\.net\/resourcev7\/api\/manualpush\/SlidsList$
 URL-REGEX,^https?:\/\/yxyapi\d\.drcuiyutao\.com\/yxy-api-gateway\/api\/json\/advert\/
-# AdvertisingLite 与 AdvertisingTest 共 15798 条规则重复
+# AdvertisingLite 与 AdvertisingTest 共 15803 条规则重复
 DOMAIN,0.up.qingdaonews.com
 DOMAIN,01.yd-jun.com
 DOMAIN,0koryu0.easter.ne.jp
@@ -16090,7 +16096,6 @@ DOMAIN,16e2ae8f200d975b.com
 DOMAIN,2.up.qingdaonews.com
 DOMAIN,21b507a044d841b.com
 DOMAIN,22a12efe35e3c2f.com
-DOMAIN,2amsports.com
 DOMAIN,2xbpub.com
 DOMAIN,3.up.qingdaonews.com
 DOMAIN,31ab9d66427a22.com
@@ -16257,6 +16262,7 @@ DOMAIN,dianepiette.co.uk
 DOMAIN,dieutribenhkhop.com
 DOMAIN,dimarsbg.com
 DOMAIN,dimenal.com.br
+DOMAIN,dimsnetwork.com
 DOMAIN,direct.wap.zol.com.cn
 DOMAIN,directxex.com
 DOMAIN,discvr.net
@@ -16568,6 +16574,7 @@ DOMAIN,scaner-figy.tk
 DOMAIN,scaner-or.tk
 DOMAIN,scaner-sbite.tk
 DOMAIN,scaner-sboom.tk
+DOMAIN,scdsfdfgdr12.tk
 DOMAIN,scriptall.gq
 DOMAIN,search.video.iqiyi.com
 DOMAIN,securesoft.info
@@ -16623,11 +16630,13 @@ DOMAIN,t4.a.market.xiaomi.com
 DOMAIN,t5.a.market.xiaomi.com
 DOMAIN,tabex.sopharma.bg
 DOMAIN,tavuks.com
+DOMAIN,tchmemnasaxpt.com
 DOMAIN,tcrwharen.homepage.t-online.de
 DOMAIN,teameda.comcastbiz.net
 DOMAIN,teameda.net
 DOMAIN,tecslide.com
 DOMAIN,telecommand.telemetry.microsoft.com
+DOMAIN,tendersource.com
 DOMAIN,test.ark.letv.com
 DOMAIN,testtralala.xorg.pl
 DOMAIN,thcextractor.com
@@ -16684,6 +16693,7 @@ DOMAIN,vm.aty.sohu.com
 DOMAIN,vmay.com
 DOMAIN,vural-electronic.com
 DOMAIN,vvps.ws
+DOMAIN,wahyufian.zoomshare.com
 DOMAIN,warco.pl
 DOMAIN,watson.ppe.telemetry.microsoft.com
 DOMAIN,watson.telemetry.microsoft.com
@@ -16777,6 +16787,7 @@ DOMAIN,www.officialrdr.com
 DOMAIN,www.oiluk.net
 DOMAIN,www.ostsee-schnack.de
 DOMAIN,www.outlinearray.com
+DOMAIN,www.panazan.ro
 DOMAIN,www.perupuntocom.com
 DOMAIN,www.petpleasers.ca
 DOMAIN,www.pgathailand.com

@@ -1,7 +1,7 @@
 # NAME: AdvertisingLite 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-23 23:07:37
+# UPDATED: 2020-12-24 11:06:48
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 payload:
 # AdvertisingLite 与 Adobe 共 4 条规则重复
@@ -9,7 +9,7 @@ payload:
   - DOMAIN-SUFFIX,demdex.net
   - DOMAIN-SUFFIX,newrelic.com
   - DOMAIN-SUFFIX,omtrdc.net
-# AdvertisingLite 与 Advertising 共 15768 条规则重复
+# AdvertisingLite 与 Advertising 共 15774 条规则重复
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,01.yd-jun.com
   - DOMAIN,0koryu0.easter.ne.jp
@@ -23,7 +23,6 @@ payload:
   - DOMAIN,2.up.qingdaonews.com
   - DOMAIN,21b507a044d841b.com
   - DOMAIN,22a12efe35e3c2f.com
-  - DOMAIN,2amsports.com
   - DOMAIN,2xbpub.com
   - DOMAIN,3.up.qingdaonews.com
   - DOMAIN,31a5610ce3a8a2.com
@@ -206,7 +205,6 @@ payload:
   - DOMAIN,creditbootcamp.com
   - DOMAIN,csmail.iggcn.com
   - DOMAIN,cswilliamsburg.com
-  - DOMAIN,ctyzd.com
   - DOMAIN,customsboysint.com
   - DOMAIN,d1.kuai8.com
   - DOMAIN,d1054130-28095.cp.blacknight.com
@@ -219,7 +217,6 @@ payload:
   - DOMAIN,d6e9d7d57085c0.com
   - DOMAIN,daralasnan.com
   - DOMAIN,date-for-more.com
-  - DOMAIN,datoporn.com
   - DOMAIN,daurifek.net
   - DOMAIN,dawnframing.com
   - DOMAIN,ddd.gouwuke.cn
@@ -237,6 +234,7 @@ payload:
   - DOMAIN,dieutribenhkhop.com
   - DOMAIN,dimarsbg.com
   - DOMAIN,dimenal.com.br
+  - DOMAIN,dimsnetwork.com
   - DOMAIN,direct.wap.zol.com.cn
   - DOMAIN,directxex.com
   - DOMAIN,discvr.net
@@ -320,7 +318,6 @@ payload:
   - DOMAIN,go-quicky.com
   - DOMAIN,gogetgorgeous.com
   - DOMAIN,grand-ads.com
-  - DOMAIN,greerlies.pro
   - DOMAIN,greev.randbinternationaltravel.com
   - DOMAIN,grtbzrsndrrtsb.com
   - DOMAIN,grtyv.com
@@ -402,6 +399,7 @@ payload:
   - DOMAIN,josip-stadler.org
   - DOMAIN,js.jrjimg.cn
   - DOMAIN,juedische-kammerphilharmonie.de
+  - DOMAIN,juiceads.net
   - DOMAIN,juicypussyclips.com
   - DOMAIN,junbi-tracker.com
   - DOMAIN,jx.cn
@@ -578,6 +576,7 @@ payload:
   - DOMAIN,prjcq.com
   - DOMAIN,prodtraff.com
   - DOMAIN,progettocrea.org
+  - DOMAIN,promo-market.net
   - DOMAIN,promotions.sportsbet.com.au
   - DOMAIN,prorodeosportmed.com
   - DOMAIN,protect-your-privacy.net
@@ -640,6 +639,7 @@ payload:
   - DOMAIN,scaner-or.tk
   - DOMAIN,scaner-sbite.tk
   - DOMAIN,scaner-sboom.tk
+  - DOMAIN,scdsfdfgdr12.tk
   - DOMAIN,scriptall.gq
   - DOMAIN,search.video.iqiyi.com
   - DOMAIN,securesoft.info
@@ -706,11 +706,13 @@ payload:
   - DOMAIN,targetctracker.com
   - DOMAIN,tatami-solutions.com
   - DOMAIN,tavuks.com
+  - DOMAIN,tchmemnasaxpt.com
   - DOMAIN,tcrwharen.homepage.t-online.de
   - DOMAIN,teameda.comcastbiz.net
   - DOMAIN,teameda.net
   - DOMAIN,tecslide.com
   - DOMAIN,telecommand.telemetry.microsoft.com
+  - DOMAIN,tendersource.com
   - DOMAIN,test.ark.letv.com
   - DOMAIN,testtralala.xorg.pl
   - DOMAIN,thcextractor.com
@@ -737,6 +739,7 @@ payload:
   - DOMAIN,tripedrated.xyz
   - DOMAIN,troytempest.com
   - DOMAIN,tscl.com.bd
+  - DOMAIN,tvas-b.pw
   - DOMAIN,tvduznfdgim.com
   - DOMAIN,tvzhe.com
   - DOMAIN,typeofmarijuana.com
@@ -773,6 +776,7 @@ payload:
   - DOMAIN,voluumtrk3.com
   - DOMAIN,vural-electronic.com
   - DOMAIN,vvps.ws
+  - DOMAIN,wahyufian.zoomshare.com
   - DOMAIN,warco.pl
   - DOMAIN,wardparser.info
   - DOMAIN,watson.ppe.telemetry.microsoft.com
@@ -782,6 +786,7 @@ payload:
   - DOMAIN,wc0x83ghk.homepage.t-online.de
   - DOMAIN,webcashmaker.com
   - DOMAIN,webcom-software.ws
+  - DOMAIN,webkatalog.li
   - DOMAIN,webordermanager.com
   - DOMAIN,websalesusa.com
   - DOMAIN,websearchers.net
@@ -876,6 +881,7 @@ payload:
   - DOMAIN,www.oiluk.net
   - DOMAIN,www.ostsee-schnack.de
   - DOMAIN,www.outlinearray.com
+  - DOMAIN,www.panazan.ro
   - DOMAIN,www.perupuntocom.com
   - DOMAIN,www.petpleasers.ca
   - DOMAIN,www.pgathailand.com
@@ -15778,7 +15784,7 @@ payload:
   - IP-CIDR,69.28.57.245/32
   - IP-CIDR,74.117.182.77/32
   - IP-CIDR,78.140.131.214/32
-# AdvertisingLite 与 AdvertisingTest 共 15499 条规则重复
+# AdvertisingLite 与 AdvertisingTest 共 15504 条规则重复
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,01.yd-jun.com
   - DOMAIN,0koryu0.easter.ne.jp
@@ -15792,7 +15798,6 @@ payload:
   - DOMAIN,2.up.qingdaonews.com
   - DOMAIN,21b507a044d841b.com
   - DOMAIN,22a12efe35e3c2f.com
-  - DOMAIN,2amsports.com
   - DOMAIN,2xbpub.com
   - DOMAIN,3.up.qingdaonews.com
   - DOMAIN,31ab9d66427a22.com
@@ -15959,6 +15964,7 @@ payload:
   - DOMAIN,dieutribenhkhop.com
   - DOMAIN,dimarsbg.com
   - DOMAIN,dimenal.com.br
+  - DOMAIN,dimsnetwork.com
   - DOMAIN,direct.wap.zol.com.cn
   - DOMAIN,directxex.com
   - DOMAIN,discvr.net
@@ -16270,6 +16276,7 @@ payload:
   - DOMAIN,scaner-or.tk
   - DOMAIN,scaner-sbite.tk
   - DOMAIN,scaner-sboom.tk
+  - DOMAIN,scdsfdfgdr12.tk
   - DOMAIN,scriptall.gq
   - DOMAIN,search.video.iqiyi.com
   - DOMAIN,securesoft.info
@@ -16325,11 +16332,13 @@ payload:
   - DOMAIN,t5.a.market.xiaomi.com
   - DOMAIN,tabex.sopharma.bg
   - DOMAIN,tavuks.com
+  - DOMAIN,tchmemnasaxpt.com
   - DOMAIN,tcrwharen.homepage.t-online.de
   - DOMAIN,teameda.comcastbiz.net
   - DOMAIN,teameda.net
   - DOMAIN,tecslide.com
   - DOMAIN,telecommand.telemetry.microsoft.com
+  - DOMAIN,tendersource.com
   - DOMAIN,test.ark.letv.com
   - DOMAIN,testtralala.xorg.pl
   - DOMAIN,thcextractor.com
@@ -16386,6 +16395,7 @@ payload:
   - DOMAIN,vmay.com
   - DOMAIN,vural-electronic.com
   - DOMAIN,vvps.ws
+  - DOMAIN,wahyufian.zoomshare.com
   - DOMAIN,warco.pl
   - DOMAIN,watson.ppe.telemetry.microsoft.com
   - DOMAIN,watson.telemetry.microsoft.com
@@ -16479,6 +16489,7 @@ payload:
   - DOMAIN,www.oiluk.net
   - DOMAIN,www.ostsee-schnack.de
   - DOMAIN,www.outlinearray.com
+  - DOMAIN,www.panazan.ro
   - DOMAIN,www.perupuntocom.com
   - DOMAIN,www.petpleasers.ca
   - DOMAIN,www.pgathailand.com
