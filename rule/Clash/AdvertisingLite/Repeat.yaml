@@ -1,7 +1,7 @@
 # NAME: AdvertisingLite 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-24 11:06:48
+# UPDATED: 2020-12-24 20:18:24
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 payload:
 # AdvertisingLite 与 Adobe 共 4 条规则重复
@@ -9,9 +9,8 @@ payload:
   - DOMAIN-SUFFIX,demdex.net
   - DOMAIN-SUFFIX,newrelic.com
   - DOMAIN-SUFFIX,omtrdc.net
-# AdvertisingLite 与 Advertising 共 15774 条规则重复
+# AdvertisingLite 与 Advertising 共 15771 条规则重复
   - DOMAIN,0.up.qingdaonews.com
-  - DOMAIN,01.yd-jun.com
   - DOMAIN,0koryu0.easter.ne.jp
   - DOMAIN,0nso0tq1sa4.ml
   - DOMAIN,1.up.qingdaonews.com
@@ -74,7 +73,6 @@ payload:
   - DOMAIN,advancetec.co.uk
   - DOMAIN,adverigo.com
   - DOMAIN,advertisement.taobao.com
-  - DOMAIN,advertisespace.com
   - DOMAIN,afa15.com.ne.kr
   - DOMAIN,affairexcuses.com
   - DOMAIN,agsteier.com
@@ -654,6 +652,7 @@ payload:
   - DOMAIN,services.wes.df.telemetry.microsoft.com
   - DOMAIN,settings-win.data.microsoft.com
   - DOMAIN,sex-journey.com
+  - DOMAIN,sexykittenporn.com
   - DOMAIN,sexyoilwrestling.com
   - DOMAIN,sexyster.tk
   - DOMAIN,sgs.us.com
@@ -5499,7 +5498,6 @@ payload:
   - DOMAIN-SUFFIX,dfc1.benbaisteel.com
   - DOMAIN-SUFFIX,dfcwg.com
   - DOMAIN-SUFFIX,dflooring.com
-  - DOMAIN-SUFFIX,dfp.suning.com
   - DOMAIN-SUFFIX,dfx.shhuixiangwuliu.com
   - DOMAIN-SUFFIX,dgafgadsgkjg.top
   - DOMAIN-SUFFIX,dgaoz.com
@@ -13924,7 +13922,6 @@ payload:
   - DOMAIN-SUFFIX,ustralpublicate.site
   - DOMAIN-SUFFIX,ustriptomorbie.site
   - DOMAIN-SUFFIX,usty357a.site
-  - DOMAIN-SUFFIX,ut2.shuqistat.com
   - DOMAIN-SUFFIX,utazwa.com
   - DOMAIN-SUFFIX,uthworkreaseu.info
   - DOMAIN-SUFFIX,util.nphoto.net
@@ -15784,9 +15781,8 @@ payload:
   - IP-CIDR,69.28.57.245/32
   - IP-CIDR,74.117.182.77/32
   - IP-CIDR,78.140.131.214/32
-# AdvertisingLite 与 AdvertisingTest 共 15504 条规则重复
+# AdvertisingLite 与 AdvertisingTest 共 15502 条规则重复
   - DOMAIN,0.up.qingdaonews.com
-  - DOMAIN,01.yd-jun.com
   - DOMAIN,0koryu0.easter.ne.jp
   - DOMAIN,0nso0tq1sa4.ml
   - DOMAIN,1.up.qingdaonews.com
@@ -16291,6 +16287,7 @@ payload:
   - DOMAIN,services.wes.df.telemetry.microsoft.com
   - DOMAIN,settings-win.data.microsoft.com
   - DOMAIN,sex-journey.com
+  - DOMAIN,sexykittenporn.com
   - DOMAIN,sexyoilwrestling.com
   - DOMAIN,sexyster.tk
   - DOMAIN,sgs.us.com
@@ -21061,7 +21058,6 @@ payload:
   - DOMAIN-SUFFIX,dfc1.benbaisteel.com
   - DOMAIN-SUFFIX,dfcwg.com
   - DOMAIN-SUFFIX,dflooring.com
-  - DOMAIN-SUFFIX,dfp.suning.com
   - DOMAIN-SUFFIX,dfx.shhuixiangwuliu.com
   - DOMAIN-SUFFIX,dgafgadsgkjg.top
   - DOMAIN-SUFFIX,dgaoz.com
@@ -29431,7 +29427,6 @@ payload:
   - DOMAIN-SUFFIX,ustralpublicate.site
   - DOMAIN-SUFFIX,ustriptomorbie.site
   - DOMAIN-SUFFIX,usty357a.site
-  - DOMAIN-SUFFIX,ut2.shuqistat.com
   - DOMAIN-SUFFIX,utazwa.com
   - DOMAIN-SUFFIX,uthworkreaseu.info
   - DOMAIN-SUFFIX,util.nphoto.net

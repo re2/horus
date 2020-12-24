@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-24 11:06:44
+# UPDATED: 2020-12-24 20:18:21
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN-SUFFIX: 63490
-# DOMAIN: 7233
+# DOMAIN-SUFFIX: 63497
+# DOMAIN: 7240
 # DOMAIN-KEYWORD: 54
 # IP-CIDR: 236
 # URL-REGEX: 307
-# TOTAL: 71320
+# TOTAL: 71334
 0.up.qingdaonews.com
 000ll4q.rcomhost.com
 000m9w3.wcomhost.com
@@ -16,7 +16,6 @@
 007angels.com
 00author.com
 00webcams.com
-01.yd-jun.com
 019201.webcindario.com
 03383bd.netsolhost.com
 042707d90914.agrigid.com
@@ -745,7 +744,6 @@ amritaraichand.com
 amronail.com
 amstudiola.com
 an-donut.com
-an.biocoop.cn
 anal-acrobats.com
 analdude.com
 analiticayma.com
@@ -1705,6 +1703,7 @@ clk.omgt5.com
 clomgiriwil.com
 clone147.com
 cloud-umeng.com
+cloudmediacdn.com
 clumsyninjahack.goblogz.net
 cluneegc.com
 cm.lianmeng.360.cn
@@ -4613,6 +4612,7 @@ noveslovo.com
 now-movie.com
 nowina.info
 nowmusik.com
+nowymmrxj.com
 nrakhislk.com
 ns1.123go.net
 ns1.the-sinner.net
@@ -5184,6 +5184,7 @@ quinnwealth.com
 quiromasajemaricarmen.com
 quonigeria.com
 quotidiennokoue.com
+qvilmdus.com
 qwapi.apple.com
 qwebirc.swiftirc.net
 qzip.cjb.net
@@ -5592,6 +5593,7 @@ sewardweb.com
 sex-journey.com
 sexsaoy.com
 sexy557.com
+sexykittenporn.com
 sexyoilwrestling.com
 sexyster.tk
 sfa16.smi2.net
@@ -6138,6 +6140,7 @@ telefonica.inq.com
 telesaldo.com
 telus.inq.com
 temp.adzerver.com
+template-download.top
 tendersource.com
 tenx-tech.com
 ter2018.000webhostapp.com
@@ -6472,6 +6475,7 @@ universehacks.com
 university.act-on.com
 unlim-app.tk
 unlimiclick.com
+unmdrnuzgel.com
 untangletheworld.org
 untoldindianews.com
 unyhjoehc.com
@@ -6541,6 +6545,7 @@ ussconcept.com
 ustaw--tlo-fb.blogspot.com
 usubmarine.com
 ut.actonsoftware.com
+utf1.liehuo.net
 utilbada.com
 utiljoy.com
 utorrenthd.net
@@ -6800,6 +6805,7 @@ wifihacked.com
 wifipasser.com
 wigglewoo.com
 wiki.unbounce.com
+wiklweefcuorh.com
 wildbounce.com
 willowing.j8inn1zektoe.com
 win-spy.com
@@ -6812,6 +6818,7 @@ winmediaplayer.com
 wipeoutsystems.net
 wiseguysbarandgrill.net
 withrows.com
+wjavelurhgx.com
 wkmg.co.kr
 wlad-el3am.j8inn1zektoe.com
 wlt.kd2244.com
@@ -7260,6 +7267,7 @@ zzomiuob.com
 .00bloggers.ru
 .00oo00.com
 .01.gxso.net
+.01.yd-jun.com
 .0101011.com
 .010teacher.com
 .010xk.com
@@ -7864,8 +7872,10 @@ zzomiuob.com
 .1l-hit.mail.ru
 .1l-view.mail.ru
 .1l1.cc
+.1lan.tv
 .1lib.cn
 .1lo0.net
+.1look.tv
 .1loop.com
 .1lzz.com
 .1man1jar.org
@@ -8125,7 +8135,6 @@ zzomiuob.com
 .2c0dad36bdb9eb859f0.com
 .2c3a97984f45.com
 .2c6bcbbb82ce911.com
-.2c95e050909.com
 .2cnjuh34jb.com
 .2cnjuh34jbhub.com
 .2cnjuh34jbman.com
@@ -8827,6 +8836,7 @@ zzomiuob.com
 .58xiangka.com
 .58xiao.cn
 .58xmgys.com
+.58xwz.cn
 .59-106-20-39.r-bl100.sakura.ne.jp
 .592man.com
 .593pi.cn
@@ -10302,8 +10312,13 @@ zzomiuob.com
 .abjusouft.com
 .ablaze-class.space
 .ablehed.pro
-.ablen06.tk
+.ablen01.tk
+.ablen02.tk
+.ablen03.tk
+.ablen05.tk
 .ablen08.tk
+.ablen10.tk
+.ablen11.tk
 .ablenctionalle.info
 .ablerivetdoubted.com
 .ablida-rotation.com
@@ -14866,7 +14881,6 @@ zzomiuob.com
 .adx.hendersonvillenews.com
 .adx.heraldtribune.com
 .adx.hupu.com
-.adx.hzbxm.com
 .adx.kat.ph
 .adx.kul.vn
 .adx.lsosad.com
@@ -15958,6 +15972,7 @@ zzomiuob.com
 .amghrrz.cn
 .amghvzn.cn
 .amgload.net
+.amhixwqagiz.ru
 .amhpbhyxfgvd.com
 .amifgpprfrbsm.com
 .amigo-biz.ru
@@ -16012,6 +16027,7 @@ zzomiuob.com
 .amz.steamprices.com
 .amzbr.com
 .an.batmobi.net
+.an.biocoop.cn
 .an.blogis.org
 .an.cliphub.net
 .an.dongphim.net
@@ -16646,6 +16662,7 @@ zzomiuob.com
 .aoyinn.com
 .aoyou2.top
 .aoyou3.top
+.aoyou4.top
 .ap-adcs.rqmob.com
 .ap-srv.net
 .ap.ad-feed.com
@@ -17607,7 +17624,6 @@ zzomiuob.com
 .asumi.shinobi.jp
 .asuydisi.com
 .asvatskaymj.club
-.asvoxod.ru
 .aswgbzsw.xingtangshuo.com
 .aswl.d3kdh34.pw
 .aswl.dfs3e4.pw
@@ -18298,6 +18314,7 @@ zzomiuob.com
 .bacon.section.io
 .baconaces.pro
 .bacontent.de
+.bad.maienyanjing.cn
 .badad.googleplex.com
 .badamareus.com
 .badao37.net
@@ -19314,7 +19331,6 @@ zzomiuob.com
 .besocial.online
 .besstahete.info
 .best-cargo.ru
-.best-cdn.pl
 .best-hir.com
 .best-search.cc
 .best-top.de
@@ -21657,6 +21673,7 @@ zzomiuob.com
 .ccbaehjabejaegdeebe.ru
 .ccbaihehq.com
 .ccbccb.cn
+.ccc.sys.miui.com
 .ccc1063d848b.com
 .cccab.club
 .cccccd.com
@@ -22752,6 +22769,7 @@ zzomiuob.com
 .click.mmosite.com
 .click.mobile-bt.com
 .click.negociosdigitaisnapratica.com.br
+.click.oneplus.cn
 .click.oneplus.com
 .click.payserve.com
 .click.qianqian.com
@@ -22802,7 +22820,6 @@ zzomiuob.com
 .clickaine.com
 .clickalyzer.com
 .clickanalytics208.com
-.clickandbuy.win
 .clickandjoinyourgirl.com
 .clickansave.net
 .clickarrows.com
@@ -22980,6 +22997,7 @@ zzomiuob.com
 .clickwallads.s3.amazonaws.com
 .clickwedkeys.com
 .clickwinks.com
+.clickwith.bi
 .clickwith.bid
 .clickx.autohome.com.cn
 .clickx.io
@@ -23110,7 +23128,6 @@ zzomiuob.com
 .cloudimagesa.com
 .cloudioo.net
 .cloudmade.com
-.cloudmediacdn.com
 .cloudmobi.net
 .cloudplane.xyz
 .cloudpush.iqiyi.com
@@ -23224,6 +23241,7 @@ zzomiuob.com
 .cmps.mt50ad.com
 .cmptch.com
 .cmrpolice.com
+.cms-image.cdn.bcebos.com
 .cms-skin.com
 .cms.fx678.com
 .cms.fx678img.com
@@ -25111,7 +25129,6 @@ zzomiuob.com
 .d-bi.fr
 .d-l-t.com
 .d-markets.net
-.d-ns.ga
 .d-stats.com
 .d-test.39.net
 .d-ughwashes.ru
@@ -25436,7 +25453,6 @@ zzomiuob.com
 .d2u1npnnqecmpq.cloudfront.net
 .d2uepos3ef6db0.cloudfront.net
 .d2uy8iq3fi50kh.cloudfront.net
-.d2v02itv0y9u9t.cloudfront.net
 .d2va1d0hpla18n.cloudfront.net
 .d2vybwwevieya6j.monster
 .d2wb1.cn
@@ -25637,7 +25653,6 @@ zzomiuob.com
 .d81mfvml8p5ml.cloudfront.net
 .d830x8j3o1b2k.cloudfront.net
 .d8360.com
-.d84b95a7c3e.com
 .d869381a42af33b.com
 .d8885.com
 .d899.webazilla.com
@@ -25843,12 +25858,10 @@ zzomiuob.com
 .dardwebertoha.info
 .daredorm.com
 .darersan.co
-.darking03.tk
+.darking01.tk
 .darking04.tk
-.darking06.tk
+.darking05.tk
 .darking07.tk
-.darking08.tk
-.darking09.tk
 .darlingtonandstocktontimes-gb.darlingtonandstocktontimes.co.uk
 .darmowe-liczniki.info
 .darmowe-zakupy.com
@@ -26513,7 +26526,6 @@ zzomiuob.com
 .dflooring.com
 .dfmnbv.pro
 .dfmunigpp.com
-.dfp.suning.com
 .dfpejgtwrgawen.com
 .dftoutiao.com
 .dfx.shhuixiangwuliu.com
@@ -27962,7 +27974,6 @@ zzomiuob.com
 .e.dzairen.com
 .e.easypatent.net
 .e.ejiakm.net
-.e.ejuen.com
 .e.ennmt.com
 .e.fbaix.com
 .e.fimky.com
@@ -27997,7 +28008,6 @@ zzomiuob.com
 .e.mrtuo.com
 .e.mushizhubao.com
 .e.nbhaosheng168.com
-.e.nchet.com
 .e.nejup.com
 .e.okfhn.com
 .e.oq7d6b.cn
@@ -28079,7 +28089,6 @@ zzomiuob.com
 .e708.net
 .e719.net
 .e7393e33565ce805.com
-.e739acf90a.com
 .e7594ca72746.com
 .e77lmzbqou0n-a.akamaihd.net
 .e7876.dscg.akamaiedge.net
@@ -28461,6 +28470,7 @@ zzomiuob.com
 .edxhxu.com
 .edysn.cn
 .ee.32z8d.cn
+.ee.hdboping.com
 .ee.m08pe.cn
 .ee.mfufanj.cn
 .ee.shixunwang.net
@@ -28498,7 +28508,6 @@ zzomiuob.com
 .eelsoup.net
 .eelsouph.click
 .eeltaung.com
-.eeme7j.win
 .eenbryfjg.com
 .eenfertyred.top
 .eengaums.com
@@ -29122,6 +29131,7 @@ zzomiuob.com
 .eptztrhirt.com
 .epu.1024txt.xyz
 .epu.sh
+.epukult.cn
 .epushclick.com
 .epxfggcgr.com
 .epyulyi7887o.com
@@ -32526,7 +32536,6 @@ zzomiuob.com
 .getscoutapp.com
 .getscriptjs.com
 .getsecuredfiles.com
-.getshort.cf
 .getsidecar.com
 .getsitecontrol.com
 .getsmartcontent.com
@@ -35061,6 +35070,7 @@ zzomiuob.com
 .hospitecrew.club
 .host-host-ads.com
 .host-tracker.com
+.host.d-ns.ga
 .host.pornolenta.cc
 .host207.ewtn.com
 .host4media.com
@@ -35325,6 +35335,7 @@ zzomiuob.com
 .huaerdadi.com
 .huaerduo.com
 .huafangzhou.com
+.huafujr.com
 .huahuaka.com
 .huanbao110.com.cn
 .huanbaoxiangmu.xyz
@@ -35591,6 +35602,7 @@ zzomiuob.com
 .hz1.lanmei80.com
 .hz3137.com
 .hzaibi.com
+.hzbxm.com
 .hzcrhwmi.com
 .hzdhr.cn
 .hzfcx.top
@@ -36130,6 +36142,7 @@ zzomiuob.com
 .ilb.pns.kt.com
 .ilbanner.com
 .ilce.alicdn.com
+.ildhy.com
 .ileokscsawzzrh.com
 .ilepai.com
 .ilepioexi.com
@@ -36326,7 +36339,6 @@ zzomiuob.com
 .img.xiwnu.cn
 .img.xnxx.com
 .img.xuenb.com
-.img.xuwnz.cn
 .img.yangshengtang123.com
 .img.yingshidiguo.cn
 .img.yuyue007.cn
@@ -36416,7 +36428,6 @@ zzomiuob.com
 .imhd.io
 .imhizxejm.com
 .imho.ru
-.imhvlhaelvvbrq.ru
 .imiclk.com
 .imiek.com
 .imimobile.com
@@ -36559,6 +36570,7 @@ zzomiuob.com
 .in.5.p2l.info
 .in.cuebiq.com
 .in.qqhpg.com
+.in.vipliangmei.com
 .in.webcounter.cc
 .in.yimg.com
 .in1.feed.uu.cc
@@ -36912,6 +36924,7 @@ zzomiuob.com
 .int.w3tong.com
 .intab.fun
 .intactoffers.club
+.intake-analytics.wikimedia.org
 .intangibleconcordant.com
 .intarget.ru
 .inte.sogou.com
@@ -38284,7 +38297,6 @@ zzomiuob.com
 .jquerrycdn.do
 .jquery-cdn.do
 .jquery-cdn.download
-.jquery-uim.do
 .jquery-uim.download
 .jquerycdn.co.il
 .jqueryget.com
@@ -39271,6 +39283,7 @@ zzomiuob.com
 .kld666.com
 .kldmm.com
 .klert.com
+.klfxq.kieedi.foosheng.com
 .klgzzs.cn
 .klick.vn
 .klick4u.de
@@ -39338,6 +39351,7 @@ zzomiuob.com
 .kn.qqqmdq.com
 .kn.tzsmab.cn
 .kn.zzdahan.com
+.knb.hlgmsy.com
 .knbnejxqn.com
 .knc.lv
 .kncmdqkvnrofe.com
@@ -39418,6 +39432,7 @@ zzomiuob.com
 .koncbabae.com
 .konflow.com
 .kongbao858.com
+.kongjiiee.info
 .kongssew.com
 .kono-research.de
 .konstantin.freespaces.com
@@ -40287,6 +40302,7 @@ zzomiuob.com
 .letaikay.net
 .letao.com
 .letaojuan68.com
+.letaotaojishi.com
 .letaoxiaochi.com
 .letdvoltm.com
 .letelypunism.top
@@ -40557,6 +40573,7 @@ zzomiuob.com
 .lindencarry.pro
 .lindenlaugh.pro
 .lindon-pool.win
+.line1-log.biligame.net
 .lineoflife.ru
 .linezing.com
 .lingchallersh.top
@@ -41024,6 +41041,7 @@ zzomiuob.com
 .log-player.arte.tv
 .log-stats.weathercn.com
 .log-tb.isnssdk.com
+.log-upload.mihoyo.com
 .log-yex.youdao.com
 .log.120ask.com
 .log.51cto.com
@@ -41143,6 +41161,7 @@ zzomiuob.com
 .log.thevideo.me
 .log.tienphong.vn
 .log.tinnhanhchungkhoan.vn
+.log.tpns.tencent.com
 .log.trackingio.com
 .log.ttbc-hcm.gov.vn
 .log.tv.moliv.cn
@@ -41189,6 +41208,7 @@ zzomiuob.com
 .logapi.tv.naver.com
 .logbor.com
 .logcollector.viewster.com
+.logconf.iflytek.com
 .logconfig.polarisoffice.com
 .logcounter.com
 .logdev.openload.co
@@ -41259,6 +41279,7 @@ zzomiuob.com
 .logs.ggweb.nl
 .logs.giaoducthoidai.vn
 .logs.hotstar.com
+.logs.naukri.com
 .logs.ntvplus.tv
 .logs.psm.wmcdp.io
 .logs.roku.com
@@ -41266,6 +41287,7 @@ zzomiuob.com
 .logs.starbolt.io
 .logs.thebloggernetwork.com
 .logs.thethaovanhoa.vn
+.logs.upnono.com
 .logs.vmixcore.com
 .logs1.reatimes.vn
 .logsbin.dantri.com.vn
@@ -41599,6 +41621,7 @@ zzomiuob.com
 .lunametrics.wpengine.netdna-cdn.com
 .lunio.net
 .luntan588.space
+.luntanx18.info
 .luodiye01.cn
 .luolikong.net
 .luomanzhubao.cn
@@ -41867,7 +41890,6 @@ zzomiuob.com
 .m.cenrs.com
 .m.cfanm.com
 .m.chenhuia.com
-.m.chunyin.site
 .m.cjjcby.cn
 .m.ckaim.com
 .m.clubske.com
@@ -41922,6 +41944,7 @@ zzomiuob.com
 .m.haowj.com.cn
 .m.hbans.com
 .m.hbstjt88.cn
+.m.hdboping.com
 .m.hdjy999.com
 .m.hellomingpian.com
 .m.helloworld2018.top
@@ -41930,11 +41953,9 @@ zzomiuob.com
 .m.hospital028.com
 .m.hpfjy.com
 .m.htper.com
-.m.hua6.cn
 .m.huanyuexpress.com
 .m.huyulh.com
 .m.hyzui.com
-.m.icoc2018.cn
 .m.iduob.com
 .m.ilancc.com
 .m.iorgb.com
@@ -41973,7 +41994,6 @@ zzomiuob.com
 .m.muyuge.com
 .m.mxguan.com
 .m.nbhaosheng168.com
-.m.nchet.com
 .m.nejup.com
 .m.nkjfzq43034.cn
 .m.nouaa.com
@@ -42656,6 +42676,7 @@ zzomiuob.com
 .mauzobou.net
 .mavenlohi.com
 .mavq.net
+.mavuz.com
 .mawlaybob.com
 .mawsewtow.com
 .mawssicksager.work
@@ -43501,6 +43522,7 @@ zzomiuob.com
 .mg09.zhaopin.com
 .mg2connext.com
 .mgage.com
+.mgc-games.com
 .mgcash.com
 .mgcashgate.com
 .mgd-adengine.elasticbeanstalk.com
@@ -43628,7 +43650,6 @@ zzomiuob.com
 .migdtqq.com
 .mighbest.host
 .mighbest.pw
-.mighbest.si
 .mighbest.site
 .mightiger.net
 .mightseers.club
@@ -46309,7 +46330,6 @@ zzomiuob.com
 .nonpareilwagetide.com
 .nonstoppartner.de
 .nonstoppartner.net
-.noobnoob.ro
 .noonraptnite.com
 .noosaphy.net
 .noowho.com
@@ -46451,7 +46471,6 @@ zzomiuob.com
 .nowskip.com
 .nowspots.com
 .nowtestpc.updatenewfresh4u.top
-.nowymmrxj.com
 .noxaffiliates.com
 .noy-95.com
 .noy90o.com
@@ -46750,7 +46769,6 @@ zzomiuob.com
 .nxtck.com
 .nxtipyczkivm.com
 .nxtuaeko.com
-.nxw.0518g.com
 .nxwly.com
 .nxwzfz.com
 .nxypz.com
@@ -48348,6 +48366,7 @@ zzomiuob.com
 .oxtowerbus.club
 .oxtracking.com
 .oxu24.com
+.oxwwoeukjispema.ru
 .oxybe.com
 .oxygenpurpleairtight.com
 .oxzffweyw.com
@@ -49408,8 +49427,8 @@ zzomiuob.com
 .phormstandards.com
 .photo-ads.zaloapp.com
 .photo.188kc.cn
-.photo.941ziyuan.cn
 .photo.backerbiotech.cn
+.photo.bjdfhy.cn
 .photo.dhford.cn
 .photo.domainrank.cn
 .photo.dstrchina.cn
@@ -50349,7 +50368,6 @@ zzomiuob.com
 .potentingaknt.club
 .potentingxyr.club
 .potentionsdarket.site
-.poterrupte.co
 .potjevleesch.xyz
 .potpourrichordataoscilloscope.com
 .pottendent.top
@@ -51511,7 +51529,6 @@ zzomiuob.com
 .pussy-pics.net
 .pussyeatingclub.com
 .pussyeatingclubcams.com
-.pussyspace.com
 .pusure.com
 .put.qostore.daumkakao.io
 .putags.com
@@ -52285,7 +52302,6 @@ zzomiuob.com
 .quyxxofx.com
 .qvfwckuehf.com
 .qvi0.ru
-.qvilmdus.com
 .qvmgjhspiebe.com
 .qvnlejvkkicf.com
 .qvpublish.com
@@ -52647,7 +52663,6 @@ zzomiuob.com
 .rcounter.rambler.ru
 .rcsadv.it
 .rcsmetrics.it
-.rctfgrazkha.ru
 .rcudacimrqdlk.com
 .rcurn.com
 .rcv.iclicash.com
@@ -55697,7 +55712,6 @@ zzomiuob.com
 .sexy-ch.com
 .sexy-more.com
 .sexy.fling.com
-.sexykittenporn.com
 .sexymarissa.net
 .sexystat.com
 .sexzavod.com
@@ -56090,6 +56104,7 @@ zzomiuob.com
 .shulhanafuh.com
 .shunlige.com
 .shunxinyuancaiwu.cn
+.shuqistat.com
 .shuqw.com
 .shusacem.net
 .shushijiameng123.com
@@ -56493,6 +56508,7 @@ zzomiuob.com
 .slipstream.skyscanner.net
 .slivercommander.cn
 .slivz.com
+.sljkj.com
 .sloansagnersro.com
 .sloeri.com
 .slog.sina.cn
@@ -56913,6 +56929,7 @@ zzomiuob.com
 .softwebzone.com
 .softxbutt.com
 .soggysponge.com
+.sogov587.top
 .sohasdk.sohacorp.vn
 .sohbetpaneli.xyz
 .sohjah-thahka.info
@@ -57602,6 +57619,7 @@ zzomiuob.com
 .ssp*.rtb.beeline.ru
 .ssp-api.mobadvent.com
 .ssp.08160.cn
+.ssp.1nmob.com
 .ssp.4hw.com.cn
 .ssp.86str.com
 .ssp.chaohutechan.com
@@ -57626,7 +57644,6 @@ zzomiuob.com
 .sspapi-prd.samsungrs.com
 .ssphwy.com
 .sspi.adpopcorn.com
-.sspicy.ru
 .sspsky.com
 .ssptrk.adpopcorn.com
 .ssqpsrlknohdao.com
@@ -58160,7 +58177,6 @@ zzomiuob.com
 .stats.ft.com
 .stats.gamestop.com
 .stats.gbvanalytics.com
-.stats.gc.apple.com
 .stats.geegain.com
 .stats.gifs.com
 .stats.gioneemobile.net
@@ -58657,7 +58673,6 @@ zzomiuob.com
 .subemania.com
 .subendorse.com
 .sublimemedia.net
-.subloader.cf
 .submarinebarbecueemigrant.com
 .submissing.com
 .submitexpress.co.uk
@@ -58948,6 +58963,7 @@ zzomiuob.com
 .svip.shwxtw.com
 .sviter2s1olenyami1.com
 .svitnews.com
+.svivqrhrh.ru
 .svjat0rx99.com
 .svk-native.ru
 .svk100hp.ru
@@ -59353,7 +59369,6 @@ zzomiuob.com
 .t.webjavaskript.net
 .t.xiumii.top
 .t.xtubetv.net
-.t.xymj.xyz
 .t.yesware.com
 .t0p0ff3rs.com
 .t1.58cdn.com.cn
@@ -59499,6 +59514,7 @@ zzomiuob.com
 .tainiesonline.pw
 .tainiesonline.st
 .taiphaib.net
+.taisi666.top
 .taiv8.com
 .taiwhups.net
 .tajs.qq.com
@@ -60023,7 +60039,6 @@ zzomiuob.com
 .temp.163.com
 .temphilltop.com
 .temphilltop.net
-.template-download.top
 .template.liusha.info
 .templates.buscape.com
 .tempo.inc.com
@@ -60727,6 +60742,7 @@ zzomiuob.com
 .tkssw.com
 .tktracker.aotter.net
 .tkweb.baidu.com
+.tl.oneway.mobi
 .tl2go.com
 .tl813.com
 .tl875f.cn
@@ -62059,7 +62075,6 @@ zzomiuob.com
 .traffic-c.com
 .traffic-delivery.com
 .traffic-exchange.com
-.traffic-gate-service.info
 .traffic-go.com
 .traffic-in.com
 .traffic-media.co
@@ -62067,7 +62082,6 @@ zzomiuob.com
 .traffic-redirecting.com
 .traffic-stats.streamsolutions.co.uk
 .traffic-supremacy.com
-.traffic-tech-service.info
 .traffic.acwebconnecting.com
 .traffic.adexprtz.com
 .traffic.buyservices.com
@@ -62223,6 +62237,7 @@ zzomiuob.com
 .trasholita.com
 .tratefirearly.top
 .tratouler.com
+.traumasister.tk
 .traumaticnoiseless.com
 .trav4life.site
 .travangeind.club
@@ -62485,6 +62500,7 @@ zzomiuob.com
 .trwba.com
 .trwbkkxk.com
 .trx.smdatalabs.com
+.trx3.famousfix.com
 .trxxh.com
 .try9.com
 .trymynewspirit.com
@@ -62865,6 +62881,7 @@ zzomiuob.com
 .tydd.hunterwish.cn
 .tyh.taobao.com
 .tyh887.com
+.tyhjwjg.cn
 .tyjryuk.cn
 .tyjyrkcrv.com
 .tykor.net
@@ -63512,7 +63529,6 @@ zzomiuob.com
 .unlitui.com
 .unlockr.com
 .unlomblam.pro
-.unmdrnuzgel.com
 .unmortalloose.com
 .unnaturalcaption.com
 .unoblotto.net
@@ -63910,7 +63926,6 @@ zzomiuob.com
 .ut.5.p2l.info
 .ut.o2.pl
 .ut0ej.cn
-.ut2.shuqistat.com
 .utag.ijinshan.com
 .utairway.com
 .utarget.co.uk
@@ -63919,7 +63934,6 @@ zzomiuob.com
 .utazwa.com
 .utctime.tiltingpoint.io
 .utenti.lycos.it
-.utf1.liehuo.net
 .utfusckgnj.com
 .uthorner.info
 .uthworkreaseu.info
@@ -64303,7 +64317,6 @@ zzomiuob.com
 .vcbn65.xyz
 .vcdn.biz
 .vcfnspbgztl.com
-.vcfs6ip5h6.bi
 .vcfs6ip5h6.bid
 .vcgyhvgkcknlx.bid
 .vch.voyage-prive.ch
@@ -66047,7 +66060,6 @@ zzomiuob.com
 .wemdsm.com
 .wemfbox.ch
 .wemgcdygokm.com
-.wemine.pro
 .wenbangsh.com.cn
 .wenda.io
 .wengesog.net
@@ -66183,7 +66195,6 @@ zzomiuob.com
 .where.com
 .whereascredentialsurmise.com
 .wheredoyoucomefrom.ovh
-.whereismommy.gq
 .wheretogo.bid
 .wheshaud.net
 .whethere.club
@@ -66253,7 +66264,6 @@ zzomiuob.com
 .whukroal.net
 .whusebsu.com
 .whxhhjx.com
-.whysoserius.cl
 .whysoserius.club
 .whytoss.com
 .whzhi.com
@@ -66362,7 +66372,6 @@ zzomiuob.com
 .wikiforosh.ir
 .wikigifth.com
 .wikiodeliv.com
-.wiklweefcuorh.com
 .wilburshort.pro
 .wildcard-ads-448740142.us-west-2.elb.amazonaws.com
 .wildcard-ads-new-1653986885.us-east-1.elb.amazonaws.com
@@ -66480,7 +66489,6 @@ zzomiuob.com
 .wizliebeg.com
 .wizwarsum.site
 .wj.jiancai365.cn
-.wjavelurhgx.com
 .wjdfv.com
 .wjdjcjcm444.cn
 .wjeeqkdbjsg.com
@@ -66549,7 +66557,6 @@ zzomiuob.com
 .wmcasher.ru
 .wmclickz.ru
 .wmedia-track.uc.cn
-.wmemsnhgldd.ru
 .wmeng.feihuadns.com
 .wmflabs.org
 .wmhlch.com
@@ -66566,7 +66573,6 @@ zzomiuob.com
 .wmton.com
 .wmtyrdrpjbhnj.com
 .wmwloejxww.com
-.wmwmwwfmkvucbln.ru
 .wmwyq.xyz
 .wmzona.com
 .wnaibjbnqown.com
@@ -66941,7 +66947,6 @@ zzomiuob.com
 .ww.xiaopiaoyou.com
 .ww1.flashx.net
 .ww2.gestyy.com
-.ww2.imgdrive.net
 .ww88club.com
 .wwbn.com
 .wwbtads.com
@@ -67665,6 +67670,7 @@ zzomiuob.com
 .wxiansen.cn
 .wxiwegwffls.com
 .wxktv.cn
+.wxlagame.com
 .wxmg2016.com
 .wxmmh.net
 .wxrotkricj.com
@@ -67739,6 +67745,7 @@ zzomiuob.com
 .wziaqxvxmpfshx.com
 .wziftlp.com
 .wzjijia.com
+.wzjs.cdn.bcebos.com
 .wzn4.cn
 .wznupnxp.com
 .wzor.web-serf.info
@@ -67771,6 +67778,7 @@ zzomiuob.com
 .x.120ask.com
 .x.55peixun.com
 .x.9dagui.com
+.x.adnet.qq.com
 .x.allabout.co.jp
 .x.bikaer.com
 .x.bloggurat.net
@@ -67874,6 +67882,7 @@ zzomiuob.com
 .xazhuozhi.com
 .xb011x.cn
 .xb29h.cn
+.xb588.net
 .xbaiv.com
 .xbasfbno.info
 .xbaulknerte.club
@@ -68242,7 +68251,7 @@ zzomiuob.com
 .xlonhcld.xlontech.net
 .xlounge.ru
 .xlovecam.com
-.xls.suxun368.cc
+.xls.czliangsheng.cn
 .xlsschina15.net
 .xluizaewqswnfr.com
 .xlwnx.com
@@ -68298,7 +68307,6 @@ zzomiuob.com
 .xmr.cool
 .xmrepair.com
 .xmrm.pw
-.xmrminer.cc
 .xmrminingproxy.com
 .xmrpool.net
 .xmrts.com
@@ -68562,6 +68570,7 @@ zzomiuob.com
 .xuanhk.com
 .xuanlimin.top
 .xuanmeiguoji.com
+.xuanxuan520.com
 .xubob.com
 .xuculit.ru
 .xue.zbyw.cn
@@ -68620,6 +68629,7 @@ zzomiuob.com
 .xwoexbipp.com
 .xwonghmweu.com
 .xwprdjbayq.com
+.xwuad.com
 .xww360.com
 .xwxbiywlavgpm.com
 .xxad.cc
@@ -69029,6 +69039,7 @@ zzomiuob.com
 .ygvuinirwqnl.com
 .ygyzx.cn
 .ygzkedoxwhqlzp.com
+.yh21kk.com
 .yh303030.com
 .yh6u.dealeusedevoyages.com
 .yhake.xyz
@@ -69206,6 +69217,7 @@ zzomiuob.com
 .ykxwn.com
 .yl850555.com
 .yl89.cn
+.yladm.com
 .ylads.yaolan.com
 .ylcgewdtetazek.com
 .yldbt.com
@@ -70071,6 +70083,7 @@ zzomiuob.com
 .zgclmw.cn
 .zgcplfvjpixarg.com
 .zgczjw.com
+.zgdfvih.cn
 .zgdfz6h7po.me
 .zgdmsj.cn
 .zgdtro.com
@@ -70369,6 +70382,7 @@ zzomiuob.com
 .znsv.baidu.com
 .znu1ertrovgs.org
 .znuwbselijsmyj.com
+.znxblom.cn
 .znxvuabzgm.com
 .zo.club
 .zo.game
