@@ -136,7 +136,8 @@ let magicJS = MagicJS(scriptName, 'INFO');
         }
         break;
       // 动态去广告
-      case /https?:\/\/api\.bilibili\.com\/pgc\/season\/app\/related\/recommend\?/.test(magicJS.request.url):
+      case (/^https?:\/\/api\.bilibili\.com\/pgc\/season\/app\/related\/recommend\?/.test(magicJS.request.url) || 
+            /^https?:\/\/api\.vc\.bilibili\.com\/dynamic_svr\/v1\/dynamic_svr\/dynamic_new\?/.test(magicJS.request.url)):
         try{
           let obj = JSON.parse(magicJS.response.body);
           let cards = obj.data.cards.filter(e => {return true? e.hasOwnProperty('display'): false});
