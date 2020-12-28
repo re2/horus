@@ -1,11 +1,11 @@
 # NAME: Privacy
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-28 14:27:29
-# HOST: 16
+# UPDATED: 2020-12-28 15:14:24
+# HOST: 15
 # HOST-SUFFIX: 2781
 # HOST-KEYWORD: 3
-# TOTAL: 2800
+# TOTAL: 2799
 HOST,data.mistat.xiaomi.com,Privacy
 HOST,hm.baidu.com,Privacy
 HOST,hmma.baidu.com,Privacy
@@ -14,7 +14,6 @@ HOST,log-hl-ipv6.snssdk.com,Privacy
 HOST,log-lq.snssdk.com,Privacy
 HOST,log-va.tiktokv.com,Privacy
 HOST,log.byteoversea.com,Privacy
-HOST,log.tiktokv.com,Privacy
 HOST,mc.51.la,Privacy
 HOST,safebrowsing.googleapis.com,Privacy
 HOST,safebrowsing.urlsec.qq.com,Privacy
