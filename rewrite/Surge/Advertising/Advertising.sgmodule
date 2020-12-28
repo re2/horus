@@ -1,8 +1,8 @@
-#!name=去广告
-#!desc=最后更新时间 2020-12-28 10:08:08
+#!name=复写去广告
+#!desc=最后更新时间 2020-12-28 11:38:14
 #!author=blackmatrix7
 #!github=https://github.com/blackmatrix7/ios_rule_script
-#!rewrite=791
+#!rewrite=789
 #!script=0
 #!mitm=566
 
@@ -316,8 +316,6 @@
 ^https?:\/\/capi\.douyucdn\.cn\/api\/ios_app\/check_update - reject
 ^https?:\/\/capi\.douyucdn\.cn\/api\/v1\/getStartSend?client_sys=ios - reject
 ^https?:\/\/capi\.douyucdn\.cn\/lapi\/sign\/app(api)?\/getinfo\?client_sys=ios - reject
-^https?:\/\/capis-1\.didapinche\.com\/ad\/cx\/startup\? - reject
-^https?:\/\/capis-clb\.didapinche\.com\/ad\/ - reject
 ^https?:\/\/ccsp-egmas\.sf-express\.com\/cx-app-base\/base\/app\/ad\/ - reject
 ^https?:\/\/ccsp-egmas\.sf-express\.com\/cx-app-base\/base\/app\/ad\/queryAdImages - reject
 ^https?:\/\/cdn-1rtb\.caiyunapp\.com/creative/.*$ - reject
