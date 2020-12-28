@@ -1,5 +1,5 @@
-#!name=去除开屏广告
-#!desc=通过脚本去除部分顽固APP的开屏广告
+#!name=开屏去广告
+#!desc=通过脚本去除部分APP的顽固开屏广告
 #!system=ios
 
 [Script]
