@@ -11,8 +11,8 @@ let magicJS = MagicJS(scriptName, 'INFO');
           let obj = JSON.parse(magicJS.response.body);
           let startupPages = [];
           obj.startupPages.forEach(element => {
-              element["create_time"] = "1924654742000";
-              element["end_time"] = "2208651542000";
+              element["create_time"] = "20301208131245";
+              element["end_time"] = "20301229000000";
               startupPages.push(element);
             }
           );
