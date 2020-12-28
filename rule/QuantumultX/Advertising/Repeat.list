@@ -1,7 +1,7 @@
 # NAME: Advertising 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-28 11:37:59
+# UPDATED: 2020-12-28 14:18:12
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # Advertising 与 Adobe 共 5 条规则重复
 HOST-SUFFIX,adbecrsl.com
@@ -9,7 +9,7 @@ HOST-SUFFIX,demandbase.com
 HOST-SUFFIX,demdex.net
 HOST-SUFFIX,newrelic.com
 HOST-SUFFIX,omtrdc.net
-# Advertising 与 AdvertisingTest 共 52747 条规则重复
+# Advertising 与 AdvertisingTest 共 52812 条规则重复
 HOST,0.up.qingdaonews.com
 HOST,000lk3v.wcomhost.com
 HOST,000lkub.rcomhost.com
@@ -883,6 +883,8 @@ HOST,adtactics.com
 HOST,adtago.s3.amazonaws.com
 HOST,adtech.nflximg.net
 HOST,adtegrity.com
+HOST,adtools.gossipkings.com
+HOST,adtools2.amakings.com
 HOST,adtrack.cimedia.net
 HOST,adtracker101.com
 HOST,adtradradservices.com
@@ -1108,6 +1110,7 @@ HOST,alupdatelinrteam.weebly.com
 HOST,aluteksa.com
 HOST,amagarhshardaschool.com
 HOST,amaithiyagam.org
+HOST,amateur.amarotic.com
 HOST,amateuree.com
 HOST,amateurs-cam.0my.net
 HOST,amateursexdvd.com
@@ -1230,6 +1233,7 @@ HOST,anugrahkostum.com
 HOST,anvikbiotech.com
 HOST,anx.mywebsearch.com
 HOST,anycracks.com
+HOST,anyporn.com
 HOST,anzanish.tripod.com
 HOST,aod-image-material.bj.bcebos.com
 HOST,aod-image.baidu.com
@@ -1601,6 +1605,7 @@ HOST,banners.advidi.com
 HOST,banners.amfibi.com
 HOST,banners.askmecca.com
 HOST,banners.bgmaps.com
+HOST,banners.blacksexmatch.com
 HOST,banners.brinkin.com
 HOST,banners.clips4sale.com
 HOST,banners.content.rude.com
@@ -1612,8 +1617,11 @@ HOST,banners.icams.com
 HOST,banners.lottoelite.com
 HOST,banners.millionairemate.com
 HOST,banners.mynakedweb.com
+HOST,banners.passiondollars.com
 HOST,banners.perfectgonzo.com
 HOST,banners.rexmag.com
+HOST,banners.rude.com
+HOST,banners.rushcommerce.com
 HOST,banners.sublimedirectory.com
 HOST,banners.thirdmovies.com
 HOST,banners.toteme.com
@@ -2053,6 +2061,7 @@ HOST,c75b9ac5103e5d125b8.com
 HOST,ca.adserver.yahoo.com
 HOST,cacemgas.com
 HOST,cache.cdngamings.com
+HOST,cache.daredorm.com
 HOST,cache.gfrevenge.com
 HOST,cache.realitykings.com
 HOST,cachebanners.toteme.com
@@ -2117,6 +2126,7 @@ HOST,carrefourbrasil.inq.com
 HOST,carry4enterprises.com
 HOST,cart.asianglobal.cn
 HOST,cartoonpornguide.com
+HOST,cartoontube.com
 HOST,caryaward.com
 HOST,casadeyagil.com
 HOST,cash-wear.com
@@ -2238,6 +2248,7 @@ HOST,cdn2.act-on.com
 HOST,cdn2.wshareit.com
 HOST,cdn2sitescout-a.akamaihd.net
 HOST,cdn3.mobile.contentdef.com
+HOST,cdncache2-a.akamaihd.net
 HOST,cdnjs.tvpage.com
 HOST,cdnmedia.xyz
 HOST,cdns.eu1.gigya.com
@@ -2546,6 +2557,7 @@ HOST,clickhosted.com
 HOST,clickprintnv.com
 HOST,clicks.about.com
 HOST,clicktrack.wnu.com
+HOST,clickz.lonelycheatingwives.com
 HOST,client.adara.com
 HOST,client_monitor.isnssdk.com
 HOST,clientsrewardspromotion.com
@@ -2688,6 +2700,7 @@ HOST,content.mkt922.com
 HOST,content.mkt931.com
 HOST,content.seerealgirls.com
 HOST,content.womensforum.com
+HOST,contentcache-a.akamaihd.net
 HOST,contentz.mkt912.com
 HOST,contentz.mkt932.com
 HOST,contest.unbounce.com
@@ -2806,6 +2819,8 @@ HOST,cryptoshopinc.com
 HOST,crystallakevt.org
 HOST,crystalstonemarble.com
 HOST,cs.332-d.com
+HOST,cs.celebbusters.com
+HOST,cs.exposedontape.com
 HOST,cs1.wpc.v0cdn.net
 HOST,cs11.wpc.v0cdn.net
 HOST,cs1137.wpc.gammacdn.net
@@ -2929,6 +2944,7 @@ HOST,dataasmierci.blogspot.com
 HOST,datamark.actonsoftware.com
 HOST,datasmierci01.blogspot.com
 HOST,datastore.rediff.com
+HOST,datefree.com
 HOST,datongbs.net
 HOST,dattanava.com
 HOST,daveblomme.com
@@ -2958,6 +2974,7 @@ HOST,ddos.93se.com
 HOST,de.act-on.com
 HOST,de.adserver.yahoo.com
 HOST,de.unbounce.com
+HOST,deal.maabm.com
 HOST,dealermobilhondajakarta.com
 HOST,deals.bullguard.com
 HOST,deathstrokedlc.sharezips.net
@@ -3291,6 +3308,7 @@ HOST,dufatanye.org
 HOST,duggiads.com
 HOST,duinearme.com
 HOST,duketofrob.com
+HOST,dump1.no-ip.biz
 HOST,duotriali.com
 HOST,duplicatefilecleaner.com
 HOST,durasite.net
@@ -3998,6 +4016,7 @@ HOST,freemyfile.com
 HOST,freenetflixaccounts.com
 HOST,freenewbooks.com
 HOST,freenfaccount.com
+HOST,freeonescams.com
 HOST,freeplaycard.com
 HOST,freeplaygiftcards.com
 HOST,freepmoney.com
@@ -4828,6 +4847,7 @@ HOST,ht.pornhub.com
 HOST,ht.xtube.com
 HOST,html.mmtcdn.com
 HOST,htmlads.s3.amazonaws.com
+HOST,httpdns.n.netease.com
 HOST,https443.net
 HOST,huagumei.com
 HOST,huakaile88.com
@@ -5321,6 +5341,7 @@ HOST,jrpfekf.angelfire.com
 HOST,js.braintreegateway.com
 HOST,js.cleancentertours.com
 HOST,js.convertale.com
+HOST,js.hdzog.com
 HOST,js.intercomcdn.com
 HOST,js.jrjimg.cn
 HOST,js.livehelper.com
@@ -7419,6 +7440,7 @@ HOST,prod.apptimize.com
 HOST,prodmon.beeswax.com
 HOST,produtoshoje.com
 HOST,proedgeinc.com
+HOST,profile.bharatmatrimony.com
 HOST,profill-smd.com
 HOST,profincorp.com
 HOST,progettocrea.org
@@ -7433,8 +7455,10 @@ HOST,promo.buzzclicks.com
 HOST,promo.clicnscores.com
 HOST,promo.do-analytics.net
 HOST,promo.lonelywifehookup.com
+HOST,promo.pegcweb.com
 HOST,promo.sensationalcash.com
 HOST,promocionesparati.com
+HOST,promos.wealthymen.com
 HOST,promotions.betfred.com
 HOST,promotions.catalina.com
 HOST,promotools.globalmailer.com
@@ -9089,6 +9113,7 @@ HOST,titanium-hack.com
 HOST,tj.playcvn.com
 HOST,tjssgdxyxh.fgppchg.fgpp.com
 HOST,tk-gregoric.si
+HOST,tkn.fux.com
 HOST,tmobile-us.inq.com
 HOST,tmotbq.xyz
 HOST,tmpgames.com
@@ -10845,6 +10870,7 @@ HOST-SUFFIX,123hala.com
 HOST-SUFFIX,123juhd.com
 HOST-SUFFIX,123juzi.net
 HOST-SUFFIX,123ppk.com
+HOST-SUFFIX,123stat.com
 HOST-SUFFIX,123vidz.com
 HOST-SUFFIX,125220.com
 HOST-SUFFIX,125331.top
@@ -12066,6 +12092,7 @@ HOST-SUFFIX,6yush.cn
 HOST-SUFFIX,6yw7j.cn
 HOST-SUFFIX,6zw2rcfd.com
 HOST-SUFFIX,6zy9yqe1ew.com
+HOST-SUFFIX,7-7-7-partner.com
 HOST-SUFFIX,700900.com
 HOST-SUFFIX,700ok.net
 HOST-SUFFIX,7011.stia.cn
@@ -12648,7 +12675,6 @@ HOST-SUFFIX,9h7n8.com
 HOST-SUFFIX,9kanw.com
 HOST-SUFFIX,9kff.com
 HOST-SUFFIX,9ksj.xyz
-HOST-SUFFIX,9ll01.com
 HOST-SUFFIX,9llm.com
 HOST-SUFFIX,9mbv.com
 HOST-SUFFIX,9nl.eu
@@ -12890,6 +12916,7 @@ HOST-SUFFIX,a3m.io
 HOST-SUFFIX,a3p4.com
 HOST-SUFFIX,a3p4.net
 HOST-SUFFIX,a3pz36.cn
+HOST-SUFFIX,a3xo-eng.spankbang.com
 HOST-SUFFIX,a3yqjsrczwwp.com
 HOST-SUFFIX,a4.b2b168.com
 HOST-SUFFIX,a4.ikafan.com
@@ -13052,11 +13079,9 @@ HOST-SUFFIX,abie25.top
 HOST-SUFFIX,abie9.top
 HOST-SUFFIX,abjusouft.com
 HOST-SUFFIX,ablehed.pro
-HOST-SUFFIX,ablen01.tk
 HOST-SUFFIX,ablen02.tk
 HOST-SUFFIX,ablen03.tk
-HOST-SUFFIX,ablen05.tk
-HOST-SUFFIX,ablen08.tk
+HOST-SUFFIX,ablen06.tk
 HOST-SUFFIX,ablen10.tk
 HOST-SUFFIX,ablen11.tk
 HOST-SUFFIX,ablenctionalle.info
@@ -13576,7 +13601,6 @@ HOST-SUFFIX,adashxgc.ut.taobao.com
 HOST-SUFFIX,adasiaholdings.com
 HOST-SUFFIX,adatrix.com
 HOST-SUFFIX,adavideo.baidu.com
-HOST-SUFFIX,adb.fling.com
 HOST-SUFFIX,adbana.com
 HOST-SUFFIX,adbard.net
 HOST-SUFFIX,adbasket.net
@@ -14031,6 +14055,7 @@ HOST-SUFFIX,admission.net
 HOST-SUFFIX,admitad.com
 HOST-SUFFIX,admitteepom.club
 HOST-SUFFIX,admixer.net
+HOST-SUFFIX,admjmp.com
 HOST-SUFFIX,admngronline.com
 HOST-SUFFIX,admo.tv
 HOST-SUFFIX,admob.com
@@ -14128,6 +14153,7 @@ HOST-SUFFIX,adpai.thepaper.cn
 HOST-SUFFIX,adparlor.com
 HOST-SUFFIX,adpass.co.uk
 HOST-SUFFIX,adpaths.com
+HOST-SUFFIX,adpatrof.com
 HOST-SUFFIX,adpay.com
 HOST-SUFFIX,adpay.network
 HOST-SUFFIX,adpays.net
@@ -14466,7 +14492,6 @@ HOST-SUFFIX,adsrefundattempts.com
 HOST-SUFFIX,adsrevenue.net
 HOST-SUFFIX,adsrich.qq.com
 HOST-SUFFIX,adsring.com
-HOST-SUFFIX,adsrv.bangbros.com
 HOST-SUFFIX,adsrv.me
 HOST-SUFFIX,adsrv.us
 HOST-SUFFIX,adsrv4k.com
@@ -14510,6 +14535,7 @@ HOST-SUFFIX,adsvolume.com
 HOST-SUFFIX,adswam.com
 HOST-SUFFIX,adswizz.com
 HOST-SUFFIX,adsxgm.com
+HOST-SUFFIX,adsxyz.com
 HOST-SUFFIX,adsymptotic.com
 HOST-SUFFIX,adsyndication.msn.com
 HOST-SUFFIX,adsys.chinacloudapp.cn
@@ -14557,8 +14583,6 @@ HOST-SUFFIX,adtoll.com
 HOST-SUFFIX,adtoma.com
 HOST-SUFFIX,adtomafusion.com
 HOST-SUFFIX,adtonement.com
-HOST-SUFFIX,adtools.gossipkings.com
-HOST-SUFFIX,adtools2.amakings.com
 HOST-SUFFIX,adtoox.com
 HOST-SUFFIX,adtotal.pl
 HOST-SUFFIX,adtpix.com
@@ -14603,6 +14627,7 @@ HOST-SUFFIX,adultmoda.com
 HOST-SUFFIX,adultmoviegroup.com
 HOST-SUFFIX,adultoafiliados.com.br
 HOST-SUFFIX,adultsense.com
+HOST-SUFFIX,adultsense.net
 HOST-SUFFIX,adultsense.org
 HOST-SUFFIX,adulttds.com
 HOST-SUFFIX,adultterritory.net
@@ -14616,6 +14641,7 @@ HOST-SUFFIX,adups.com
 HOST-SUFFIX,adurr.com
 HOST-SUFFIX,aduu.cn
 HOST-SUFFIX,adv-adserver.com
+HOST-SUFFIX,adv-links.com
 HOST-SUFFIX,adv-plus.com
 HOST-SUFFIX,adv-sv-show.focus.cn
 HOST-SUFFIX,adv-sv-stat.focus.cn
@@ -14819,6 +14845,7 @@ HOST-SUFFIX,adziff.com
 HOST-SUFFIX,adzincome.in
 HOST-SUFFIX,adzintext.com
 HOST-SUFFIX,adziondin.club
+HOST-SUFFIX,adzjzewsma.cf
 HOST-SUFFIX,adzmaza.in
 HOST-SUFFIX,adzmedia.com
 HOST-SUFFIX,adzmob.com
@@ -14855,9 +14882,7 @@ HOST-SUFFIX,aeoprw.cn
 HOST-SUFFIX,aercxy.com
 HOST-SUFFIX,aero.bankofamerica.com
 HOST-SUFFIX,aeros01.tk
-HOST-SUFFIX,aeros02.tk
-HOST-SUFFIX,aeros06.tk
-HOST-SUFFIX,aeros09.tk
+HOST-SUFFIX,aeros07.tk
 HOST-SUFFIX,aeros10.tk
 HOST-SUFFIX,aerserv.com
 HOST-SUFFIX,aes01.com
@@ -15224,6 +15249,7 @@ HOST-SUFFIX,aishangcan.com
 HOST-SUFFIX,aishiguolong.com
 HOST-SUFFIX,aishowbger.com
 HOST-SUFFIX,aisouk.cn
+HOST-SUFFIX,aissoksu.net
 HOST-SUFFIX,aivento.cn
 HOST-SUFFIX,aiwen.cc
 HOST-SUFFIX,aiwenyisheng.mobi
@@ -15481,7 +15507,6 @@ HOST-SUFFIX,amao.mobi
 HOST-SUFFIX,amaqvmfd.com
 HOST-SUFFIX,amarceusan.com
 HOST-SUFFIX,amarfa.ir
-HOST-SUFFIX,amateur.amarotic.com
 HOST-SUFFIX,amateurcouplewebcam.com
 HOST-SUFFIX,amaumomt.com
 HOST-SUFFIX,amavalet.com
@@ -15512,7 +15537,6 @@ HOST-SUFFIX,amghais.cn
 HOST-SUFFIX,amghmej.cn
 HOST-SUFFIX,amghrrz.cn
 HOST-SUFFIX,amghvzn.cn
-HOST-SUFFIX,amhixwqagiz.ru
 HOST-SUFFIX,amhpbhyxfgvd.com
 HOST-SUFFIX,amifgpprfrbsm.com
 HOST-SUFFIX,amikay.com
@@ -15676,6 +15700,7 @@ HOST-SUFFIX,analytics.livestream.com
 HOST-SUFFIX,analytics.loop-cloud.de
 HOST-SUFFIX,analytics.mailmunch.co
 HOST-SUFFIX,analytics.matchbin.com
+HOST-SUFFIX,analytics.mbga.jp
 HOST-SUFFIX,analytics.meaww.com
 HOST-SUFFIX,analytics.meituan.net
 HOST-SUFFIX,analytics.midwesternmac.com
@@ -15908,7 +15933,6 @@ HOST-SUFFIX,anymad.com
 HOST-SUFFIX,anymedia.lv
 HOST-SUFFIX,anymind360.com
 HOST-SUFFIX,anyonemyth.com
-HOST-SUFFIX,anyporn.com
 HOST-SUFFIX,anysdk.com
 HOST-SUFFIX,anyxp.com
 HOST-SUFFIX,anyysz.com
@@ -15921,6 +15945,7 @@ HOST-SUFFIX,aocular.com
 HOST-SUFFIX,aodepuo.cn
 HOST-SUFFIX,aodongjiaosu.com
 HOST-SUFFIX,aodsywsxzquemt.com
+HOST-SUFFIX,aoidf3.com
 HOST-SUFFIX,aombjl099.com
 HOST-SUFFIX,aomde.com
 HOST-SUFFIX,aomeishang.com
@@ -15947,6 +15972,7 @@ HOST-SUFFIX,ap-srv.net
 HOST-SUFFIX,ap.dongqiudi.com
 HOST-SUFFIX,ap.ksrong.com
 HOST-SUFFIX,apas.aipai.com
+HOST-SUFFIX,apdingqian.com
 HOST-SUFFIX,apdrive.win
 HOST-SUFFIX,ape-tagit.timeinc.net
 HOST-SUFFIX,ape78cn2.com
@@ -16124,6 +16150,7 @@ HOST-SUFFIX,appdriver.cn
 HOST-SUFFIX,appdriver.com.cn
 HOST-SUFFIX,appealthroughout.com
 HOST-SUFFIX,appearancefingerprintabet.com
+HOST-SUFFIX,appelamule.com
 HOST-SUFFIX,appendad.com
 HOST-SUFFIX,apperr.log.mgtv.com
 HOST-SUFFIX,appfh.com
@@ -16173,6 +16200,7 @@ HOST-SUFFIX,appservices.comcsoft.com
 HOST-SUFFIX,appsflyer.com
 HOST-SUFFIX,appsmall.mobi
 HOST-SUFFIX,appspromote.wostore.cn
+HOST-SUFFIX,appsrv1.madserving.cn
 HOST-SUFFIX,appstoore.online
 HOST-SUFFIX,appsupdate.sinaapp.com
 HOST-SUFFIX,appsupport.qq.com
@@ -16714,6 +16742,7 @@ HOST-SUFFIX,awentw.com
 HOST-SUFFIX,aweproto.com
 HOST-SUFFIX,aweprotostatic.com
 HOST-SUFFIX,aweprt.com
+HOST-SUFFIX,awepsi.com
 HOST-SUFFIX,awept.com
 HOST-SUFFIX,awesome.section.io
 HOST-SUFFIX,awesomelytics.com
@@ -16798,6 +16827,7 @@ HOST-SUFFIX,azabu-u.ac.jp
 HOST-SUFFIX,azadify.com
 HOST-SUFFIX,azads.com
 HOST-SUFFIX,azalead.com
+HOST-SUFFIX,azasdf.be
 HOST-SUFFIX,azclk.com
 HOST-SUFFIX,azcvjaninfa.com
 HOST-SUFFIX,azdqwztcp.com
@@ -17127,7 +17157,6 @@ HOST-SUFFIX,banners.alt.com
 HOST-SUFFIX,banners.amigos.com
 HOST-SUFFIX,banners.beevpn.com
 HOST-SUFFIX,banners.beted.com
-HOST-SUFFIX,banners.blacksexmatch.com
 HOST-SUFFIX,banners.cams.com
 HOST-SUFFIX,banners.clubworldgroup.com
 HOST-SUFFIX,banners.expressindia.com
@@ -17139,12 +17168,9 @@ HOST-SUFFIX,banners.ixitools.com
 HOST-SUFFIX,banners.nostringsattached.com
 HOST-SUFFIX,banners.outpersonals.com
 HOST-SUFFIX,banners.passion.com
-HOST-SUFFIX,banners.passiondollars.com
 HOST-SUFFIX,banners.payserve.com
 HOST-SUFFIX,banners.penthouse.com
 HOST-SUFFIX,banners.playocio.com
-HOST-SUFFIX,banners.rude.com
-HOST-SUFFIX,banners.rushcommerce.com
 HOST-SUFFIX,banners.smarttweak.com
 HOST-SUFFIX,banners.videosecrets.com
 HOST-SUFFIX,banners.videosz.com
@@ -17620,6 +17646,7 @@ HOST-SUFFIX,bestcontentfee.top
 HOST-SUFFIX,bestcontentfood.top
 HOST-SUFFIX,bestcontenthost.com
 HOST-SUFFIX,bestcontentjob.top
+HOST-SUFFIX,bestcontentoperation.top
 HOST-SUFFIX,bestcontentservice.top
 HOST-SUFFIX,bestcontentsoftware.top
 HOST-SUFFIX,bestcontentuse.top
@@ -17634,6 +17661,7 @@ HOST-SUFFIX,besthitsnow.com
 HOST-SUFFIX,besthpath.club
 HOST-SUFFIX,besthuaxia.com
 HOST-SUFFIX,besti.ga
+HOST-SUFFIX,bestialearnbuds.com
 HOST-SUFFIX,bestmobiworld.com
 HOST-SUFFIX,bestmoneysites.com
 HOST-SUFFIX,bestofferdirect.com
@@ -17676,6 +17704,7 @@ HOST-SUFFIX,betting.betfair.com
 HOST-SUFFIX,bettingpartners.com
 HOST-SUFFIX,betway787.com
 HOST-SUFFIX,betweendigital.com
+HOST-SUFFIX,betweenstep.online
 HOST-SUFFIX,beucsyzvwdzqu.com
 HOST-SUFFIX,beusable.net
 HOST-SUFFIX,bewaslac.com
@@ -17854,7 +17883,6 @@ HOST-SUFFIX,biskerando.com
 HOST-SUFFIX,bisko.mall.tv
 HOST-SUFFIX,bit-bork-boodle.com
 HOST-SUFFIX,bit.ehow.com
-HOST-SUFFIX,bitads.net
 HOST-SUFFIX,bitadv.co
 HOST-SUFFIX,bitbeat7.com
 HOST-SUFFIX,bitbucket.io
@@ -18100,6 +18128,8 @@ HOST-SUFFIX,bn5x.net
 HOST-SUFFIX,bndbddt.top
 HOST-SUFFIX,bnet.com
 HOST-SUFFIX,bnetds.cn
+HOST-SUFFIX,bngpt.com
+HOST-SUFFIX,bngwlt.com
 HOST-SUFFIX,bnhtml.com
 HOST-SUFFIX,bnielrtzc.com
 HOST-SUFFIX,bninc2.cn
@@ -18496,7 +18526,6 @@ HOST-SUFFIX,bueson.com
 HOST-SUFFIX,buf.lemonde.fr
 HOST-SUFFIX,bufferapp.com
 HOST-SUFFIX,bugcreator.cn
-HOST-SUFFIX,bugel.pronpic.org
 HOST-SUFFIX,bugherd.com
 HOST-SUFFIX,buglethemfouls.casa
 HOST-SUFFIX,bugly.qq.com
@@ -18512,13 +18541,13 @@ HOST-SUFFIX,bulbazoa.com
 HOST-SUFFIX,bulbsanctify.com
 HOST-SUFFIX,buleor.com
 HOST-SUFFIX,bulkeach.com
-HOST-SUFFIX,bulkhentai.com
 HOST-SUFFIX,bullads.net
 HOST-SUFFIX,bulldogcpi.com
 HOST-SUFFIX,bulldogdemocracy.com
 HOST-SUFFIX,bulletfeedspy.com
 HOST-SUFFIX,bulletindualpartial.com
 HOST-SUFFIX,bulletprofitads.com
+HOST-SUFFIX,bullionyield.com
 HOST-SUFFIX,bulovuni.pro
 HOST-SUFFIX,bultigho.net
 HOST-SUFFIX,buluo.qq.com
@@ -18728,7 +18757,6 @@ HOST-SUFFIX,c.msn.com
 HOST-SUFFIX,c.msn.com.cn
 HOST-SUFFIX,c.netu.tv
 HOST-SUFFIX,c.ns8d.com
-HOST-SUFFIX,c.originz.cn
 HOST-SUFFIX,c.panqis.cn
 HOST-SUFFIX,c.panqishu.com
 HOST-SUFFIX,c.paypal.com
@@ -19013,7 +19041,6 @@ HOST-SUFFIX,carsickstrodeproductive.com
 HOST-SUFFIX,carstat.bitauto.com
 HOST-SUFFIX,cartekj.com
 HOST-SUFFIX,carticuladx.club
-HOST-SUFFIX,cartoontube.com
 HOST-SUFFIX,cartorkins.com
 HOST-SUFFIX,carts.guru
 HOST-SUFFIX,cartstick.com
@@ -19229,6 +19256,7 @@ HOST-SUFFIX,cdn1.lbesec.com
 HOST-SUFFIX,cdn1.res.nx5.com
 HOST-SUFFIX,cdn1.res.uzham.com
 HOST-SUFFIX,cdn1.tvzhe.com
+HOST-SUFFIX,cdn13.com
 HOST-SUFFIX,cdn2.moji002.com
 HOST-SUFFIX,cdn4ads.com
 HOST-SUFFIX,cdn5.nextinpact.com
@@ -19241,7 +19269,6 @@ HOST-SUFFIX,cdnasjdkajgfhgajfjkagfa.pro
 HOST-SUFFIX,cdnativ.com
 HOST-SUFFIX,cdnaz.win
 HOST-SUFFIX,cdnbigdata.azureedge.net
-HOST-SUFFIX,cdncache2-a.akamaihd.net
 HOST-SUFFIX,cdnfarm18.com
 HOST-SUFFIX,cdnfile.xyz
 HOST-SUFFIX,cdnfiles.site
@@ -19269,6 +19296,7 @@ HOST-SUFFIX,cdouj.com
 HOST-SUFFIX,cdp.cloud.unity3d.com
 HOST-SUFFIX,cdqjmc.com
 HOST-SUFFIX,cdqweuwvagrbd.com
+HOST-SUFFIX,cdsbnrs.com
 HOST-SUFFIX,cdshusen.cn
 HOST-SUFFIX,cdvjpzltcouxm.com
 HOST-SUFFIX,cdwqibctfz.com
@@ -19359,6 +19387,7 @@ HOST-SUFFIX,cfasync.tk
 HOST-SUFFIX,cfboo.com
 HOST-SUFFIX,cfcd.duckdns.org
 HOST-SUFFIX,cfcdist.gd
+HOST-SUFFIX,cfcdist.gdn
 HOST-SUFFIX,cfceu.duckdns.org
 HOST-SUFFIX,cfcloudcdn.com
 HOST-SUFFIX,cfcn.allocine.net
@@ -19488,6 +19517,7 @@ HOST-SUFFIX,cheeltee.net
 HOST-SUFFIX,cheer.cjoy.com.cn
 HOST-SUFFIX,cheewait.net
 HOST-SUFFIX,chehuanjie.com
+HOST-SUFFIX,chekaksam.com
 HOST-SUFFIX,chekeshi.com
 HOST-SUFFIX,cheksoam.com
 HOST-SUFFIX,chelmsfordweeklynews-gb.chelmsfordweeklynews.co.uk
@@ -19923,6 +19953,7 @@ HOST-SUFFIX,clicksagent.com
 HOST-SUFFIX,clicksen.se
 HOST-SUFFIX,clicksgear.com
 HOST-SUFFIX,clickshift.com
+HOST-SUFFIX,clicksondelivery.com
 HOST-SUFFIX,clicksor.com
 HOST-SUFFIX,clicksor.net
 HOST-SUFFIX,clickstream.co.za
@@ -19946,12 +19977,10 @@ HOST-SUFFIX,clickupto.com
 HOST-SUFFIX,clickvalue.cn
 HOST-SUFFIX,clickwedkeys.com
 HOST-SUFFIX,clickwinks.com
-HOST-SUFFIX,clickwith.bi
 HOST-SUFFIX,clickx.autohome.com.cn
 HOST-SUFFIX,clickx.io
 HOST-SUFFIX,clickxchange.com
 HOST-SUFFIX,clickyab.com
-HOST-SUFFIX,clickz.lonelycheatingwives.com
 HOST-SUFFIX,clickzs.com
 HOST-SUFFIX,clickzzs.nl
 HOST-SUFFIX,client-analytics.braintreegateway.com
@@ -20016,7 +20045,6 @@ HOST-SUFFIX,cloud-miner.eu
 HOST-SUFFIX,cloud.rovio.com
 HOST-SUFFIX,cloudad.asia
 HOST-SUFFIX,cloudcdn.gd
-HOST-SUFFIX,cloudcdn.gdn
 HOST-SUFFIX,cloudcoins.co
 HOST-SUFFIX,clouderrorreporting.googleapis.com
 HOST-SUFFIX,cloudflare.solutions
@@ -20237,6 +20265,7 @@ HOST-SUFFIX,codemylife.info
 HOST-SUFFIX,codenew.kanshuhai.com
 HOST-SUFFIX,codenow.cn
 HOST-SUFFIX,codeonclick.com
+HOST-SUFFIX,codeopensource.online
 HOST-SUFFIX,codesoftchina.com
 HOST-SUFFIX,codetips.wang
 HOST-SUFFIX,codeym.dictall.com
@@ -20523,7 +20552,6 @@ HOST-SUFFIX,content.livesportmedia.eu
 HOST-SUFFIX,content.s8bbs.com
 HOST-SUFFIX,content.secondspace.com
 HOST-SUFFIX,contentabc.com
-HOST-SUFFIX,contentcache-a.akamaihd.net
 HOST-SUFFIX,contentclick.co.uk
 HOST-SUFFIX,contentdigital.info
 HOST-SUFFIX,contentexchange.me
@@ -20655,7 +20683,6 @@ HOST-SUFFIX,coralogix.com
 HOST-SUFFIX,corateencountry.pro
 HOST-SUFFIX,core-cen-54.com
 HOST-SUFFIX,core-queerclick.netdna-ssl.com
-HOST-SUFFIX,core.queerclick.com
 HOST-SUFFIX,core.unit-sense.net
 HOST-SUFFIX,corechina.net
 HOST-SUFFIX,coreldrawchina.com
@@ -21116,9 +21143,7 @@ HOST-SUFFIX,crzytm.com
 HOST-SUFFIX,cs-bailing.com.cn
 HOST-SUFFIX,cs-feige.iqiyi.com
 HOST-SUFFIX,cs-op.douyucdn.cn
-HOST-SUFFIX,cs.celebbusters.com
 HOST-SUFFIX,cs.dqwjzm.com
-HOST-SUFFIX,cs.exposedontape.com
 HOST-SUFFIX,cs02-pps-drcn.dbankcdn.com
 HOST-SUFFIX,cs12d.com
 HOST-SUFFIX,csad.cc
@@ -21690,7 +21715,6 @@ HOST-SUFFIX,d3sbxpiag177w8.cloudfront.net
 HOST-SUFFIX,d3t3lxfqz2g5hs.cloudfront.net
 HOST-SUFFIX,d3tglifpd8whs6.cloudfront.net
 HOST-SUFFIX,d3tsytm1wtjqo2.cloudfront.net
-HOST-SUFFIX,d3ud741uvs727m.cloudfront.net
 HOST-SUFFIX,d3ujids68p6xmq.cloudfront.net
 HOST-SUFFIX,d3uqm14ppr8tkw.cloudfront.net
 HOST-SUFFIX,d3uvwl4wtkgzo1.cloudfront.net
@@ -21898,12 +21922,8 @@ HOST-SUFFIX,daq0d0aotgq0f.cloudfront.net
 HOST-SUFFIX,daqiangolf.com
 HOST-SUFFIX,daqijjpjow.com
 HOST-SUFFIX,dardwebertoha.info
-HOST-SUFFIX,daredorm.com
 HOST-SUFFIX,darersan.co
-HOST-SUFFIX,darking01.tk
-HOST-SUFFIX,darking04.tk
 HOST-SUFFIX,darking05.tk
-HOST-SUFFIX,darking07.tk
 HOST-SUFFIX,darlingtonandstocktontimes-gb.darlingtonandstocktontimes.co.uk
 HOST-SUFFIX,dart.clearchannel.com
 HOST-SUFFIX,dartsirhose.icu
@@ -21989,7 +22009,6 @@ HOST-SUFFIX,dataxpand.com
 HOST-SUFFIX,datayi.cn
 HOST-SUFFIX,datazhan.com
 HOST-SUFFIX,datedissyuk.icu
-HOST-SUFFIX,datefree.com
 HOST-SUFFIX,datefunclub.com
 HOST-SUFFIX,datetraders.com
 HOST-SUFFIX,datexchanges.net
@@ -22114,6 +22133,7 @@ HOST-SUFFIX,dddgndcqajr.com
 HOST-SUFFIX,dddomainccc.com
 HOST-SUFFIX,dddyun.com
 HOST-SUFFIX,ddf67683e4778d.com
+HOST-SUFFIX,ddfcash.com
 HOST-SUFFIX,ddfnykqqiexse.com
 HOST-SUFFIX,ddg1277.com
 HOST-SUFFIX,ddhtek.com
@@ -22154,7 +22174,6 @@ HOST-SUFFIX,de17a.com
 HOST-SUFFIX,deacon.ghfkk.com
 HOST-SUFFIX,deadlinemurderapril.com
 HOST-SUFFIX,deadlingsfg.club
-HOST-SUFFIX,deal.maabm.com
 HOST-SUFFIX,dealcurrent.com
 HOST-SUFFIX,deals.ledgertranscript.com
 HOST-SUFFIX,deals.macupdate.com
@@ -22317,6 +22336,7 @@ HOST-SUFFIX,detectdiscovery.com
 HOST-SUFFIX,deteql.net
 HOST-SUFFIX,deteran.club
 HOST-SUFFIX,determsclo.info
+HOST-SUFFIX,detour.click
 HOST-SUFFIX,detourlearned.com
 HOST-SUFFIX,detuns.com
 HOST-SUFFIX,deuqpxrht.com
@@ -23001,6 +23021,7 @@ HOST-SUFFIX,doudouknot.com
 HOST-SUFFIX,doufoacu.net
 HOST-SUFFIX,doug1izaerwt3.cloudfront.net
 HOST-SUFFIX,dougou88.com
+HOST-SUFFIX,douhooke.net
 HOST-SUFFIX,doukekan.cn
 HOST-SUFFIX,doumaibiji.cn
 HOST-SUFFIX,doumob.com
@@ -23075,6 +23096,7 @@ HOST-SUFFIX,dpypzvjarj.com
 HOST-SUFFIX,dq3yxnlzwhcys.cloudfront.net
 HOST-SUFFIX,dq95d35.com
 HOST-SUFFIX,dqburpwaqwehj.com
+HOST-SUFFIX,dqbwqzkajkuif.com
 HOST-SUFFIX,dqeqsiwc.com
 HOST-SUFFIX,dqgpb.com
 HOST-SUFFIX,dqhi3ea93ztgv.cloudfront.net
@@ -23268,7 +23290,6 @@ HOST-SUFFIX,duluoweiyu.com
 HOST-SUFFIX,dumbpop.com
 HOST-SUFFIX,dumedia.ru
 HOST-SUFFIX,dummywisdom.com
-HOST-SUFFIX,dump1.no-ip.biz
 HOST-SUFFIX,dumpster.cam4.com
 HOST-SUFFIX,dunderaffiliates.com
 HOST-SUFFIX,dungeonavenge.com
@@ -23380,7 +23401,6 @@ HOST-SUFFIX,dyllkretnnzuhm.com
 HOST-SUFFIX,dymlo6ffhj97l.cloudfront.net
 HOST-SUFFIX,dymveullwn.com
 HOST-SUFFIX,dyn.empflix.com
-HOST-SUFFIX,dyn.primecdn.net
 HOST-SUFFIX,dyn.tnaflix.com
 HOST-SUFFIX,dynad.net
 HOST-SUFFIX,dynameex.com
@@ -23470,7 +23490,6 @@ HOST-SUFFIX,e.danrs.com
 HOST-SUFFIX,e.deimm.com
 HOST-SUFFIX,e.diupp.com
 HOST-SUFFIX,e.dunmm.com
-HOST-SUFFIX,e.duomeng.org
 HOST-SUFFIX,e.dzairen.com
 HOST-SUFFIX,e.easypatent.net
 HOST-SUFFIX,e.ennmt.com
@@ -24416,6 +24435,7 @@ HOST-SUFFIX,ersfeaturall.info
 HOST-SUFFIX,ersoncur.info
 HOST-SUFFIX,ersremarypiec.info
 HOST-SUFFIX,erssamplet.pro
+HOST-SUFFIX,erstopnyrt.online
 HOST-SUFFIX,ersunt.com
 HOST-SUFFIX,erswhenede.info
 HOST-SUFFIX,ertainstreated.fun
@@ -24932,6 +24952,7 @@ HOST-SUFFIX,faayojxf.com
 HOST-SUFFIX,fab.interia.pl
 HOST-SUFFIX,fabricww.com
 HOST-SUFFIX,fabrkrup.com
+HOST-SUFFIX,fabrouter.com
 HOST-SUFFIX,facebookicon.net
 HOST-SUFFIX,facebookma.cn
 HOST-SUFFIX,facebruek.online
@@ -25726,6 +25747,7 @@ HOST-SUFFIX,fowpq.top
 HOST-SUFFIX,foxlaytg.com
 HOST-SUFFIX,foxpush.com
 HOST-SUFFIX,foxpush.net
+HOST-SUFFIX,foxrevenue.com
 HOST-SUFFIX,foxx.to
 HOST-SUFFIX,foxypp.com
 HOST-SUFFIX,foydnzdtjcjg.com
@@ -25824,8 +25846,6 @@ HOST-SUFFIX,freehitscounter.org
 HOST-SUFFIX,freeimg8.com
 HOST-SUFFIX,freelogs.com
 HOST-SUFFIX,freementgd.club
-HOST-SUFFIX,freeones.istripper.com
-HOST-SUFFIX,freeonescams.com
 HOST-SUFFIX,freeonlineusers.com
 HOST-SUFFIX,freepressseries-gb.freepressseries.co.uk
 HOST-SUFFIX,freeproxy.ro
@@ -26370,6 +26390,7 @@ HOST-SUFFIX,gaudiessept.space
 HOST-SUFFIX,gaug.es
 HOST-SUFFIX,gaulauvi.net
 HOST-SUFFIX,gauwicig.com
+HOST-SUFFIX,gavnogeeygaika.com
 HOST-SUFFIX,gay-hotvideo.net
 HOST-SUFFIX,gayadnetwork.com
 HOST-SUFFIX,gayadpros.com
@@ -26553,6 +26574,7 @@ HOST-SUFFIX,geobanner.alt.com
 HOST-SUFFIX,geobanner.blacksexmatch.com
 HOST-SUFFIX,geobanner.friendfinder.com
 HOST-SUFFIX,geobanner.fuckbookhookups.com
+HOST-SUFFIX,geobanner.hornywife.com
 HOST-SUFFIX,geobanner.passion.com
 HOST-SUFFIX,geobanner.sexfinder.com
 HOST-SUFFIX,geobanner.socialflirt.com
@@ -26666,6 +26688,8 @@ HOST-SUFFIX,getsmartlook.com
 HOST-SUFFIX,getsmily.com
 HOST-SUFFIX,getstatistics.se
 HOST-SUFFIX,getsupernova.com
+HOST-SUFFIX,gettate.date
+HOST-SUFFIX,gettate.racing
 HOST-SUFFIX,gettipsz.info
 HOST-SUFFIX,getui.com
 HOST-SUFFIX,getui.net
@@ -27022,6 +27046,7 @@ HOST-SUFFIX,go2speed.org
 HOST-SUFFIX,goadservices.com
 HOST-SUFFIX,goatcounter.com
 HOST-SUFFIX,goatoode.net
+HOST-SUFFIX,goawayn0w.com
 HOST-SUFFIX,gobaiwhe.net
 HOST-SUFFIX,gobali.cn
 HOST-SUFFIX,gobhasyum.com
@@ -27541,6 +27566,7 @@ HOST-SUFFIX,gygdmy.com
 HOST-SUFFIX,gyhzr.com
 HOST-SUFFIX,gykmfqxeolnne.com
 HOST-SUFFIX,gynax.com
+HOST-SUFFIX,gynvqipvmcv.com
 HOST-SUFFIX,gyoajmeq.com
 HOST-SUFFIX,gyojplgn.com
 HOST-SUFFIX,gyrtg.com
@@ -27661,6 +27687,7 @@ HOST-SUFFIX,hadspmz.com
 HOST-SUFFIX,haftobso.net
 HOST-SUFFIX,hagainstan.space
 HOST-SUFFIX,haggilder.com
+HOST-SUFFIX,hahazl.com
 HOST-SUFFIX,haidaocn.com
 HOST-SUFFIX,hailiao520.com
 HOST-SUFFIX,hailsserien.top
@@ -28282,6 +28309,7 @@ HOST-SUFFIX,hjc1990.com
 HOST-SUFFIX,hjgen.cn
 HOST-SUFFIX,hjgmasrve.com
 HOST-SUFFIX,hjgtnhierc.com
+HOST-SUFFIX,hjhbhddren.com
 HOST-SUFFIX,hjiebsdcxldu.com
 HOST-SUFFIX,hjiec.com
 HOST-SUFFIX,hjjjsurdhtt.com
@@ -28505,7 +28533,6 @@ HOST-SUFFIX,hostingcloud.re
 HOST-SUFFIX,hostingcloud.review
 HOST-SUFFIX,hostingcloud.science
 HOST-SUFFIX,hostingcloud.st
-HOST-SUFFIX,hostingcloud.stream
 HOST-SUFFIX,hostingcloud.tr
 HOST-SUFFIX,hostingcloud.trade
 HOST-SUFFIX,hostingcloud.win
@@ -28592,6 +28619,7 @@ HOST-SUFFIX,hpwzlfjpa.com
 HOST-SUFFIX,hpyjmp.com
 HOST-SUFFIX,hpyrdr.com
 HOST-SUFFIX,hpzyl.com
+HOST-SUFFIX,hq3x.com
 HOST-SUFFIX,hqczpetgslammu.com
 HOST-SUFFIX,hqgjcm.com
 HOST-SUFFIX,hqkwnyub.com
@@ -28643,6 +28671,7 @@ HOST-SUFFIX,hsmkj.net
 HOST-SUFFIX,hspbotdetection.azurewebsites.net
 HOST-SUFFIX,hsqbeznk.com
 HOST-SUFFIX,hsqujerwg.com
+HOST-SUFFIX,hsrvt.com
 HOST-SUFFIX,hsslx.com
 HOST-SUFFIX,hstpnetwork.com
 HOST-SUFFIX,hstrck.com
@@ -28676,7 +28705,6 @@ HOST-SUFFIX,htnote.info
 HOST-SUFFIX,htopensationclie.info
 HOST-SUFFIX,httftlckaxj.com
 HOST-SUFFIX,httpdns.bcelive.com
-HOST-SUFFIX,httpdns.n.netease.com
 HOST-SUFFIX,httpdns.push.oppomobile.com
 HOST-SUFFIX,httpool.com
 HOST-SUFFIX,httpp.gdn
@@ -28821,6 +28849,7 @@ HOST-SUFFIX,hwt.player888.cn
 HOST-SUFFIX,hwyoikfrfdtjp.com
 HOST-SUFFIX,hx623.cn
 HOST-SUFFIX,hxadt.com
+HOST-SUFFIX,hxbt.alading123.com
 HOST-SUFFIX,hxbvxmyldlt.com
 HOST-SUFFIX,hxcav77.com
 HOST-SUFFIX,hxgccl.cn
@@ -29261,6 +29290,7 @@ HOST-SUFFIX,ijiraeitwqpj.com
 HOST-SUFFIX,ijo5g.cn
 HOST-SUFFIX,ijpheyydhw1a.com
 HOST-SUFFIX,ijriehir.com
+HOST-SUFFIX,ijsprocode.com
 HOST-SUFFIX,ijugatdyiuwxq.com
 HOST-SUFFIX,ijuns.com
 HOST-SUFFIX,ijuny.com
@@ -30079,6 +30109,7 @@ HOST-SUFFIX,iskkrmwivxfmdjwxme.bid
 HOST-SUFFIX,iskyworker.com
 HOST-SUFFIX,islofthmci.com
 HOST-SUFFIX,ismatlab.com
+HOST-SUFFIX,ismlks.com
 HOST-SUFFIX,ismtampsshad.icu
 HOST-SUFFIX,isohits.com
 HOST-SUFFIX,isolationowen.com
@@ -30931,7 +30962,6 @@ HOST-SUFFIX,js.fc090.com
 HOST-SUFFIX,js.fengniao.com
 HOST-SUFFIX,js.flpjc.com
 HOST-SUFFIX,js.haoxyx.com
-HOST-SUFFIX,js.hdzog.com
 HOST-SUFFIX,js.hkslg520.com
 HOST-SUFFIX,js.idgdmg.com.cn
 HOST-SUFFIX,js.itaiju.com
@@ -31098,6 +31128,7 @@ HOST-SUFFIX,juren0.com
 HOST-SUFFIX,juricts.xyz
 HOST-SUFFIX,juroudaw.com
 HOST-SUFFIX,jursp.com
+HOST-SUFFIX,jurty.ml
 HOST-SUFFIX,jurtym.cf
 HOST-SUFFIX,juryintory.co
 HOST-SUFFIX,jurysatisfy.com
@@ -32037,6 +32068,7 @@ HOST-SUFFIX,ladsdown.com
 HOST-SUFFIX,ladsecs.com
 HOST-SUFFIX,ladsimz.com
 HOST-SUFFIX,ladsinfo.com
+HOST-SUFFIX,ladsips.com
 HOST-SUFFIX,ladsipz.com
 HOST-SUFFIX,ladskis.com
 HOST-SUFFIX,ladskiz.com
@@ -32094,6 +32126,7 @@ HOST-SUFFIX,lanistaconcepts.com
 HOST-SUFFIX,lanmogu.net
 HOST-SUFFIX,lansha.tv
 HOST-SUFFIX,lanshi021.com
+HOST-SUFFIX,lanshiwan.cn
 HOST-SUFFIX,lansrv030.com
 HOST-SUFFIX,lantata.com
 HOST-SUFFIX,lanxiangji.com
@@ -32853,6 +32886,7 @@ HOST-SUFFIX,loamauji.com
 HOST-SUFFIX,loandatec.com
 HOST-SUFFIX,loaphour.com
 HOST-SUFFIX,lobmuc.cn
+HOST-SUFFIX,loboclick.com
 HOST-SUFFIX,loc.rediff.com
 HOST-SUFFIX,localadbuy.com
 HOST-SUFFIX,localads-statistics.maps.me
@@ -33272,6 +33306,7 @@ HOST-SUFFIX,lustresoonerrecalled.com
 HOST-SUFFIX,lutachechu.pro
 HOST-SUFFIX,lutcdiimmeze.com
 HOST-SUFFIX,lutsoops.net
+HOST-SUFFIX,luuming.com
 HOST-SUFFIX,luvaihoo.com
 HOST-SUFFIX,luvcash.com
 HOST-SUFFIX,luvcom.com
@@ -34500,6 +34535,7 @@ HOST-SUFFIX,mhradio.org
 HOST-SUFFIX,mhuodong.elong.com
 HOST-SUFFIX,mhuos.com
 HOST-SUFFIX,mhviessolums.com
+HOST-SUFFIX,mhwozc.cn
 HOST-SUFFIX,mi-de-ner-nis3.info
 HOST-SUFFIX,mi-mi-fa.com
 HOST-SUFFIX,mi1.cc
@@ -34613,7 +34649,6 @@ HOST-SUFFIX,mineraldoubte.club
 HOST-SUFFIX,mineralisasse.site
 HOST-SUFFIX,mineralt.io
 HOST-SUFFIX,minerclaim.net
-HOST-SUFFIX,minercry.pt
 HOST-SUFFIX,minergate.com
 HOST-SUFFIX,minero-proxy-01.now.sh
 HOST-SUFFIX,minero-proxy-02.now.sh
@@ -35993,7 +36028,6 @@ HOST-SUFFIX,newjanads.com
 HOST-SUFFIX,newjulads.com
 HOST-SUFFIX,newjunads.com
 HOST-SUFFIX,newknowledge.cn
-HOST-SUFFIX,newmail.pronpic.org
 HOST-SUFFIX,newmarads.com
 HOST-SUFFIX,newmayads.com
 HOST-SUFFIX,newmonads.com
@@ -36193,6 +36227,7 @@ HOST-SUFFIX,nihaomama.monster
 HOST-SUFFIX,niholaev.com
 HOST-SUFFIX,nijiua.com
 HOST-SUFFIX,nik.io
+HOST-SUFFIX,nikkiexxxads.com
 HOST-SUFFIX,nikkiscash.com
 HOST-SUFFIX,nil.naver.com
 HOST-SUFFIX,niledestratherg.club
@@ -36238,6 +36273,7 @@ HOST-SUFFIX,nistdeathersd.club
 HOST-SUFFIX,niteratebefo.top
 HOST-SUFFIX,nitigoly.com
 HOST-SUFFIX,nitmus.com
+HOST-SUFFIX,nitropay.com
 HOST-SUFFIX,nityannoun.top
 HOST-SUFFIX,niubiba.com
 HOST-SUFFIX,niuer-req.xy.huijitrans.com
@@ -36473,6 +36509,7 @@ HOST-SUFFIX,novelty.media
 HOST-SUFFIX,noviceexplanationteapot.com
 HOST-SUFFIX,novostisporta.info
 HOST-SUFFIX,nowadaysluciusfilch.com
+HOST-SUFFIX,nowfastcrew.online
 HOST-SUFFIX,nowinteract.com
 HOST-SUFFIX,nowledged.club
 HOST-SUFFIX,nowlooking.net
@@ -36643,6 +36680,7 @@ HOST-SUFFIX,nunc-china.com
 HOST-SUFFIX,nunhoefey.com
 HOST-SUFFIX,nunu-001.now.sh
 HOST-SUFFIX,nuonuo1.icu
+HOST-SUFFIX,nuoqingck.cn
 HOST-SUFFIX,nuowoczmvits.com
 HOST-SUFFIX,nupgypwxcv.com
 HOST-SUFFIX,nupoot.com
@@ -36743,6 +36781,7 @@ HOST-SUFFIX,nyzda.top
 HOST-SUFFIX,nz04com.com
 HOST-SUFFIX,nzcjjhkd.com
 HOST-SUFFIX,nzezn.com
+HOST-SUFFIX,nzhfk.com
 HOST-SUFFIX,nzhuswwhd.com
 HOST-SUFFIX,nzkjbazl.com
 HOST-SUFFIX,nzkumtaiw.com
@@ -37146,6 +37185,7 @@ HOST-SUFFIX,onclickprediction.com
 HOST-SUFFIX,onclickpulse.com
 HOST-SUFFIX,onclicksuper.com
 HOST-SUFFIX,onclicktop.com
+HOST-SUFFIX,onclicktraffic.com
 HOST-SUFFIX,onclkds.com
 HOST-SUFFIX,ondayswr.club
 HOST-SUFFIX,ondu.ru
@@ -37205,7 +37245,6 @@ HOST-SUFFIX,onlinereserchstatistics.online
 HOST-SUFFIX,onlinetips.baofeng5.baofeng.net
 HOST-SUFFIX,onlinetradingplatform.pro
 HOST-SUFFIX,onlinewebstat.com
-HOST-SUFFIX,only18adultgames.pro
 HOST-SUFFIX,onlyalad.net
 HOST-SUFFIX,onlyfang.cn
 HOST-SUFFIX,onlyshow.top
@@ -37633,7 +37672,6 @@ HOST-SUFFIX,oxrm.com
 HOST-SUFFIX,oxsng.com
 HOST-SUFFIX,oxtowerbus.club
 HOST-SUFFIX,oxtracking.com
-HOST-SUFFIX,oxwwoeukjispema.ru
 HOST-SUFFIX,oxybe.com
 HOST-SUFFIX,oxygenpurpleairtight.com
 HOST-SUFFIX,oxzffweyw.com
@@ -38088,6 +38126,7 @@ HOST-SUFFIX,pdn-1.com
 HOST-SUFFIX,pdn-2.com
 HOST-SUFFIX,pdsjycm.com
 HOST-SUFFIX,pdsxp.cn
+HOST-SUFFIX,pdvacde.com
 HOST-SUFFIX,pdywlbjkeq.work
 HOST-SUFFIX,peacepowder.com
 HOST-SUFFIX,peachsquat.com
@@ -38744,6 +38783,7 @@ HOST-SUFFIX,pmrbancrbuht.com
 HOST-SUFFIX,pms.mb.qq.com
 HOST-SUFFIX,pmshy.cn
 HOST-SUFFIX,pmsrvr.com
+HOST-SUFFIX,pmvlwjy.cn
 HOST-SUFFIX,pmzer.com
 HOST-SUFFIX,pnads.com
 HOST-SUFFIX,pnaea.com
@@ -38787,6 +38827,7 @@ HOST-SUFFIX,poemsproduced.com
 HOST-SUFFIX,pofang.com
 HOST-SUFFIX,poifinsegg.com
 HOST-SUFFIX,poignantcover.com
+HOST-SUFFIX,poignantsat.com
 HOST-SUFFIX,poijugh.top
 HOST-SUFFIX,point-of-entry.com
 HOST-SUFFIX,pointclicktrack.com
@@ -39197,7 +39238,6 @@ HOST-SUFFIX,profbigo.com
 HOST-SUFFIX,professonsd.top
 HOST-SUFFIX,proffigurufast.com
 HOST-SUFFIX,proficientinflectionaluminium.com
-HOST-SUFFIX,profile.bharatmatrimony.com
 HOST-SUFFIX,profile.ssp.rambler.ru
 HOST-SUFFIX,profilesnitch.com
 HOST-SUFFIX,profilesterility.com
@@ -39234,10 +39274,10 @@ HOST-SUFFIX,promiserkololla.site
 HOST-SUFFIX,promo-bc.com
 HOST-SUFFIX,promo-reklama.ru
 HOST-SUFFIX,promo.blackcrush.com
+HOST-SUFFIX,promo.blackdatehookup.com
 HOST-SUFFIX,promo.cams.com
 HOST-SUFFIX,promo.fileforum.com
 HOST-SUFFIX,promo.galabingo.com
-HOST-SUFFIX,promo.pegcweb.com
 HOST-SUFFIX,promo4partners.com
 HOST-SUFFIX,promobenef.com
 HOST-SUFFIX,promocionesweb.com
@@ -39245,7 +39285,6 @@ HOST-SUFFIX,promokrot.com
 HOST-SUFFIX,promos.fling.com
 HOST-SUFFIX,promos.gpniches.com
 HOST-SUFFIX,promos.meetlocals.com
-HOST-SUFFIX,promos.wealthymen.com
 HOST-SUFFIX,promoshq.wildfireapp.com
 HOST-SUFFIX,promote.biz.weibo.cn
 HOST-SUFFIX,promote.caixin.com
@@ -39326,6 +39365,7 @@ HOST-SUFFIX,prprocess.com
 HOST-SUFFIX,prqqmfkedev.com
 HOST-SUFFIX,prre.ru
 HOST-SUFFIX,prscripts.com
+HOST-SUFFIX,prsrjdr.ru
 HOST-SUFFIX,prt-stsdk.vivo.com.cn
 HOST-SUFFIX,prtawe.com
 HOST-SUFFIX,prtracker.com
@@ -39822,7 +39862,6 @@ HOST-SUFFIX,pzz.events
 HOST-SUFFIX,pzzmqjrp.com
 HOST-SUFFIX,q-counter.com
 HOST-SUFFIX,q-stats.nl
-HOST-SUFFIX,q.ihgmc.cn
 HOST-SUFFIX,q0uz4c.cn
 HOST-SUFFIX,q0zsp5e3dv.com
 HOST-SUFFIX,q1.yyxwzx.com
@@ -40678,6 +40717,7 @@ HOST-SUFFIX,realpush.media
 HOST-SUFFIX,realpush.network
 HOST-SUFFIX,realsecuredredir.com
 HOST-SUFFIX,realsecuredredirect.com
+HOST-SUFFIX,realshieldjump.com
 HOST-SUFFIX,realsrv.com
 HOST-SUFFIX,realssp.co.kr
 HOST-SUFFIX,realtime-bid.com
@@ -40793,6 +40833,7 @@ HOST-SUFFIX,refaucherais.website
 HOST-SUFFIX,refban.com
 HOST-SUFFIX,refbanners.com
 HOST-SUFFIX,refbanners.website
+HOST-SUFFIX,refer.ccbill.com
 HOST-SUFFIX,refer.wordpress.com
 HOST-SUFFIX,referback.com
 HOST-SUFFIX,referer.org
@@ -41054,6 +41095,7 @@ HOST-SUFFIX,revenuegiants.com
 HOST-SUFFIX,revenuehits.com
 HOST-SUFFIX,revenuemantra.com
 HOST-SUFFIX,revenuenetwork.com
+HOST-SUFFIX,revenuenetworkcpm.com
 HOST-SUFFIX,revenuepilot.com
 HOST-SUFFIX,revenuescience.com
 HOST-SUFFIX,revenuestripe.com
@@ -41208,6 +41250,7 @@ HOST-SUFFIX,riozwajocltca.com
 HOST-SUFFIX,ripalazc.com
 HOST-SUFFIX,ripost.services
 HOST-SUFFIX,ripplead.com
+HOST-SUFFIX,rips.icu
 HOST-SUFFIX,ripslifestassoci.info
 HOST-SUFFIX,riptukri.net
 HOST-SUFFIX,riqu2015.com
@@ -41590,6 +41633,7 @@ HOST-SUFFIX,run-syndicate.com
 HOST-SUFFIX,runadtag.com
 HOST-SUFFIX,runative-syndicate.com
 HOST-SUFFIX,runative.com
+HOST-SUFFIX,runbornto.com
 HOST-SUFFIX,runcornandwidnesworld-gb.runcornandwidnesworld.co.uk
 HOST-SUFFIX,runetki.co
 HOST-SUFFIX,runetki.com
@@ -41946,6 +41990,7 @@ HOST-SUFFIX,sas15k01.com
 HOST-SUFFIX,sasaniks.net
 HOST-SUFFIX,sascentral.com
 HOST-SUFFIX,sasingfinities.space
+HOST-SUFFIX,sasoo.cn
 HOST-SUFFIX,sat.sanoma.fi
 HOST-SUFFIX,satgreera.com
 HOST-SUFFIX,satisfactoryviolin.com
@@ -42040,6 +42085,7 @@ HOST-SUFFIX,scanscout.com
 HOST-SUFFIX,scarabresearch.com
 HOST-SUFFIX,scarceagitationwry.com
 HOST-SUFFIX,scarcelysorrow.com
+HOST-SUFFIX,scarecrowdelight.com
 HOST-SUFFIX,scaredsnake.com
 HOST-SUFFIX,scc.0.0.0.0.cn
 HOST-SUFFIX,scdcd333.cn
@@ -42135,6 +42181,7 @@ HOST-SUFFIX,scswuliu.com
 HOST-SUFFIX,sculifinanthools.site
 HOST-SUFFIX,scund.com
 HOST-SUFFIX,scupio.com
+HOST-SUFFIX,scurewall.co
 HOST-SUFFIX,scvdxxgbvoz.com
 HOST-SUFFIX,scvxgm.cn
 HOST-SUFFIX,scw.systems
@@ -42300,6 +42347,7 @@ HOST-SUFFIX,secured-phone.club
 HOST-SUFFIX,secureeavesdroppingdisguised.com
 HOST-SUFFIX,securegate.xyz
 HOST-SUFFIX,securegate9.com
+HOST-SUFFIX,securemoney.ru
 HOST-SUFFIX,securep2p.com
 HOST-SUFFIX,securepaths.com
 HOST-SUFFIX,secureprivacy.ai
@@ -42319,6 +42367,7 @@ HOST-SUFFIX,sedotracker.com
 HOST-SUFFIX,sedotracker.de
 HOST-SUFFIX,seducehandbookspecific.com
 HOST-SUFFIX,seductionprofits.com
+HOST-SUFFIX,seeawhale.com
 HOST-SUFFIX,seecontentdelivery.info
 HOST-SUFFIX,seedtag.com
 HOST-SUFFIX,seefarger.com
@@ -42574,6 +42623,7 @@ HOST-SUFFIX,sgphctileh-a.akamaihd.net
 HOST-SUFFIX,sgqcvfjvr.onet.pl
 HOST-SUFFIX,sgqqhydoovcd.com
 HOST-SUFFIX,sgrreqyxvigwuh.com
+HOST-SUFFIX,sgswuesocfr.com
 HOST-SUFFIX,sguac.com
 HOST-SUFFIX,sgutelyg.com
 HOST-SUFFIX,sgxaqysyilwkiu.com
@@ -42608,6 +42658,7 @@ HOST-SUFFIX,shangz99991.com
 HOST-SUFFIX,shanhaogc.com
 HOST-SUFFIX,shankejingling.com
 HOST-SUFFIX,shannon-porject.com
+HOST-SUFFIX,shanprint.com
 HOST-SUFFIX,shanta-jos.com
 HOST-SUFFIX,shanxiyizhao.com
 HOST-SUFFIX,shanyi.info
@@ -42818,6 +42869,7 @@ HOST-SUFFIX,shtuzhong.com
 HOST-SUFFIX,shuaixu.site
 HOST-SUFFIX,shuake.ink
 HOST-SUFFIX,shuangshiyihightgo.top
+HOST-SUFFIX,shubadubadlskjfkf.com
 HOST-SUFFIX,shucaihangjia.com
 HOST-SUFFIX,shuccn.com
 HOST-SUFFIX,shuiguo.com
@@ -42846,7 +42898,6 @@ HOST-SUFFIX,shyanche.net
 HOST-SUFFIX,shyhuetub.site
 HOST-SUFFIX,shypqc.com
 HOST-SUFFIX,shyseed.com
-HOST-SUFFIX,si.efwga.xyz
 HOST-SUFFIX,si1ef.com
 HOST-SUFFIX,si9377.com
 HOST-SUFFIX,siamzone.com
@@ -42970,6 +43021,7 @@ HOST-SUFFIX,sionsrathet.info
 HOST-SUFFIX,siplyresox.com
 HOST-SUFFIX,siqwqjza.m.yikanxiaoshuo.net
 HOST-SUFFIX,siradsalot.com
+HOST-SUFFIX,sireundermineoperative.com
 HOST-SUFFIX,sisewepod.com
 HOST-SUFFIX,sistacked.com
 HOST-SUFFIX,sisterncoalitical.info
@@ -43236,6 +43288,7 @@ HOST-SUFFIX,smilingsock.com
 HOST-SUFFIX,smintmouse.com
 HOST-SUFFIX,smitionsory.co
 HOST-SUFFIX,smjhzmln.com
+HOST-SUFFIX,smljmp.com
 HOST-SUFFIX,smmx3.cn
 HOST-SUFFIX,smoggystation.com
 HOST-SUFFIX,smokerdecoy.com
@@ -43332,6 +43385,7 @@ HOST-SUFFIX,soapsoab.com
 HOST-SUFFIX,soared.cn
 HOST-SUFFIX,soarfi.cn
 HOST-SUFFIX,soazooge.com
+HOST-SUFFIX,sobakapi2sa8la09.com
 HOST-SUFFIX,sobar.baidu.com
 HOST-SUFFIX,sobartop.baidu.com
 HOST-SUFFIX,sobin.wang
@@ -43397,6 +43451,7 @@ HOST-SUFFIX,soft4dle.com
 HOST-SUFFIX,softonic-analytics.net
 HOST-SUFFIX,softonicads.com
 HOST-SUFFIX,softpopads.com
+HOST-SUFFIX,softspace.mobi
 HOST-SUFFIX,softtest.vip
 HOST-SUFFIX,softwares2015.com
 HOST-SUFFIX,softwebzone.com
@@ -43849,6 +43904,7 @@ HOST-SUFFIX,ssgg.chazidian.com
 HOST-SUFFIX,ssix.io
 HOST-SUFFIX,ssjpx.com
 HOST-SUFFIX,ssjy168.com
+HOST-SUFFIX,sskmnews.pro
 HOST-SUFFIX,ssknweoz.cn
 HOST-SUFFIX,ssl-cdn.static.browser.mi-img.com
 HOST-SUFFIX,ssl-services.com
@@ -44397,6 +44453,7 @@ HOST-SUFFIX,stkyqouwanr.com
 HOST-SUFFIX,stn88.com
 HOST-SUFFIX,stnetsdk.appstore.vivo.com.cn
 HOST-SUFFIX,stnetsdk.vivo.com.cn
+HOST-SUFFIX,sto1pnort.online
 HOST-SUFFIX,stoaksie.com
 HOST-SUFFIX,stoashou.net
 HOST-SUFFIX,stoassod.com
@@ -44412,6 +44469,7 @@ HOST-SUFFIX,stootoat.com
 HOST-SUFFIX,stopherapyimp.pro
 HOST-SUFFIX,stopheritp.club
 HOST-SUFFIX,stoppery.club
+HOST-SUFFIX,stopstopone.today
 HOST-SUFFIX,storage.29293.com
 HOST-SUFFIX,store.iqiyi.com
 HOST-SUFFIX,store.ptqy.gitv.tv
@@ -44687,7 +44745,6 @@ HOST-SUFFIX,svfwer.top
 HOST-SUFFIX,svintificaneinevi.info
 HOST-SUFFIX,svip.shwxtw.com
 HOST-SUFFIX,sviter2s1olenyami1.com
-HOST-SUFFIX,svivqrhrh.ru
 HOST-SUFFIX,svjat0rx99.com
 HOST-SUFFIX,svlu.net
 HOST-SUFFIX,svolution.top
@@ -45616,6 +45673,7 @@ HOST-SUFFIX,thighlykamsh.site
 HOST-SUFFIX,thikraik.net
 HOST-SUFFIX,thimoaph.net
 HOST-SUFFIX,thind-gke-euw.prd.data.corp.unity3d.com
+HOST-SUFFIX,thindsoo.cn
 HOST-SUFFIX,thingswontend.com
 HOST-SUFFIX,thinktot.com
 HOST-SUFFIX,thinnerlessenfounded.com
@@ -45789,6 +45847,7 @@ HOST-SUFFIX,titag.com
 HOST-SUFFIX,titan-solar.cn
 HOST-SUFFIX,titan.babytree.com
 HOST-SUFFIX,titan01.babytree.com
+HOST-SUFFIX,titanads1.com
 HOST-SUFFIX,titanads5.com
 HOST-SUFFIX,tithewtog.com
 HOST-SUFFIX,titi.qifajiang.cn
@@ -45847,7 +45906,6 @@ HOST-SUFFIX,tkjdwcigpyazr.com
 HOST-SUFFIX,tkmdng.cn
 HOST-SUFFIX,tkmly.cn
 HOST-SUFFIX,tkn.4tube.com
-HOST-SUFFIX,tkn.fux.com
 HOST-SUFFIX,tkn.pornerbros.com
 HOST-SUFFIX,tkn.porntube.com
 HOST-SUFFIX,tkpi.delta.com
@@ -46540,6 +46598,7 @@ HOST-SUFFIX,traffbiz.ru
 HOST-SUFFIX,traffboost.net
 HOST-SUFFIX,traffer.net
 HOST-SUFFIX,traffic-in.com
+HOST-SUFFIX,traffic-info-service.info
 HOST-SUFFIX,traffic-media.co
 HOST-SUFFIX,traffic-media.co.uk
 HOST-SUFFIX,traffic-supremacy.com
@@ -46636,7 +46695,6 @@ HOST-SUFFIX,trappist-1d.com
 HOST-SUFFIX,traq.li
 HOST-SUFFIX,trasholita.com
 HOST-SUFFIX,tratefirearly.top
-HOST-SUFFIX,traumasister.tk
 HOST-SUFFIX,traumaticnoiseless.com
 HOST-SUFFIX,travangeind.club
 HOST-SUFFIX,travel-together.cn
@@ -46649,6 +46707,7 @@ HOST-SUFFIX,travidia.com
 HOST-SUFFIX,traviilo.com
 HOST-SUFFIX,traviously.pro
 HOST-SUFFIX,travlcen.com
+HOST-SUFFIX,trawahdh2hd8nbvy09.com
 HOST-SUFFIX,trbas.com
 HOST-SUFFIX,trblocked.com
 HOST-SUFFIX,trbo.com
@@ -47597,6 +47656,7 @@ HOST-SUFFIX,untridrisa.cf
 HOST-SUFFIX,untypetenthdicket.info
 HOST-SUFFIX,unumbonum.com
 HOST-SUFFIX,unwyiror.com
+HOST-SUFFIX,uo.jstaogu.com
 HOST-SUFFIX,uo12.com
 HOST-SUFFIX,uoarbhxfyygn.com
 HOST-SUFFIX,uod2quk646.com
@@ -47834,6 +47894,7 @@ HOST-SUFFIX,utarget.pro
 HOST-SUFFIX,utarget.ru
 HOST-SUFFIX,utazwa.com
 HOST-SUFFIX,utfusckgnj.com
+HOST-SUFFIX,utherverse.com
 HOST-SUFFIX,uthorner.info
 HOST-SUFFIX,uthworkreaseu.info
 HOST-SUFFIX,util.nphoto.net
@@ -47970,7 +48031,6 @@ HOST-SUFFIX,v.emedia.cn
 HOST-SUFFIX,v.jntxst.cn
 HOST-SUFFIX,v.lelangegg.cn
 HOST-SUFFIX,v.mininini.cn
-HOST-SUFFIX,v.originz.cn
 HOST-SUFFIX,v.oui.sncf
 HOST-SUFFIX,v.qhruixin.cn
 HOST-SUFFIX,v.qudwrj.cn
@@ -48203,6 +48263,7 @@ HOST-SUFFIX,vers80.com
 HOST-SUFFIX,versahq.com
 HOST-SUFFIX,verseballs.com
 HOST-SUFFIX,versetime.com
+HOST-SUFFIX,versusberryoutdoor.com
 HOST-SUFFIX,vertamedia.com
 HOST-SUFFIX,vertical-leap.co.uk
 HOST-SUFFIX,vertical-leap.net
@@ -49913,6 +49974,7 @@ HOST-SUFFIX,wvahelphpfnhyx.com
 HOST-SUFFIX,wvbdtcyhgwy.com
 HOST-SUFFIX,wvcdn.cn
 HOST-SUFFIX,wvesvozyuoxg.com
+HOST-SUFFIX,wvfgiio.cn
 HOST-SUFFIX,wvhsouzoan.com
 HOST-SUFFIX,wvlveodsvygn.com
 HOST-SUFFIX,wvoahyehtvj.com
@@ -50153,6 +50215,7 @@ HOST-SUFFIX,xc.mydrivers.com
 HOST-SUFFIX,xcads.cn
 HOST-SUFFIX,xcbmwx.com
 HOST-SUFFIX,xcclzs.com
+HOST-SUFFIX,xccpro.vip
 HOST-SUFFIX,xcdf.cn
 HOST-SUFFIX,xcdzsw.com
 HOST-SUFFIX,xcelltech.com
@@ -50449,7 +50512,6 @@ HOST-SUFFIX,xlmc.sec.miui.com
 HOST-SUFFIX,xlog-va.byteoversea.com
 HOST-SUFFIX,xlog.snssdk.com
 HOST-SUFFIX,xlovecam.com
-HOST-SUFFIX,xls.czliangsheng.cn
 HOST-SUFFIX,xlsschina15.net
 HOST-SUFFIX,xluizaewqswnfr.com
 HOST-SUFFIX,xlwnx.com
@@ -50580,6 +50642,7 @@ HOST-SUFFIX,xoassxowovsrk.com
 HOST-SUFFIX,xocecytufu.com
 HOST-SUFFIX,xoekgcscpnipb.com
 HOST-SUFFIX,xogkpytfgyzy.com
+HOST-SUFFIX,xogogowebcams.com
 HOST-SUFFIX,xogvagdtgehxm.com
 HOST-SUFFIX,xoliter.com
 HOST-SUFFIX,xorcibleboth.club
@@ -51490,6 +51553,7 @@ HOST-SUFFIX,yqccpziiuak.com
 HOST-SUFFIX,yqcmuxkd.com
 HOST-SUFFIX,yqcy988.com
 HOST-SUFFIX,yqecjuoxiquvr.com
+HOST-SUFFIX,yqeuu.com
 HOST-SUFFIX,yqezqofkb1nnmz.com
 HOST-SUFFIX,yqhlty.com
 HOST-SUFFIX,yqjxzw.com
@@ -51577,6 +51641,7 @@ HOST-SUFFIX,yuanhangpiju.cn
 HOST-SUFFIX,yuanhsu.com
 HOST-SUFFIX,yuanmengbi.com
 HOST-SUFFIX,yuanming.net
+HOST-SUFFIX,yuanqitu.com
 HOST-SUFFIX,yuanyanglw.com
 HOST-SUFFIX,yucce.com
 HOST-SUFFIX,yucefa.cn
@@ -51746,6 +51811,7 @@ HOST-SUFFIX,yzdcb.xyz
 HOST-SUFFIX,yzesxnzfhyy.com
 HOST-SUFFIX,yzetmrsww.com
 HOST-SUFFIX,yzexonvknhw.com
+HOST-SUFFIX,yzfbank.com
 HOST-SUFFIX,yzftqx.cn
 HOST-SUFFIX,yzh360.com
 HOST-SUFFIX,yzjlsb.com
@@ -51772,12 +51838,10 @@ HOST-SUFFIX,z1.chezhuzhinan.com
 HOST-SUFFIX,z1.cnywst.com
 HOST-SUFFIX,z1.cyla.cn
 HOST-SUFFIX,z1.o8h7d.cn
-HOST-SUFFIX,z1.xysmai.com
 HOST-SUFFIX,z1.zhishidu.com
 HOST-SUFFIX,z11yv3xpzk.com
 HOST-SUFFIX,z1hihu.xmcimg.com
 HOST-SUFFIX,z2.cnywst.com
-HOST-SUFFIX,z2.xysmai.com
 HOST-SUFFIX,z2.zhishidu.com
 HOST-SUFFIX,z2blog.com
 HOST-SUFFIX,z3dmbpl6309s.com
@@ -52196,6 +52260,7 @@ HOST-SUFFIX,zldijcenor.com
 HOST-SUFFIX,zlfgedpuxrbpgm.com
 HOST-SUFFIX,zlfhe8.cn
 HOST-SUFFIX,zlfzeuvk.com
+HOST-SUFFIX,zlink2.com
 HOST-SUFFIX,zlinkm.com
 HOST-SUFFIX,zlkrsqad.com
 HOST-SUFFIX,zllanqoglad.com
@@ -52757,7 +52822,7 @@ IP-CIDR,69.28.57.245/32
 IP-CIDR,74.117.182.77/32
 IP-CIDR,78.140.131.214/32
 IP-CIDR,91.196.216.64/32
-# Advertising 与 AdvertisingLite 共 15771 条规则重复
+# Advertising 与 AdvertisingLite 共 15796 条规则重复
 HOST,0.up.qingdaonews.com
 HOST,0koryu0.easter.ne.jp
 HOST,0nso0tq1sa4.ml
@@ -52804,6 +52869,7 @@ HOST,ad.9tv.co.il
 HOST,ad.getfond.info
 HOST,ad.hori-gz.com
 HOST,ad.weibo.com
+HOST,adb.fling.com
 HOST,adblockotsosal.ru
 HOST,adclick.lv
 HOST,adcoin.click
@@ -52820,6 +52886,8 @@ HOST,ads.data.pplive.com
 HOST,ads.finance.yahoo.com
 HOST,ads.yahoo.de
 HOST,adserving.favorit-network.com
+HOST,adtools.gossipkings.com
+HOST,adtools2.amakings.com
 HOST,adv-adlog.variflight.com
 HOST,adv-ads.variflight.com
 HOST,adv.ettoday.net
@@ -52840,10 +52908,12 @@ HOST,alisat.biz
 HOST,allforlove.de
 HOST,allxscan.tk
 HOST,alsoknowsit.com
+HOST,amateur.amarotic.com
 HOST,amazingvacationhotels.com
 HOST,ambulanciaslazaro.com
 HOST,aminev.com
 HOST,antalya.ru
+HOST,anyporn.com
 HOST,aod-image-material.bj.bcebos.com
 HOST,aod-image.baidu.com
 HOST,api.ip138.com
@@ -52876,6 +52946,10 @@ HOST,ayidaye.m.zwdu.com
 HOST,b.nevadaprivateoffice.com
 HOST,babos.scrapping.cc
 HOST,backup.customstat.video.51togic.com
+HOST,banners.blacksexmatch.com
+HOST,banners.passiondollars.com
+HOST,banners.rude.com
+HOST,banners.rushcommerce.com
 HOST,bannersnack.com
 HOST,bannersnack.net
 HOST,bavftcgoapga.com
@@ -52916,7 +52990,9 @@ HOST,callingcardsinstantly.com
 HOST,calltrk.com
 HOST,campromos.nl
 HOST,cannabislyric.com
+HOST,cartoontube.com
 HOST,casterist.info
+HOST,cdncache2-a.akamaihd.net
 HOST,cdnmedia.xyz
 HOST,ce9c00f41ae8cdd.com
 HOST,centralwestwater.com.au
@@ -52930,6 +53006,7 @@ HOST,circularhub.com
 HOST,citymediamagazin.hu
 HOST,classicspeedway.com
 HOST,cleverusenet.club
+HOST,clickz.lonelycheatingwives.com
 HOST,clkcln.com
 HOST,clkfeed.com
 HOST,clkpback3.com
@@ -52946,6 +53023,7 @@ HOST,conds.ru
 HOST,config.unityads.unitychina.cn
 HOST,conflibred.co
 HOST,content.liveuniverse.com
+HOST,contentcache-a.akamaihd.net
 HOST,coolmirage.com
 HOST,cope.it
 HOST,cosmos.furnipict.com
@@ -52956,6 +53034,8 @@ HOST,cracks.vg
 HOST,crackspider.us
 HOST,crackzone.net
 HOST,creditbootcamp.com
+HOST,cs.celebbusters.com
+HOST,cs.exposedontape.com
 HOST,csmail.iggcn.com
 HOST,cswilliamsburg.com
 HOST,ctyzd.com
@@ -52967,13 +53047,16 @@ HOST,d2izls9pm2f64q.cloudfront.net
 HOST,d2o307dm5mqftz.cloudfront.net
 HOST,d2oa97wrxvxm7y.cloudfront.net
 HOST,d3jgr4uve1d188.cloudfront.net
+HOST,d3ud741uvs727m.cloudfront.net
 HOST,d4.cumshots.ws
 HOST,d6e9d7d57085c0.com
 HOST,daralasnan.com
 HOST,date-for-more.com
+HOST,datefree.com
 HOST,daurifek.net
 HOST,dawnframing.com
 HOST,ddd.gouwuke.cn
+HOST,deal.maabm.com
 HOST,decografix.com
 HOST,decrolyschool.be
 HOST,deletespyware-adware.com
@@ -53014,6 +53097,7 @@ HOST,downloads-whatsapp.com
 HOST,dp-medien.eu
 HOST,dradvice.in
 HOST,dss0.bdstatic.com
+HOST,dump1.no-ip.biz
 HOST,e.tf.360.cn
 HOST,earthcontrolsys.com
 HOST,echoa.randbinternationaltravel.com
@@ -53057,6 +53141,7 @@ HOST,fotw.xyz
 HOST,fourthgate.org
 HOST,free-crochet-pattern.com
 HOST,freefblikes.phpnet.us
+HOST,freeonescams.com
 HOST,freeserials.spb.ru
 HOST,freeserials.ws
 HOST,freetracker.biz
@@ -53113,6 +53198,7 @@ HOST,hotfacesitting.com
 HOST,hotspot.cz
 HOST,hrtya.com
 HOST,hst-19-33.splius.lt
+HOST,httpdns.n.netease.com
 HOST,hujii.qplanner.cf
 HOST,huluads.info
 HOST,hwekl8dz1d.com
@@ -53153,6 +53239,7 @@ HOST,javacript.gq
 HOST,jdfabrication.com
 HOST,jeansvixens.com
 HOST,josip-stadler.org
+HOST,js.hdzog.com
 HOST,js.jrjimg.cn
 HOST,juedische-kammerphilharmonie.de
 HOST,juicypussyclips.com
@@ -53329,8 +53416,11 @@ HOST,privateinternetaccess.com
 HOST,privatkunden.datapipe9271.com
 HOST,prjcq.com
 HOST,prodtraff.com
+HOST,profile.bharatmatrimony.com
 HOST,progettocrea.org
 HOST,promo-market.net
+HOST,promo.pegcweb.com
+HOST,promos.wealthymen.com
 HOST,promotions.sportsbet.com.au
 HOST,prorodeosportmed.com
 HOST,protect-your-privacy.net
@@ -53477,6 +53567,7 @@ HOST,thogethoffic.co
 HOST,tj.playcvn.com
 HOST,tjoomo.com
 HOST,tk-gregoric.si
+HOST,tkn.fux.com
 HOST,tmotbq.xyz
 HOST,tomalinoalambres.com.ar
 HOST,tooso.ai
@@ -66162,7 +66253,6 @@ HOST-SUFFIX,tracker.mattel.com
 HOST-SUFFIX,tracker.mspy.com
 HOST-SUFFIX,tracker.nbcuas.com
 HOST-SUFFIX,tracker.neon-images.com
-HOST-SUFFIX,tracker.nitropay.com
 HOST-SUFFIX,tracker.pandora.com
 HOST-SUFFIX,tracker.pinnaclesports.com
 HOST-SUFFIX,tracker.publico.pt
@@ -69953,7 +70043,7 @@ IP-CIDR,61.160.200.242/32
 IP-CIDR,61.160.200.252/32
 # Advertising 与 Spark 共 1 条规则重复
 HOST-SUFFIX,amplitude.com
-# Advertising 与 Privacy 共 2615 条规则重复
+# Advertising 与 Privacy 共 2614 条规则重复
 HOST,log.byteoversea.com
 HOST,log.tiktokv.com
 HOST-SUFFIX,0sbm.consobaby.co.uk
@@ -72245,7 +72335,6 @@ HOST-SUFFIX,tracker.mattel.com
 HOST-SUFFIX,tracker.mspy.com
 HOST-SUFFIX,tracker.nbcuas.com
 HOST-SUFFIX,tracker.neon-images.com
-HOST-SUFFIX,tracker.nitropay.com
 HOST-SUFFIX,tracker.pandora.com
 HOST-SUFFIX,tracker.pinnaclesports.com
 HOST-SUFFIX,tracker.publico.pt
@@ -72569,7 +72658,7 @@ HOST-SUFFIX,zs.dhl.de
 HOST-SUFFIX,zsi7.destinia.do
 HOST-SUFFIX,zyq2.destinia.sk
 HOST-SUFFIX,zz.bdstatic.com
-# Advertising 与 Proxy 共 84 条规则重复
+# Advertising 与 Proxy 共 83 条规则重复
 HOST-SUFFIX,24smile.org
 HOST-SUFFIX,2mdn.net
 HOST-SUFFIX,2o7.net
@@ -72579,7 +72668,6 @@ HOST-SUFFIX,admob.com
 HOST-SUFFIX,ads-twitter.com
 HOST-SUFFIX,adultfriendfinder.com
 HOST-SUFFIX,amplitude.com
-HOST-SUFFIX,anyporn.com
 HOST-SUFFIX,app-measurement.com
 HOST-SUFFIX,atdmt.com
 HOST-SUFFIX,bannedbook.org

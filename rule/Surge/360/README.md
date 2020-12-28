@@ -9,7 +9,7 @@
 
 
 
-最后检查时间：2020-12-28 11:38:02。
+最后检查时间：2020-12-28 14:18:15。
 
 ## 规则统计
 
@@ -28,8 +28,8 @@
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Advertising)    | 57400   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/360/Repeat.list)   |   0.0% |
-|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingTest)    | 74580   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/360/Repeat.list)   |   0.0% |
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Advertising)    | 57466   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/360/Repeat.list)   |   0.0% |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingTest)    | 74562   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/360/Repeat.list)   |   0.0% |
 |  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/China)    | 605   | [3](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/360/Repeat.list)   |   0.5% |
 |  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaTest)    | 72686   | [8](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/360/Repeat.list)   |   0.01% |
 ### 特别说明

@@ -1,14 +1,14 @@
 # NAME: AdvertisingLite 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-28 11:37:59
+# UPDATED: 2020-12-28 14:18:12
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # AdvertisingLite 与 Adobe 共 4 条规则重复
 DOMAIN-SUFFIX,adbecrsl.com
 DOMAIN-SUFFIX,demdex.net
 DOMAIN-SUFFIX,newrelic.com
 DOMAIN-SUFFIX,omtrdc.net
-# AdvertisingLite 与 Advertising 共 16070 条规则重复
+# AdvertisingLite 与 Advertising 共 16095 条规则重复
 DOMAIN,0.up.qingdaonews.com
 DOMAIN,0koryu0.easter.ne.jp
 DOMAIN,0nso0tq1sa4.ml
@@ -55,6 +55,7 @@ DOMAIN,ad.9tv.co.il
 DOMAIN,ad.getfond.info
 DOMAIN,ad.hori-gz.com
 DOMAIN,ad.weibo.com
+DOMAIN,adb.fling.com
 DOMAIN,adblockotsosal.ru
 DOMAIN,adclick.lv
 DOMAIN,adcoin.click
@@ -71,6 +72,8 @@ DOMAIN,ads.data.pplive.com
 DOMAIN,ads.finance.yahoo.com
 DOMAIN,ads.yahoo.de
 DOMAIN,adserving.favorit-network.com
+DOMAIN,adtools.gossipkings.com
+DOMAIN,adtools2.amakings.com
 DOMAIN,adv-adlog.variflight.com
 DOMAIN,adv-ads.variflight.com
 DOMAIN,adv.ettoday.net
@@ -91,10 +94,12 @@ DOMAIN,alisat.biz
 DOMAIN,allforlove.de
 DOMAIN,allxscan.tk
 DOMAIN,alsoknowsit.com
+DOMAIN,amateur.amarotic.com
 DOMAIN,amazingvacationhotels.com
 DOMAIN,ambulanciaslazaro.com
 DOMAIN,aminev.com
 DOMAIN,antalya.ru
+DOMAIN,anyporn.com
 DOMAIN,aod-image-material.bj.bcebos.com
 DOMAIN,aod-image.baidu.com
 DOMAIN,api.ip138.com
@@ -127,6 +132,10 @@ DOMAIN,ayidaye.m.zwdu.com
 DOMAIN,b.nevadaprivateoffice.com
 DOMAIN,babos.scrapping.cc
 DOMAIN,backup.customstat.video.51togic.com
+DOMAIN,banners.blacksexmatch.com
+DOMAIN,banners.passiondollars.com
+DOMAIN,banners.rude.com
+DOMAIN,banners.rushcommerce.com
 DOMAIN,bannersnack.com
 DOMAIN,bannersnack.net
 DOMAIN,bavftcgoapga.com
@@ -167,7 +176,9 @@ DOMAIN,callingcardsinstantly.com
 DOMAIN,calltrk.com
 DOMAIN,campromos.nl
 DOMAIN,cannabislyric.com
+DOMAIN,cartoontube.com
 DOMAIN,casterist.info
+DOMAIN,cdncache2-a.akamaihd.net
 DOMAIN,cdnmedia.xyz
 DOMAIN,ce9c00f41ae8cdd.com
 DOMAIN,centralwestwater.com.au
@@ -181,6 +192,7 @@ DOMAIN,circularhub.com
 DOMAIN,citymediamagazin.hu
 DOMAIN,classicspeedway.com
 DOMAIN,cleverusenet.club
+DOMAIN,clickz.lonelycheatingwives.com
 DOMAIN,clkcln.com
 DOMAIN,clkfeed.com
 DOMAIN,clkpback3.com
@@ -197,6 +209,7 @@ DOMAIN,conds.ru
 DOMAIN,config.unityads.unitychina.cn
 DOMAIN,conflibred.co
 DOMAIN,content.liveuniverse.com
+DOMAIN,contentcache-a.akamaihd.net
 DOMAIN,coolmirage.com
 DOMAIN,cope.it
 DOMAIN,cosmos.furnipict.com
@@ -207,6 +220,8 @@ DOMAIN,cracks.vg
 DOMAIN,crackspider.us
 DOMAIN,crackzone.net
 DOMAIN,creditbootcamp.com
+DOMAIN,cs.celebbusters.com
+DOMAIN,cs.exposedontape.com
 DOMAIN,csmail.iggcn.com
 DOMAIN,cswilliamsburg.com
 DOMAIN,ctyzd.com
@@ -218,13 +233,16 @@ DOMAIN,d2izls9pm2f64q.cloudfront.net
 DOMAIN,d2o307dm5mqftz.cloudfront.net
 DOMAIN,d2oa97wrxvxm7y.cloudfront.net
 DOMAIN,d3jgr4uve1d188.cloudfront.net
+DOMAIN,d3ud741uvs727m.cloudfront.net
 DOMAIN,d4.cumshots.ws
 DOMAIN,d6e9d7d57085c0.com
 DOMAIN,daralasnan.com
 DOMAIN,date-for-more.com
+DOMAIN,datefree.com
 DOMAIN,daurifek.net
 DOMAIN,dawnframing.com
 DOMAIN,ddd.gouwuke.cn
+DOMAIN,deal.maabm.com
 DOMAIN,decografix.com
 DOMAIN,decrolyschool.be
 DOMAIN,deletespyware-adware.com
@@ -265,6 +283,7 @@ DOMAIN,downloads-whatsapp.com
 DOMAIN,dp-medien.eu
 DOMAIN,dradvice.in
 DOMAIN,dss0.bdstatic.com
+DOMAIN,dump1.no-ip.biz
 DOMAIN,e.tf.360.cn
 DOMAIN,earthcontrolsys.com
 DOMAIN,echoa.randbinternationaltravel.com
@@ -308,6 +327,7 @@ DOMAIN,fotw.xyz
 DOMAIN,fourthgate.org
 DOMAIN,free-crochet-pattern.com
 DOMAIN,freefblikes.phpnet.us
+DOMAIN,freeonescams.com
 DOMAIN,freeserials.spb.ru
 DOMAIN,freeserials.ws
 DOMAIN,freetracker.biz
@@ -364,6 +384,7 @@ DOMAIN,hotfacesitting.com
 DOMAIN,hotspot.cz
 DOMAIN,hrtya.com
 DOMAIN,hst-19-33.splius.lt
+DOMAIN,httpdns.n.netease.com
 DOMAIN,hujii.qplanner.cf
 DOMAIN,huluads.info
 DOMAIN,hwekl8dz1d.com
@@ -404,6 +425,7 @@ DOMAIN,javacript.gq
 DOMAIN,jdfabrication.com
 DOMAIN,jeansvixens.com
 DOMAIN,josip-stadler.org
+DOMAIN,js.hdzog.com
 DOMAIN,js.jrjimg.cn
 DOMAIN,juedische-kammerphilharmonie.de
 DOMAIN,juicypussyclips.com
@@ -580,8 +602,11 @@ DOMAIN,privateinternetaccess.com
 DOMAIN,privatkunden.datapipe9271.com
 DOMAIN,prjcq.com
 DOMAIN,prodtraff.com
+DOMAIN,profile.bharatmatrimony.com
 DOMAIN,progettocrea.org
 DOMAIN,promo-market.net
+DOMAIN,promo.pegcweb.com
+DOMAIN,promos.wealthymen.com
 DOMAIN,promotions.sportsbet.com.au
 DOMAIN,prorodeosportmed.com
 DOMAIN,protect-your-privacy.net
@@ -728,6 +753,7 @@ DOMAIN,thogethoffic.co
 DOMAIN,tj.playcvn.com
 DOMAIN,tjoomo.com
 DOMAIN,tk-gregoric.si
+DOMAIN,tkn.fux.com
 DOMAIN,tmotbq.xyz
 DOMAIN,tomalinoalambres.com.ar
 DOMAIN,tooso.ai
@@ -13413,7 +13439,6 @@ DOMAIN-SUFFIX,tracker.mattel.com
 DOMAIN-SUFFIX,tracker.mspy.com
 DOMAIN-SUFFIX,tracker.nbcuas.com
 DOMAIN-SUFFIX,tracker.neon-images.com
-DOMAIN-SUFFIX,tracker.nitropay.com
 DOMAIN-SUFFIX,tracker.pandora.com
 DOMAIN-SUFFIX,tracker.pinnaclesports.com
 DOMAIN-SUFFIX,tracker.publico.pt
@@ -16079,7 +16104,7 @@ URL-REGEX,^https?:\/\/www\.zybang\.com\/adx\/
 URL-REGEX,^https?:\/\/xyst\.yuanfudao\.com\/iphone\/splashesV\d
 URL-REGEX,^https?:\/\/xyz\.cnki\.net\/resourcev7\/api\/manualpush\/SlidsList$
 URL-REGEX,^https?:\/\/yxyapi\d\.drcuiyutao\.com\/yxy-api-gateway\/api\/json\/advert\/
-# AdvertisingLite 与 AdvertisingTest 共 15794 条规则重复
+# AdvertisingLite 与 AdvertisingTest 共 15818 条规则重复
 DOMAIN,0.up.qingdaonews.com
 DOMAIN,0koryu0.easter.ne.jp
 DOMAIN,0nso0tq1sa4.ml
@@ -16135,6 +16160,8 @@ DOMAIN,ads.chinadaily.com.cn
 DOMAIN,ads.finance.yahoo.com
 DOMAIN,ads.yahoo.de
 DOMAIN,adserving.favorit-network.com
+DOMAIN,adtools.gossipkings.com
+DOMAIN,adtools2.amakings.com
 DOMAIN,adv-adlog.variflight.com
 DOMAIN,adv-ads.variflight.com
 DOMAIN,adv.riza.it
@@ -16152,10 +16179,12 @@ DOMAIN,alisat.biz
 DOMAIN,allforlove.de
 DOMAIN,allxscan.tk
 DOMAIN,alsoknowsit.com
+DOMAIN,amateur.amarotic.com
 DOMAIN,amazingvacationhotels.com
 DOMAIN,ambulanciaslazaro.com
 DOMAIN,aminev.com
 DOMAIN,antalya.ru
+DOMAIN,anyporn.com
 DOMAIN,aod-image-material.bj.bcebos.com
 DOMAIN,aod-image.baidu.com
 DOMAIN,api.ip138.com
@@ -16174,6 +16203,10 @@ DOMAIN,ayidaye.m.zwdu.com
 DOMAIN,b.nevadaprivateoffice.com
 DOMAIN,babos.scrapping.cc
 DOMAIN,backup.customstat.video.51togic.com
+DOMAIN,banners.blacksexmatch.com
+DOMAIN,banners.passiondollars.com
+DOMAIN,banners.rude.com
+DOMAIN,banners.rushcommerce.com
 DOMAIN,bannersnack.net
 DOMAIN,bavftcgoapga.com
 DOMAIN,bbs.hori-gz.com
@@ -16208,6 +16241,8 @@ DOMAIN,callingcardsinstantly.com
 DOMAIN,calltrk.com
 DOMAIN,campromos.nl
 DOMAIN,cannabislyric.com
+DOMAIN,cartoontube.com
+DOMAIN,cdncache2-a.akamaihd.net
 DOMAIN,cdnmedia.xyz
 DOMAIN,ce9c00f41ae8cdd.com
 DOMAIN,centralwestwater.com.au
@@ -16219,6 +16254,7 @@ DOMAIN,circularhub.com
 DOMAIN,citymediamagazin.hu
 DOMAIN,classicspeedway.com
 DOMAIN,cleverusenet.club
+DOMAIN,clickz.lonelycheatingwives.com
 DOMAIN,cm.lianmeng.360.cn
 DOMAIN,cmicapui.ce.gov.br
 DOMAIN,coagricu.net
@@ -16229,6 +16265,7 @@ DOMAIN,conds.ru
 DOMAIN,config.unityads.unitychina.cn
 DOMAIN,conflibred.co
 DOMAIN,content.liveuniverse.com
+DOMAIN,contentcache-a.akamaihd.net
 DOMAIN,coolmirage.com
 DOMAIN,cope.it
 DOMAIN,cosmos.furnipict.com
@@ -16237,6 +16274,8 @@ DOMAIN,cracks.vg
 DOMAIN,crackspider.us
 DOMAIN,crackzone.net
 DOMAIN,creditbootcamp.com
+DOMAIN,cs.celebbusters.com
+DOMAIN,cs.exposedontape.com
 DOMAIN,csmail.iggcn.com
 DOMAIN,cswilliamsburg.com
 DOMAIN,customsboysint.com
@@ -16249,8 +16288,10 @@ DOMAIN,d3jgr4uve1d188.cloudfront.net
 DOMAIN,d4.cumshots.ws
 DOMAIN,d6e9d7d57085c0.com
 DOMAIN,daralasnan.com
+DOMAIN,datefree.com
 DOMAIN,dawnframing.com
 DOMAIN,ddd.gouwuke.cn
+DOMAIN,deal.maabm.com
 DOMAIN,decografix.com
 DOMAIN,decrolyschool.be
 DOMAIN,deletespyware-adware.com
@@ -16287,6 +16328,7 @@ DOMAIN,download.grandcloud.cn
 DOMAIN,downloads-whatsapp.com
 DOMAIN,dp-medien.eu
 DOMAIN,dss0.bdstatic.com
+DOMAIN,dump1.no-ip.biz
 DOMAIN,e.tf.360.cn
 DOMAIN,earthcontrolsys.com
 DOMAIN,echoa.randbinternationaltravel.com
@@ -16323,6 +16365,7 @@ DOMAIN,formessengers.com
 DOMAIN,fourthgate.org
 DOMAIN,free-crochet-pattern.com
 DOMAIN,freefblikes.phpnet.us
+DOMAIN,freeonescams.com
 DOMAIN,freeserials.spb.ru
 DOMAIN,freeserials.ws
 DOMAIN,g05.info
@@ -16363,6 +16406,7 @@ DOMAIN,hosting-controlpr.tk
 DOMAIN,hotfacesitting.com
 DOMAIN,hotspot.cz
 DOMAIN,hst-19-33.splius.lt
+DOMAIN,httpdns.n.netease.com
 DOMAIN,hujii.qplanner.cf
 DOMAIN,hwekl8dz1d.com
 DOMAIN,hy-brasil.mhwang.com
@@ -16397,6 +16441,7 @@ DOMAIN,javacript.ga
 DOMAIN,jdfabrication.com
 DOMAIN,jeansvixens.com
 DOMAIN,josip-stadler.org
+DOMAIN,js.hdzog.com
 DOMAIN,js.jrjimg.cn
 DOMAIN,juedische-kammerphilharmonie.de
 DOMAIN,juicypussyclips.com
@@ -16534,7 +16579,10 @@ DOMAIN,printfriendly.com
 DOMAIN,private.hotelcesenaticobooking.info
 DOMAIN,privateinternetaccess.com
 DOMAIN,privatkunden.datapipe9271.com
+DOMAIN,profile.bharatmatrimony.com
 DOMAIN,progettocrea.org
+DOMAIN,promo.pegcweb.com
+DOMAIN,promos.wealthymen.com
 DOMAIN,prorodeosportmed.com
 DOMAIN,puenteaereo.info
 DOMAIN,purethc.com
@@ -16644,6 +16692,7 @@ DOMAIN,thewinesteward.com
 DOMAIN,thogethoffic.co
 DOMAIN,tj.playcvn.com
 DOMAIN,tk-gregoric.si
+DOMAIN,tkn.fux.com
 DOMAIN,tmotbq.xyz
 DOMAIN,tomalinoalambres.com.ar
 DOMAIN,tooso.ai
