@@ -19,7 +19,7 @@ https://raw.githubusercontent.com/codetracer/horus/master/script/startup/startup
 使用远程脚本配置
 
 ```ini
-[Remote Script]
+[Plugin]
 https://raw.githubusercontent.com/codetracer/horus/master/script/startup/startup.lnplugin, tag=开屏去广告, enabled=true
 ```
 
