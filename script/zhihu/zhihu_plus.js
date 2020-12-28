@@ -86,10 +86,11 @@ let magicJS = MagicJS(scriptName, "INFO");
           let obj = JSON.parse(magicJS.response.body);
           let data = obj['data'].filter((element) =>{
             let flag = !(
-              element['card_type'] === 'slot_event_card' || 
-              element.hasOwnProperty('ad') || 
-              element['extra']['type'] === 'drama' ||
-              element['extra']['type'] == 'zvideo');
+              element['card_type'] === 'slot_event_card' 
+              || element.hasOwnProperty('ad') 
+              || element['extra']['type'] === 'drama' 
+              || element['extra']['type'] == 'zvideo'
+            );
             try{
               if (flag === true && 
                 custom_blocked_users &&
