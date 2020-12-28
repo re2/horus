@@ -140,7 +140,16 @@ let magicJS = MagicJS(scriptName, 'INFO');
             /^https?:\/\/api\.vc\.bilibili\.com\/dynamic_svr\/v1\/dynamic_svr\/dynamic_new\?/.test(magicJS.request.url)):
         try{
           let obj = JSON.parse(magicJS.response.body);
-          let cards = obj.data.cards.filter(e => {return true? e.hasOwnProperty('display'): false});
+          let cards = [];
+          obj.data.cards.forEach(element => {
+            if (element.hasOwnProperty('display') && element.card.indexOf('ad_ctx') <= 0){
+              element['desc']['dynamic_id'] = element['desc']['dynamic_id_str'];
+              element['desc']['pre_dy_id'] = element['desc']['pre_dy_id_str'];
+              element['desc']['orig_dy_id'] = element['desc']['orig_dy_id_str'];
+              element['desc']['rid'] = element['desc']['rid_str'];
+              cards.push(element);
+            }
+          });
           obj.data.cards = cards;
           body = JSON.stringify(obj);
         }
