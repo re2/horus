@@ -105,4 +105,5 @@ dist
 debug/
 script/magicjs/server/.idea/
 venv/
+temp/
 magic.json
