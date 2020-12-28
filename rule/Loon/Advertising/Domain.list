@@ -1,7 +1,7 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-28 03:29:42
+# UPDATED: 2020-12-28 10:07:47
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-SUFFIX: 42233
 # DOMAIN: 14568
@@ -20101,7 +20101,6 @@ zzz.clickbank.net
 .aphicbouncil.club
 .aphookkensidah.pro
 .aphycolourses.info
-.api-access.pangolin-sdk-toutiao.com
 .api-ad.kajicam.com
 .api-ads.tiantianqutao.com
 .api-analytics-cn.huami.com
@@ -23325,6 +23324,7 @@ zzz.clickbank.net
 .cdhenfan.com
 .cdhoc.piyaji.cn
 .cdiah.com
+.cdj99d.cn
 .cdjkngs.cn
 .cdjs.online
 .cdlinli.com
@@ -37083,7 +37083,6 @@ zzz.clickbank.net
 .lodqycbq.com
 .loftygreater.com
 .lofv.xyz
-.log-api.pangolin-sdk-toutiao.com
 .log-dmp.suishenyun.cn
 .log-stats.weathercn.com
 .log-upload.mihoyo.com
@@ -42055,6 +42054,7 @@ zzz.clickbank.net
 .panection.co
 .panel-cn.com
 .panelsave.com
+.pangolin-sdk-toutiao.com
 .pangolin.snssdk.com
 .pangu.cc
 .panicshaggy.com

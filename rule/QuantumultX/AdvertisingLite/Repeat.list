@@ -1,14 +1,14 @@
 # NAME: AdvertisingLite 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-28 03:29:44
+# UPDATED: 2020-12-28 10:07:49
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # AdvertisingLite 与 Adobe 共 4 条规则重复
 HOST-SUFFIX,adbecrsl.com
 HOST-SUFFIX,demdex.net
 HOST-SUFFIX,newrelic.com
 HOST-SUFFIX,omtrdc.net
-# AdvertisingLite 与 Advertising 共 15767 条规则重复
+# AdvertisingLite 与 Advertising 共 15771 条规则重复
 HOST,0.up.qingdaonews.com
 HOST,0koryu0.easter.ne.jp
 HOST,0nso0tq1sa4.ml
@@ -71,6 +71,8 @@ HOST,ads.data.pplive.com
 HOST,ads.finance.yahoo.com
 HOST,ads.yahoo.de
 HOST,adserving.favorit-network.com
+HOST,adv-adlog.variflight.com
+HOST,adv-ads.variflight.com
 HOST,adv.ettoday.net
 HOST,adv.riza.it
 HOST,advancetec.co.uk
@@ -4405,6 +4407,7 @@ HOST-SUFFIX,cdgxq.com
 HOST-SUFFIX,cdhenfan.com
 HOST-SUFFIX,cdhoc.piyaji.cn
 HOST-SUFFIX,cdiah.com
+HOST-SUFFIX,cdj99d.cn
 HOST-SUFFIX,cdjkngs.cn
 HOST-SUFFIX,cdlinli.com
 HOST-SUFFIX,cdn-adphone.wenhua.com.cn
@@ -10609,6 +10612,7 @@ HOST-SUFFIX,pam.nextinpact.com
 HOST-SUFFIX,pampopholf.com
 HOST-SUFFIX,panda.kdnet.net
 HOST-SUFFIX,panel-cn.com
+HOST-SUFFIX,pangolin-sdk-toutiao.com
 HOST-SUFFIX,pangu.cc
 HOST-SUFFIX,panoramio.com
 HOST-SUFFIX,panwenjun.top
@@ -15776,7 +15780,7 @@ IP-CIDR,67.229.224.28/32
 IP-CIDR,69.28.57.245/32
 IP-CIDR,74.117.182.77/32
 IP-CIDR,78.140.131.214/32
-# AdvertisingLite 与 AdvertisingTest 共 15491 条规则重复
+# AdvertisingLite 与 AdvertisingTest 共 15495 条规则重复
 HOST,0.up.qingdaonews.com
 HOST,0koryu0.easter.ne.jp
 HOST,0nso0tq1sa4.ml
@@ -15832,6 +15836,8 @@ HOST,ads.chinadaily.com.cn
 HOST,ads.finance.yahoo.com
 HOST,ads.yahoo.de
 HOST,adserving.favorit-network.com
+HOST,adv-adlog.variflight.com
+HOST,adv-ads.variflight.com
 HOST,adv.riza.it
 HOST,advancetec.co.uk
 HOST,adverigo.com
@@ -19970,6 +19976,7 @@ HOST-SUFFIX,cdgxq.com
 HOST-SUFFIX,cdhenfan.com
 HOST-SUFFIX,cdhoc.piyaji.cn
 HOST-SUFFIX,cdiah.com
+HOST-SUFFIX,cdj99d.cn
 HOST-SUFFIX,cdjkngs.cn
 HOST-SUFFIX,cdlinli.com
 HOST-SUFFIX,cdn-adphone.wenhua.com.cn
@@ -26141,6 +26148,7 @@ HOST-SUFFIX,pam.nextinpact.com
 HOST-SUFFIX,pampopholf.com
 HOST-SUFFIX,panda.kdnet.net
 HOST-SUFFIX,panel-cn.com
+HOST-SUFFIX,pangolin-sdk-toutiao.com
 HOST-SUFFIX,pangu.cc
 HOST-SUFFIX,panoramio.com
 HOST-SUFFIX,panwenjun.top
@@ -31287,7 +31295,7 @@ HOST-SUFFIX,jiathis.com
 HOST-SUFFIX,mob.com
 HOST-SUFFIX,umengcloud.com
 HOST-SUFFIX,xdrig.com
-# AdvertisingLite 与 ChinaTest 共 658 条规则重复
+# AdvertisingLite 与 ChinaTest 共 659 条规则重复
 HOST-SUFFIX,000dn.com
 HOST-SUFFIX,0024aaaa.com
 HOST-SUFFIX,002lzj.com
@@ -31705,6 +31713,7 @@ HOST-SUFFIX,optimix.asia
 HOST-SUFFIX,overturechina.com
 HOST-SUFFIX,pagechoice.com
 HOST-SUFFIX,pagechoice.net
+HOST-SUFFIX,pangolin-sdk-toutiao.com
 HOST-SUFFIX,pdfexpert.cc
 HOST-SUFFIX,penxiangge.com
 HOST-SUFFIX,photozoomchina.com

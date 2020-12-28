@@ -1,7 +1,7 @@
 # NAME: AdvertisingLite 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-28 03:29:45
+# UPDATED: 2020-12-28 10:07:50
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 payload:
 # AdvertisingLite 与 Adobe 共 4 条规则重复
@@ -9,7 +9,7 @@ payload:
   - DOMAIN-SUFFIX,demdex.net
   - DOMAIN-SUFFIX,newrelic.com
   - DOMAIN-SUFFIX,omtrdc.net
-# AdvertisingLite 与 Advertising 共 15767 条规则重复
+# AdvertisingLite 与 Advertising 共 15771 条规则重复
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,0koryu0.easter.ne.jp
   - DOMAIN,0nso0tq1sa4.ml
@@ -72,6 +72,8 @@ payload:
   - DOMAIN,ads.finance.yahoo.com
   - DOMAIN,ads.yahoo.de
   - DOMAIN,adserving.favorit-network.com
+  - DOMAIN,adv-adlog.variflight.com
+  - DOMAIN,adv-ads.variflight.com
   - DOMAIN,adv.ettoday.net
   - DOMAIN,adv.riza.it
   - DOMAIN,advancetec.co.uk
@@ -4406,6 +4408,7 @@ payload:
   - DOMAIN-SUFFIX,cdhenfan.com
   - DOMAIN-SUFFIX,cdhoc.piyaji.cn
   - DOMAIN-SUFFIX,cdiah.com
+  - DOMAIN-SUFFIX,cdj99d.cn
   - DOMAIN-SUFFIX,cdjkngs.cn
   - DOMAIN-SUFFIX,cdlinli.com
   - DOMAIN-SUFFIX,cdn-adphone.wenhua.com.cn
@@ -10610,6 +10613,7 @@ payload:
   - DOMAIN-SUFFIX,pampopholf.com
   - DOMAIN-SUFFIX,panda.kdnet.net
   - DOMAIN-SUFFIX,panel-cn.com
+  - DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
   - DOMAIN-SUFFIX,pangu.cc
   - DOMAIN-SUFFIX,panoramio.com
   - DOMAIN-SUFFIX,panwenjun.top
@@ -15777,7 +15781,7 @@ payload:
   - IP-CIDR,69.28.57.245/32
   - IP-CIDR,74.117.182.77/32
   - IP-CIDR,78.140.131.214/32
-# AdvertisingLite 与 AdvertisingTest 共 15491 条规则重复
+# AdvertisingLite 与 AdvertisingTest 共 15495 条规则重复
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,0koryu0.easter.ne.jp
   - DOMAIN,0nso0tq1sa4.ml
@@ -15833,6 +15837,8 @@ payload:
   - DOMAIN,ads.finance.yahoo.com
   - DOMAIN,ads.yahoo.de
   - DOMAIN,adserving.favorit-network.com
+  - DOMAIN,adv-adlog.variflight.com
+  - DOMAIN,adv-ads.variflight.com
   - DOMAIN,adv.riza.it
   - DOMAIN,advancetec.co.uk
   - DOMAIN,adverigo.com
@@ -19971,6 +19977,7 @@ payload:
   - DOMAIN-SUFFIX,cdhenfan.com
   - DOMAIN-SUFFIX,cdhoc.piyaji.cn
   - DOMAIN-SUFFIX,cdiah.com
+  - DOMAIN-SUFFIX,cdj99d.cn
   - DOMAIN-SUFFIX,cdjkngs.cn
   - DOMAIN-SUFFIX,cdlinli.com
   - DOMAIN-SUFFIX,cdn-adphone.wenhua.com.cn
@@ -26142,6 +26149,7 @@ payload:
   - DOMAIN-SUFFIX,pampopholf.com
   - DOMAIN-SUFFIX,panda.kdnet.net
   - DOMAIN-SUFFIX,panel-cn.com
+  - DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
   - DOMAIN-SUFFIX,pangu.cc
   - DOMAIN-SUFFIX,panoramio.com
   - DOMAIN-SUFFIX,panwenjun.top
@@ -31288,7 +31296,7 @@ payload:
   - DOMAIN-SUFFIX,mob.com
   - DOMAIN-SUFFIX,umengcloud.com
   - DOMAIN-SUFFIX,xdrig.com
-# AdvertisingLite 与 ChinaTest 共 658 条规则重复
+# AdvertisingLite 与 ChinaTest 共 659 条规则重复
   - DOMAIN-SUFFIX,000dn.com
   - DOMAIN-SUFFIX,0024aaaa.com
   - DOMAIN-SUFFIX,002lzj.com
@@ -31706,6 +31714,7 @@ payload:
   - DOMAIN-SUFFIX,overturechina.com
   - DOMAIN-SUFFIX,pagechoice.com
   - DOMAIN-SUFFIX,pagechoice.net
+  - DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
   - DOMAIN-SUFFIX,pdfexpert.cc
   - DOMAIN-SUFFIX,penxiangge.com
   - DOMAIN-SUFFIX,photozoomchina.com

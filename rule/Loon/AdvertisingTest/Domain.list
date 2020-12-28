@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-28 03:29:42
+# UPDATED: 2020-12-28 10:07:48
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN-SUFFIX: 63563
+# DOMAIN-SUFFIX: 63576
 # DOMAIN: 10407
 # DOMAIN-KEYWORD: 54
 # IP-CIDR: 236
 # URL-REGEX: 307
-# TOTAL: 74567
+# TOTAL: 74580
 0.up.qingdaonews.com
 000lk3v.wcomhost.com
 000lkub.rcomhost.com
@@ -11721,6 +11721,7 @@ zzz.clickbank.net
 .45f2373b26b8e2.com
 .45le.cn
 .45xa.cn
+.46186911.vtt
 .466128.com
 .467.red
 .468.vologdainfo.ru
@@ -19816,6 +19817,7 @@ zzz.clickbank.net
 .aodepuo.cn
 .aodongjiaosu.com
 .aodsywsxzquemt.com
+.aoidf3.com
 .aol.spb.su
 .aombjl099.com
 .aomde.com
@@ -19874,7 +19876,6 @@ zzz.clickbank.net
 .aphicbouncil.club
 .aphookkensidah.pro
 .aphycolourses.info
-.api-access.pangolin-sdk-toutiao.com
 .api-ad.kajicam.com
 .api-ads.tiantianqutao.com
 .api-analytics-bootstrap.metaps.com
@@ -22561,6 +22562,7 @@ zzz.clickbank.net
 .besthpath.club
 .besthuaxia.com
 .besti.ga
+.bestialearnbuds.com
 .bestlolaray.com
 .bestmmo2018.com
 .bestmobiworld.com
@@ -24918,6 +24920,7 @@ zzz.clickbank.net
 .cdhenfan.com
 .cdhoc.piyaji.cn
 .cdiah.com
+.cdj99d.cn
 .cdjkngs.cn
 .cdjs.online
 .cdlc.iadvize.com
@@ -25491,6 +25494,7 @@ zzz.clickbank.net
 .cheezburger-analytics.com
 .chefti.info
 .chehuanjie.com
+.chekaksam.com
 .chekeshi.com
 .cheksoam.com
 .chelick.net
@@ -32442,6 +32446,7 @@ zzz.clickbank.net
 .ersoncur.info
 .ersremarypiec.info
 .erssamplet.pro
+.erstopnyrt.online
 .ersunt.com
 .erswhenede.info
 .ertainstreated.fun
@@ -37997,6 +38002,7 @@ zzz.clickbank.net
 .hjgen.cn
 .hjgmasrve.com
 .hjgtnhierc.com
+.hjhbhddren.com
 .hjiebsdcxldu.com
 .hjiec.com
 .hjiss.com
@@ -38694,6 +38700,7 @@ zzz.clickbank.net
 .hwyoikfrfdtjp.com
 .hx623.cn
 .hxadt.com
+.hxbt.alading123.com
 .hxbvxmyldlt.com
 .hxcav77.com
 .hxgccl.cn
@@ -44233,7 +44240,6 @@ zzz.clickbank.net
 .loftygreater.com
 .lofv.xyz
 .log*-*.tiktokv.com
-.log-api.pangolin-sdk-toutiao.com
 .log-collector.shopee.vn
 .log-collector.svctr.zynga.com
 .log-collectors-73517960.us-east-1.elb.amazonaws.com
@@ -50798,6 +50804,7 @@ zzz.clickbank.net
 .onclickpulse.com
 .onclicksuper.com
 .onclicktop.com
+.onclicktraffic.com
 .onclkds.com
 .oncustomer.asia
 .ondayswr.club
@@ -51869,6 +51876,7 @@ zzz.clickbank.net
 .panelist-api.vertoanalytics.com
 .panelsave.com
 .pangle.io.edgekey.net
+.pangolin-sdk-toutiao.com
 .pangolin.snssdk.com
 .pangu.cc
 .panicshaggy.com
@@ -57376,6 +57384,7 @@ zzz.clickbank.net
 .runadtag.com
 .runative-syndicate.com
 .runative.com
+.runbornto.com
 .runcornandwidnesworld-gb.runcornandwidnesworld.co.uk
 .runcpa.com
 .rundsp.com
@@ -58221,6 +58230,7 @@ zzz.clickbank.net
 .sculifinanthools.site
 .scund.com
 .scupio.com
+.scurewall.co
 .scvdxxgbvoz.com
 .scvxgm.cn
 .scw.systems
@@ -58995,6 +59005,7 @@ zzz.clickbank.net
 .sgs001.adtech.fr
 .sgs001.adtech.us
 .sgsnssdk.com.edgekey.net
+.sgswuesocfr.com
 .sguac.com
 .sgutelyg.com
 .sgxaqysyilwkiu.com
@@ -60808,6 +60819,7 @@ zzz.clickbank.net
 .ssix.io
 .ssjpx.com
 .ssjy168.com
+.sskmnews.pro
 .ssknweoz.cn
 .ssl-cdn.static.browser.mi-img.com
 .ssl-google-analytics.l.google.com
@@ -72836,6 +72848,7 @@ zzz.clickbank.net
 .yuanhsu.com
 .yuanmengbi.com
 .yuanming.net
+.yuanqitu.com
 .yuanyanglw.com
 .yucce.com
 .yucefa.cn

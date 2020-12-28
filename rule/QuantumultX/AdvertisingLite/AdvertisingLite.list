@@ -1,12 +1,12 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-28 03:29:42
+# UPDATED: 2020-12-28 10:07:47
 # HOST-KEYWORD: 27
-# HOST-SUFFIX: 15238
-# HOST: 10689
+# HOST-SUFFIX: 15240
+# HOST: 10691
 # IP-CIDR: 192
-# TOTAL: 26146
+# TOTAL: 26150
 HOST,0.up.qingdaonews.com,AdvertisingLite
 HOST,006a039c957c142bb.com,AdvertisingLite
 HOST,0082tv.net,AdvertisingLite
@@ -1217,6 +1217,8 @@ HOST,adunioncode.com,AdvertisingLite
 HOST,adunite.com,AdvertisingLite
 HOST,adunity.com,AdvertisingLite
 HOST,adup-tech.com,AdvertisingLite
+HOST,adv-adlog.variflight.com,AdvertisingLite
+HOST,adv-ads.variflight.com,AdvertisingLite
 HOST,adv-adserver.com,AdvertisingLite
 HOST,adv.ettoday.net,AdvertisingLite
 HOST,adv.riza.it,AdvertisingLite
@@ -14253,6 +14255,7 @@ HOST-SUFFIX,cdgxq.com,AdvertisingLite
 HOST-SUFFIX,cdhenfan.com,AdvertisingLite
 HOST-SUFFIX,cdhoc.piyaji.cn,AdvertisingLite
 HOST-SUFFIX,cdiah.com,AdvertisingLite
+HOST-SUFFIX,cdj99d.cn,AdvertisingLite
 HOST-SUFFIX,cdjkngs.cn,AdvertisingLite
 HOST-SUFFIX,cdlinli.com,AdvertisingLite
 HOST-SUFFIX,cdn-adphone.wenhua.com.cn,AdvertisingLite
@@ -20678,6 +20681,7 @@ HOST-SUFFIX,pam.nextinpact.com,AdvertisingLite
 HOST-SUFFIX,pampopholf.com,AdvertisingLite
 HOST-SUFFIX,panda.kdnet.net,AdvertisingLite
 HOST-SUFFIX,panel-cn.com,AdvertisingLite
+HOST-SUFFIX,pangolin-sdk-toutiao.com,AdvertisingLite
 HOST-SUFFIX,pangu.cc,AdvertisingLite
 HOST-SUFFIX,panoramio.com,AdvertisingLite
 HOST-SUFFIX,panwenjun.top,AdvertisingLite

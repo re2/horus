@@ -1,12 +1,12 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-28 03:29:43
-# DOMAIN-SUFFIX: 63563
+# UPDATED: 2020-12-28 10:07:48
+# DOMAIN-SUFFIX: 63576
 # DOMAIN: 10407
 # DOMAIN-KEYWORD: 54
 # IP-CIDR: 236
-# TOTAL: 74260
+# TOTAL: 74273
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,000lk3v.wcomhost.com
@@ -11720,6 +11720,7 @@ payload:
   - DOMAIN-SUFFIX,45f2373b26b8e2.com
   - DOMAIN-SUFFIX,45le.cn
   - DOMAIN-SUFFIX,45xa.cn
+  - DOMAIN-SUFFIX,46186911.vtt
   - DOMAIN-SUFFIX,466128.com
   - DOMAIN-SUFFIX,467.red
   - DOMAIN-SUFFIX,468.vologdainfo.ru
@@ -19815,6 +19816,7 @@ payload:
   - DOMAIN-SUFFIX,aodepuo.cn
   - DOMAIN-SUFFIX,aodongjiaosu.com
   - DOMAIN-SUFFIX,aodsywsxzquemt.com
+  - DOMAIN-SUFFIX,aoidf3.com
   - DOMAIN-SUFFIX,aol.spb.su
   - DOMAIN-SUFFIX,aombjl099.com
   - DOMAIN-SUFFIX,aomde.com
@@ -19873,7 +19875,6 @@ payload:
   - DOMAIN-SUFFIX,aphicbouncil.club
   - DOMAIN-SUFFIX,aphookkensidah.pro
   - DOMAIN-SUFFIX,aphycolourses.info
-  - DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao.com
   - DOMAIN-SUFFIX,api-ad.kajicam.com
   - DOMAIN-SUFFIX,api-ads.tiantianqutao.com
   - DOMAIN-SUFFIX,api-analytics-bootstrap.metaps.com
@@ -22560,6 +22561,7 @@ payload:
   - DOMAIN-SUFFIX,besthpath.club
   - DOMAIN-SUFFIX,besthuaxia.com
   - DOMAIN-SUFFIX,besti.ga
+  - DOMAIN-SUFFIX,bestialearnbuds.com
   - DOMAIN-SUFFIX,bestlolaray.com
   - DOMAIN-SUFFIX,bestmmo2018.com
   - DOMAIN-SUFFIX,bestmobiworld.com
@@ -24917,6 +24919,7 @@ payload:
   - DOMAIN-SUFFIX,cdhenfan.com
   - DOMAIN-SUFFIX,cdhoc.piyaji.cn
   - DOMAIN-SUFFIX,cdiah.com
+  - DOMAIN-SUFFIX,cdj99d.cn
   - DOMAIN-SUFFIX,cdjkngs.cn
   - DOMAIN-SUFFIX,cdjs.online
   - DOMAIN-SUFFIX,cdlc.iadvize.com
@@ -25490,6 +25493,7 @@ payload:
   - DOMAIN-SUFFIX,cheezburger-analytics.com
   - DOMAIN-SUFFIX,chefti.info
   - DOMAIN-SUFFIX,chehuanjie.com
+  - DOMAIN-SUFFIX,chekaksam.com
   - DOMAIN-SUFFIX,chekeshi.com
   - DOMAIN-SUFFIX,cheksoam.com
   - DOMAIN-SUFFIX,chelick.net
@@ -32441,6 +32445,7 @@ payload:
   - DOMAIN-SUFFIX,ersoncur.info
   - DOMAIN-SUFFIX,ersremarypiec.info
   - DOMAIN-SUFFIX,erssamplet.pro
+  - DOMAIN-SUFFIX,erstopnyrt.online
   - DOMAIN-SUFFIX,ersunt.com
   - DOMAIN-SUFFIX,erswhenede.info
   - DOMAIN-SUFFIX,ertainstreated.fun
@@ -37996,6 +38001,7 @@ payload:
   - DOMAIN-SUFFIX,hjgen.cn
   - DOMAIN-SUFFIX,hjgmasrve.com
   - DOMAIN-SUFFIX,hjgtnhierc.com
+  - DOMAIN-SUFFIX,hjhbhddren.com
   - DOMAIN-SUFFIX,hjiebsdcxldu.com
   - DOMAIN-SUFFIX,hjiec.com
   - DOMAIN-SUFFIX,hjiss.com
@@ -38693,6 +38699,7 @@ payload:
   - DOMAIN-SUFFIX,hwyoikfrfdtjp.com
   - DOMAIN-SUFFIX,hx623.cn
   - DOMAIN-SUFFIX,hxadt.com
+  - DOMAIN-SUFFIX,hxbt.alading123.com
   - DOMAIN-SUFFIX,hxbvxmyldlt.com
   - DOMAIN-SUFFIX,hxcav77.com
   - DOMAIN-SUFFIX,hxgccl.cn
@@ -44232,7 +44239,6 @@ payload:
   - DOMAIN-SUFFIX,loftygreater.com
   - DOMAIN-SUFFIX,lofv.xyz
   - DOMAIN-SUFFIX,log*-*.tiktokv.com
-  - DOMAIN-SUFFIX,log-api.pangolin-sdk-toutiao.com
   - DOMAIN-SUFFIX,log-collector.shopee.vn
   - DOMAIN-SUFFIX,log-collector.svctr.zynga.com
   - DOMAIN-SUFFIX,log-collectors-73517960.us-east-1.elb.amazonaws.com
@@ -50797,6 +50803,7 @@ payload:
   - DOMAIN-SUFFIX,onclickpulse.com
   - DOMAIN-SUFFIX,onclicksuper.com
   - DOMAIN-SUFFIX,onclicktop.com
+  - DOMAIN-SUFFIX,onclicktraffic.com
   - DOMAIN-SUFFIX,onclkds.com
   - DOMAIN-SUFFIX,oncustomer.asia
   - DOMAIN-SUFFIX,ondayswr.club
@@ -51868,6 +51875,7 @@ payload:
   - DOMAIN-SUFFIX,panelist-api.vertoanalytics.com
   - DOMAIN-SUFFIX,panelsave.com
   - DOMAIN-SUFFIX,pangle.io.edgekey.net
+  - DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
   - DOMAIN-SUFFIX,pangolin.snssdk.com
   - DOMAIN-SUFFIX,pangu.cc
   - DOMAIN-SUFFIX,panicshaggy.com
@@ -57375,6 +57383,7 @@ payload:
   - DOMAIN-SUFFIX,runadtag.com
   - DOMAIN-SUFFIX,runative-syndicate.com
   - DOMAIN-SUFFIX,runative.com
+  - DOMAIN-SUFFIX,runbornto.com
   - DOMAIN-SUFFIX,runcornandwidnesworld-gb.runcornandwidnesworld.co.uk
   - DOMAIN-SUFFIX,runcpa.com
   - DOMAIN-SUFFIX,rundsp.com
@@ -58220,6 +58229,7 @@ payload:
   - DOMAIN-SUFFIX,sculifinanthools.site
   - DOMAIN-SUFFIX,scund.com
   - DOMAIN-SUFFIX,scupio.com
+  - DOMAIN-SUFFIX,scurewall.co
   - DOMAIN-SUFFIX,scvdxxgbvoz.com
   - DOMAIN-SUFFIX,scvxgm.cn
   - DOMAIN-SUFFIX,scw.systems
@@ -58994,6 +59004,7 @@ payload:
   - DOMAIN-SUFFIX,sgs001.adtech.fr
   - DOMAIN-SUFFIX,sgs001.adtech.us
   - DOMAIN-SUFFIX,sgsnssdk.com.edgekey.net
+  - DOMAIN-SUFFIX,sgswuesocfr.com
   - DOMAIN-SUFFIX,sguac.com
   - DOMAIN-SUFFIX,sgutelyg.com
   - DOMAIN-SUFFIX,sgxaqysyilwkiu.com
@@ -60807,6 +60818,7 @@ payload:
   - DOMAIN-SUFFIX,ssix.io
   - DOMAIN-SUFFIX,ssjpx.com
   - DOMAIN-SUFFIX,ssjy168.com
+  - DOMAIN-SUFFIX,sskmnews.pro
   - DOMAIN-SUFFIX,ssknweoz.cn
   - DOMAIN-SUFFIX,ssl-cdn.static.browser.mi-img.com
   - DOMAIN-SUFFIX,ssl-google-analytics.l.google.com
@@ -72835,6 +72847,7 @@ payload:
   - DOMAIN-SUFFIX,yuanhsu.com
   - DOMAIN-SUFFIX,yuanmengbi.com
   - DOMAIN-SUFFIX,yuanming.net
+  - DOMAIN-SUFFIX,yuanqitu.com
   - DOMAIN-SUFFIX,yuanyanglw.com
   - DOMAIN-SUFFIX,yucce.com
   - DOMAIN-SUFFIX,yucefa.cn

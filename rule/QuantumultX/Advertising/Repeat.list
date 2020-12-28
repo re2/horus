@@ -1,7 +1,7 @@
 # NAME: Advertising 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-28 03:29:44
+# UPDATED: 2020-12-28 10:07:49
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # Advertising 与 Adobe 共 5 条规则重复
 HOST-SUFFIX,adbecrsl.com
@@ -15966,7 +15966,6 @@ HOST-SUFFIX,apextwo.com
 HOST-SUFFIX,aphicbouncil.club
 HOST-SUFFIX,aphookkensidah.pro
 HOST-SUFFIX,aphycolourses.info
-HOST-SUFFIX,api-access.pangolin-sdk-toutiao.com
 HOST-SUFFIX,api-ad.kajicam.com
 HOST-SUFFIX,api-ads.tiantianqutao.com
 HOST-SUFFIX,api-analytics-cn.huami.com
@@ -19172,6 +19171,7 @@ HOST-SUFFIX,cdgxq.com
 HOST-SUFFIX,cdhenfan.com
 HOST-SUFFIX,cdhoc.piyaji.cn
 HOST-SUFFIX,cdiah.com
+HOST-SUFFIX,cdj99d.cn
 HOST-SUFFIX,cdjkngs.cn
 HOST-SUFFIX,cdjs.online
 HOST-SUFFIX,cdlinli.com
@@ -32880,7 +32880,6 @@ HOST-SUFFIX,lodoxfwite.com
 HOST-SUFFIX,lodqycbq.com
 HOST-SUFFIX,loftygreater.com
 HOST-SUFFIX,lofv.xyz
-HOST-SUFFIX,log-api.pangolin-sdk-toutiao.com
 HOST-SUFFIX,log-dmp.suishenyun.cn
 HOST-SUFFIX,log-stats.weathercn.com
 HOST-SUFFIX,log-upload.mihoyo.com
@@ -37837,6 +37836,7 @@ HOST-SUFFIX,panda.network
 HOST-SUFFIX,panection.co
 HOST-SUFFIX,panel-cn.com
 HOST-SUFFIX,panelsave.com
+HOST-SUFFIX,pangolin-sdk-toutiao.com
 HOST-SUFFIX,pangolin.snssdk.com
 HOST-SUFFIX,pangu.cc
 HOST-SUFFIX,panicshaggy.com
@@ -52757,7 +52757,7 @@ IP-CIDR,69.28.57.245/32
 IP-CIDR,74.117.182.77/32
 IP-CIDR,78.140.131.214/32
 IP-CIDR,91.196.216.64/32
-# Advertising 与 AdvertisingLite 共 15767 条规则重复
+# Advertising 与 AdvertisingLite 共 15771 条规则重复
 HOST,0.up.qingdaonews.com
 HOST,0koryu0.easter.ne.jp
 HOST,0nso0tq1sa4.ml
@@ -52820,6 +52820,8 @@ HOST,ads.data.pplive.com
 HOST,ads.finance.yahoo.com
 HOST,ads.yahoo.de
 HOST,adserving.favorit-network.com
+HOST,adv-adlog.variflight.com
+HOST,adv-ads.variflight.com
 HOST,adv.ettoday.net
 HOST,adv.riza.it
 HOST,advancetec.co.uk
@@ -57154,6 +57156,7 @@ HOST-SUFFIX,cdgxq.com
 HOST-SUFFIX,cdhenfan.com
 HOST-SUFFIX,cdhoc.piyaji.cn
 HOST-SUFFIX,cdiah.com
+HOST-SUFFIX,cdj99d.cn
 HOST-SUFFIX,cdjkngs.cn
 HOST-SUFFIX,cdlinli.com
 HOST-SUFFIX,cdn-adphone.wenhua.com.cn
@@ -63358,6 +63361,7 @@ HOST-SUFFIX,pam.nextinpact.com
 HOST-SUFFIX,pampopholf.com
 HOST-SUFFIX,panda.kdnet.net
 HOST-SUFFIX,panel-cn.com
+HOST-SUFFIX,pangolin-sdk-toutiao.com
 HOST-SUFFIX,pangu.cc
 HOST-SUFFIX,panoramio.com
 HOST-SUFFIX,panwenjun.top
@@ -68562,7 +68566,7 @@ HOST-SUFFIX,jiathis.com
 HOST-SUFFIX,mob.com
 HOST-SUFFIX,umengcloud.com
 HOST-SUFFIX,xdrig.com
-# Advertising 与 ChinaTest 共 1143 条规则重复
+# Advertising 与 ChinaTest 共 1144 条规则重复
 HOST-SUFFIX,000dn.com
 HOST-SUFFIX,0024aaaa.com
 HOST-SUFFIX,002lzj.com
@@ -69298,6 +69302,7 @@ HOST-SUFFIX,oxrm.com
 HOST-SUFFIX,oycslia.xyz
 HOST-SUFFIX,pagechoice.com
 HOST-SUFFIX,pagechoice.net
+HOST-SUFFIX,pangolin-sdk-toutiao.com
 HOST-SUFFIX,pdfexpert.cc
 HOST-SUFFIX,penxiangge.com
 HOST-SUFFIX,photozoomchina.com

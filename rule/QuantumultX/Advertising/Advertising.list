@@ -1,7 +1,7 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-28 03:29:42
+# UPDATED: 2020-12-28 10:07:47
 # HOST-SUFFIX: 42233
 # HOST: 14568
 # HOST-KEYWORD: 56
@@ -20099,7 +20099,6 @@ HOST-SUFFIX,apextwo.com,Advertising
 HOST-SUFFIX,aphicbouncil.club,Advertising
 HOST-SUFFIX,aphookkensidah.pro,Advertising
 HOST-SUFFIX,aphycolourses.info,Advertising
-HOST-SUFFIX,api-access.pangolin-sdk-toutiao.com,Advertising
 HOST-SUFFIX,api-ad.kajicam.com,Advertising
 HOST-SUFFIX,api-ads.tiantianqutao.com,Advertising
 HOST-SUFFIX,api-analytics-cn.huami.com,Advertising
@@ -23323,6 +23322,7 @@ HOST-SUFFIX,cdgxq.com,Advertising
 HOST-SUFFIX,cdhenfan.com,Advertising
 HOST-SUFFIX,cdhoc.piyaji.cn,Advertising
 HOST-SUFFIX,cdiah.com,Advertising
+HOST-SUFFIX,cdj99d.cn,Advertising
 HOST-SUFFIX,cdjkngs.cn,Advertising
 HOST-SUFFIX,cdjs.online,Advertising
 HOST-SUFFIX,cdlinli.com,Advertising
@@ -37081,7 +37081,6 @@ HOST-SUFFIX,lodoxfwite.com,Advertising
 HOST-SUFFIX,lodqycbq.com,Advertising
 HOST-SUFFIX,loftygreater.com,Advertising
 HOST-SUFFIX,lofv.xyz,Advertising
-HOST-SUFFIX,log-api.pangolin-sdk-toutiao.com,Advertising
 HOST-SUFFIX,log-dmp.suishenyun.cn,Advertising
 HOST-SUFFIX,log-stats.weathercn.com,Advertising
 HOST-SUFFIX,log-upload.mihoyo.com,Advertising
@@ -42053,6 +42052,7 @@ HOST-SUFFIX,panda.network,Advertising
 HOST-SUFFIX,panection.co,Advertising
 HOST-SUFFIX,panel-cn.com,Advertising
 HOST-SUFFIX,panelsave.com,Advertising
+HOST-SUFFIX,pangolin-sdk-toutiao.com,Advertising
 HOST-SUFFIX,pangolin.snssdk.com,Advertising
 HOST-SUFFIX,pangu.cc,Advertising
 HOST-SUFFIX,panicshaggy.com,Advertising

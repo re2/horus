@@ -1,7 +1,7 @@
 # NAME: AdvertisingTest 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-28 03:29:44
+# UPDATED: 2020-12-28 10:07:49
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # AdvertisingTest 与 Adobe 共 6 条规则重复
 DOMAIN-SUFFIX,adbecrsl.com
@@ -15967,7 +15967,6 @@ DOMAIN-SUFFIX,apextwo.com
 DOMAIN-SUFFIX,aphicbouncil.club
 DOMAIN-SUFFIX,aphookkensidah.pro
 DOMAIN-SUFFIX,aphycolourses.info
-DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao.com
 DOMAIN-SUFFIX,api-ad.kajicam.com
 DOMAIN-SUFFIX,api-ads.tiantianqutao.com
 DOMAIN-SUFFIX,api-analytics-cn.huami.com
@@ -19173,6 +19172,7 @@ DOMAIN-SUFFIX,cdgxq.com
 DOMAIN-SUFFIX,cdhenfan.com
 DOMAIN-SUFFIX,cdhoc.piyaji.cn
 DOMAIN-SUFFIX,cdiah.com
+DOMAIN-SUFFIX,cdj99d.cn
 DOMAIN-SUFFIX,cdjkngs.cn
 DOMAIN-SUFFIX,cdjs.online
 DOMAIN-SUFFIX,cdlinli.com
@@ -32881,7 +32881,6 @@ DOMAIN-SUFFIX,lodoxfwite.com
 DOMAIN-SUFFIX,lodqycbq.com
 DOMAIN-SUFFIX,loftygreater.com
 DOMAIN-SUFFIX,lofv.xyz
-DOMAIN-SUFFIX,log-api.pangolin-sdk-toutiao.com
 DOMAIN-SUFFIX,log-dmp.suishenyun.cn
 DOMAIN-SUFFIX,log-stats.weathercn.com
 DOMAIN-SUFFIX,log-upload.mihoyo.com
@@ -37838,6 +37837,7 @@ DOMAIN-SUFFIX,panda.network
 DOMAIN-SUFFIX,panection.co
 DOMAIN-SUFFIX,panel-cn.com
 DOMAIN-SUFFIX,panelsave.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
 DOMAIN-SUFFIX,pangolin.snssdk.com
 DOMAIN-SUFFIX,pangu.cc
 DOMAIN-SUFFIX,panicshaggy.com
@@ -53065,7 +53065,7 @@ URL-REGEX,^https?:\/\/www\.zybang\.com\/adx\/
 URL-REGEX,^https?:\/\/xyst\.yuanfudao\.com\/iphone\/splashesV\d
 URL-REGEX,^https?:\/\/xyz\.cnki\.net\/resourcev7\/api\/manualpush\/SlidsList$
 URL-REGEX,^https?:\/\/yxyapi\d\.drcuiyutao\.com\/yxy-api-gateway\/api\/json\/advert\/
-# AdvertisingTest 与 AdvertisingLite 共 15790 条规则重复
+# AdvertisingTest 与 AdvertisingLite 共 15794 条规则重复
 DOMAIN,0.up.qingdaonews.com
 DOMAIN,0koryu0.easter.ne.jp
 DOMAIN,0nso0tq1sa4.ml
@@ -53121,6 +53121,8 @@ DOMAIN,ads.chinadaily.com.cn
 DOMAIN,ads.finance.yahoo.com
 DOMAIN,ads.yahoo.de
 DOMAIN,adserving.favorit-network.com
+DOMAIN,adv-adlog.variflight.com
+DOMAIN,adv-ads.variflight.com
 DOMAIN,adv.riza.it
 DOMAIN,advancetec.co.uk
 DOMAIN,adverigo.com
@@ -57259,6 +57261,7 @@ DOMAIN-SUFFIX,cdgxq.com
 DOMAIN-SUFFIX,cdhenfan.com
 DOMAIN-SUFFIX,cdhoc.piyaji.cn
 DOMAIN-SUFFIX,cdiah.com
+DOMAIN-SUFFIX,cdj99d.cn
 DOMAIN-SUFFIX,cdjkngs.cn
 DOMAIN-SUFFIX,cdlinli.com
 DOMAIN-SUFFIX,cdn-adphone.wenhua.com.cn
@@ -63430,6 +63433,7 @@ DOMAIN-SUFFIX,pam.nextinpact.com
 DOMAIN-SUFFIX,pampopholf.com
 DOMAIN-SUFFIX,panda.kdnet.net
 DOMAIN-SUFFIX,panel-cn.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
 DOMAIN-SUFFIX,pangu.cc
 DOMAIN-SUFFIX,panoramio.com
 DOMAIN-SUFFIX,panwenjun.top
@@ -68898,7 +68902,7 @@ DOMAIN-SUFFIX,jiathis.com
 DOMAIN-SUFFIX,mob.com
 DOMAIN-SUFFIX,umengcloud.com
 DOMAIN-SUFFIX,xdrig.com
-# AdvertisingTest 与 ChinaTest 共 1169 条规则重复
+# AdvertisingTest 与 ChinaTest 共 1170 条规则重复
 DOMAIN-SUFFIX,000dn.com
 DOMAIN-SUFFIX,0024aaaa.com
 DOMAIN-SUFFIX,002lzj.com
@@ -69655,6 +69659,7 @@ DOMAIN-SUFFIX,oycslia.xyz
 DOMAIN-SUFFIX,pagead-googlehosted.l.google.com
 DOMAIN-SUFFIX,pagechoice.com
 DOMAIN-SUFFIX,pagechoice.net
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
 DOMAIN-SUFFIX,pdfexpert.cc
 DOMAIN-SUFFIX,penxiangge.com
 DOMAIN-SUFFIX,photozoomchina.com

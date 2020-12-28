@@ -1,14 +1,14 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-28 03:29:41
+# UPDATED: 2020-12-28 10:07:46
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 27
-# DOMAIN-SUFFIX: 15238
-# DOMAIN: 10689
+# DOMAIN-SUFFIX: 15240
+# DOMAIN: 10691
 # IP-CIDR: 192
 # URL-REGEX: 299
-# TOTAL: 26445
+# TOTAL: 26449
 0.up.qingdaonews.com
 006a039c957c142bb.com
 0082tv.net
@@ -1219,6 +1219,8 @@ adunioncode.com
 adunite.com
 adunity.com
 adup-tech.com
+adv-adlog.variflight.com
+adv-ads.variflight.com
 adv-adserver.com
 adv.ettoday.net
 adv.riza.it
@@ -14255,6 +14257,7 @@ zzomiuob.com
 .cdhenfan.com
 .cdhoc.piyaji.cn
 .cdiah.com
+.cdj99d.cn
 .cdjkngs.cn
 .cdlinli.com
 .cdn-adphone.wenhua.com.cn
@@ -20680,6 +20683,7 @@ zzomiuob.com
 .pampopholf.com
 .panda.kdnet.net
 .panel-cn.com
+.pangolin-sdk-toutiao.com
 .pangu.cc
 .panoramio.com
 .panwenjun.top

@@ -1,12 +1,12 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-28 03:29:43
+# UPDATED: 2020-12-28 10:07:48
 # DOMAIN-KEYWORD: 27
-# DOMAIN-SUFFIX: 15238
-# DOMAIN: 10689
+# DOMAIN-SUFFIX: 15240
+# DOMAIN: 10691
 # IP-CIDR: 192
-# TOTAL: 26146
+# TOTAL: 26150
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,006a039c957c142bb.com
@@ -1218,6 +1218,8 @@ payload:
   - DOMAIN,adunite.com
   - DOMAIN,adunity.com
   - DOMAIN,adup-tech.com
+  - DOMAIN,adv-adlog.variflight.com
+  - DOMAIN,adv-ads.variflight.com
   - DOMAIN,adv-adserver.com
   - DOMAIN,adv.ettoday.net
   - DOMAIN,adv.riza.it
@@ -14254,6 +14256,7 @@ payload:
   - DOMAIN-SUFFIX,cdhenfan.com
   - DOMAIN-SUFFIX,cdhoc.piyaji.cn
   - DOMAIN-SUFFIX,cdiah.com
+  - DOMAIN-SUFFIX,cdj99d.cn
   - DOMAIN-SUFFIX,cdjkngs.cn
   - DOMAIN-SUFFIX,cdlinli.com
   - DOMAIN-SUFFIX,cdn-adphone.wenhua.com.cn
@@ -20679,6 +20682,7 @@ payload:
   - DOMAIN-SUFFIX,pampopholf.com
   - DOMAIN-SUFFIX,panda.kdnet.net
   - DOMAIN-SUFFIX,panel-cn.com
+  - DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
   - DOMAIN-SUFFIX,pangu.cc
   - DOMAIN-SUFFIX,panoramio.com
   - DOMAIN-SUFFIX,panwenjun.top
