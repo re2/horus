@@ -3,7 +3,7 @@
 #!system=ios
 
 [Script]
-嘀嗒出行 = type=http-response,requires-body=1,max-size=0,pattern=^https?:\/\/capis-1\.didapinche\.com\/ad\/cx\/startup\?,script-path=https://raw.githubusercontent.com/codetracer/horus/master/script/startup/startup.js
+嘀嗒出行 = type=http-response,requires-body=1,max-size=0,pattern=^https?:\/\/capis-\w*\.didapinche\.com\/ad\/cx\/startup\?,script-path=https://raw.githubusercontent.com/codetracer/horus/master/script/startup/startup.js
 
 [MITM]
-hostname = %APPEND% capis-1.didapinche.com
+hostname = %APPEND% capis-*.didapinche.com
