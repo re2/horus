@@ -11,6 +11,7 @@ let magicJS = MagicJS(scriptName, 'INFO');
           let obj = JSON.parse(magicJS.response.body);
           if (obj.hasOwnProperty('startupPages') == true){
             obj.show_time = 1;
+            obj.full_screen = 0;
             let startupPages = [];
             obj.startupPages.forEach(element => {
                 element["create_time"] = "20301208131245";
