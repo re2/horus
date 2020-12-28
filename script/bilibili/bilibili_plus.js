@@ -126,7 +126,6 @@ let magicJS = MagicJS(scriptName, 'INFO');
           let obj = JSON.parse(magicJS.response.body);
           for (let card of obj.data.cards){
             delete card['extra'];
-            
           }
           delete obj['data']['attentions'];
           body = JSON.stringify(obj);
