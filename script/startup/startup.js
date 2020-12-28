@@ -10,7 +10,7 @@ let magicJS = MagicJS(scriptName, 'INFO');
         try{
           let obj = JSON.parse(magicJS.response.body);
           if (obj.hasOwnProperty('startupPages') == true){
-            obj.show_time = 0;
+            obj.show_time = 1;
             let startupPages = [];
             obj.startupPages.forEach(element => {
                 element["create_time"] = "20301208131245";
