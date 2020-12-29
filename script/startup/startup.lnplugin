@@ -6,4 +6,4 @@ http-response ^https?:\/\/fmapp\.chinafamilymart\.com\.cn\/api\/app\/market\/sta
 http-response ^https?:\/\/app\.bilibili\.com\/x\/v2\/splash\/list requires-body=1,script-path=https://raw.githubusercontent.com/codetracer/horus/master/script/bilibili/bilibili_plus.js,tag=BiliBili
 
 [MITM]
-hostname = capis-*.didapinche.com,fmapp.chinafamilymart.com.cn,app.bilibili.com
+hostname = capis.didapinche.com,capis*.didapinche.com,fmapp.chinafamilymart.com.cn,app.bilibili.com

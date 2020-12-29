@@ -5,4 +5,4 @@
 # BiliBili
 ^https?:\/\/app\.bilibili\.com\/x\/v2\/splash\/list url script-response-body https://raw.githubusercontent.com/codetracer/horus/master/script/bilibili/bilibili_plus.js
 
-hostname = capis-*.didapinche.com,fmapp.chinafamilymart.com.cn,app.bilibili.com
+hostname = capis.didapinche.com,capis*.didapinche.com,fmapp.chinafamilymart.com.cn,app.bilibili.com
