@@ -1,7 +1,7 @@
 # NAME: GlobalMedia 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-29 23:08:35
+# UPDATED: 2020-12-29 23:35:56
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # GlobalMedia 与 Adobe 共 1 条规则重复
 HOST-SUFFIX,bam.nr-data.net
@@ -65,9 +65,7 @@ HOST-SUFFIX,app-measurement.com
 HOST-SUFFIX,firebaseio.com
 HOST-SUFFIX,youtu.be
 HOST-SUFFIX,ytimg.com
-# GlobalMedia 与 YouTube 共 14 条规则重复
-HOST,youtubei.googleapis.com
-HOST,yt3.ggpht.com
+# GlobalMedia 与 YouTube 共 12 条规则重复
 HOST-KEYWORD,youtube
 HOST-SUFFIX,app-measurement.com
 HOST-SUFFIX,googlevideo.com
@@ -147,7 +145,7 @@ HOST-SUFFIX,disneyplus.com
 HOST-SUFFIX,disneystreaming.com
 HOST-SUFFIX,dssott.com
 USER-AGENT,disney+*
-# GlobalMedia 与 Global 共 169 条规则重复
+# GlobalMedia 与 Global 共 168 条规则重复
 HOST,avodmp4s3ww-a.akamaihd.net
 HOST,bcbolt446c5271-a.akamaihd.net
 HOST,edge.api.brightcove.com
@@ -160,7 +158,6 @@ HOST,hboasia5-i.akamaihd.net
 HOST,itvpnpmobile-a.akamaihd.net
 HOST,kktv-theater.kk.stream
 HOST,players.brightcove.net
-HOST,youtubei.googleapis.com
 HOST-KEYWORD,-spotify-com
 HOST-KEYWORD,avoddashs
 HOST-KEYWORD,bbcfmt

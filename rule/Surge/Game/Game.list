@@ -1,14 +1,11 @@
 # NAME: Game
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-29 23:08:32
+# UPDATED: 2020-12-29 23:35:53
 # DOMAIN-SUFFIX: 19
-# DOMAIN: 10
-# TOTAL: 29
+# DOMAIN: 7
+# TOTAL: 26
 DOMAIN,blizzard.nefficient.co.kr
-DOMAIN,blzddist1-a.akamaihd.net
-DOMAIN,blzddistkr1-a.akamaihd.net
-DOMAIN,bnetproduct-a.akamaihd.net
 DOMAIN,steambroadcast.akamaized.net
 DOMAIN,steamcdn-a.akamaihd.net
 DOMAIN,steamcommunity-a.akamaihd.net
