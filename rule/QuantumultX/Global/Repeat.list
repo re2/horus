@@ -1,7 +1,7 @@
 # NAME: Global 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-29 03:33:09
+# UPDATED: 2020-12-29 16:09:08
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # Global 与 Adobe 共 1 条规则重复
 HOST-SUFFIX,behance.net
@@ -460,11 +460,9 @@ HOST-SUFFIX,disney-plus.net
 HOST-SUFFIX,disneyplus.com
 HOST-SUFFIX,dssott.com
 USER-AGENT,disney+*
-# Global 与 GlobalMedia 共 171 条规则重复
+# Global 与 GlobalMedia 共 169 条规则重复
 HOST,avodmp4s3ww-a.akamaihd.net
 HOST,bcbolt446c5271-a.akamaihd.net
-HOST,bcbolthboa-a.akamaihd.net
-HOST,cf-images.ap-southeast-1.prod.boltdns.net
 HOST,edge.api.brightcove.com
 HOST,hamifans.emome.net
 HOST,hboasia1-i.akamaihd.net

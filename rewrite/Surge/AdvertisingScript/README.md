@@ -9,7 +9,7 @@
 
 
 
-最后检查时间：2020-12-24 11:07:01。
+最后检查时间：2020-12-29 16:09:25。
 
 ## 复写统计
 
@@ -17,12 +17,12 @@
 | ---- | ---- |
 | mitm | 16 |
 | DOMAIN-SUFFIX | 1 |
-| URL-REGEX | 4 |
+| URL-REGEX | 6 |
 | DOMAIN | 2 |
 | DOMAIN-KEYWORD | 1 |
 | IP-CIDR | 1 |
 | USER-AGENT | 1 |
-| reject | 15 |
+| reject | 16 |
 | http-response | 20 |
 ## 配置说明
 

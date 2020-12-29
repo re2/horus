@@ -1,10 +1,10 @@
 # NAME: Game
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-29 03:33:06
-# DOMAIN-SUFFIX: 18
+# UPDATED: 2020-12-29 16:09:04
+# DOMAIN-SUFFIX: 19
 # DOMAIN: 10
-# TOTAL: 28
+# TOTAL: 29
 DOMAIN,blizzard.nefficient.co.kr
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,blzddistkr1-a.akamaihd.net
@@ -25,6 +25,7 @@ DOMAIN-SUFFIX,discordapp.com
 DOMAIN-SUFFIX,discordapp.net
 DOMAIN-SUFFIX,fanatical.com
 DOMAIN-SUFFIX,humblebundle.com
+DOMAIN-SUFFIX,rockstargames.com
 DOMAIN-SUFFIX,steam-chat.com
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,steamcontent.com
