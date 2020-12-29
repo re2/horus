@@ -6,7 +6,7 @@ let magicJS = MagicJS(scriptName, 'INFO');
   if (magicJS.isResponse){
     switch (true){
       // 嘀嗒出行
-      case /^https?:\/\/capis-\w*\.didapinche\.com\/ad\/cx\/startup\?/.test(magicJS.request.url):
+      case /^https?:\/\/capis(-?\w*)?\.didapinche\.com\/ad\/cx\/startup\?/.test(magicJS.request.url):
         try{
           let obj = JSON.parse(magicJS.response.body);
           if (obj.hasOwnProperty('startupPages') == true){

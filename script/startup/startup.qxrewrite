@@ -1,5 +1,5 @@
 # 嘀嗒出行
-^https?:\/\/capis-\w*\.didapinche\.com\/ad\/cx\/startup\? url script-response-body https://raw.githubusercontent.com/codetracer/horus/master/script/startup/startup.js
+^https?:\/\/capis(-?\w*)?\.didapinche\.com\/ad\/cx\/startup\? url script-response-body https://raw.githubusercontent.com/codetracer/horus/master/script/startup/startup.js
 # Fa米家
 ^https?:\/\/fmapp\.chinafamilymart\.com\.cn\/api\/app\/market\/start\/ad url script-response-body https://raw.githubusercontent.com/codetracer/horus/master/script/famijia/famijia_checkin.js
 # BiliBili
