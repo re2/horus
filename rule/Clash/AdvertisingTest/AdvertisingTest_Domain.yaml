@@ -1,12 +1,12 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-31 11:36:56
-# DOMAIN-SUFFIX: 63560
+# UPDATED: 2020-12-31 16:32:59
+# DOMAIN-SUFFIX: 63559
 # DOMAIN: 8981
 # DOMAIN-KEYWORD: 57
 # IP-CIDR: 240
-# TOTAL: 72838
+# TOTAL: 72837
 payload:
   - '0.up.qingdaonews.com'
   - '000lk3v.wcomhost.com'
@@ -18593,7 +18593,6 @@ payload:
   - '.api.saypromo.net'
   - '.api.sdk.fmobi.cn'
   - '.api.sdkbox.com'
-  - '.api.sec.miui.com'
   - '.api.sentiance.com'
   - '.api.shuaji.360.cn'
   - '.api.smbeat.jp'

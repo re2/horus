@@ -1,7 +1,7 @@
 # NAME: Advertising 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-31 11:36:58
+# UPDATED: 2020-12-31 16:33:01
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # Advertising 与 Adobe 共 5 条规则重复
 DOMAIN-SUFFIX,adbecrsl.com
@@ -9,7 +9,7 @@ DOMAIN-SUFFIX,demandbase.com
 DOMAIN-SUFFIX,demdex.net
 DOMAIN-SUFFIX,newrelic.com
 DOMAIN-SUFFIX,omtrdc.net
-# Advertising 与 AdvertisingTest 共 51676 条规则重复
+# Advertising 与 AdvertisingTest 共 51675 条规则重复
 DOMAIN,0.up.qingdaonews.com
 DOMAIN,000lk3v.wcomhost.com
 DOMAIN,000lkub.rcomhost.com
@@ -14575,7 +14575,6 @@ DOMAIN-SUFFIX,api.primecaster.net
 DOMAIN-SUFFIX,api.push.le.com
 DOMAIN-SUFFIX,api.rees46.com
 DOMAIN-SUFFIX,api.sdk.fmobi.cn
-DOMAIN-SUFFIX,api.sec.miui.com
 DOMAIN-SUFFIX,api.shuaji.360.cn
 DOMAIN-SUFFIX,api.ssp.zxrtb.com
 DOMAIN-SUFFIX,api.starsmp.com
@@ -51686,7 +51685,7 @@ URL-REGEX,^https?:\/\/www\.zybang\.com\/adx\/
 URL-REGEX,^https?:\/\/xyst\.yuanfudao\.com\/iphone\/splashesV\d
 URL-REGEX,^https?:\/\/xyz\.cnki\.net\/resourcev7\/api\/manualpush\/SlidsList$
 URL-REGEX,^https?:\/\/yxyapi\d\.drcuiyutao\.com\/yxy-api-gateway\/api\/json\/advert\/
-# Advertising 与 AdvertisingLite 共 16115 条规则重复
+# Advertising 与 AdvertisingLite 共 16114 条规则重复
 DOMAIN,0.up.qingdaonews.com
 DOMAIN,0koryu0.easter.ne.jp
 DOMAIN,0nso0tq1sa4.ml
@@ -55057,7 +55056,6 @@ DOMAIN-SUFFIX,api.pingstart.com
 DOMAIN-SUFFIX,api.primecaster.net
 DOMAIN-SUFFIX,api.push.le.com
 DOMAIN-SUFFIX,api.rees46.com
-DOMAIN-SUFFIX,api.sec.miui.com
 DOMAIN-SUFFIX,api.shuaji.360.cn
 DOMAIN-SUFFIX,api.tongji.today
 DOMAIN-SUFFIX,api.union.vip.com
@@ -71852,7 +71850,8 @@ DOMAIN-SUFFIX,zs.dhl.de
 DOMAIN-SUFFIX,zsi7.destinia.do
 DOMAIN-SUFFIX,zyq2.destinia.sk
 DOMAIN-SUFFIX,zz.bdstatic.com
-# Advertising 与 Proxy 共 83 条规则重复
+# Advertising 与 Proxy 共 85 条规则重复
+DOMAIN,az416426.vo.msecnd.net
 DOMAIN-SUFFIX,24smile.org
 DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,2o7.net
@@ -71932,6 +71931,7 @@ DOMAIN-SUFFIX,ubertags.com
 DOMAIN-SUFFIX,wujieliulan.com
 DOMAIN-SUFFIX,xinsheng.net
 DOMAIN-SUFFIX,xiti.com
+DOMAIN-SUFFIX,yandex.ru
 DOMAIN-SUFFIX,yuanming.net
 DOMAIN-SUFFIX,zhengjian.org
 DOMAIN-SUFFIX,zhengwunet.org

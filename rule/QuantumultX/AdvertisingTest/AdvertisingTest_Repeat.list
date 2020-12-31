@@ -1,7 +1,7 @@
 # NAME: AdvertisingTest 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-31 11:36:57
+# UPDATED: 2020-12-31 16:33:01
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # AdvertisingTest 与 Adobe 共 6 条规则重复
 HOST-SUFFIX,adbecrsl.com
@@ -10,7 +10,7 @@ HOST-SUFFIX,demdex.net
 HOST-SUFFIX,newrelic.com
 HOST-SUFFIX,omniture.com
 HOST-SUFFIX,omtrdc.net
-# AdvertisingTest 与 Advertising 共 51369 条规则重复
+# AdvertisingTest 与 Advertising 共 51368 条规则重复
 HOST,0.up.qingdaonews.com
 HOST,000lk3v.wcomhost.com
 HOST,000lkub.rcomhost.com
@@ -14576,7 +14576,6 @@ HOST-SUFFIX,api.primecaster.net
 HOST-SUFFIX,api.push.le.com
 HOST-SUFFIX,api.rees46.com
 HOST-SUFFIX,api.sdk.fmobi.cn
-HOST-SUFFIX,api.sec.miui.com
 HOST-SUFFIX,api.shuaji.360.cn
 HOST-SUFFIX,api.ssp.zxrtb.com
 HOST-SUFFIX,api.starsmp.com
@@ -51380,7 +51379,7 @@ IP-CIDR,69.28.57.245/32
 IP-CIDR,74.117.182.77/32
 IP-CIDR,78.140.131.214/32
 IP-CIDR,91.196.216.64/32
-# AdvertisingTest 与 AdvertisingLite 共 15536 条规则重复
+# AdvertisingTest 与 AdvertisingLite 共 15535 条规则重复
 HOST,0.up.qingdaonews.com
 HOST,0koryu0.easter.ne.jp
 HOST,0nso0tq1sa4.ml
@@ -54552,7 +54551,6 @@ HOST-SUFFIX,api.pingstart.com
 HOST-SUFFIX,api.primecaster.net
 HOST-SUFFIX,api.push.le.com
 HOST-SUFFIX,api.rees46.com
-HOST-SUFFIX,api.sec.miui.com
 HOST-SUFFIX,api.shuaji.360.cn
 HOST-SUFFIX,api.tongji.today
 HOST-SUFFIX,api.union.vip.com

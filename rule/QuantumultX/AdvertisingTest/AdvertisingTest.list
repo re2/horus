@@ -1,12 +1,12 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-31 11:36:54
-# HOST-SUFFIX: 63560
+# UPDATED: 2020-12-31 16:32:58
+# HOST-SUFFIX: 63559
 # HOST: 8981
 # HOST-KEYWORD: 57
 # IP-CIDR: 240
-# TOTAL: 72838
+# TOTAL: 72837
 HOST,0.up.qingdaonews.com,AdvertisingTest
 HOST,000lk3v.wcomhost.com,AdvertisingTest
 HOST,000lkub.rcomhost.com,AdvertisingTest
@@ -18592,7 +18592,6 @@ HOST-SUFFIX,api.salmonads.com,AdvertisingTest
 HOST-SUFFIX,api.saypromo.net,AdvertisingTest
 HOST-SUFFIX,api.sdk.fmobi.cn,AdvertisingTest
 HOST-SUFFIX,api.sdkbox.com,AdvertisingTest
-HOST-SUFFIX,api.sec.miui.com,AdvertisingTest
 HOST-SUFFIX,api.sentiance.com,AdvertisingTest
 HOST-SUFFIX,api.shuaji.360.cn,AdvertisingTest
 HOST-SUFFIX,api.smbeat.jp,AdvertisingTest
