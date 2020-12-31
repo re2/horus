@@ -1,7 +1,7 @@
 # NAME: AdvertisingTest 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-31 16:59:18
+# UPDATED: 2020-12-31 23:39:42
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # AdvertisingTest 与 Adobe 共 6 条规则重复
 HOST-SUFFIX,adbecrsl.com
@@ -10,7 +10,7 @@ HOST-SUFFIX,demdex.net
 HOST-SUFFIX,newrelic.com
 HOST-SUFFIX,omniture.com
 HOST-SUFFIX,omtrdc.net
-# AdvertisingTest 与 Advertising 共 51368 条规则重复
+# AdvertisingTest 与 Advertising 共 51370 条规则重复
 HOST,0.up.qingdaonews.com
 HOST,000lk3v.wcomhost.com
 HOST,000lkub.rcomhost.com
@@ -37237,6 +37237,7 @@ HOST-SUFFIX,play.es
 HOST-SUFFIX,play4k.co
 HOST-SUFFIX,playad.xjmg.com
 HOST-SUFFIX,playboymethod.com
+HOST-SUFFIX,playcvn.com
 HOST-SUFFIX,player-telemetry.vimeo.com
 HOST-SUFFIX,player.1800coupon.com
 HOST-SUFFIX,player.1stcreditrepairs.com
@@ -50842,6 +50843,7 @@ HOST-SUFFIX,zmoawpfsz.com
 HOST-SUFFIX,zmpvyyey.com
 HOST-SUFFIX,zmutugjqvia.com
 HOST-SUFFIX,zmyuer.com
+HOST-SUFFIX,zmzfile.com
 HOST-SUFFIX,znaptag.com
 HOST-SUFFIX,zndsssp.dangbei.net
 HOST-SUFFIX,znicvrdirncxq.com
@@ -66947,7 +66949,7 @@ HOST-SUFFIX,ubertags.com
 HOST-SUFFIX,xiti.com
 # AdvertisingTest 与 ByteDance 共 1 条规则重复
 HOST-SUFFIX,toutiaopage.com
-# AdvertisingTest 与 China 共 9 条规则重复
+# AdvertisingTest 与 China 共 10 条规则重复
 HOST-SUFFIX,360in.com
 HOST-SUFFIX,71.am
 HOST-SUFFIX,crashlytics.com
@@ -66957,7 +66959,8 @@ HOST-SUFFIX,jiathis.com
 HOST-SUFFIX,mob.com
 HOST-SUFFIX,umengcloud.com
 HOST-SUFFIX,xdrig.com
-# AdvertisingTest 与 ChinaTest 共 1170 条规则重复
+HOST-SUFFIX,zmzfile.com
+# AdvertisingTest 与 ChinaTest 共 1172 条规则重复
 HOST-SUFFIX,000dn.com
 HOST-SUFFIX,0024aaaa.com
 HOST-SUFFIX,002lzj.com
@@ -67719,6 +67722,7 @@ HOST-SUFFIX,photozoomchina.com
 HOST-SUFFIX,pikacn.com
 HOST-SUFFIX,pincai.com
 HOST-SUFFIX,pintour.com
+HOST-SUFFIX,playcvn.com
 HOST-SUFFIX,pop800.com
 HOST-SUFFIX,poppyta.com
 HOST-SUFFIX,pp8.com
@@ -68115,6 +68119,7 @@ HOST-SUFFIX,zjgfq.com
 HOST-SUFFIX,zjhim.com
 HOST-SUFFIX,zjlanbi.com
 HOST-SUFFIX,zlongad.com
+HOST-SUFFIX,zmzfile.com
 HOST-SUFFIX,zoosnet.net
 HOST-SUFFIX,zoossoft.net
 HOST-SUFFIX,zp0737.com

@@ -1,7 +1,7 @@
 # NAME: AdvertisingTest 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-31 16:59:19
+# UPDATED: 2020-12-31 23:39:43
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 payload:
 # AdvertisingTest 与 Adobe 共 6 条规则重复
@@ -11,7 +11,7 @@ payload:
   - DOMAIN-SUFFIX,newrelic.com
   - DOMAIN-SUFFIX,omniture.com
   - DOMAIN-SUFFIX,omtrdc.net
-# AdvertisingTest 与 Advertising 共 51368 条规则重复
+# AdvertisingTest 与 Advertising 共 51370 条规则重复
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,000lk3v.wcomhost.com
   - DOMAIN,000lkub.rcomhost.com
@@ -37238,6 +37238,7 @@ payload:
   - DOMAIN-SUFFIX,play4k.co
   - DOMAIN-SUFFIX,playad.xjmg.com
   - DOMAIN-SUFFIX,playboymethod.com
+  - DOMAIN-SUFFIX,playcvn.com
   - DOMAIN-SUFFIX,player-telemetry.vimeo.com
   - DOMAIN-SUFFIX,player.1800coupon.com
   - DOMAIN-SUFFIX,player.1stcreditrepairs.com
@@ -50843,6 +50844,7 @@ payload:
   - DOMAIN-SUFFIX,zmpvyyey.com
   - DOMAIN-SUFFIX,zmutugjqvia.com
   - DOMAIN-SUFFIX,zmyuer.com
+  - DOMAIN-SUFFIX,zmzfile.com
   - DOMAIN-SUFFIX,znaptag.com
   - DOMAIN-SUFFIX,zndsssp.dangbei.net
   - DOMAIN-SUFFIX,znicvrdirncxq.com
@@ -66948,7 +66950,7 @@ payload:
   - DOMAIN-SUFFIX,xiti.com
 # AdvertisingTest 与 ByteDance 共 1 条规则重复
   - DOMAIN-SUFFIX,toutiaopage.com
-# AdvertisingTest 与 China 共 9 条规则重复
+# AdvertisingTest 与 China 共 10 条规则重复
   - DOMAIN-SUFFIX,360in.com
   - DOMAIN-SUFFIX,71.am
   - DOMAIN-SUFFIX,crashlytics.com
@@ -66958,7 +66960,8 @@ payload:
   - DOMAIN-SUFFIX,mob.com
   - DOMAIN-SUFFIX,umengcloud.com
   - DOMAIN-SUFFIX,xdrig.com
-# AdvertisingTest 与 ChinaTest 共 1170 条规则重复
+  - DOMAIN-SUFFIX,zmzfile.com
+# AdvertisingTest 与 ChinaTest 共 1172 条规则重复
   - DOMAIN-SUFFIX,000dn.com
   - DOMAIN-SUFFIX,0024aaaa.com
   - DOMAIN-SUFFIX,002lzj.com
@@ -67720,6 +67723,7 @@ payload:
   - DOMAIN-SUFFIX,pikacn.com
   - DOMAIN-SUFFIX,pincai.com
   - DOMAIN-SUFFIX,pintour.com
+  - DOMAIN-SUFFIX,playcvn.com
   - DOMAIN-SUFFIX,pop800.com
   - DOMAIN-SUFFIX,poppyta.com
   - DOMAIN-SUFFIX,pp8.com
@@ -68116,6 +68120,7 @@ payload:
   - DOMAIN-SUFFIX,zjhim.com
   - DOMAIN-SUFFIX,zjlanbi.com
   - DOMAIN-SUFFIX,zlongad.com
+  - DOMAIN-SUFFIX,zmzfile.com
   - DOMAIN-SUFFIX,zoosnet.net
   - DOMAIN-SUFFIX,zoossoft.net
   - DOMAIN-SUFFIX,zp0737.com

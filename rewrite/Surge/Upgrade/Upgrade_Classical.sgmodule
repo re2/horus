@@ -1,17 +1,18 @@
 #!name=更新检查
-#!desc=最后更新时间 2020-12-31 16:59:45
+#!desc=最后更新时间 2020-12-31 23:40:08
 #!author=blackmatrix7
 #!github=https://github.com/blackmatrix7/ios_rule_script
-#!rewrite=5
+#!rewrite=6
 #!script=0
-#!mitm=5
+#!mitm=6
 
 [URL Rewrite]
 ^https?:\/\/apimobile\.meituan\.com\/appupdate\/mach\/checkUpdate? - reject
+^https?:\/\/apprn\.pizzahut\.com\.cn\/updateCheck\? - reject
 ^https?:\/\/capis(-?\w*)?\.didapinche\.com\/publish\/api\/upgrade - reject
 ^https?:\/\/fmapp\.chinafamilymart\.com\.cn\/api\/app\/biz\/base\/appversion\/latest - reject
 ^https?:\/\/sso\.lxjapp\.com\/\/chims\/servlet\/csGetLatestSoftwareVersionServlet - reject
 ^https?:\/\/www\.meituan\.com\/api\/v\d\/appstatus\? - reject
 
 [MITM]
-hostname = %APPEND% apimobile.meituan.com,capis*.didapinche.com,fmapp.chinafamilymart.com.cn,sso.lxjapp.com,www.meituan.com
+hostname = %APPEND% apimobile.meituan.com,apprn.pizzahut.com.cn,capis*.didapinche.com,fmapp.chinafamilymart.com.cn,sso.lxjapp.com,www.meituan.com

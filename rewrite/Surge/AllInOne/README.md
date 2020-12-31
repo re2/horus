@@ -6,23 +6,23 @@
 
 定时爬取互联网上开源的复写汇总复写规则，将其进行清洗、去重、合并、优化后，形成单一的复写规则文件，旨在解决引用大量外部规则造成规则重复的问题。
 
-**通过复写屏蔽部分APP的更新检查，已包含在Advertising中，不要重复添加。**
+**汇总Advertising复写去广告、AdvertisingScript通过脚本去除广告、Redirect重定向复写。QuantumultX需要添加部分分流规则才能生效，具体配置请参照数据源说明。复写汇总内容，需要自行确认安全性。**
 
 
-最后检查时间：2020-12-31 16:59:45。
+最后检查时间：2020-12-31 23:40:08。
 
 ## 复写统计
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| mitm | 648 |
+| mitm | 649 |
 | DOMAIN-SUFFIX | 1 |
 | URL-REGEX | 6 |
 | DOMAIN | 2 |
 | DOMAIN-KEYWORD | 1 |
 | IP-CIDR | 1 |
 | USER-AGENT | 1 |
-| reject | 788 |
+| reject | 789 |
 | http-response | 22 |
 | redirect | 66 |
 ## 配置说明

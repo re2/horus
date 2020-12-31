@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-31 16:59:15
-# HOST-SUFFIX: 42274
+# UPDATED: 2020-12-31 23:39:39
+# HOST-SUFFIX: 42276
 # HOST: 12585
 # HOST-KEYWORD: 59
 # IP-CIDR: 240
-# TOTAL: 55158
+# TOTAL: 55160
 HOST,0.up.qingdaonews.com,Advertising
 HOST,000lk3v.wcomhost.com,Advertising
 HOST,000lkub.rcomhost.com,Advertising
@@ -40898,6 +40898,7 @@ HOST-SUFFIX,play.es,Advertising
 HOST-SUFFIX,play4k.co,Advertising
 HOST-SUFFIX,playad.xjmg.com,Advertising
 HOST-SUFFIX,playboymethod.com,Advertising
+HOST-SUFFIX,playcvn.com,Advertising
 HOST-SUFFIX,player-telemetry.vimeo.com,Advertising
 HOST-SUFFIX,player.1800coupon.com,Advertising
 HOST-SUFFIX,player.1stcreditrepairs.com,Advertising
@@ -54569,6 +54570,7 @@ HOST-SUFFIX,zmoawpfsz.com,Advertising
 HOST-SUFFIX,zmpvyyey.com,Advertising
 HOST-SUFFIX,zmutugjqvia.com,Advertising
 HOST-SUFFIX,zmyuer.com,Advertising
+HOST-SUFFIX,zmzfile.com,Advertising
 HOST-SUFFIX,znaptag.com,Advertising
 HOST-SUFFIX,zndsssp.dangbei.net,Advertising
 HOST-SUFFIX,znicvrdirncxq.com,Advertising

@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-31 16:59:17
-# DOMAIN-SUFFIX: 42274
+# UPDATED: 2020-12-31 23:39:40
+# DOMAIN-SUFFIX: 42276
 # DOMAIN: 12585
 # DOMAIN-KEYWORD: 59
 # IP-CIDR: 240
-# TOTAL: 55158
+# TOTAL: 55160
 payload:
   - '0.up.qingdaonews.com'
   - '000lk3v.wcomhost.com'
@@ -40899,6 +40899,7 @@ payload:
   - '.play4k.co'
   - '.playad.xjmg.com'
   - '.playboymethod.com'
+  - '.playcvn.com'
   - '.player-telemetry.vimeo.com'
   - '.player.1800coupon.com'
   - '.player.1stcreditrepairs.com'
@@ -54570,6 +54571,7 @@ payload:
   - '.zmpvyyey.com'
   - '.zmutugjqvia.com'
   - '.zmyuer.com'
+  - '.zmzfile.com'
   - '.znaptag.com'
   - '.zndsssp.dangbei.net'
   - '.znicvrdirncxq.com'
