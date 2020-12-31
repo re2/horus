@@ -9,14 +9,22 @@
 **通过复写屏蔽部分APP的更新检查，已包含在Advertising中，不要重复添加。**
 
 
-最后检查时间：2020-12-31 16:33:20。
+最后检查时间：2020-12-31 16:59:46。
 
 ## 复写统计
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| mitm | 5 |
-| reject | 5 |
+| mitm | 648 |
+| DOMAIN-SUFFIX | 1 |
+| URL-REGEX | 6 |
+| DOMAIN | 2 |
+| DOMAIN-KEYWORD | 1 |
+| IP-CIDR | 1 |
+| USER-AGENT | 1 |
+| reject | 788 |
+| http-response | 22 |
+| redirect | 66 |
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化
@@ -39,7 +47,26 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/L
 
 本项目的复写汇总复写规则的数据来自以下链接，通常已涵盖所有数据来源的复写规则。如果你正在使用这些复写规则，请先删除后再使用本项目的复写汇总复写规则，以免造成规则重复。
 
+- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/Block/Advertising.conf
+- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Module/Block/Advertising.sgmodule
+- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Module/General.sgmodule
+- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Shortcuts/reject.txt
+- https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Rewrite_lhie1.conf
+- https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Module/RewriteRules.sgmodule
+- https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Loon/Advertising.conf
+- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/bilibili/bilibili_plus.sgmodule
+- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_remove_ads.lnplugin
+- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_remove_ads.sgmodule
+- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/startup/startup.sgmodule
+- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zhihu/zhihu_plus.lnplugin
+- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Advertising/advertising.lnplugin
+- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Advertising/advertising.lnrewrite
+- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Advertising/advertising.lnwrite
+- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Advertising/advertising.qxrewrite
+- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Advertising/advertising.sgmodule
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Upgrade/Upgrade.qxrewrite
+- https://raw.githubusercontent.com/eHpo1/Rules/master/Loon/Rewrite.conf
+- https://raw.githubusercontent.com/eHpo1/Rules/master/QuantumultX/Rewrite.txt
 
 
 感谢以上复写规则作者的辛勤付出（排名不分先后）。

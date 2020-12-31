@@ -1,7 +1,7 @@
 # NAME: Sony
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2020-12-31 16:32:58
+# UPDATED: 2020-12-31 16:59:16
 # HOST-SUFFIX: 5
 # TOTAL: 5
 HOST-SUFFIX,playstation.com,Sony
