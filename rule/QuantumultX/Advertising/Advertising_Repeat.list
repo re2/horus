@@ -1,7 +1,7 @@
 # NAME: Advertising 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-02 03:38:09
+# UPDATED: 2021-01-03 03:40:31
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # Advertising 与 Adobe 共 5 条规则重复
 HOST-SUFFIX,adbecrsl.com
@@ -9,7 +9,7 @@ HOST-SUFFIX,demandbase.com
 HOST-SUFFIX,demdex.net
 HOST-SUFFIX,newrelic.com
 HOST-SUFFIX,omtrdc.net
-# Advertising 与 AdvertisingTest 共 51411 条规则重复
+# Advertising 与 AdvertisingTest 共 51080 条规则重复
 HOST,0.up.qingdaonews.com
 HOST,000lk3v.wcomhost.com
 HOST,000lkub.rcomhost.com
@@ -97,7 +97,6 @@ HOST,2daytrendingnews.com
 HOST,2in1pill.com
 HOST,2lesbians.net
 HOST,2mycomputer.com
-HOST,2n2qlh5hqcwrvo.net
 HOST,2way-world.com
 HOST,2xbpub.com
 HOST,3.hidemyass.com
@@ -105,7 +104,6 @@ HOST,3.up.qingdaonews.com
 HOST,31ab9d66427a22.com
 HOST,31seconds.net
 HOST,3221dkf7m2.com
-HOST,33e3181750.000webhostapp.com
 HOST,3604free.com
 HOST,360elite4free.com
 HOST,36512300.com
@@ -115,10 +113,8 @@ HOST,3d55eccf56053ff2e8.com
 HOST,3dbluerayplayer.com
 HOST,3dmoviehd.com
 HOST,3dpassport.com
-HOST,3dsemudownload.com
 HOST,3dviolet.com
 HOST,3henterprise.com
-HOST,3j.news-subscribe.com
 HOST,3weekdiet.com
 HOST,3xindiansex.com
 HOST,3xtraffic.com
@@ -126,10 +122,8 @@ HOST,3years.lethanon.net
 HOST,4.hidemyass.com
 HOST,4.up.qingdaonews.com
 HOST,4.whereinliguria.com
-HOST,4.whereinlombardy.com
 HOST,4.whereinmolise.com
 HOST,4.whereinpiemonte.com
-HOST,4.whereinsardegna.com
 HOST,4.whereinsicilia.com
 HOST,4.whereintoscana.com
 HOST,4006868488.cn
@@ -143,7 +137,6 @@ HOST,48dc47c7234e5258.com
 HOST,49863d99e314a.com
 HOST,49oa3o49b6.com
 HOST,4d.condenastdigital.com
-HOST,4i.news-subscribe.com
 HOST,4istoshop.com
 HOST,4pornxxx.com
 HOST,4pussies.com
@@ -178,7 +171,6 @@ HOST,67126e4413a.com
 HOST,6a0a6105bc7a9fa8e.com
 HOST,6amateure.net
 HOST,6b8a953b2bf7788063d5-6e453f33ecbb90f11a62a5c376375af3.r71.cf5.rackcdn.com
-HOST,6d.news-subscribe.com
 HOST,6f.news-subscribe.com
 HOST,6g4ds.froekuge.com
 HOST,6uwehz1xp4.com
@@ -190,13 +182,11 @@ HOST,7457.accessaw.blueseek.com
 HOST,7457.pownit.blueseek.com
 HOST,777foryou.com
 HOST,77search.com
-HOST,79.news-subscribe.com
 HOST,799f3607457e.com
 HOST,7bluespots.com
 HOST,7consultinggroup.com
 HOST,7mart2500.com
 HOST,7metasearch.com
-HOST,7p.news-subscribe.com
 HOST,7softwaredreams.com
 HOST,81182479.com
 HOST,833wellsell.com
@@ -235,8 +225,6 @@ HOST,a.tvpage.com
 HOST,a.update.51edm.net
 HOST,a.vonage.com
 HOST,a1006.actonsoftware.com
-HOST,a10309001.actonsoftware.com
-HOST,a1265.actonsoftware.com
 HOST,a1332001.actonsoftware.com
 HOST,a14940.actonsoftware.com
 HOST,a14985.actonsoftware.com
@@ -245,29 +233,23 @@ HOST,a15054.actonsoftware.com
 HOST,a15190.actonsoftware.com
 HOST,a15213.actonsoftware.com
 HOST,a15299.actonsoftware.com
-HOST,a15364.actonsoftware.com
 HOST,a15454.actonsoftware.com
 HOST,a15514.actonsoftware.com
-HOST,a17958.actonsoftware.com
 HOST,a17960.actonsoftware.com
 HOST,a17967.actonsoftware.com
-HOST,a18010.actonsoftware.com
 HOST,a18075.actonsoftware.com
 HOST,a18101.actonsoftware.com
 HOST,a18104.actonsoftware.com
 HOST,a18209.actonsoftware.com
 HOST,a18211.actonsoftware.com
 HOST,a18216.actonsoftware.com
-HOST,a18294.actonsoftware.com
 HOST,a18341.actonsoftware.com
 HOST,a18426.actonsoftware.com
 HOST,a18427.actonsoftware.com
 HOST,a18431.actonsoftware.com
 HOST,a18454.actonsoftware.com
-HOST,a18463.actonsoftware.com
 HOST,a18467.actonsoftware.com
 HOST,a18480.actonsoftware.com
-HOST,a18524.actonsoftware.com
 HOST,a18529.actonsoftware.com
 HOST,a18558.actonsoftware.com
 HOST,a18559.actonsoftware.com
@@ -275,22 +257,16 @@ HOST,a18598.actonsoftware.com
 HOST,a18599.actonsoftware.com
 HOST,a18632.actonsoftware.com
 HOST,a18668.actonsoftware.com
-HOST,a18716.actonsoftware.com
 HOST,a18723.actonsoftware.com
-HOST,a18748.actonsoftware.com
 HOST,a18752.actonsoftware.com
 HOST,a18783.actonsoftware.com
 HOST,a18785.actonsoftware.com
-HOST,a18788.actonsoftware.com
-HOST,a18823.actonsoftware.com
-HOST,a18863.actonsoftware.com
 HOST,a18947.actonsoftware.com
 HOST,a19238.actonsoftware.com
 HOST,a19307.actonsoftware.com
 HOST,a19313.actonsoftware.com
 HOST,a19316.actonsoftware.com
 HOST,a19634.actonsoftware.com
-HOST,a19821.actonsoftware.com
 HOST,a19870.actonsoftware.com
 HOST,a19961.actonsoftware.com
 HOST,a1thumbpost.com
@@ -312,12 +288,8 @@ HOST,a23722.actonsoftware.com
 HOST,a23725.actonsoftware.com
 HOST,a23727.actonsoftware.com
 HOST,a23879.actonsoftware.com
-HOST,a23923.actonsoftware.com
-HOST,a23924.actonsoftware.com
 HOST,a23956.actonsoftware.com
 HOST,a2543.actonsoftware.com
-HOST,a26359.actonsoftware.com
-HOST,a26877.actonsoftware.com
 HOST,a28054.actonsoftware.com
 HOST,a29264.actonsoftware.com
 HOST,a29439.actonsoftware.com
@@ -336,19 +308,16 @@ HOST,a3339.actonsoftware.com
 HOST,a3372.actonsoftware.com
 HOST,a4102001.actonsoftware.com
 HOST,a4159.actonsoftware.com
-HOST,a43a56f8.000webhostapp.com
 HOST,a4929.actonsoftware.com
 HOST,a495.actonsoftware.com
 HOST,a5268001.actonsoftware.com
 HOST,a5289.actonsoftware.com
 HOST,a5313.actonsoftware.com
-HOST,a55barin.000webhostapp.com
 HOST,a5718370.000webhostapp.com
 HOST,a6164.actonsoftware.com
 HOST,a6340.actonsoftware.com
 HOST,a6578.actonsoftware.com
 HOST,a6967.actonsoftware.com
-HOST,a7951.actonsoftware.com
 HOST,a863.actonsoftware.com
 HOST,a8642.actonsoftware.com
 HOST,a8697.actonsoftware.com
@@ -357,7 +326,6 @@ HOST,aaa.de3456.com
 HOST,aaannuairex.com
 HOST,aadultwork.com
 HOST,aamar106fm.com
-HOST,aarnknthc.xyz
 HOST,aaron.fansju.com
 HOST,aaronabel.com
 HOST,aaronautosandtrucks.com
@@ -381,8 +349,6 @@ HOST,abdulkalamsdream.org
 HOST,abejaproducciones.com
 HOST,abenteuer-berge.com
 HOST,abetting.net
-HOST,abidetechnical.com
-HOST,ablabels.com
 HOST,abo.prismamediadigital.com
 HOST,abogadodejacksonville.com
 HOST,aboutwebservices.com
@@ -547,7 +513,6 @@ HOST,ads.bigrebelads.com
 HOST,ads.biscom.net
 HOST,ads.bitcoin.com
 HOST,ads.blogdrive.com
-HOST,ads.blogtalkradio.com
 HOST,ads.boerse-express.com
 HOST,ads.bondage.com
 HOST,ads.bsplayer.com
@@ -576,7 +541,6 @@ HOST,ads.fuelo.net
 HOST,ads.fulldls.com
 HOST,ads.gameservers.com
 HOST,ads.gamned.com
-HOST,ads.globescale.com
 HOST,ads.gofuckyourself.com
 HOST,ads.goodreads.com
 HOST,ads.greengeeks.com
@@ -656,7 +620,6 @@ HOST,ads2.blastro.com
 HOST,ads2.helpos.com
 HOST,ads2.williamhill.com
 HOST,ads2000.hw.net
-HOST,ads3.blastro.com
 HOST,ads3.speedbit.com
 HOST,ads4pubs.com
 HOST,adsbox.detik.com
@@ -675,10 +638,8 @@ HOST,adserver.lonuncavisto.com
 HOST,adserver.ministryofads.com
 HOST,adserver.outpersonals.com
 HOST,adserver.quizdingo.com
-HOST,adserver.sitesense.com
 HOST,adserver.spctl.com
 HOST,adserver.tele.net
-HOST,adserver2.goals365.com
 HOST,adserverapi.onedigitalad.com
 HOST,adserving.favorit-network.com
 HOST,adsmanager.net
@@ -737,11 +698,9 @@ HOST,ae.adserver.yahoo.com
 HOST,aegis.secure-orders.net
 HOST,aerodizain.com
 HOST,aerreravasi.com
-HOST,aertb001.000webhostapp.com
 HOST,aetruckmaint.com
 HOST,afa15.com.ne.kr
 HOST,aff.indirdik.com
-HOST,affiliate.adgtracker.com
 HOST,affiliate.gmtracker.com
 HOST,affiliates.bhphotovideo.com
 HOST,affiliates.neteller.com
@@ -779,14 +738,12 @@ HOST,airnetinfotech.com
 HOST,airportsys.com
 HOST,aisiansex.com
 HOST,aitligold.tripod.com
-HOST,ajansyenimedya.com
 HOST,ajewishgift.com
 HOST,ajmalperfume.com
 HOST,ajokeaday.com
 HOST,ak.imgfarm.com
 HOST,ak.staticimgfarm.com
 HOST,aka-root.com
-HOST,akamedia.000webhostapp.com
 HOST,akariyer.com
 HOST,akcdinzvcenhjh.com
 HOST,akirkpatrick.com
@@ -838,9 +795,7 @@ HOST,all-internet-security.com
 HOST,all-option.com
 HOST,all.alisatilsner.com
 HOST,all.technologyoptical.com
-HOST,allamericanmadetoys.com
 HOST,allcandl.org
-HOST,allegro-pl-login.comxa.com
 HOST,allergenstestkit.com
 HOST,allergija.com
 HOST,allergiques.com
@@ -849,7 +804,6 @@ HOST,allforlove.de
 HOST,allfreehack.com
 HOST,allfreesoftware.org
 HOST,allgamesdownload.org
-HOST,allgethack.com
 HOST,allhack4u.com
 HOST,allhackz.net
 HOST,alliance4media.com
@@ -881,11 +835,9 @@ HOST,alternativestreams.org
 HOST,altmedia101.com
 HOST,alucmuhendislik.com
 HOST,aluteksa.com
-HOST,amagarhshardaschool.com
 HOST,amare.softwaregarden.com
 HOST,amarktflow.com
 HOST,amateur.amarotic.com
-HOST,amateurdevils.com
 HOST,amateuree.com
 HOST,amateurpayouts.com
 HOST,amateurs-cam.0my.net
@@ -894,7 +846,6 @@ HOST,amazingbizplan.com
 HOST,amazingcash.org
 HOST,amazingcheat.com
 HOST,amazingvacationhotels.com
-HOST,amazongiftcardgiveaway.com
 HOST,amazongiftcardscodes.com
 HOST,amazonily.com
 HOST,amazontips.net
@@ -980,7 +931,6 @@ HOST,antcompany.com
 HOST,anthonystrategiesgroup.com
 HOST,anticlown.com
 HOST,anticodistretto.com
-HOST,anticosm.com
 HOST,anticrawler.org
 HOST,antipaucity.com
 HOST,antventure.com
@@ -1089,7 +1039,6 @@ HOST,app.miui.com
 HOST,app.new-interface.com
 HOST,app.perfectgirls.net
 HOST,app.pho8.com
-HOST,app.software-phile.com
 HOST,app.storage.yunvm.com
 HOST,app.theuolo.com
 HOST,app.trackappr.com
@@ -1118,11 +1067,8 @@ HOST,appsandgraphics.com
 HOST,appsdorado.com
 HOST,appsdroid.org
 HOST,appsgamecheats.com
-HOST,appsnack.com
 HOST,apptrackit.com
 HOST,appvirality.com
-HOST,aprana.000webhostapp.com
-HOST,aprotes.000webhostapp.com
 HOST,aproveiteja.com
 HOST,aproxtrack2.com
 HOST,apurecbdoil.com
@@ -1170,12 +1116,10 @@ HOST,as3ws.fopyirr.com
 HOST,asalogistics.net
 HOST,ascentive.com
 HOST,asd.bbpsldh.org
-HOST,aseanlegaltech.com
 HOST,aservitel.com
 HOST,asgarddlc.sharezips.net
 HOST,ashleiquinones.com
 HOST,ashleyfurn.inq.com
-HOST,ashlynnbrookevideos.com
 HOST,ashtreeproperties.com
 HOST,asia.bm.traakr.com
 HOST,asianmeals.com
@@ -1211,7 +1155,6 @@ HOST,atlcourier.com
 HOST,atleticpharm.org
 HOST,atmmg.fleastylehome.com
 HOST,atomstutor.com
-HOST,atousoft.com
 HOST,attdemo.inq.com
 HOST,atte.smartsearch-ng.com
 HOST,attenione.x24hr.com
@@ -1234,7 +1177,6 @@ HOST,autovideobroadcast.com
 HOST,autsedpurgaammer.com
 HOST,av.touchcommerce.com
 HOST,avaluosinternacionales.com
-HOST,avast-downloads.com
 HOST,aveprize.com
 HOST,aviamexpress.com
 HOST,avidtrak.com
@@ -1271,7 +1213,6 @@ HOST,babos.scrapping.cc
 HOST,baby.py.shangdu.com
 HOST,babylyst.com
 HOST,babynameready.dl.tb.ask.com
-HOST,backalleyblowjobs.com
 HOST,backcountry-deli.com
 HOST,backend.dev.smi2.net
 HOST,backgroundpictures.net
@@ -1333,13 +1274,11 @@ HOST,bannersnack.net
 HOST,bantam.ai.net
 HOST,bapatconsultants.com
 HOST,barafranca.iwarp.com
-HOST,barbarasdesignspr.com
 HOST,barbaros.com
 HOST,barcelonaguideservice.com
 HOST,barissagliklisesi.com
 HOST,baseindia.org
 HOST,bassinaud.com
-HOST,batkivskahata.com
 HOST,battaerd.com
 HOST,battlefield4.sharezips.net
 HOST,bavftcgoapga.com
@@ -1370,7 +1309,6 @@ HOST,beachbreak.com
 HOST,beachhousename.cn
 HOST,beacon2.indieclicktv.com
 HOST,beaconplanning.net
-HOST,beamland.actonsoftware.com
 HOST,beap.adx.yahoo.com
 HOST,beasthacks.com
 HOST,beatechnologiesindia.com
@@ -1443,7 +1381,6 @@ HOST,beta.smi2.net
 HOST,betagiveaway.com
 HOST,betakey-giveaway.com
 HOST,betawi.pashuber.net
-HOST,bethelsozonetworknigeria.org
 HOST,bethesdamarketing.com
 HOST,betpromo247.com
 HOST,betstarwager.cn
@@ -1453,7 +1390,6 @@ HOST,bezproudoff.cz
 HOST,bf4chinarising.dlcodes.com
 HOST,bf4codes.dlcodes.com
 HOST,bgtop100.com
-HOST,bhiwadiescortsgirls.com
 HOST,bicodehl.com
 HOST,bigdeal777.com
 HOST,bigdsdeals.com
@@ -1481,7 +1417,6 @@ HOST,bitcoingenerator.org
 HOST,bitskins.cn.com
 HOST,bitspark2.com
 HOST,bittrex.comze.com
-HOST,bittrexy.com
 HOST,bizzibeans.net
 HOST,bj-fengshi.com
 HOST,bjd-garden.com
@@ -1489,7 +1424,6 @@ HOST,bjzksj.com.cn
 HOST,bl7.000webhostapp.com
 HOST,blackgamezone.com
 HOST,blacknite.eu
-HOST,blackops2.newzgames.com
 HOST,blackops2hacked.com
 HOST,blackshot-hacks.com
 HOST,blacksnake.com
@@ -1511,7 +1445,6 @@ HOST,blog.digicert.com
 HOST,blog.fm120.com
 HOST,blogad.com.tw
 HOST,blogchanie.com
-HOST,bloglock.net
 HOST,blogonews.com
 HOST,blogrush.com
 HOST,bloomingtonoptometrist.com
@@ -1528,11 +1461,9 @@ HOST,bmosecurity.lensflyer.com
 HOST,bndes.webcindario.com
 HOST,bnetworx.com
 HOST,bnqgubwpq.com
-HOST,bo2-hack.com
 HOST,boa.salesteamlink.com
 HOST,boardwalk-mobility.com
 HOST,boattraider.com
-HOST,bobwanke.000webhostapp.com
 HOST,boconceptla.com
 HOST,bodrumpansiyonlar.com
 HOST,bofa.inq.com
@@ -1544,11 +1475,9 @@ HOST,boltfiles.com
 HOST,boludogader.com
 HOST,bomar-spa.com
 HOST,bombhack.com
-HOST,bonadiby.vh81.hosterby.com
 HOST,bonzybuddy.com
 HOST,bookhacks.com
 HOST,bookofkisl.com
-HOST,bookzula.com
 HOST,boombeachhack.epickeys.com
 HOST,boombeachhack.org
 HOST,boombeachhacks.net
@@ -1562,7 +1491,6 @@ HOST,boranapipes.com
 HOST,bordobank.net
 HOST,borrowanidea.com
 HOST,bos.pgzs.com
-HOST,bostelbekersv.com
 HOST,bostonparadise.com
 HOST,botd.wordpress.com
 HOST,botd2.wordpress.com
@@ -1575,7 +1503,6 @@ HOST,bovusforum.com
 HOST,boxinghd.net
 HOST,boyauderie-atlantique.com
 HOST,boyerfamily.net
-HOST,bpiexpress-online.com
 HOST,bplenterprises.com
 HOST,bprartorejobatu.com
 HOST,br.meetlocals.com
@@ -1586,13 +1513,11 @@ HOST,bradmccrady.com
 HOST,brainfox.com
 HOST,brakehawk.com
 HOST,brand4india.com
-HOST,branding.rs-1117-a.com
 HOST,brandmeacademy.com
 HOST,branovate.com
 HOST,bravenet.com
 HOST,brawalshipping.com
 HOST,brazenoptimist.com
-HOST,brazilairporttransfers.com
 HOST,breakgame.org
 HOST,breakingleaks.com
 HOST,brentnikolaus.com
@@ -1608,7 +1533,6 @@ HOST,brillianthack.com
 HOST,britnisenkiw.com
 HOST,broadtech.co
 HOST,brokdrop.com
-HOST,brokeneagledlc.goblogz.net
 HOST,brokenteens.com
 HOST,bronzeshark.com
 HOST,brumflix.com
@@ -1616,7 +1540,6 @@ HOST,brunecky.com
 HOST,bsmgroupbd.com
 HOST,btbulgaria.com
 HOST,btovopyov.com
-HOST,btprmnav.com
 HOST,btxyusxfbx.com
 HOST,bubbaparis.com
 HOST,buchawucha.com
@@ -1674,7 +1597,6 @@ HOST,by98.com
 HOST,bynewnjfv.fgppchg.fgpp.com
 HOST,bypasser.net
 HOST,bytedance.com
-HOST,bzhualin.com
 HOST,c-4fambt.com
 HOST,c-motors.com
 HOST,c.cfjump.com
@@ -1743,7 +1665,6 @@ HOST,caradisegno.com
 HOST,carambaba.com
 HOST,carboneas.com
 HOST,cardcodes.net
-HOST,carec.000webhostapp.com
 HOST,careermoovz.net
 HOST,careydunn.com
 HOST,cargoglobe-ltd.com
@@ -1784,7 +1705,6 @@ HOST,cbtopsites.com
 HOST,cc.ad.intl.xiaomi.com
 HOST,cc.sys.miui.com
 HOST,cc2.sys.intl.xiaomi.com
-HOST,cc4.5dt3au3e9.com
 HOST,cca-paris.com
 HOST,ccbilleu.com
 HOST,ccc.sys.intl.xiaomi.com
@@ -1798,24 +1718,18 @@ HOST,cdn-ci100.actonsoftware.com
 HOST,cdn-ci200.actonsoftware.com
 HOST,cdn-ci203.actonsoftware.com
 HOST,cdn-ci22.actonsoftware.com
-HOST,cdn-ci23.actonsoftware.com
 HOST,cdn-ci24.actonsoftware.com
 HOST,cdn-ci25.actonsoftware.com
 HOST,cdn-ci27.actonsoftware.com
 HOST,cdn-ci29.actonsoftware.com
 HOST,cdn-ci30.actonsoftware.com
-HOST,cdn-ci31.actonsoftware.com
-HOST,cdn-ci32.actonsoftware.com
 HOST,cdn-ci33.actonsoftware.com
-HOST,cdn-ci34.actonsoftware.com
 HOST,cdn-ci35.actonsoftware.com
 HOST,cdn-ci36.actonsoftware.com
 HOST,cdn-ci37.actonsoftware.com
 HOST,cdn-ci38.actonsoftware.com
-HOST,cdn-ci39.actonsoftware.com
 HOST,cdn-ci40.actonsoftware.com
 HOST,cdn-ci41.actonsoftware.com
-HOST,cdn-ci42.actonsoftware.com
 HOST,cdn-ci43.actonsoftware.com
 HOST,cdn-ci44.actonsoftware.com
 HOST,cdn-ci45.actonsoftware.com
@@ -1824,21 +1738,16 @@ HOST,cdn-ci47.actonsoftware.com
 HOST,cdn-ci48.actonsoftware.com
 HOST,cdn-ci49.actonsoftware.com
 HOST,cdn-ci51.actonsoftware.com
-HOST,cdn-ci52.actonsoftware.com
 HOST,cdn-ci53.actonsoftware.com
 HOST,cdn-ci54.actonsoftware.com
 HOST,cdn-ci55.actonsoftware.com
-HOST,cdn-ci56.actonsoftware.com
 HOST,cdn-ci57.actonsoftware.com
 HOST,cdn-ci58.actonsoftware.com
 HOST,cdn-ci59.actonsoftware.com
 HOST,cdn-ci61.actonsoftware.com
 HOST,cdn-ci62.actonsoftware.com
 HOST,cdn-ci63.actonsoftware.com
-HOST,cdn-ci64.actonsoftware.com
 HOST,cdn-ci66.actonsoftware.com
-HOST,cdn-ci67.actonsoftware.com
-HOST,cdn-ci68.actonsoftware.com
 HOST,cdn-ci69.actonsoftware.com
 HOST,cdn-ci70.actonsoftware.com
 HOST,cdn-ci71.actonsoftware.com
@@ -1846,7 +1755,6 @@ HOST,cdn-ci72.actonsoftware.com
 HOST,cdn-ci73.actonsoftware.com
 HOST,cdn-ci74.actonsoftware.com
 HOST,cdn-ci75.actonsoftware.com
-HOST,cdn-ci76.actonsoftware.com
 HOST,cdn-ci77.actonsoftware.com
 HOST,cdn-ci78.actonsoftware.com
 HOST,cdn-ci79.actonsoftware.com
@@ -1858,14 +1766,12 @@ HOST,cdn-ci84.actonsoftware.com
 HOST,cdn-ci85.actonsoftware.com
 HOST,cdn-ci86.actonsoftware.com
 HOST,cdn-ci87.actonsoftware.com
-HOST,cdn-ci88.actonsoftware.com
 HOST,cdn-ci89.actonsoftware.com
 HOST,cdn-ci93.actonsoftware.com
 HOST,cdn-ci94.actonsoftware.com
 HOST,cdn-ci95.actonsoftware.com
 HOST,cdn-ci96.actonsoftware.com
 HOST,cdn-ci97.actonsoftware.com
-HOST,cdn-cid3.actonsoftware.com
 HOST,cdn-cid4.actonsoftware.com
 HOST,cdn-mktg.actonsoftware.com
 HOST,cdn.adual.net
@@ -1901,7 +1807,6 @@ HOST,ce9c00f41ae8cdd.com
 HOST,cedarlake.org
 HOST,celebrapack.com
 HOST,celebrity-numbers.com
-HOST,celebrity-phone-numbers.com
 HOST,celebrityphone.net
 HOST,celebritywizard.net
 HOST,cellopaw.com
@@ -1929,7 +1834,6 @@ HOST,cfs8.blog.daum.net
 HOST,cgi.honesty.com
 HOST,ch2.criacaodesitesrj.com
 HOST,chabocohue.com
-HOST,chainlinksmartcontract.com
 HOST,chainsforchange.com
 HOST,chaletzinal.com
 HOST,chamberstimber.com
@@ -1968,7 +1872,6 @@ HOST,cheatdesign.com
 HOST,cheatfile.com
 HOST,cheatgame4u.com
 HOST,cheatgametools.com
-HOST,cheathacktool.com
 HOST,cheathacktools.com
 HOST,cheatmods.com
 HOST,cheatmyapp.com
@@ -2007,7 +1910,6 @@ HOST,chinavigator.com
 HOST,chinco.000webhostapp.com
 HOST,chinemiss.com
 HOST,chinese-amezon.com
-HOST,chlcotrk.com
 HOST,choicemobiledetailing.com
 HOST,chotanito.com
 HOST,chrissalamone.com
@@ -2025,7 +1927,6 @@ HOST,chuckdaarsonist.net
 HOST,chuckfaganco.com
 HOST,ci100.actonsoftware.com
 HOST,ci200.actonsoftware.com
-HOST,ci201.actonsoftware.com
 HOST,ci22.actonsoftware.com
 HOST,ci23.actonsoftware.com
 HOST,ci28.actonsoftware.com
@@ -2061,7 +1962,6 @@ HOST,cialismed.com
 HOST,cibonline.org
 HOST,ciceklioglu.com
 HOST,ciclismovalenciano.com
-HOST,cid101.actonsoftware.com
 HOST,cid102.actonsoftware.com
 HOST,cieindia.com
 HOST,cigarette-online.com
@@ -2089,9 +1989,6 @@ HOST,cjoelyoung.com
 HOST,ckstatic.com
 HOST,claitors.com
 HOST,claivonn-management.net
-HOST,clashofclans-hacks.com
-HOST,clashofclans.newzgames.com
-HOST,clashofclanscheatshack.com
 HOST,clashofclansgemmes.com
 HOST,clashofclanshack.com
 HOST,clashofclanshelper.com
@@ -2100,7 +1997,6 @@ HOST,classicspeedway.com
 HOST,clayheart.com
 HOST,clean-search.com
 HOST,clean-space.com
-HOST,clean.api.hermesccloud.com
 HOST,cleanallspyware.com
 HOST,cleanersoft.com
 HOST,cleanfile.org
@@ -2111,7 +2007,6 @@ HOST,cleansearch.net
 HOST,cleanshare.net
 HOST,cleansofts.com
 HOST,cleanuninstall.com
-HOST,cleanup-your-computer.com
 HOST,cleveland.sla.org
 HOST,cleverlearncebu.com
 HOST,cleverusenet.club
@@ -2125,7 +2020,6 @@ HOST,click.link2ads.com
 HOST,click.linkstattrack.com
 HOST,click.sakuralive.com
 HOST,click.searchnation.net
-HOST,click.sellmeyourtraffic.com
 HOST,click.szkuka.com
 HOST,click.top10sites.com
 HOST,click.watchjmp.com
@@ -2134,7 +2028,6 @@ HOST,clickbank.net
 HOST,clickhosted.com
 HOST,clickprintnv.com
 HOST,clickz.lonelycheatingwives.com
-HOST,client_monitor.isnssdk.com
 HOST,cliftonparksales.com
 HOST,climblike.com
 HOST,clinkadtracking.com
@@ -2156,7 +2049,6 @@ HOST,cmd.customink.com
 HOST,cmdealernet.com
 HOST,cmhwwdwfiyx.com
 HOST,cmicapui.ce.gov.br
-HOST,cmonitor.iqiyi.com
 HOST,cms.adrise.com
 HOST,cn54tfw0kw.fgppchg.fgpp.com
 HOST,cn773bt054.fgppchg.fgpp.com
@@ -2175,7 +2067,6 @@ HOST,cochinconsulting.com
 HOST,codblackops2hacks.net
 HOST,code.adsales.snidigital.com
 HOST,codehicode.com
-HOST,codepsngratuitps3.com
 HOST,coderstate.com
 HOST,codes4free.net
 HOST,codes4psn.com
@@ -2192,8 +2083,6 @@ HOST,col.mobileads.msn.com
 HOST,coldfusionart.com
 HOST,coldwellbanker.net
 HOST,collect.wpsmail.net
-HOST,collector-184.tvsquared.com
-HOST,collector-195.tvsquared.com
 HOST,collector.hpn.cliqz.com
 HOST,collector.savvyads.com
 HOST,collectorsway.com
@@ -2229,7 +2118,6 @@ HOST,concerone.com
 HOST,conciergegroup.org
 HOST,conds.ru
 HOST,conexjuridica.com
-HOST,config.samqaicongen.com
 HOST,config.shazamid.com
 HOST,config.unityads.unitychina.cn
 HOST,config.youzu.com
@@ -2299,7 +2187,6 @@ HOST,count.spiegel.de
 HOST,counter.xeanon.com
 HOST,counter.yakbucks.com
 HOST,counter.yakcash.com
-HOST,counter1.fc2.com
 HOST,counterweb.cn
 HOST,countinfo.com
 HOST,covenantalpacifist.com
@@ -2307,7 +2194,6 @@ HOST,covert-case.com
 HOST,covingtonvending.com
 HOST,cozumdanismanlik.net
 HOST,cp.act-on.com
-HOST,cpabuild.com
 HOST,cpdsmart.com
 HOST,cpi-istanbul.com
 HOST,cpplexports.com
@@ -2377,7 +2263,6 @@ HOST,cupzwcxgx.com
 HOST,curhatbidan.com
 HOST,cursevoice.epickeys.com
 HOST,cursodehebraico.com
-HOST,cursor.kvada.globescale.com
 HOST,cursosnasif.com
 HOST,customer-center-pp.net
 HOST,customerbuilders.com
@@ -2426,7 +2311,6 @@ HOST,daltontrail.com
 HOST,daltontvrepair.com
 HOST,dam.corel.com
 HOST,damisystem.com
-HOST,danildh1.000webhostapp.com
 HOST,dannyscreen.com
 HOST,dantkadard.com
 HOST,daralasnan.com
@@ -2473,11 +2357,9 @@ HOST,db7.sitestats.com
 HOST,dbfshgwqr.000webhostapp.com
 HOST,dbsa-dream.com
 HOST,dcdcapital.com
-HOST,dcrgroup.net
 HOST,ddd.gouwuke.cn
 HOST,ddos.93se.com
 HOST,de.act-on.com
-HOST,de.forums.vivogames.com
 HOST,de.unbounce.com
 HOST,deal.maabm.com
 HOST,dealermobilhondajakarta.com
@@ -2485,7 +2367,6 @@ HOST,deals.bullguard.com
 HOST,deathstrokedlc.sharezips.net
 HOST,debbiewhitmire.com
 HOST,debbiewoodsyoga.com
-HOST,debtinter.000webhostapp.com
 HOST,decografix.com
 HOST,decrolyschool.be
 HOST,decynsire.com
@@ -2555,7 +2436,6 @@ HOST,digiaquascr.com
 HOST,diginetica.net
 HOST,digisystemsrl.com
 HOST,digital-hacks.com
-HOST,digitallyinspiredmedia.com
 HOST,digitallyours.com
 HOST,digitalmuladi.com
 HOST,digitcdn3.phando.com
@@ -2587,7 +2467,6 @@ HOST,displaypagerank.com
 HOST,distancephotography.com
 HOST,distonija.com
 HOST,distribuidoraserrana.com
-HOST,distributor-herbal.com
 HOST,divecatalina.com
 HOST,divhacks.com
 HOST,divine.lunarbreeze.com
@@ -2621,7 +2500,6 @@ HOST,doctorpk.mywibes.com
 HOST,doctorvj.com
 HOST,docviewprocess.bplaced.net
 HOST,doda.redirectme.net
-HOST,dodian.site50.net
 HOST,dodostats.com
 HOST,dodowind.com
 HOST,dofeb.frenchgerlemanelectric.com
@@ -2631,7 +2509,6 @@ HOST,dojki-hd.com
 HOST,doktester.orgfree.com
 HOST,doktordick.com
 HOST,doladujfona.org
-HOST,dollarupload.com
 HOST,dollarupload.net
 HOST,domainfwding.com
 HOST,domusline.org
@@ -2670,7 +2547,6 @@ HOST,download-archiver.ru
 HOST,download-free-hack.com
 HOST,download-hack-free.com
 HOST,download.56.com
-HOST,download.cdn.jzip.com
 HOST,download.cdn.sharelive.net
 HOST,download.dns-vip.net
 HOST,download.fyxm.net
@@ -2696,11 +2572,9 @@ HOST,downloadne.com
 HOST,downloadnt.com
 HOST,downloadold.xiaocen.com
 HOST,downloads-mobile.com
-HOST,downloads-whatsapp.com
 HOST,downloadsafe.org
 HOST,downloadscanning.com
 HOST,downloadsfreesoftwares.com
-HOST,downloadultimatehacker.com
 HOST,downloadwho.com
 HOST,downupfiles.com
 HOST,doxysexy.com
@@ -2723,7 +2597,6 @@ HOST,dream-file.com
 HOST,dream1well.com
 HOST,dreamhackz.com
 HOST,drewbear.org
-HOST,drive770.com
 HOST,drivewayrenewal.com
 HOST,drivotracker.com
 HOST,drkvrvidyasagar.com
@@ -2788,7 +2661,6 @@ HOST,e09f3e4ceda.com
 HOST,e73.t6qnj6a4v.com
 HOST,eab18fo.epizy.com
 HOST,earnshare.net
-HOST,earthpowerint.com
 HOST,eastbayfixers.com
 HOST,eastendtandoori.com
 HOST,eastmead1.ipower.com
@@ -2840,7 +2712,6 @@ HOST,effective-ads.com
 HOST,effectivebrand.com
 HOST,ehacksandcheats.com
 HOST,ehealthcaresolutions.com
-HOST,ehkonsultointi.com
 HOST,ehkovmky.com
 HOST,ehousewife.net
 HOST,ehtereum.org
@@ -2853,7 +2724,6 @@ HOST,eldirtysw01.inq.com
 HOST,eldirtysw02.inq.com
 HOST,eldridgestreet.org
 HOST,elew72isst.rr.nu
-HOST,elieayrouth.com
 HOST,eliebenzaquen.com
 HOST,eliehabib.com
 HOST,elisadalbosco.com
@@ -2879,7 +2749,6 @@ HOST,eltawhiedsoft.com
 HOST,elvismuckens.com
 HOST,elvweb04.touchcommerce.com
 HOST,elynsgroup.com
-HOST,em.liveclicker.net
 HOST,emadzakaria.com
 HOST,emaildatabasepro.com
 HOST,emailsuport.com
@@ -2964,7 +2833,6 @@ HOST,etherwallet.org
 HOST,ethewallet.com
 HOST,ethicalads.net
 HOST,ethnicafrique.com
-HOST,etiiisallat.bugs3.com
 HOST,etissialat.bugs3.com
 HOST,etl.tindersparks.com
 HOST,etnkorea.com
@@ -3015,7 +2883,6 @@ HOST,exagoinc.actonsoftware.com
 HOST,examhome.net
 HOST,examples.unbounce.com
 HOST,excelexim.com
-HOST,exchange.face2trade.com
 HOST,exclusiveholidayresorts.com
 HOST,executiveimagenutrition.com
 HOST,exercisedecoded.com
@@ -3032,7 +2899,6 @@ HOST,experiencebethel.com
 HOST,expired-targeted.com
 HOST,exploremerida.com
 HOST,expo-max.com
-HOST,expressaffiliatesite.com
 HOST,ext.baidu.com
 HOST,ext.privacyassistant.net
 HOST,extafiles.com
@@ -3069,7 +2935,6 @@ HOST,face-woot.com
 HOST,facebokznajomi.blogspot.com
 HOST,facebookfansigned.comlu.com
 HOST,facebookgamecheat.org
-HOST,facebookloginsignin.com
 HOST,faceboolk.totalh.net
 HOST,facehacks.com
 HOST,faceookbook.com
@@ -3106,7 +2971,6 @@ HOST,fb-hacker.net
 HOST,fb-hackers.com
 HOST,fb-podglad.blogspot.com
 HOST,fb_servpub-a.akamaihd.net
-HOST,fbbaodantri.byethost32.com
 HOST,fbcashclub.com
 HOST,fbcheaterz.com
 HOST,fbcheats.com
@@ -3139,7 +3003,6 @@ HOST,feiyang163.com
 HOST,fejs-colors.blogspot.com
 HOST,feltrecoilshow.com
 HOST,female-orgazm.com
-HOST,femeedia.com
 HOST,fengshangtp.net
 HOST,fengwanwl.com
 HOST,fennoscandia.org
@@ -3188,7 +3051,6 @@ HOST,filesquick.net
 HOST,filesrightnow.com
 HOST,filestemp.com
 HOST,fileston.com
-HOST,fileswag.com
 HOST,filesyncing.net
 HOST,fileunique.com
 HOST,fileuploading.org
@@ -3220,7 +3082,6 @@ HOST,findhelp24.com
 HOST,findit-quick.com
 HOST,findmyphoneicloud.com
 HOST,findsthat.com
-HOST,fined4sd.000webhostapp.com
 HOST,finishtradeexpo.com
 HOST,finnhair.co.uk
 HOST,fiona.ai.net
@@ -3246,7 +3107,6 @@ HOST,flightkaart.com
 HOST,flipvine.com
 HOST,flix360.com
 HOST,flixaddict.com
-HOST,floating-share-buttons.com
 HOST,floraljewel.com
 HOST,florencerotary.org
 HOST,florentdweb.com
@@ -3291,7 +3151,6 @@ HOST,fotoidea.com
 HOST,foundcheats.com
 HOST,fourthgate.org
 HOST,foxionserl.com
-HOST,fp-analytics.hotstar.com
 HOST,fp.msedge.net
 HOST,fpcclicks.com
 HOST,fqwdqw4d4.com
@@ -3315,18 +3174,13 @@ HOST,free-steam-code.com
 HOST,free-steam-games.com
 HOST,free-steam-games.net
 HOST,free.babynameready.com
-HOST,free.content.streamray.com
 HOST,freeamazongift.net
 HOST,freeastuces.com
 HOST,freebiesgiveaways.net
-HOST,freebitcoinsworld.com
 HOST,freecheatscodes.net
-HOST,freecheatshackdownload.com
 HOST,freecloudserver.net
 HOST,freeclubnintendocoins.com
 HOST,freecodesend.com
-HOST,freecodespsn.com
-HOST,freecounterstrikeserver.com
 HOST,freecsgo.net
 HOST,freecsgoknive.net16.net
 HOST,freedomrealtysolutions.com
@@ -3344,11 +3198,9 @@ HOST,freegiftcodegenerator.com
 HOST,freehack-softwares.com
 HOST,freehackingtools24.com
 HOST,freehackpl.com
-HOST,freehackscheatsdownload.com
 HOST,freehackz.org
 HOST,freeipadgiveaway.net
 HOST,freeiqtest.blogspot.com
-HOST,freeitunesforever.com
 HOST,freeitunesgiftcards.net
 HOST,freeleaguecodes.com
 HOST,freemaddencoins.com
@@ -3368,8 +3220,6 @@ HOST,freepremiumsoftwares.com
 HOST,freepremiumstuff.com
 HOST,freeprize4u.com
 HOST,freeps4system.com
-HOST,freepsncodes.cleanfile.org
-HOST,freepsncodes.leakbay.net
 HOST,freepsncodesz.com
 HOST,freepubg.com
 HOST,freeserials.spb.ru
@@ -3382,18 +3232,14 @@ HOST,freevisagiftcards.net
 HOST,freewebtown.com
 HOST,freewiipointsgen.com
 HOST,freewiiugamesiso.com
-HOST,freewizard101codes.com
 HOST,freewl.xinhua800.cn
 HOST,freewowtime.net
 HOST,freewsodownload.com
 HOST,freexblcode.com
-HOST,freexblgold.com
 HOST,freexboxlivee.com
 HOST,freexboxlivehere.com
-HOST,freezeyourzitsoff.com
 HOST,freezvps.com
 HOST,freezwrap.com
-HOST,freezyngacardcodes.com
 HOST,freightgroupusa.com
 HOST,freshcoffeetime.com
 HOST,freshcracks.com
@@ -3440,7 +3286,6 @@ HOST,g3prints.com
 HOST,g4mehacks.com
 HOST,gabionduvar.com
 HOST,gaiaidea.com
-HOST,gaihotnhat18.byethost7.com
 HOST,galaxygiveaways.com
 HOST,galent1.000webhostapp.com
 HOST,galileounaluna.com
@@ -3466,7 +3311,6 @@ HOST,gamehostia.com
 HOST,gamekeygenerator.com
 HOST,gamekeyhack.com
 HOST,gameloverz.com
-HOST,gamemine.com
 HOST,gameplaylabs.com
 HOST,gamepsvita.com
 HOST,gameraidz.com
@@ -3524,7 +3368,6 @@ HOST,gastrocoop.com
 HOST,gate.hockeyapp.net
 HOST,gate.smi2.net
 HOST,gausamruddhi.com
-HOST,gavistev.000webhostapp.com
 HOST,gaylord.actonsoftware.com
 HOST,gaymormon.com
 HOST,gazariaaloron24.com
@@ -3556,7 +3399,6 @@ HOST,geogeniusindia.com
 HOST,geogospeltroupe.com
 HOST,geoip.businessinsider.com
 HOST,geraldgore.com
-HOST,gerardoseuropeanbakery.com
 HOST,gerozetace.com
 HOST,gershonconsulting.com
 HOST,get-avast.com
@@ -3564,7 +3406,6 @@ HOST,get-cracked.com
 HOST,get-free-traffic-now.com
 HOST,get-hack.com
 HOST,get-quadcleaner.com
-HOST,get.do-analytics.net
 HOST,get1000followers.com
 HOST,getadmiral.com
 HOST,getadmiral.typeform.com
@@ -3591,8 +3432,6 @@ HOST,ggentertainments.com
 HOST,gggardening.com
 HOST,ggooogle.com
 HOST,ggpge.000webhostapp.com
-HOST,ggvrefis.000webhostapp.com
-HOST,ggvvee.000webhostapp.com
 HOST,ghprofileconsult.com
 HOST,ghyt654erwrw.gets-it.net
 HOST,gift.steamchristmas.com
@@ -3684,7 +3523,6 @@ HOST,googleplaysetvices.com
 HOST,googlesgo.com
 HOST,googlsucks.com
 HOST,goooglesecurity.com
-HOST,goooooooooogle.com
 HOST,gorillasushi.com
 HOST,gorjesid.com
 HOST,goroomie.com
@@ -3701,7 +3539,6 @@ HOST,govietbac.com
 HOST,govk.000webhostapp.com
 HOST,gpk-client.com
 HOST,gr.adserver.yahoo.com
-HOST,gr8plays.com
 HOST,grabbersex.com
 HOST,grabexpress.com
 HOST,grabmonster.com
@@ -3711,7 +3548,6 @@ HOST,grafatorio.com
 HOST,graficasseryal.com
 HOST,grampreico.com
 HOST,grandeveryday.com
-HOST,grandheritagekenya.com
 HOST,grandmatou.net
 HOST,graph.accountkit.com
 HOST,graph.instagram.com
@@ -3739,11 +3575,9 @@ HOST,greyandchic.com
 HOST,grifoavila.com
 HOST,grigo.mystagingwebsite.com
 HOST,grinchfile.com
-HOST,gripclix.com
 HOST,gripdownload.com
 HOST,gripfile.net
 HOST,gripfiles.com
-HOST,gripnode.net
 HOST,grlarquitectura.com
 HOST,groenesmoothierecepten.net
 HOST,groundzeroevent.com
@@ -3783,14 +3617,12 @@ HOST,gulfpros.net
 HOST,gulhanhukuk.com
 HOST,gumuscorap.com
 HOST,gumuskumyapi.com
-HOST,gun.vrfitnesscoach.com
 HOST,gundersons.com
 HOST,guppymedia.com
 HOST,gurudeveng.com
 HOST,guslew.webcindario.com
 HOST,guthyrenker.inq.com
 HOST,gwa.lphbs.com
-HOST,gwb.lphbs.com
 HOST,gwbak.nickymaru.com
 HOST,gwc.lphbs.com
 HOST,gwd.lphbs.com
@@ -3821,9 +3653,7 @@ HOST,h5.youzu.com
 HOST,h99998888.com
 HOST,h99999999.com
 HOST,haautobody.com
-HOST,habitatbakersfield.org
 HOST,haciaresort.com
-HOST,hack-cheat-trainer.com
 HOST,hack-city.com
 HOST,hack-email.com
 HOST,hack-engine.com
@@ -3936,7 +3766,6 @@ HOST,havijrat.zapto.org
 HOST,hawaiisurf.com
 HOST,hayday.newzgames.com
 HOST,haydayhacks.org
-HOST,hayqua123.byethost7.com
 HOST,hb.lifecycle.norton.com
 HOST,hbhybw888.com
 HOST,hcdn.liveclicker.net
@@ -3959,7 +3788,6 @@ HOST,helhelong.xyz
 HOST,hello-fabric.com
 HOST,hello.sexer.com
 HOST,helltrades.com
-HOST,help-upp.000webhostapp.com
 HOST,help.mysearch.com
 HOST,helpchangecancer.org
 HOST,helpingtrk.com
@@ -3999,7 +3827,6 @@ HOST,hit-senders.cn
 HOST,hit.topc.org
 HOST,hitcents.com
 HOST,hitmodel.net
-HOST,hits.netgeography.net
 HOST,hitvisit.com
 HOST,hjgmasrve.com
 HOST,hk.ndx.nextmedia.com
@@ -4074,7 +3901,6 @@ HOST,housemovieonline.com
 HOST,housertribute.com
 HOST,housetransform.com
 HOST,houxingfu.com
-HOST,howtobeamanmagnet.com
 HOST,howtocheat.net
 HOST,hqshared.com
 HOST,hst-19-33.splius.lt
@@ -4239,7 +4065,6 @@ HOST,imgak.mmtcdn.com
 HOST,imghtlak.mmtcdn.com
 HOST,imgspice.com
 HOST,imgurads.com
-HOST,immigrationhelp4u.com
 HOST,impactmobile.com
 HOST,imperiumfiles.com
 HOST,impishdesign.com
@@ -4264,7 +4089,6 @@ HOST,inclusivediversity.co.uk
 HOST,incoctel.cl
 HOST,incomekey.net
 HOST,incomeliberation.com
-HOST,incredbile.tintubright.com
 HOST,indahtour.com
 HOST,independientecd.com
 HOST,index.0470key.com
@@ -4301,7 +4125,6 @@ HOST,inputs.alooma.com
 HOST,inside.unbounce.com
 HOST,insight.magnetic.com
 HOST,instagam.org
-HOST,instagramreset.com
 HOST,install.streamit-online.com
 HOST,installspeed.com
 HOST,instantdownloadsz.com
@@ -4320,7 +4143,6 @@ HOST,interfucks.net
 HOST,intermaids.com
 HOST,intermediaceli.com
 HOST,intermediads.com
-HOST,internationalmarble.com
 HOST,internet-bb.tk
 HOST,internetartfair.com
 HOST,internetnamestore.cn
@@ -4336,7 +4158,6 @@ HOST,investment-advisors.com
 HOST,investments.com
 HOST,inyour.accountkit.com
 HOST,iolam.it
-HOST,ionproxy.com
 HOST,iosapphack.com
 HOST,iowa.sla.org
 HOST,ip-182-50-129-164.ip.secureserver.net
@@ -4435,7 +4256,6 @@ HOST,jargonmedya.com
 HOST,jasminegallery.com
 HOST,jasonbarnesphoto.com
 HOST,jasonjarvis.com
-HOST,jasonknightsf.com
 HOST,javacript.ga
 HOST,javaterm.com
 HOST,javbox666.com
@@ -4449,12 +4269,10 @@ HOST,jcdsystem.com
 HOST,jcfcashandcarry.com
 HOST,jchen5072.000webhostapp.com
 HOST,jcmarcadolib.com
-HOST,jcng23.000webhostapp.com
 HOST,jcwhiney.com
 HOST,jcwhintey.com
 HOST,jcwhitey.com
 HOST,jdanielcook.net
-HOST,jdcartoon.com
 HOST,jdfabrication.com
 HOST,jeansowghsqq.com
 HOST,jeansowghtqq.com
@@ -4473,7 +4291,6 @@ HOST,jeuxtricheur.com
 HOST,jf365.boc.cn
 HOST,jfjw4cxr.com
 HOST,jhgy-led.com
-HOST,jhiadsdf.000webhostapp.com
 HOST,jhukio.000webhostapp.com
 HOST,jiayuins.com
 HOST,jiggasha.com
@@ -4490,7 +4307,6 @@ HOST,jm-bruneau.inq.com
 HOST,jmb-photography.com
 HOST,jn.redirectme.net
 HOST,jn1rdqrfn5-dsn.algolia.net
-HOST,joao.cuccfree.com
 HOST,jobquarters.com
 HOST,jodhacouture.com
 HOST,joextravel.com
@@ -4505,7 +4321,6 @@ HOST,joinerysolutions.com
 HOST,joinourwebsite.com
 HOST,jointrent.com
 HOST,jokowi12.000webhostapp.com
-HOST,jollyk10.000webhostapp.com
 HOST,jonasmarkel.com
 HOST,jonathanhaehn.com
 HOST,jonesboatengministries.net
@@ -4573,7 +4388,6 @@ HOST,k3cxd.pileanoted.com
 HOST,k7.news-subscribe.com
 HOST,k9europe.com
 HOST,kabbalah-red-bracelets.com
-HOST,kabey.000webhostapp.com
 HOST,kabitakutir.org
 HOST,kadikoyden.com
 HOST,kadirzerey.com
@@ -4586,7 +4400,6 @@ HOST,kalinston.com
 HOST,kalorsystem.com
 HOST,kamilfoundation.com
 HOST,kandisweets.com
-HOST,kaneirrigation.com
 HOST,kanikamyer.com
 HOST,kapcotool.com
 HOST,kaplanlawpractice.com
@@ -4597,7 +4410,6 @@ HOST,kartupintar.com
 HOST,kashfull.com
 HOST,kasihfoundation.org
 HOST,kasyapiserve.com
-HOST,kat-ads.torrenticity.com
 HOST,kat-gifts.com
 HOST,kateafrica.com
 HOST,katjimej.blog.fc2.com
@@ -4656,7 +4468,6 @@ HOST,kingshacks.com
 HOST,kingsoft.com
 HOST,kingstonthepug.com
 HOST,kingstorrent.com
-HOST,kinopolet.net
 HOST,kinslate.com
 HOST,kiodudldzmzwr.com
 HOST,kippsmart.com
@@ -4698,7 +4509,6 @@ HOST,koreasafety.com
 HOST,koromias.com
 HOST,koshishinclusiveschool.org
 HOST,kosmosbrands.com
-HOST,kotbis1.000webhostapp.com
 HOST,kotebis.000webhostapp.com
 HOST,kotokit.000webhostapp.com
 HOST,kozhasobak.com
@@ -4707,7 +4517,6 @@ HOST,kraonkelaere.com
 HOST,krisbel.com
 HOST,krishanibd.com
 HOST,krs.ymxpb.com
-HOST,ksavagrh.com
 HOST,kssm.kuaipandata.com
 HOST,kstbellows.com
 HOST,ktf5kbl2m4.com
@@ -4733,10 +4542,8 @@ HOST,ladivalink.com
 HOST,laexotic.com
 HOST,laforetgardens.com
 HOST,lagilapar.com
-HOST,laglobetravel.com
 HOST,laiqukeji.com
 HOST,lakeecogroup.com
-HOST,lakefrontvacationsuites.com
 HOST,lakenonatech.org
 HOST,lakotorra.com
 HOST,laleggia.com
@@ -4755,7 +4562,6 @@ HOST,langstraat.com
 HOST,lankaholidayslk.com
 HOST,lannickdinard.org
 HOST,lanshanfood.com
-HOST,lanxiang.bestaffwajueji.com
 HOST,laohuangli365.com
 HOST,laowaihere.com
 HOST,laparfumotec.com
@@ -4813,8 +4619,6 @@ HOST,leatherdepot.org
 HOST,leatherkonnect.com
 HOST,lechefboutique.com
 HOST,leesangku.com
-HOST,leethax.net
-HOST,leetskins.com
 HOST,leewelton.com
 HOST,legend.ac.cn
 HOST,legendarycheats.com
@@ -4832,14 +4636,12 @@ HOST,leonarderickson.chez.com
 HOST,leroidumatelas.gb.net
 HOST,leskins.com
 HOST,lesperon.com
-HOST,letsgopub.000webhostapp.com
 HOST,letsgoshopping.tk
 HOST,letsplaybasketball.com
 HOST,letsseestyle.com
 HOST,letsupload.net
 HOST,levelshomes.com
 HOST,levignedigalluccio.com
-HOST,levitrakr.com
 HOST,lextrim.com
 HOST,lexu.goggendorf.at
 HOST,lexvidhi.com
@@ -4871,12 +4673,10 @@ HOST,lightingthelagos.com
 HOST,lightsoundstore.com
 HOST,lignerich.com
 HOST,liiaannwhite.com
-HOST,lijapan.com
 HOST,likelbs.dinoyy.xyz
 HOST,likeventy.com
 HOST,lilhajj.com
 HOST,lilian.redirectme.net
-HOST,lily-ksa.com
 HOST,lilyjewellers.com
 HOST,limasierraranch.com
 HOST,limbik.io
@@ -4894,7 +4694,6 @@ HOST,linksmartcontract.com
 HOST,linksnip.com
 HOST,linkwelove.com
 HOST,linkwelove.it
-HOST,lionfencing.com
 HOST,liputan6.comxa.com
 HOST,liron-lib.com
 HOST,lite.hupu.com
@@ -4912,7 +4711,6 @@ HOST,livecodehack.com
 HOST,livecstream.com
 HOST,livefixer.com
 HOST,livejasminfreecredits.com
-HOST,liveproperty.morsit.com
 HOST,livere.com
 HOST,livesetwebs.org
 HOST,ljja3ef63g.com
@@ -4922,7 +4720,6 @@ HOST,loan-uk.uk.com
 HOST,loannaka.com
 HOST,loantuaz.org
 HOST,localmediabuying.com
-HOST,lockredirect.com
 HOST,locolocass.net
 HOST,loft2126.dedicatedpanel.com
 HOST,loftyengineering.com
@@ -4952,7 +4749,6 @@ HOST,loginhelbd.org
 HOST,loginppsecondary.org
 HOST,loginsonline.org
 HOST,loginthief.com
-HOST,logn-alibabs.bugs3.com
 HOST,logos.keycdn.com
 HOST,logs.ennexa.net
 HOST,logs.redbus.com
@@ -5001,7 +4797,6 @@ HOST,lufthansaairlines.com
 HOST,luifergarcia.com
 HOST,lunarads.com
 HOST,luniteck.com
-HOST,lupapizzeria.com
 HOST,luxuryupgradepro.com
 HOST,lv-home.net
 HOST,lwxlsj.wap.xsbiquge.com
@@ -5009,14 +4804,12 @@ HOST,lymphoedematherapy.com
 HOST,lync.touchcommerce.com
 HOST,lyndabarry.net
 HOST,lyonsmechanical.com
-HOST,lyricalks.com
 HOST,m-vali.cp31.ott.cibntv.net
 HOST,m.1234567.com.cn
 HOST,m.amtmobi.com
 HOST,m.medlife.com
 HOST,m.pl.failmobile.net
 HOST,m.track.ad.xiaomi.com
-HOST,m.trafficoffernetwork.com
 HOST,m2.xhamster.com
 HOST,maaknitting.com
 HOST,mabanque-bnpparibas.net
@@ -5026,17 +4819,14 @@ HOST,mack.saitz.com
 HOST,mackleyn.com
 HOST,macneilproducts.com
 HOST,macookdesign.net
-HOST,mad-sound.com
 HOST,madeiravape.com
 HOST,maderisa.com
 HOST,madgamedia.com
 HOST,madnesssales.com
 HOST,mads-eu.amazon.com
-HOST,mads.cbs.com
 HOST,mads.cbsnews.com
 HOST,mads.chow.com
 HOST,mads.cnettv.com
-HOST,mads.mp3.com
 HOST,madserve.org
 HOST,madserver.net
 HOST,madskinz.com
@@ -5054,7 +4844,6 @@ HOST,mahindrainsurance.com
 HOST,mail-verification.com
 HOST,mail.businessinsight-az.com
 HOST,mailboto.com
-HOST,mailguixt.actonsoftware.com
 HOST,mainteck-fr.com
 HOST,makemoneymakemoney.net
 HOST,makeuptipsbykittu.com
@@ -5078,7 +4867,6 @@ HOST,mansik.000webhostapp.com
 HOST,mansmith.net
 HOST,mantrsa.000webhostapp.com
 HOST,maplefarmmedia.com
-HOST,maplgroup.com
 HOST,mapqueat.com
 HOST,mapquestt.com
 HOST,mapquuest.com
@@ -5122,7 +4910,6 @@ HOST,mas-log.paas.paytm.com
 HOST,mascqybw.com
 HOST,mashhadani.com
 HOST,masinfover.com
-HOST,maskedwarrior.dlcodes.com
 HOST,masonicmessenger.com
 HOST,mass-traffic.com
 HOST,masterhax.com
@@ -5140,7 +4927,6 @@ HOST,maudfkdsuyp.com
 HOST,mauiexpokennel.com
 HOST,maven-aviation.com
 HOST,maviapartments.com
-HOST,maxcrack.com
 HOST,maxdome.inq.com
 HOST,maxiproteccion.com
 HOST,maxxisproduct.com
@@ -5173,25 +4959,21 @@ HOST,med-dopomoga.com
 HOST,medcorehealthgroup.com
 HOST,medesindustrial.com
 HOST,medfetal.org
-HOST,media-0.vpptechnologies.com
 HOST,media-1.vpptechnologies.com
 HOST,media-2.vpptechnologies.com
 HOST,media-4.vpptechnologies.com
 HOST,media-5.vpptechnologies.com
 HOST,media-6.vpptechnologies.com
 HOST,media-8.vpptechnologies.com
-HOST,media-a.vpptechnologies.com
 HOST,media-app.com
 HOST,media-b.vpptechnologies.com
 HOST,media-bofa.inq.com
 HOST,media-d.vpptechnologies.com
-HOST,media-e.vpptechnologies.com
 HOST,media-f.vpptechnologies.com
 HOST,media-lax1.inq.com
 HOST,media-tricks.com
 HOST,media-verizon-dev.inq.com
 HOST,media-verizon.inq.com
-HOST,media.ads.gfsrv.net
 HOST,media.complex.com
 HOST,media.icubeswire.com
 HOST,media.inq.com
@@ -5221,7 +5003,6 @@ HOST,megaexecutive.com
 HOST,megamakmur.com
 HOST,meganiusy.com
 HOST,megaplayz.com
-HOST,megapolis-hack.com
 HOST,mehmetefliymm.com
 HOST,mehrajhric.com
 HOST,melemusa.com
@@ -5263,7 +5044,6 @@ HOST,metrics.aetn.com
 HOST,metrics.autobytel.com
 HOST,metrics.automobilemag.com
 HOST,metrics.azfamily.com
-HOST,metrics.babycenter.com
 HOST,metrics.beachbody.com
 HOST,metrics.bet.com
 HOST,metrics.bhg.com
@@ -5324,7 +5104,6 @@ HOST,mfacebooksv.webcindario.com
 HOST,mfjegjqb.com
 HOST,mg.tai3311.com
 HOST,mgfd1b.petrix.net
-HOST,mgm88tv.com
 HOST,mgmt.pes.edu
 HOST,mgr.hopemobi.net
 HOST,mhfitnesspilates.com
@@ -5417,7 +5196,6 @@ HOST,mobile.dk99999.com
 HOST,mobile.jq236.com
 HOST,mobileactive.com
 HOST,mobilegamehackers.com
-HOST,mobilejmp.com
 HOST,mobilemessenger.com
 HOST,mobilemoneyafrica.com
 HOST,mobilestorm.com
@@ -5436,7 +5214,6 @@ HOST,modestbyt.com
 HOST,modifiedgames.net
 HOST,modnash.com
 HOST,modnie-futbolki.net
-HOST,modularackusa.com
 HOST,modules.wcax.com
 HOST,moevideo.net
 HOST,mofaenterprises.com
@@ -5461,7 +5238,6 @@ HOST,moomosio.000webhostapp.com
 HOST,moonetizer.com
 HOST,morenewmedia.com
 HOST,moroccomills.com
-HOST,morogefiles.com
 HOST,morsealpha.com
 HOST,moshgame.com
 HOST,mosolcorp.com
@@ -5496,7 +5272,6 @@ HOST,mp3geek.com
 HOST,mp3menu.org
 HOST,mp3vicio.com
 HOST,mpcs.inq.com
-HOST,mq.news-subscribe.com
 HOST,mr.orange.konotor.com
 HOST,mrcrackworld.com
 HOST,mrwashingmachine.com
@@ -5521,7 +5296,6 @@ HOST,mueller-holz-bau.com
 HOST,multifaithint.com
 HOST,multiku.netne.net
 HOST,multioptik.com
-HOST,mundoclubtours.com
 HOST,mundrauae.com
 HOST,murad.inq.com
 HOST,murad.touchcommerce.com
@@ -5566,7 +5340,6 @@ HOST,mycooch.com
 HOST,mycostoma.com
 HOST,mycotoxinresearch.org
 HOST,mycreditrepairfix.com
-HOST,mydownstore.com
 HOST,mydownzone.com
 HOST,mydreamdegree.com
 HOST,myeatherwallet.com
@@ -5617,7 +5390,6 @@ HOST,mysearchweb.net
 HOST,myservicesgroup.com
 HOST,myshopmarketim.com
 HOST,mysoftwareplace.com
-HOST,mysterium.j8inn1zektoe.com
 HOST,mysteryshop.inq.com
 HOST,mysuccessplanet.com
 HOST,mytotalsearch.com
@@ -5639,7 +5411,6 @@ HOST,nailbytes1.com
 HOST,najipars.com
 HOST,nameguess.com
 HOST,namestorefilmlife.cn
-HOST,namesupermart.cn
 HOST,namimedia.com
 HOST,namjestajgavranovic.com
 HOST,nancyhuston.com
@@ -5672,7 +5443,6 @@ HOST,needforfile.net
 HOST,neeedg0d.000webhostapp.com
 HOST,neerajherbal.com
 HOST,neffswaterservice.com
-HOST,negociandoinmuebles.com
 HOST,neospes.com
 HOST,nepalhimalayantrekking.com
 HOST,nestscape.com
@@ -5688,7 +5458,6 @@ HOST,netfilxca.com
 HOST,netflix4u.com
 HOST,netflixaccount.org
 HOST,netflixaccounts.com
-HOST,netherum.com
 HOST,netscae.com
 HOST,networkmedical.com.hk
 HOST,neuciclaje.com
@@ -5721,7 +5490,6 @@ HOST,news.nero-emea.com
 HOST,news.nero-us.com
 HOST,news.sla.org
 HOST,news.smi2.net
-HOST,newsdon01.000webhostapp.com
 HOST,newshared.com
 HOST,newshuntads.com
 HOST,newsredir.com
@@ -5742,7 +5510,6 @@ HOST,neyscape.com
 HOST,nfkd2ug8d9.com
 HOST,ngkqlfcm.com
 HOST,nhabanq7.com
-HOST,nhpacameras.apps-1and1.com
 HOST,nhyna.ciptainfo.com
 HOST,niabetty.com
 HOST,nicebridge.net
@@ -5753,7 +5520,6 @@ HOST,nihilxaos.com
 HOST,nildoviana.com
 HOST,nile.works
 HOST,nimtzdesigngroup.com
-HOST,ninja-pattaya.com
 HOST,ninjagod.com
 HOST,nintendo3ds4free.com
 HOST,nintendo3dshack.com
@@ -5852,7 +5618,6 @@ HOST,o.fandango.com
 HOST,o.opentable.com
 HOST,o.pushsight.com
 HOST,o11.mktg.actonsoftware.com
-HOST,o12.mktg.actonsoftware.com
 HOST,o365.ezyro.com
 HOST,o7.news-subscribe.com
 HOST,oa.pelagicmall.com.cn
@@ -5869,16 +5634,13 @@ HOST,oascentral.bristolpress.com
 HOST,oascentral.goerie.com
 HOST,oascentral.movietickets.com
 HOST,oascentral.netnewscheck.com
-HOST,oascentral.news-record.com
 HOST,oascentral.onthesnow.com
 HOST,oascentral.oprah.com
 HOST,oascentral.planetatv.com
-HOST,oascentral.record-eagle.com
 HOST,oascentral.recyclebank.com
 HOST,oascentral.red7media.com
 HOST,oascentral.s-t.com
 HOST,oascentral.superpages.com
-HOST,oascentral.thepostgame.com
 HOST,oascentral.travelzoo.com
 HOST,oascentral.walmartwom.com
 HOST,oascentral.wickedlocal.com
@@ -5925,7 +5687,6 @@ HOST,ojshge5pos.weebly.com
 HOST,okay-dating.com
 HOST,okayfiles.com
 HOST,okazyjnie.net
-HOST,okelvaquero.com
 HOST,okkuwait.com
 HOST,oknarai.ru
 HOST,okoshkah.com
@@ -5943,7 +5704,6 @@ HOST,om.expedia.com
 HOST,om.lonelyplanet.com
 HOST,om.metacrawler.com
 HOST,om.neimanmarcus.com
-HOST,om.onlineshoes.com
 HOST,om.sfgate.com
 HOST,om.symantec.com
 HOST,om.truecar.com
@@ -5974,15 +5734,12 @@ HOST,onetricks.com
 HOST,onfaucet.com
 HOST,online-intim.com
 HOST,online-media24.de
-HOST,online-templatestore.com
 HOST,online.aria-web.com
 HOST,online166.com
-HOST,onlinebusiness-coach.com
 HOST,onlinedetect.com
 HOST,onlinefileshares.com
 HOST,onlinegamecheats.net
 HOST,onlinegamesfiles.com
-HOST,onlineloan-personal.net
 HOST,onlinerekruter.com
 HOST,onlinetribun.com
 HOST,onlyfiles.net
@@ -6007,7 +5764,6 @@ HOST,openx.itsmassive.com
 HOST,openx.vsekiden.com
 HOST,openx.watchmygf.net
 HOST,opertrans.org
-HOST,oprahsearch.com
 HOST,opswiki.inq.com
 HOST,optiker-michelmann.de
 HOST,optimization-methods.com
@@ -6025,7 +5781,6 @@ HOST,oriceline.com
 HOST,origin-mc.corel.com
 HOST,orimlaw.com
 HOST,oriontrustcyprus.com
-HOST,orlandovacationsrental.com
 HOST,orourkestrategies.com
 HOST,orsispharma.com
 HOST,ortaokultestleri.net
@@ -6076,7 +5831,6 @@ HOST,p0kec0ins.com
 HOST,p1zt1c.ddtacd1.com
 HOST,p3.pstatp.com
 HOST,p3og44hs7.bkt.clouddn.com
-HOST,p6.news-subscribe.com
 HOST,p99998888.com
 HOST,pa-spa.catchmedia.com
 HOST,pablo.unbounce.com
@@ -6096,7 +5850,6 @@ HOST,pager.site50.net
 HOST,pagerank-ranking.com
 HOST,paifemouchoa.com
 HOST,paintitpink.org
-HOST,pakethosting.com
 HOST,palladiumknights.com
 HOST,panafcon.net
 HOST,pandawamovie.com
@@ -6154,7 +5907,6 @@ HOST,paypalmoneyadder.org
 HOST,payperjamie.com
 HOST,paypertext.com
 HOST,payserve.com
-HOST,payusatax.com
 HOST,pb-assets.tedcdn.com
 HOST,pc-pointers.com
 HOST,pc1restore.com
@@ -6168,7 +5920,6 @@ HOST,pcmightymax.net
 HOST,pcmtours.com
 HOST,pcsecurityshield.com
 HOST,pctelechargerjeux.net
-HOST,pdflinkss.000webhostapp.com
 HOST,pdfsniper.com
 HOST,pdstexas.net
 HOST,pearls4us.com
@@ -6198,7 +5949,6 @@ HOST,peterjj.000webhostapp.com
 HOST,peterjjj.000webhostapp.com
 HOST,peterseidelbooks.com
 HOST,petmovea.com
-HOST,petroleumcokespecialist.com
 HOST,petrovka-online.com
 HOST,petsmovies.com
 HOST,pfaltzgraf.com
@@ -6216,7 +5966,6 @@ HOST,pharmtalk.com
 HOST,phase21zone.heteml.net
 HOST,phatassgfs.com
 HOST,phee1oci.com
-HOST,philippsbros.com
 HOST,phillbecker.com
 HOST,philvitale.com
 HOST,phitenmy.com
@@ -6287,7 +6036,6 @@ HOST,playersaid.com
 HOST,playgril.com
 HOST,playlott.com
 HOST,playmobia.com
-HOST,playproz.com
 HOST,playsataion.com
 HOST,playtoolz.com
 HOST,pleasantlychaotic.com
@@ -6312,7 +6060,6 @@ HOST,podzemi.myotis.info
 HOST,pokachi.net
 HOST,pokecoin.freeastuces.com
 HOST,pokemoncoins.com
-HOST,pokemongo.freeastuces.com
 HOST,pokemonxandyromdownload.com
 HOST,pokemonxdownload.com
 HOST,pol.boobs-xl.com
@@ -6323,7 +6070,6 @@ HOST,polldaddy.com
 HOST,pool.ads.netlog.com
 HOST,popcounter.com
 HOST,popglob.com
-HOST,poppresby.com
 HOST,popugaychiki.com
 HOST,popunder.com
 HOST,popunder.net
@@ -6338,7 +6084,6 @@ HOST,porno-star-dvd.com
 HOST,porno-v1.com
 HOST,pornogig.com
 HOST,pornomovies.com
-HOST,pornonik.com
 HOST,pornoplen.com
 HOST,pornstarss.tk
 HOST,porntraff.com
@@ -6365,7 +6110,6 @@ HOST,powershopnet.net
 HOST,powerstrike.org
 HOST,pozyczkiprywatne.com
 HOST,pp.userapi.com
-HOST,ppapgame.com
 HOST,ppd.bahjeez.com
 HOST,ppdninjas.com
 HOST,ppfjlk1.5tps.vip
@@ -6374,7 +6118,6 @@ HOST,praceline.com
 HOST,practicefixer.com
 HOST,pradakomechanicals.com
 HOST,pranacare.com
-HOST,pranayogastudio.com
 HOST,prashagensets.com
 HOST,pravinpanjiyar.com
 HOST,prayangroup.com
@@ -6428,7 +6171,6 @@ HOST,profitsitesbiz.com
 HOST,progettocrea.org
 HOST,programyfb.blogspot.com
 HOST,projectw.skimlinks.com
-HOST,projuktisaradin.com
 HOST,promienzary.com
 HOST,promo-claims.org
 HOST,promo.buzzclicks.com
@@ -6437,7 +6179,6 @@ HOST,promo.lonelywifehookup.com
 HOST,promo.pegcweb.com
 HOST,promocionesparati.com
 HOST,promos.wealthymen.com
-HOST,promot888.000webhostapp.com
 HOST,promotionalthermometer.com
 HOST,pronomtech.com
 HOST,propertikoting.com
@@ -6508,7 +6249,6 @@ HOST,pvz2.amazinglyhot.com
 HOST,pwvita.pl
 HOST,pz0.3dn.mse.sogou.com
 HOST,q1-tdsge.com
-HOST,q96healthybrain.com
 HOST,qdtaihua.com
 HOST,qertea.instanthq.com
 HOST,qewa33a.com
@@ -6537,8 +6277,6 @@ HOST,quonigeria.com
 HOST,quotidiennokoue.com
 HOST,qwapi.apple.com
 HOST,qwebirc.swiftirc.net
-HOST,qwtm.purecertainengine.com
-HOST,qz.news-subscribe.com
 HOST,qzip.cjb.net
 HOST,qzxcvb.m.zwdu.com
 HOST,r.51wnl-cq.com
@@ -6568,7 +6306,6 @@ HOST,ramissio.com
 HOST,ramonmangion.com
 HOST,randomwowkey.com
 HOST,rangekart.com
-HOST,rankinchemicaltech.com
 HOST,ranksonic.net
 HOST,ranksonic.org
 HOST,raquelalves.com
@@ -6609,12 +6346,10 @@ HOST,reallifecam.com
 HOST,realteencash.com
 HOST,realtime.icecyber.org
 HOST,realtimeads.com
-HOST,rebelzpk.com
 HOST,recessary.com
 HOST,reclamus.com
 HOST,recommend.troncdata.com
 HOST,recover888.com
-HOST,recoverystalbans.com
 HOST,recs.richrelevance.com
 HOST,recyclego.com
 HOST,recyclersvoice.com
@@ -6638,7 +6373,6 @@ HOST,regcure.software-phile.com
 HOST,regdefense.com
 HOST,regionalconcreteco.com
 HOST,registry-clean-up.net
-HOST,registrycleanerforvista.com
 HOST,registrydefender.com
 HOST,registryfix.com
 HOST,registrysweeper.com
@@ -6652,8 +6386,6 @@ HOST,reliable-trip.com
 HOST,reliablehacks.com
 HOST,relish.com.cn
 HOST,remit.000webhostapp.com
-HOST,remotead-internal.cnet.com
-HOST,remotepilotschool.com
 HOST,removearrest.com
 HOST,renderer.qmerce.com
 HOST,renovatego.com
@@ -6770,7 +6502,6 @@ HOST,rubickgames.com
 HOST,rubinbashir.net
 HOST,ruclicks.com
 HOST,rufrufassociate.com
-HOST,ruhungary.com
 HOST,rumamba.com
 HOST,rumds.wpdigital.net
 HOST,rumprobelb.ril.com
@@ -6862,7 +6593,6 @@ HOST,sasson-cpa.co.il
 HOST,satyamwave.com
 HOST,saudiexeter.com
 HOST,savasdenizcilik.com
-HOST,savefree.000webhostapp.com
 HOST,saveftp.com
 HOST,savegrab.com
 HOST,savemybox.com
@@ -6891,7 +6621,6 @@ HOST,scansafe.net
 HOST,scdn.liveclicker.net
 HOST,scdsfdfgdr12.tk
 HOST,schibsted.com
-HOST,schington.com
 HOST,scimarec.net
 HOST,scirakkers.webcindario.com
 HOST,scornar.com
@@ -6926,7 +6655,6 @@ HOST,seal.validatedsite.com
 HOST,search-error.com
 HOST,search.info.com
 HOST,search.mywebsearch.com
-HOST,search.newtabtvsearch.com
 HOST,search.video.iqiyi.com
 HOST,search34.info.com
 HOST,searchacross.com
@@ -6967,8 +6695,6 @@ HOST,securepaypal-intl.com
 HOST,secureredirect101.com
 HOST,securesoft.info
 HOST,securetrk1.com
-HOST,securitypaymentupdate7.com
-HOST,securityupdaters.somee.com
 HOST,securitywebservices.com
 HOST,secuwisesystems.com
 HOST,seer.revpsi.org
@@ -7025,9 +6751,7 @@ HOST,service-tolefill.org
 HOST,service.jiagu.360.cn
 HOST,serviceghj.weebly.com
 HOST,serviceo.comcast.net
-HOST,services.ludokingapi.com
 HOST,services.wes.df.telemetry.microsoft.com
-HOST,services.wigzopush.com
 HOST,serviceswellness.com
 HOST,servicioclientepant8.com
 HOST,serviciosguru.com
@@ -7075,7 +6799,6 @@ HOST,sgmoneycollections.com
 HOST,sgs.us.com
 HOST,sguoikjkgh.webstarterz.com
 HOST,sh.creativcdn.net
-HOST,sha2008.com
 HOST,sha2013.com
 HOST,sha2021.com
 HOST,sha2024.com
@@ -7086,7 +6809,6 @@ HOST,shanagpur.com
 HOST,shanescomics.com
 HOST,shangmiss.wap.xsbiquge.com
 HOST,shannondensmore.com
-HOST,shannonvalenteweddings.com
 HOST,sharebutton.net
 HOST,sharefiled.com
 HOST,sharefileworld.com
@@ -7107,12 +6829,10 @@ HOST,sheetmetal36.org
 HOST,shenaaz.com
 HOST,shenke.com.cn
 HOST,sherlyscasagrande.com
-HOST,shetalkstoanimals.com
 HOST,shifty-hack.com
 HOST,shikiantree.com
 HOST,shinemastersllc.com
 HOST,shiniga.ratishnaroor.com
-HOST,shininghorizontec.com
 HOST,shipit.unbounce.com
 HOST,ships.zapto.org
 HOST,shit4shit.com
@@ -7162,11 +6882,9 @@ HOST,silicoglobal.com
 HOST,siliconanalytics.com
 HOST,silkenwindhounds.org
 HOST,silurian.cn
-HOST,silveragesoftware.com
 HOST,silvergalerie.com
 HOST,silvermature.net
 HOST,silverupload.com
-HOST,silverwoodneighborhood.org
 HOST,sima-mehta.com
 HOST,simcity.sharezips.net
 HOST,simplekidscience.com
@@ -7219,7 +6937,6 @@ HOST,sklaluminium.com
 HOST,sklep-colway.com
 HOST,skottles.com
 HOST,skskskks.000webhostapp.com
-HOST,sktrades.000webhostapp.com
 HOST,skuawill.com
 HOST,skullandprophet.com
 HOST,sky.inq.com
@@ -7237,7 +6954,6 @@ HOST,slangmeans.com
 HOST,slashdot.org
 HOST,slightlyoffcenter.net
 HOST,sloppyhoes.com
-HOST,sltechway.000webhostapp.com
 HOST,slutcorner.com
 HOST,slutloadlive.com
 HOST,slutmodel.com
@@ -7307,8 +7023,6 @@ HOST,softonic.com
 HOST,softquotient.com
 HOST,softtor.com
 HOST,software-hacks.com
-HOST,software-lite.com
-HOST,software-phile.com
 HOST,softwarestab.com
 HOST,softwaresultan.com
 HOST,softwaretricks.net
@@ -7340,7 +7054,6 @@ HOST,southernchampion.com
 HOST,souvenirua.com
 HOST,sp-prod.net
 HOST,sp.analytics.yahoo.com
-HOST,space2019.top
 HOST,spacesarchitects-ka.com
 HOST,spads.yamx.com
 HOST,spanking-sex.com
@@ -7447,7 +7160,6 @@ HOST,static.nectarads.com
 HOST,static.parkingpanel.com
 HOST,static.retirementcommunitiesfyi.com
 HOST,static.skimlinks.com
-HOST,static.update.augeapps.com
 HOST,static.user-grey.com
 HOST,static.v5.skyrock.net
 HOST,static.whoopalook.com
@@ -7500,7 +7212,6 @@ HOST,steamchristmas.com
 HOST,steamcommunitly.site88.net
 HOST,stellar-dolphin.org
 HOST,step2me.net
-HOST,stephaniersaberan.com
 HOST,stephanlooney.com
 HOST,stephens-laughlin.com
 HOST,stepnation.com
@@ -7533,7 +7244,6 @@ HOST,sts.touchcommerce.com
 HOST,stsgroupbd.com
 HOST,sttvisa.com
 HOST,student-pickup.com
-HOST,studiolegaleabbruzzese.com
 HOST,studiotitus.com
 HOST,stun.services.mozilla.com
 HOST,stuntoffer.com
@@ -7548,7 +7258,6 @@ HOST,subsgifts.xyz
 HOST,success-financial.com
 HOST,success.act-on.com
 HOST,success.unbounce.com
-HOST,successsummitandexpo.com
 HOST,sudanartists.org
 HOST,sudcom.org
 HOST,sufyanrecruitingagency.com
@@ -7592,7 +7301,6 @@ HOST,susandeland.com
 HOST,susangammage.com
 HOST,susiewalker.com
 HOST,sustinea.org
-HOST,sutra.newzfind.com
 HOST,suvworks.com
 HOST,suzannemahler.com
 HOST,sv-va.liveclicker.net
@@ -7684,7 +7392,6 @@ HOST,taphilip.com
 HOST,tapxchange.com
 HOST,taruhanolahraga.com
 HOST,tastevenders.com
-HOST,tatango.com
 HOST,tattooha.com
 HOST,taurus.eu.com
 HOST,tavaresmovelaria.com
@@ -7749,13 +7456,11 @@ HOST,temp.adzerver.com
 HOST,tempest.services.disqus.com
 HOST,templatesbay.com
 HOST,templerun2.newzgames.com
-HOST,templerunforpc.com
 HOST,templesophia.org
 HOST,tendersource.com
 HOST,tenniscostadelsol.com
 HOST,tenx-tech.com
 HOST,ter2018.000webhostapp.com
-HOST,terassss.000webhostapp.com
 HOST,terralina.touchcommerce.com
 HOST,terresdestel.com
 HOST,terrevita.com
@@ -7777,7 +7482,6 @@ HOST,tgp.pornsponsors.com
 HOST,thaigolfbooking.com
 HOST,thaisilpa.com
 HOST,thanhchungcu.com
-HOST,tharcons.000webhostapp.com
 HOST,thcextractor.com
 HOST,thcvaporizer.com
 HOST,the-best-track.com
@@ -7831,7 +7535,6 @@ HOST,thestudytown.com
 HOST,thetableclub.com
 HOST,thevillasdowntown.com
 HOST,thewealthdiscipline.com
-HOST,theweatherspace.com
 HOST,thewebsdesign.com
 HOST,thewebup.com
 HOST,thewinesteward.com
@@ -7861,8 +7564,6 @@ HOST,timesaverpack.sharezips.net
 HOST,timeswap.net
 HOST,timgiesecke.com
 HOST,tinaborg.com
-HOST,tingtuba.com
-HOST,tinhquadem11.byethost9.com
 HOST,tinyfileshost.com
 HOST,tipstudy.com
 HOST,titanium-hack.com
@@ -7929,7 +7630,6 @@ HOST,totemicsolutions.com
 HOST,tottaldomain.cn
 HOST,touch.gocricket.com
 HOST,tour.unbounce.com
-HOST,tourisme-coteaux-jura.com
 HOST,tourskorea.com
 HOST,towersbuild.sa.com
 HOST,townofpetersburg.org
@@ -7937,7 +7637,6 @@ HOST,tp2.beap.gemini.yahoo.com
 HOST,tpads.sv.publicus.com
 HOST,tpatten.com
 HOST,tph-gion.com
-HOST,tpl-065.aflemy.com
 HOST,tplinkextender.net
 HOST,tpreiasanantonio.net
 HOST,tpreiasouthtexas.org
@@ -7949,7 +7648,6 @@ HOST,trace.ledu.com
 HOST,tracehagan.com
 HOST,track.brmngr.com
 HOST,track.childrensalon.com
-HOST,track.clubfactory.com
 HOST,track.crumobiapps.com
 HOST,track.dmipartners.com
 HOST,track.fling.com
@@ -7959,7 +7657,6 @@ HOST,track.hopemobi.net
 HOST,track.hxczzzw.com
 HOST,track.iafov.com
 HOST,track.ionicmedia.com
-HOST,track.prezna.com
 HOST,track.prizeglobal.net
 HOST,track.rqqft.com
 HOST,track.starmakerstudios.com
@@ -7981,7 +7678,6 @@ HOST,tracking.rus.miui.com
 HOST,tracking.salesleaf.com
 HOST,tracking.tomshardware.com
 HOST,tracking.v.tf.360.cn
-HOST,tracking.websitealive.com
 HOST,trackzapper.com
 HOST,tradeadsexchange.com
 HOST,tradebot.top
@@ -8010,14 +7706,12 @@ HOST,travelocidy.com
 HOST,travelocite.com
 HOST,travelocityca.com
 HOST,traveloicty.com
-HOST,traveloocity.com
 HOST,travelovity.com
 HOST,travlers.com
 HOST,trax.prostrax.com
 HOST,trayamentps.com
 HOST,tregaskisagency.com
 HOST,treinamentohacking.com
-HOST,trewqas.hostvietnam.xyz
 HOST,triangleservicesltd.com
 HOST,tribalfusion.speedera.net
 HOST,tribblenews.com
@@ -8048,10 +7742,8 @@ HOST,trusearch.net
 HOST,trustedform.com
 HOST,trustedhacks.com
 HOST,trusteerealestate.com
-HOST,trustfolders.com
 HOST,trustgauge.com
 HOST,trustpharmastore.com
-HOST,trustruss.com
 HOST,trustsoft.com
 HOST,trusturman.com
 HOST,trutilitypartners.com
@@ -8109,7 +7801,6 @@ HOST,twitterlays.com
 HOST,twocenturyoffice.com
 HOST,twodemo.com
 HOST,twskype.com
-HOST,txtimpact.com
 HOST,tyc0605.com
 HOST,tyc9500.com
 HOST,tycotool.com
@@ -8273,7 +7964,6 @@ HOST,valorfirellc.com
 HOST,valuesglobal.org
 HOST,valueskins.com
 HOST,valuetechinsights.com
-HOST,vanderweelegroup.com
 HOST,vanilla1forums.gb.net
 HOST,vapegreatness.com
 HOST,vapi.apk.vidmate.net
@@ -8300,7 +7990,6 @@ HOST,vernoblisk.com
 HOST,vert349.wixsite.com
 HOST,vertex28.com
 HOST,veryboys.com
-HOST,vesinhchavi.com
 HOST,vesnatehno.com
 HOST,vetswelfarekerala.org
 HOST,vette-porno.nl
@@ -8326,11 +8015,9 @@ HOST,videonews247.net
 HOST,videostrip.com
 HOST,vidgyor.com
 HOST,vidhaze.com
-HOST,vidpromoter.com
 HOST,vidyard.actonsoftware.com
 HOST,vidzsource.net
 HOST,viewdocs.000webhostapp.com
-HOST,viewdocument.comxa.com
 HOST,viewex.co.uk
 HOST,viewfile.org
 HOST,viewsfile.com
@@ -8479,7 +8166,6 @@ HOST,webconf.touchcommerce.com
 HOST,webconnect.net
 HOST,webdata.vidz.com
 HOST,webfeatworks.com
-HOST,webforbiz.j8inn1zektoe.com
 HOST,weblink.settrade.com
 HOST,webmonetizer.net
 HOST,webmonitor.fyxm.net
@@ -8500,7 +8186,6 @@ HOST,webtechmasters.com
 HOST,weburlopener.com
 HOST,webvedant.com
 HOST,webxion.com
-HOST,wecanprepareyou.com
 HOST,wedrifastct.com
 HOST,weegoplay.com
 HOST,weemanmilitia.com
@@ -8509,7 +8194,6 @@ HOST,weiluyan.cn
 HOST,wejdsfreg.cemetalworks.com
 HOST,welcome.j8inn1zektoe.com
 HOST,welcometocoronado.com
-HOST,welinkservic.moonfruit.com
 HOST,well12.000webhostapp.com
 HOST,welleducateindia.com
 HOST,wellness2all.com
@@ -8553,7 +8237,6 @@ HOST,winmediaplayer.com
 HOST,wisetoolz.com
 HOST,withrows.com
 HOST,wittyvideos.com
-HOST,wizard101codes.org
 HOST,wkmg.co.kr
 HOST,wlt.kd2244.com
 HOST,wms-tools.com
@@ -8561,7 +8244,6 @@ HOST,wnb-net.j8inn1zektoe.com
 HOST,wns222b.com
 HOST,woahizouty.com
 HOST,womenslabour.org
-HOST,womenzz.com
 HOST,wonchangvacuum.com.my
 HOST,wonderhacks.com
 HOST,woodlawnwt.com
@@ -8576,7 +8258,6 @@ HOST,wordsmart.touchcommerce.com
 HOST,wordtheme.000webhostapp.com
 HOST,working-hacks.com
 HOST,workingcowdog.com
-HOST,world-hack.com
 HOST,worldinfoclub.com
 HOST,worldofcracks.com
 HOST,worldoftanksbonus.com
@@ -8757,9 +8438,7 @@ HOST,www.zyxyfy.com
 HOST,www1.ipage.com
 HOST,www1.iwon.com
 HOST,www138.superembed.com
-HOST,www15t.j8inn1zektoe.com
 HOST,www17-orig.glam.com
-HOST,www18.officedepot.com
 HOST,www180.myway.com
 HOST,www181.superembed.com
 HOST,www19.71sise.com
@@ -8829,10 +8508,8 @@ HOST,xcl168.s37.jjisp.com
 HOST,xclusivedigital.com
 HOST,xctzwsy.com
 HOST,xgamering.com
-HOST,xh83333.com
 HOST,xhacked.com
 HOST,xiamiss.wap.xsbiquge.com
-HOST,xianyicao.net
 HOST,xiaocen.com
 HOST,xiaomovie.com
 HOST,xiazai.dns-vip.net
@@ -8864,9 +8541,7 @@ HOST,xn--discrd-zxa.com
 HOST,xn--disordapp-s3a.com
 HOST,xn--e1aaajzchnkg.ru.com
 HOST,xn--inance-hrb.com
-HOST,xn--metherwallet-qlb.com
 HOST,xn--minecrft-5za.com
-HOST,xn--myetherwllet-jbb.com
 HOST,xn--myethrwallet-5eb.com
 HOST,xn--mytherwallet-2eb.com
 HOST,xn--os-g7s.com
@@ -8881,7 +8556,6 @@ HOST,xpj28111.com
 HOST,xploitz.net
 HOST,xporontube.tripod.com
 HOST,xpostmail.com
-HOST,xqwwjyxm.000webhostapp.com
 HOST,xronize.com
 HOST,xs.mochiads.com
 HOST,xsso.anbtr.com
@@ -8931,7 +8605,6 @@ HOST,yocsprvjl.com
 HOST,yogurtiamo.com
 HOST,yomagicmedia.com
 HOST,yootube.com
-HOST,yotefiles.com
 HOST,youfa72.com
 HOST,youfiling.com
 HOST,yougube.com
@@ -9025,7 +8698,6 @@ HOST,zlippyshare.com
 HOST,zmien-motyw.blogspot.com
 HOST,znaptag-us.s3.amazonaws.com
 HOST,zoneplushostel.com
-HOST,zonetsg.com
 HOST,zoomdirect.com.au
 HOST,zoomfiles.net
 HOST,zoomovies.org
@@ -9041,8 +8713,6 @@ HOST,zt.tim-taxi.com
 HOST,zufiles.com
 HOST,zuiddorpe.net
 HOST,zukiewicz.com
-HOST,zuneplay.com
-HOST,zuverink.net
 HOST,zz999350.com
 HOST,zzomiuob.com
 HOST-KEYWORD,adashx
@@ -31270,7 +30940,6 @@ HOST-SUFFIX,liulwxrybupyzu.com
 HOST-SUFFIX,liuzishen.com
 HOST-SUFFIX,live.cxo.name
 HOST-SUFFIX,live.ec2.cxo.name
-HOST-SUFFIX,live.simcitybuildit.com
 HOST-SUFFIX,live.tvpot.daum.net
 HOST-SUFFIX,live.xunlei.com
 HOST-SUFFIX,live4sport.net
@@ -51421,7 +51090,7 @@ IP-CIDR,69.28.57.245/32
 IP-CIDR,74.117.182.77/32
 IP-CIDR,78.140.131.214/32
 IP-CIDR,91.196.216.64/32
-# Advertising 与 AdvertisingLite 共 15837 条规则重复
+# Advertising 与 AdvertisingLite 共 15828 条规则重复
 HOST,0.up.qingdaonews.com
 HOST,0koryu0.easter.ne.jp
 HOST,0nso0tq1sa4.ml
@@ -51493,7 +51162,6 @@ HOST,ads.data.pplive.com
 HOST,ads.finance.yahoo.com
 HOST,ads.yahoo.de
 HOST,adserving.favorit-network.com
-HOST,adskeeper.co.uk
 HOST,adtools.gossipkings.com
 HOST,adtools2.amakings.com
 HOST,adultaccessnow.com
@@ -51551,7 +51219,6 @@ HOST,apture.com
 HOST,aquete.com
 HOST,arkinsoftware.in
 HOST,art-archiv.ru
-HOST,artamkari.com
 HOST,artsconsortium.org
 HOST,asqpniwvxea.com
 HOST,atianqi.com
@@ -51715,7 +51382,6 @@ HOST,download-archiver.ru
 HOST,download-performance.com
 HOST,download.56.com
 HOST,download.grandcloud.cn
-HOST,downloads-whatsapp.com
 HOST,dp-medien.eu
 HOST,dradvice.in
 HOST,dss0.bdstatic.com
@@ -51770,7 +51436,6 @@ HOST,freetracker.biz
 HOST,frtya.com
 HOST,frtyb.com
 HOST,frtye.com
-HOST,funmatrix.net
 HOST,g05.info
 HOST,geil.alon3.tk
 HOST,generalchemicalsupply.com
@@ -51869,7 +51534,6 @@ HOST,josip-stadler.org
 HOST,js.hdzog.com
 HOST,js.jrjimg.cn
 HOST,juedische-kammerphilharmonie.de
-HOST,juiceads.net
 HOST,junbi-tracker.com
 HOST,jx.cn
 HOST,k.h.a.d.free.fr
@@ -51995,7 +51659,6 @@ HOST,onlinecashmethod.com
 HOST,onpato.ru
 HOST,onrio.com.br
 HOST,openadserving.com
-HOST,oprahsearch.com
 HOST,optiker-michelmann.de
 HOST,optimization-methods.com
 HOST,opus.analytics.yahoo.com
@@ -52196,7 +51859,6 @@ HOST,testtralala.xorg.pl
 HOST,thcextractor.com
 HOST,thcvaporizer.com
 HOST,thefxarchive.com
-HOST,theweatherspace.com
 HOST,thewinesteward.com
 HOST,thogethoffic.co
 HOST,tjoomo.com
@@ -52239,12 +51901,10 @@ HOST,us.vortex-win.data.microsoft.com
 HOST,users173.lolipop.jp
 HOST,v.aty.sohu.com
 HOST,v.tf.360.cn
-HOST,v2.gdt.qq.com
 HOST,veehdmymwvvexv.com
 HOST,vernoblisk.com
 HOST,vette-porno.nl
 HOST,vg.aty.sohu.com
-HOST,vgsgaming-ads.com
 HOST,viewex.co.uk
 HOST,villalecchi.com
 HOST,vistatech.us
