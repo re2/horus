@@ -1,14 +1,14 @@
 # NAME: AdvertisingLite 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-04 11:25:16
+# UPDATED: 2021-01-05 03:38:40
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # AdvertisingLite 与 Adobe 共 4 条规则重复
 DOMAIN-SUFFIX,adbecrsl.com
 DOMAIN-SUFFIX,demdex.net
 DOMAIN-SUFFIX,newrelic.com
 DOMAIN-SUFFIX,omtrdc.net
-# AdvertisingLite 与 Advertising 共 16129 条规则重复
+# AdvertisingLite 与 Advertising 共 16131 条规则重复
 DOMAIN,0.up.qingdaonews.com
 DOMAIN,0koryu0.easter.ne.jp
 DOMAIN,0nso0tq1sa4.ml
@@ -114,6 +114,7 @@ DOMAIN,antalya.ru
 DOMAIN,anyporn.com
 DOMAIN,aod-image-material.bj.bcebos.com
 DOMAIN,aod-image.baidu.com
+DOMAIN,api.developer.xiaomi.com
 DOMAIN,api.ip138.com
 DOMAIN,api.iplay.163.com
 DOMAIN,api.so.lianmeng.360.cn
@@ -167,6 +168,7 @@ DOMAIN,bezproudoff.cz
 DOMAIN,bidverdrs.com
 DOMAIN,bijscode.com
 DOMAIN,binchoise.ml
+DOMAIN,bitterstrawberry.org
 DOMAIN,bizzibeans.net
 DOMAIN,blacknite.eu
 DOMAIN,blinko.es
@@ -175,6 +177,7 @@ DOMAIN,blogad.com.tw
 DOMAIN,bookofkisl.com
 DOMAIN,boriouseruwer.info
 DOMAIN,bostonparadise.com
+DOMAIN,bouermes.be
 DOMAIN,bracewellfamily.com
 DOMAIN,bride1.com
 DOMAIN,broadtech.co
@@ -13887,7 +13890,6 @@ DOMAIN-SUFFIX,union.baidu.com
 DOMAIN-SUFFIX,union.china.com.cn
 DOMAIN-SUFFIX,union.dbba.cn
 DOMAIN-SUFFIX,union.discuz.qq.com
-DOMAIN-SUFFIX,union.maccms.com
 DOMAIN-SUFFIX,union.mi.com
 DOMAIN-SUFFIX,union.mop.com
 DOMAIN-SUFFIX,union.sogou.com
@@ -16138,7 +16140,7 @@ URL-REGEX,^https?:\/\/www\.zybang\.com\/adx\/
 URL-REGEX,^https?:\/\/xyst\.yuanfudao\.com\/iphone\/splashesV\d
 URL-REGEX,^https?:\/\/xyz\.cnki\.net\/resourcev7\/api\/manualpush\/SlidsList$
 URL-REGEX,^https?:\/\/yxyapi\d\.drcuiyutao\.com\/yxy-api-gateway\/api\/json\/advert\/
-# AdvertisingLite 与 AdvertisingTest 共 15852 条规则重复
+# AdvertisingLite 与 AdvertisingTest 共 15854 条规则重复
 DOMAIN,0.up.qingdaonews.com
 DOMAIN,0koryu0.easter.ne.jp
 DOMAIN,0nso0tq1sa4.ml
@@ -16231,6 +16233,7 @@ DOMAIN,antalya.ru
 DOMAIN,anyporn.com
 DOMAIN,aod-image-material.bj.bcebos.com
 DOMAIN,aod-image.baidu.com
+DOMAIN,api.developer.xiaomi.com
 DOMAIN,api.ip138.com
 DOMAIN,api.iplay.163.com
 DOMAIN,api.ts.feedback.qy.net
@@ -16267,6 +16270,7 @@ DOMAIN,best100catfights.com
 DOMAIN,bezproudoff.cz
 DOMAIN,bijscode.com
 DOMAIN,binchoise.ml
+DOMAIN,bitterstrawberry.org
 DOMAIN,bizzibeans.net
 DOMAIN,blacknite.eu
 DOMAIN,blinko.es
@@ -16274,6 +16278,7 @@ DOMAIN,blocks.ginotrack.com
 DOMAIN,blogad.com.tw
 DOMAIN,bookofkisl.com
 DOMAIN,bostonparadise.com
+DOMAIN,bouermes.be
 DOMAIN,bracewellfamily.com
 DOMAIN,bride1.com
 DOMAIN,broadtech.co
@@ -29742,7 +29747,6 @@ DOMAIN-SUFFIX,union.baidu.com
 DOMAIN-SUFFIX,union.china.com.cn
 DOMAIN-SUFFIX,union.dbba.cn
 DOMAIN-SUFFIX,union.discuz.qq.com
-DOMAIN-SUFFIX,union.maccms.com
 DOMAIN-SUFFIX,union.mi.com
 DOMAIN-SUFFIX,union.mop.com
 DOMAIN-SUFFIX,union.sogou.com
