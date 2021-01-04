@@ -9,16 +9,16 @@
 **含有我自己所有签到脚本的GetCookie复写。**
 
 
-最后检查时间：2021-01-04 10:30:05。
+最后检查时间：2021-01-04 11:25:40。
 
 ## 复写统计
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| mitm | 20 |
+| mitm | 16 |
 | script-request-header | 10 |
 | script-response-body | 2 |
-| script-request-body | 7 |
+| script-request-body | 3 |
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化
