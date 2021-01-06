@@ -1,14 +1,14 @@
 # NAME: AdvertisingLite 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-06 23:29:27
+# UPDATED: 2021-01-07 02:44:59
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # AdvertisingLite 与 Adobe 共 4 条规则重复
 HOST-SUFFIX,adbecrsl.com
 HOST-SUFFIX,demdex.net
 HOST-SUFFIX,newrelic.com
 HOST-SUFFIX,omtrdc.net
-# AdvertisingLite 与 Advertising 共 15825 条规则重复
+# AdvertisingLite 与 Advertising 共 15833 条规则重复
 HOST,0.up.qingdaonews.com
 HOST,0koryu0.easter.ne.jp
 HOST,0nso0tq1sa4.ml
@@ -74,6 +74,7 @@ HOST,ads-4u.com
 HOST,ads-img-qc.xhscdn.com
 HOST,ads-video-qc.xhscdn.com
 HOST,ads.auctions.yahoo.com
+HOST,ads.chinadaily.com.cn
 HOST,ads.data.pplive.com
 HOST,ads.finance.yahoo.com
 HOST,ads.yahoo.de
@@ -86,6 +87,7 @@ HOST,adultmediabuying.com
 HOST,adulttubetraffic.com
 HOST,adv-adlog.variflight.com
 HOST,adv-ads.variflight.com
+HOST,adv.ettoday.net
 HOST,adv.riza.it
 HOST,adverigo.com
 HOST,advertisement.taobao.com
@@ -184,6 +186,7 @@ HOST,broadtech.co
 HOST,btovopyov.com
 HOST,buffalogoesout.com
 HOST,buildviet.info
+HOST,business-cdn.shouji.sogou.com
 HOST,buzina.xyz
 HOST,by98.com
 HOST,byvue.com
@@ -359,6 +362,7 @@ HOST,giveaways.club
 HOST,gklmedia.com
 HOST,gloorajo.com
 HOST,go-quicky.com
+HOST,go.bestmobiworld.com
 HOST,gogetgorgeous.com
 HOST,grand-ads.com
 HOST,greerlies.pro
@@ -616,6 +620,7 @@ HOST,pornomovies.com
 HOST,pornstarss.tk
 HOST,port.bg
 HOST,portablevaporizer.com
+HOST,portraitphotographygroup.com
 HOST,pos-kupang.com
 HOST,potpourrichordataoscilloscope.com
 HOST,potvaporizer.com
@@ -653,6 +658,7 @@ HOST,quantomcoding.com
 HOST,quickcash-system.com
 HOST,quotidiennokoue.com
 HOST,qzxcvb.m.zwdu.com
+HOST,r.51wnl-cq.com
 HOST,r6.mo.baidu.com
 HOST,rainbowtgx.com
 HOST,rallyeair.com
@@ -719,6 +725,7 @@ HOST,sf6-ttcdn-tos.pstatp.com
 HOST,sgs.us.com
 HOST,shalseey.com
 HOST,shangmiss.wap.xsbiquge.com
+HOST,shop17741405.m.youzan.com
 HOST,shopeasy.by
 HOST,show.1688.com
 HOST,sierra-fox.com
@@ -997,6 +1004,7 @@ HOST,www.zyxyfy.com
 HOST,wxa.wxs.qq.com
 HOST,wxbrdppfpr.com
 HOST,x.mochiads.com
+HOST,xamateurpornlic.www1.biz
 HOST,xdtraffic.com
 HOST,xiamiss.wap.xsbiquge.com
 HOST,xindalawyer.com
@@ -32067,9 +32075,10 @@ HOST-SUFFIX,zzbyc.xyz
 HOST-SUFFIX,koowo.com
 # AdvertisingLite 与 WhiteList 共 1 条规则重复
 HOST,ad.10010.com
-# AdvertisingLite 与 Google 共 8 条规则重复
+# AdvertisingLite 与 Google 共 9 条规则重复
 HOST-SUFFIX,adservice.google.com
 HOST-SUFFIX,app-measurement.com
+HOST-SUFFIX,csi.gstatic.com
 HOST-SUFFIX,doubleclick.net
 HOST-SUFFIX,google-analytics.com
 HOST-SUFFIX,googleadservices.com
