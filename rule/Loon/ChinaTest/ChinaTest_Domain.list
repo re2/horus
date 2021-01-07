@@ -1,14 +1,14 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-07 02:44:57
-# DOMAIN-SUFFIX: 72457
+# UPDATED: 2021-01-07 14:12:22
+# DOMAIN-SUFFIX: 72458
 # USER-AGENT: 11
 # DOMAIN: 11
 # IP-CIDR: 4
 # DOMAIN-KEYWORD: 10
 # IP-CIDR6: 4
-# TOTAL: 72497
+# TOTAL: 72498
 analytics.strava.com
 blzddist1-a.akamaihd.net
 client.amplifi.com
@@ -1329,7 +1329,6 @@ steamcommunity-a.akamaihd.net
 .12225.com
 .12226.com
 .12227.com
-.12248.net
 .122park.com
 .122wz.com
 .123-789.com
@@ -7330,7 +7329,6 @@ steamcommunity-a.akamaihd.net
 .8825.com
 .8828dl.com
 .8828xljcw.com
-.882yishenghuo.com
 .88303887.com
 .88360.com
 .884109.com
@@ -12871,6 +12869,7 @@ steamcommunity-a.akamaihd.net
 .bjepn.com
 .bjewaytek.com
 .bjexmail.com
+.bjexx.com
 .bjfengguang.com
 .bjffdz.com
 .bjffkj.com
@@ -15295,7 +15294,6 @@ steamcommunity-a.akamaihd.net
 .cfxydefsyy.com
 .cfxyfsyy.com
 .cfxyjy.com
-.cfycf.com
 .cfyjzb.com
 .cfzb.org
 .cfzjxxw.com
@@ -18440,7 +18438,6 @@ steamcommunity-a.akamaihd.net
 .com-youku.net
 .com.fi
 .com.tv
-.com01.org
 .com126.com
 .com21.com
 .com4loves.com
@@ -20643,7 +20640,6 @@ steamcommunity-a.akamaihd.net
 .dfbgv.com
 .dfcfw.com
 .dfcx-bj.com
-.dfd88.com
 .dfdaily.com
 .dfdjy.net
 .dfedu.com
@@ -46053,7 +46049,6 @@ steamcommunity-a.akamaihd.net
 .objcer.com
 .objcoding.com
 .objectyan.me
-.objweb.com
 .obkoro1.com
 .obkprint.com
 .obolee.com
@@ -47634,6 +47629,7 @@ steamcommunity-a.akamaihd.net
 .pilifx.com
 .pillow2.com
 .pimei.com
+.pimg.tw
 .pin-ad.com
 .pin-color.net
 .pin-guan.com
@@ -47768,11 +47764,16 @@ steamcommunity-a.akamaihd.net
 .pisx.com
 .piworker.com
 .pix2code.net
+.pixanalytics.com
 .pixelauth.com
+.pixfs.net
 .pixhey.com
 .pixivacg.com
 .pixivic.com
 .pixivic.net
+.pixnet.cc
+.pixnet.in
+.pixplug.in
 .piyingke.com
 .piyipiba.com
 .pj.com
@@ -54000,7 +54001,6 @@ steamcommunity-a.akamaihd.net
 .sketchchina.net
 .sketchcn.com
 .sketchui.net
-.sketchup10.com
 .sketchupbar.com
 .sketchupbbs.com
 .skg.com
@@ -56512,6 +56512,7 @@ steamcommunity-a.akamaihd.net
 .taotieren.com
 .taotiwang.com
 .taotu8.net
+.taotumowang.com
 .taotuwu.com
 .taou.com
 .taowenxue.com

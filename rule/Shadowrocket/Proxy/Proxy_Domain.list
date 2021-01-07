@@ -1,15 +1,16 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-07 02:44:58
-# DOMAIN-SUFFIX: 27894
-# USER-AGENT: 4
-# DOMAIN: 1
-# DOMAIN-KEYWORD: 30
+# UPDATED: 2021-01-07 14:12:23
+# DOMAIN-SUFFIX: 27909
+# USER-AGENT: 12
+# DOMAIN: 2
+# DOMAIN-KEYWORD: 32
 # IP-CIDR: 94
 # IP-CIDR6: 3
-# TOTAL: 28026
+# TOTAL: 28052
 assets-priconne-redive-us.akamaized.net
+voice.telephony.goog
 .000234.com
 .0006999.com
 .000aa.com
@@ -3997,6 +3998,7 @@ assets-priconne-redive-us.akamaized.net
 .big.one
 .big2wt.com
 .big5sex.com
+.bigbigshop.com
 .bigbird18.com
 .bigbozz.org
 .bigbreastarchive.com
@@ -7927,6 +7929,8 @@ assets-priconne-redive-us.akamaized.net
 .econ.st
 .economicsandpeace.org
 .economist.com
+.economistgroup.com
+.economistgroupcareers.com
 .ecosys.eu
 .ecped.tk
 .ecrans.fr
@@ -7943,6 +7947,7 @@ assets-priconne-redive-us.akamaized.net
 .edicypages.com
 .edilly.com
 .edisebay.com
+.editorx.com
 .edmontonchina.cn
 .edmontonservice.com
 .edninfo.com
@@ -8014,6 +8019,7 @@ assets-priconne-redive-us.akamaized.net
 .eireinikotaerukai.com
 .eiresol.com
 .eisbb.com
+.eiu.com
 .ekh3.way-to-win.com
 .ekhindi.com
 .ekiry.com
@@ -17013,6 +17019,7 @@ assets-priconne-redive-us.akamaized.net
 .paramitadirect.com
 .paramount.com
 .parapentemanquehue.cl
+.parastorage.com
 .pardot.com
 .park-now.com
 .parkansky.com
@@ -19328,6 +19335,7 @@ assets-priconne-redive-us.akamaized.net
 .shoestop2.com
 .shooshtime.com
 .shop-headphones.net
+.shop.app
 .shop.tm
 .shop2000.com.tw
 .shopbeatsdre.com
@@ -19348,6 +19356,7 @@ assets-priconne-redive-us.akamaized.net
 .shopify.com
 .shopify.dev
 .shopifycdn.com
+.shopifycloud.com
 .shopifystatus.com
 .shopifysvc.com
 .shoping.com
@@ -19720,6 +19729,7 @@ assets-priconne-redive-us.akamaized.net
 .sony.com
 .sony.com.co
 .sony.com.do
+.sony.com.hk
 .sony.ee
 .sony.hr
 .sony.it
@@ -21474,11 +21484,14 @@ assets-priconne-redive-us.akamaized.net
 .tvants.com
 .tvappstore.net
 .tvb.com
+.tvbanywhere.com
 .tvbccc.com
 .tvbddd.com
 .tvboxnow.com
 .tvbppp.com
 .tvbs.com.tw
+.tvbusa.com
+.tvbweekly.com
 .tvider.com
 .tvmost.com.hk
 .tvplayvideos.com
@@ -23257,7 +23270,10 @@ assets-priconne-redive-us.akamaized.net
 .witopia.com
 .witopia.net
 .wiwiwiki.kfd.me
+.wix-code.com
 .wix.com
+.wixanswers.com
+.wixapps.net
 .wixmp.com
 .wixsite.com
 .wixstatic.com

@@ -1,12 +1,12 @@
 # NAME: GlobalMedia
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-07 02:44:57
-# DOMAIN-SUFFIX: 184
+# UPDATED: 2021-01-07 14:12:22
+# DOMAIN-SUFFIX: 183
 # DOMAIN-KEYWORD: 13
 # DOMAIN: 27
 # IP-CIDR: 20
-# TOTAL: 244
+# TOTAL: 243
 payload:
   - DOMAIN,api.viu.now.com
   - DOMAIN,atv-ps.amazon.com
@@ -68,8 +68,7 @@ payload:
   - DOMAIN-SUFFIX,channel5.com
   - DOMAIN-SUFFIX,cloudfront.net
   - DOMAIN-SUFFIX,control.kochava.com
-  - DOMAIN-SUFFIX,cws-hulu.conviva.com
-  - DOMAIN-SUFFIX,cws.conviva.com
+  - DOMAIN-SUFFIX,conviva.com
   - DOMAIN-SUFFIX,d9.flashtalking.com
   - DOMAIN-SUFFIX,dazn-api.com
   - DOMAIN-SUFFIX,dazn.com

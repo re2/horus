@@ -1,13 +1,13 @@
 # NAME: GlobalMedia
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-07 02:44:58
-# USER-AGENT: 46
-# DOMAIN-SUFFIX: 184
+# UPDATED: 2021-01-07 14:12:23
+# USER-AGENT: 48
+# DOMAIN-SUFFIX: 183
 # DOMAIN-KEYWORD: 13
 # DOMAIN: 27
 # IP-CIDR: 20
-# TOTAL: 290
+# TOTAL: 291
 DOMAIN,api.viu.now.com
 DOMAIN,atv-ps.amazon.com
 DOMAIN,avodmp4s3ww-a.akamaihd.net
@@ -68,8 +68,7 @@ DOMAIN-SUFFIX,channel4.com
 DOMAIN-SUFFIX,channel5.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,control.kochava.com
-DOMAIN-SUFFIX,cws-hulu.conviva.com
-DOMAIN-SUFFIX,cws.conviva.com
+DOMAIN-SUFFIX,conviva.com
 DOMAIN-SUFFIX,d9.flashtalking.com
 DOMAIN-SUFFIX,dazn-api.com
 DOMAIN-SUFFIX,dazn.com
@@ -253,6 +252,7 @@ IP-CIDR,66.197.128.0/17
 IP-CIDR,69.53.224.0/19
 IP-CIDR,8.41.4.0/24
 USER-AGENT,*com.google.ios.youtubemusic*
+USER-AGENT,*spotify*
 USER-AGENT,*youtube*
 USER-AGENT,*youtubemusic*
 USER-AGENT,abematv*
@@ -264,6 +264,7 @@ USER-AGENT,bbciplayer*
 USER-AGENT,com.apple.news*
 USER-AGENT,com.google.ios.youtube*
 USER-AGENT,com.google.ios.youtubemusic*
+USER-AGENT,com.kktv*
 USER-AGENT,com.kktv.ios.kktv*
 USER-AGENT,dazn*
 USER-AGENT,deezer*

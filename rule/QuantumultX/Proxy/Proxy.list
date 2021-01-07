@@ -1,15 +1,16 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-07 02:44:56
-# HOST-SUFFIX: 27894
-# USER-AGENT: 4
-# HOST: 1
-# HOST-KEYWORD: 30
+# UPDATED: 2021-01-07 14:12:21
+# HOST-SUFFIX: 27909
+# USER-AGENT: 12
+# HOST: 2
+# HOST-KEYWORD: 32
 # IP-CIDR: 94
 # IP6-CIDR: 3
-# TOTAL: 28026
+# TOTAL: 28052
 HOST,assets-priconne-redive-us.akamaized.net,Proxy
+HOST,voice.telephony.goog,Proxy
 HOST-SUFFIX,000234.com,Proxy
 HOST-SUFFIX,0006999.com,Proxy
 HOST-SUFFIX,000aa.com,Proxy
@@ -3997,6 +3998,7 @@ HOST-SUFFIX,big-cup.tv,Proxy
 HOST-SUFFIX,big.one,Proxy
 HOST-SUFFIX,big2wt.com,Proxy
 HOST-SUFFIX,big5sex.com,Proxy
+HOST-SUFFIX,bigbigshop.com,Proxy
 HOST-SUFFIX,bigbird18.com,Proxy
 HOST-SUFFIX,bigbozz.org,Proxy
 HOST-SUFFIX,bigbreastarchive.com,Proxy
@@ -7927,6 +7929,8 @@ HOST-SUFFIX,ecommtools.com,Proxy
 HOST-SUFFIX,econ.st,Proxy
 HOST-SUFFIX,economicsandpeace.org,Proxy
 HOST-SUFFIX,economist.com,Proxy
+HOST-SUFFIX,economistgroup.com,Proxy
+HOST-SUFFIX,economistgroupcareers.com,Proxy
 HOST-SUFFIX,ecosys.eu,Proxy
 HOST-SUFFIX,ecped.tk,Proxy
 HOST-SUFFIX,ecrans.fr,Proxy
@@ -7943,6 +7947,7 @@ HOST-SUFFIX,edgesuite.net,Proxy
 HOST-SUFFIX,edicypages.com,Proxy
 HOST-SUFFIX,edilly.com,Proxy
 HOST-SUFFIX,edisebay.com,Proxy
+HOST-SUFFIX,editorx.com,Proxy
 HOST-SUFFIX,edmontonchina.cn,Proxy
 HOST-SUFFIX,edmontonservice.com,Proxy
 HOST-SUFFIX,edninfo.com,Proxy
@@ -8014,6 +8019,7 @@ HOST-SUFFIX,eip.pccp.com.tw,Proxy
 HOST-SUFFIX,eireinikotaerukai.com,Proxy
 HOST-SUFFIX,eiresol.com,Proxy
 HOST-SUFFIX,eisbb.com,Proxy
+HOST-SUFFIX,eiu.com,Proxy
 HOST-SUFFIX,ekh3.way-to-win.com,Proxy
 HOST-SUFFIX,ekhindi.com,Proxy
 HOST-SUFFIX,ekiry.com,Proxy
@@ -17013,6 +17019,7 @@ HOST-SUFFIX,parallels.com,Proxy
 HOST-SUFFIX,paramitadirect.com,Proxy
 HOST-SUFFIX,paramount.com,Proxy
 HOST-SUFFIX,parapentemanquehue.cl,Proxy
+HOST-SUFFIX,parastorage.com,Proxy
 HOST-SUFFIX,pardot.com,Proxy
 HOST-SUFFIX,park-now.com,Proxy
 HOST-SUFFIX,parkansky.com,Proxy
@@ -19328,6 +19335,7 @@ HOST-SUFFIX,shoers.com,Proxy
 HOST-SUFFIX,shoestop2.com,Proxy
 HOST-SUFFIX,shooshtime.com,Proxy
 HOST-SUFFIX,shop-headphones.net,Proxy
+HOST-SUFFIX,shop.app,Proxy
 HOST-SUFFIX,shop.tm,Proxy
 HOST-SUFFIX,shop2000.com.tw,Proxy
 HOST-SUFFIX,shopbeatsdre.com,Proxy
@@ -19348,6 +19356,7 @@ HOST-SUFFIX,shopibay.net,Proxy
 HOST-SUFFIX,shopify.com,Proxy
 HOST-SUFFIX,shopify.dev,Proxy
 HOST-SUFFIX,shopifycdn.com,Proxy
+HOST-SUFFIX,shopifycloud.com,Proxy
 HOST-SUFFIX,shopifystatus.com,Proxy
 HOST-SUFFIX,shopifysvc.com,Proxy
 HOST-SUFFIX,shoping.com,Proxy
@@ -19720,6 +19729,7 @@ HOST-SUFFIX,sony.co.id,Proxy
 HOST-SUFFIX,sony.com,Proxy
 HOST-SUFFIX,sony.com.co,Proxy
 HOST-SUFFIX,sony.com.do,Proxy
+HOST-SUFFIX,sony.com.hk,Proxy
 HOST-SUFFIX,sony.ee,Proxy
 HOST-SUFFIX,sony.hr,Proxy
 HOST-SUFFIX,sony.it,Proxy
@@ -21474,11 +21484,14 @@ HOST-SUFFIX,tv72.tk,Proxy
 HOST-SUFFIX,tvants.com,Proxy
 HOST-SUFFIX,tvappstore.net,Proxy
 HOST-SUFFIX,tvb.com,Proxy
+HOST-SUFFIX,tvbanywhere.com,Proxy
 HOST-SUFFIX,tvbccc.com,Proxy
 HOST-SUFFIX,tvbddd.com,Proxy
 HOST-SUFFIX,tvboxnow.com,Proxy
 HOST-SUFFIX,tvbppp.com,Proxy
 HOST-SUFFIX,tvbs.com.tw,Proxy
+HOST-SUFFIX,tvbusa.com,Proxy
+HOST-SUFFIX,tvbweekly.com,Proxy
 HOST-SUFFIX,tvider.com,Proxy
 HOST-SUFFIX,tvmost.com.hk,Proxy
 HOST-SUFFIX,tvplayvideos.com,Proxy
@@ -23257,7 +23270,10 @@ HOST-SUFFIX,witnessleeteaching.com,Proxy
 HOST-SUFFIX,witopia.com,Proxy
 HOST-SUFFIX,witopia.net,Proxy
 HOST-SUFFIX,wiwiwiki.kfd.me,Proxy
+HOST-SUFFIX,wix-code.com,Proxy
 HOST-SUFFIX,wix.com,Proxy
+HOST-SUFFIX,wixanswers.com,Proxy
+HOST-SUFFIX,wixapps.net,Proxy
 HOST-SUFFIX,wixmp.com,Proxy
 HOST-SUFFIX,wixsite.com,Proxy
 HOST-SUFFIX,wixstatic.com,Proxy
@@ -27904,6 +27920,7 @@ HOST-SUFFIX,zzy.healthorg.xyz,Proxy
 HOST-SUFFIX,zzy.healthsection.xyz,Proxy
 HOST-SUFFIX,zzz.healthsection.xyz,Proxy
 HOST-SUFFIX,zzz5595.com,Proxy
+HOST-KEYWORD,-tiktokcdn-com,Proxy
 HOST-KEYWORD,.blogspot.,Proxy
 HOST-KEYWORD,.pinterest.,Proxy
 HOST-KEYWORD,1drv,Proxy
@@ -27923,6 +27940,7 @@ HOST-KEYWORD,gmail,Proxy
 HOST-KEYWORD,google,Proxy
 HOST-KEYWORD,instagram,Proxy
 HOST-KEYWORD,onedrive,Proxy
+HOST-KEYWORD,paypal,Proxy
 HOST-KEYWORD,porn,Proxy
 HOST-KEYWORD,sci-hub,Proxy
 HOST-KEYWORD,skydrive,Proxy
@@ -27934,9 +27952,17 @@ HOST-KEYWORD,twitter,Proxy
 HOST-KEYWORD,uk-live,Proxy
 HOST-KEYWORD,whatsapp,Proxy
 HOST-KEYWORD,youtube,Proxy
+USER-AGENT,%e7%ba%bd%e7%ba%a6%e6%97%b6%e6%8a%a5*,Proxy
+USER-AGENT,awemei18n*,Proxy
 USER-AGENT,battleroyale*,Proxy
+USER-AGENT,coinbase*,Proxy
 USER-AGENT,com.apple.trustd*,Proxy
+USER-AGENT,instagram*,Proxy
+USER-AGENT,onedrive*,Proxy
+USER-AGENT,paypal*,Proxy
+USER-AGENT,resiliosync*,Proxy
 USER-AGENT,roam*,Proxy
+USER-AGENT,tiktok*,Proxy
 USER-AGENT,whatsapp*,Proxy
 IP-CIDR,1.201.0.0/24,Proxy
 IP-CIDR,103.102.166.0/24,Proxy

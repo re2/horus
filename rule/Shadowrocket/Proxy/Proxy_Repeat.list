@@ -1,7 +1,7 @@
 # NAME: Proxy 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-07 02:45:00
+# UPDATED: 2021-01-07 14:12:25
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # Proxy 与 Adobe 共 25 条规则重复
 DOMAIN-SUFFIX,acrobat.com
@@ -29,7 +29,7 @@ DOMAIN-SUFFIX,typekit.com
 DOMAIN-SUFFIX,typekit.net
 DOMAIN-SUFFIX,verisign.com
 DOMAIN-SUFFIX,worldsecuresystems.com
-# Proxy 与 Advertising 共 163 条规则重复
+# Proxy 与 Advertising 共 164 条规则重复
 DOMAIN-SUFFIX,0emm.com
 DOMAIN-SUFFIX,100tjs.com
 DOMAIN-SUFFIX,24smile.org
@@ -55,6 +55,7 @@ DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,appbrain.com
 DOMAIN-SUFFIX,as.sinahk.net
 DOMAIN-SUFFIX,atdmt.com
+DOMAIN-SUFFIX,azureedge.net
 DOMAIN-SUFFIX,b.hatena.ne.jp
 DOMAIN-SUFFIX,bannedbook.org
 DOMAIN-SUFFIX,bbthat.com
@@ -193,7 +194,7 @@ DOMAIN-SUFFIX,yuanming.net
 DOMAIN-SUFFIX,zhengjian.org
 DOMAIN-SUFFIX,zhengwunet.org
 DOMAIN-SUFFIX,zhuichaguoji.org
-# Proxy 与 AdvertisingTest 共 197 条规则重复
+# Proxy 与 AdvertisingTest 共 198 条规则重复
 DOMAIN-SUFFIX,0emm.com
 DOMAIN-SUFFIX,100tjs.com
 DOMAIN-SUFFIX,101com.com
@@ -223,6 +224,7 @@ DOMAIN-SUFFIX,appbrain.com
 DOMAIN-SUFFIX,apture.com
 DOMAIN-SUFFIX,as.sinahk.net
 DOMAIN-SUFFIX,atdmt.com
+DOMAIN-SUFFIX,azureedge.net
 DOMAIN-SUFFIX,b.hatena.ne.jp
 DOMAIN-SUFFIX,bannedbook.org
 DOMAIN-SUFFIX,bbthat.com
@@ -1262,7 +1264,7 @@ USER-AGENT,whatsapp*
 # Proxy 与 Blizzard 共 2 条规则重复
 DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,blizzard.com
-# Proxy 与 China 共 107 条规则重复
+# Proxy 与 China 共 125 条规则重复
 DOMAIN-SUFFIX,abercrombie.com
 DOMAIN-SUFFIX,accuweather.com
 DOMAIN-SUFFIX,acm.org
@@ -1271,8 +1273,11 @@ DOMAIN-SUFFIX,adobesc.com
 DOMAIN-SUFFIX,alibabacloud.com
 DOMAIN-SUFFIX,amd.com
 DOMAIN-SUFFIX,annualreviews.org
+DOMAIN-SUFFIX,apache.org
 DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,bet365.com
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bing.net
 DOMAIN-SUFFIX,bjango.com
 DOMAIN-SUFFIX,blizzard.com
 DOMAIN-SUFFIX,booking.com
@@ -1280,6 +1285,7 @@ DOMAIN-SUFFIX,bstatic.com
 DOMAIN-SUFFIX,cambridge.org
 DOMAIN-SUFFIX,clarivate.com
 DOMAIN-SUFFIX,crashlytics.com
+DOMAIN-SUFFIX,culturedcode.com
 DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,dytt8.net
 DOMAIN-SUFFIX,engineeringvillage.com
@@ -1288,6 +1294,7 @@ DOMAIN-SUFFIX,gameloft.com
 DOMAIN-SUFFIX,getpricetag.com
 DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,hdsky.me
+DOMAIN-SUFFIX,hiwifi.com
 DOMAIN-SUFFIX,hollisterco.com
 DOMAIN-SUFFIX,hotmail.com
 DOMAIN-SUFFIX,ibm.com
@@ -1301,20 +1308,29 @@ DOMAIN-SUFFIX,jstor.org
 DOMAIN-SUFFIX,jstucdn.com
 DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,linkedin.com
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,live.net
 DOMAIN-SUFFIX,loli.net
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,manhuagui.com
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,microsoftonline.com
+DOMAIN-SUFFIX,microsofttranslator.com
+DOMAIN-SUFFIX,msauth.net
 DOMAIN-SUFFIX,msecnd.net
+DOMAIN-SUFFIX,msedge.net
 DOMAIN-SUFFIX,msn.com
+DOMAIN-SUFFIX,msocdn.com
 DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-SUFFIX,nature.com
 DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,nvidia.com
 DOMAIN-SUFFIX,office.com
+DOMAIN-SUFFIX,office.net
 DOMAIN-SUFFIX,office365.com
+DOMAIN-SUFFIX,onenote.com
+DOMAIN-SUFFIX,onenote.net
 DOMAIN-SUFFIX,oracle.com
 DOMAIN-SUFFIX,oup.com
 DOMAIN-SUFFIX,outlook.com
@@ -1366,11 +1382,15 @@ DOMAIN-SUFFIX,wiley.com
 DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,windows.net
 DOMAIN-SUFFIX,windowsupdate.com
+DOMAIN-SUFFIX,xbox.com
+DOMAIN-SUFFIX,xboxlive.com
+DOMAIN-SUFFIX,xteko.com
 DOMAIN-SUFFIX,zimuzu.tv
 DOMAIN-SUFFIX,zmz2019.com
 DOMAIN-SUFFIX,zmzapi.com
 DOMAIN-SUFFIX,zoho.com
-# Proxy 与 ChinaTest 共 156 条规则重复
+USER-AGENT,paypal*
+# Proxy 与 ChinaTest 共 159 条规则重复
 DOMAIN-SUFFIX,265.com
 DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,abercrombie.com
@@ -1465,6 +1485,8 @@ DOMAIN-SUFFIX,paypal.com
 DOMAIN-SUFFIX,paypal.me
 DOMAIN-SUFFIX,paypalobjects.com
 DOMAIN-SUFFIX,pengfu.com
+DOMAIN-SUFFIX,pimg.tw
+DOMAIN-SUFFIX,pixnet.in
 DOMAIN-SUFFIX,playcvn.com
 DOMAIN-SUFFIX,playstation.com
 DOMAIN-SUFFIX,playstation.net
@@ -1527,6 +1549,7 @@ DOMAIN-SUFFIX,zimuzu.tv
 DOMAIN-SUFFIX,zmz2019.com
 DOMAIN-SUFFIX,zmzapi.com
 DOMAIN-SUFFIX,zoho.com
+USER-AGENT,paypal*
 # Proxy 与 Cloudflare 共 1 条规则重复
 DOMAIN-SUFFIX,cloudflare.com
 # Proxy 与 Discord 共 6 条规则重复
@@ -1556,10 +1579,14 @@ DOMAIN-SUFFIX,oculuscdn.com
 DOMAIN-SUFFIX,rocksdb.org
 DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,whatsapp.net
-# Proxy 与 PayPal 共 3 条规则重复
+# Proxy 与 SystemOTA 共 1 条规则重复
+DOMAIN-SUFFIX,appldnld.g.aaplimg.com
+# Proxy 与 PayPal 共 5 条规则重复
+DOMAIN-KEYWORD,paypal
 DOMAIN-SUFFIX,paypal.com
 DOMAIN-SUFFIX,paypal.me
 DOMAIN-SUFFIX,paypalobjects.com
+USER-AGENT,paypal*
 # Proxy 与 Steam 共 9 条规则重复
 DOMAIN-SUFFIX,fanatical.com
 DOMAIN-SUFFIX,humblebundle.com
@@ -1680,7 +1707,7 @@ DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,ytimg.com
-# Proxy 与 Microsoft 共 56 条规则重复
+# Proxy 与 Microsoft 共 57 条规则重复
 DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,onedrive
 DOMAIN-KEYWORD,skydrive
@@ -1737,7 +1764,8 @@ DOMAIN-SUFFIX,windows.net
 DOMAIN-SUFFIX,windowsazure.com
 DOMAIN-SUFFIX,windowsupdate.com
 DOMAIN-SUFFIX,yammer.com
-# Proxy 与 OneDriver 共 8 条规则重复
+USER-AGENT,onedrive*
+# Proxy 与 OneDriver 共 9 条规则重复
 DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,onedrive
 DOMAIN-KEYWORD,skydrive
@@ -1746,6 +1774,7 @@ DOMAIN-SUFFIX,livefilestore.com
 DOMAIN-SUFFIX,onedrive.com
 DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,sharepointonline.com
+USER-AGENT,onedrive*
 # Proxy 与 Niconico 共 2 条规则重复
 DOMAIN-SUFFIX,nicovideo.jp
 DOMAIN-SUFFIX,nimg.jp
@@ -1774,18 +1803,20 @@ DOMAIN-SUFFIX,nflximg.com
 DOMAIN-SUFFIX,nflximg.net
 DOMAIN-SUFFIX,nflxso.net
 DOMAIN-SUFFIX,nflxvideo.net
-# Proxy 与 TikTok 共 5 条规则重复
+# Proxy 与 TikTok 共 7 条规则重复
+DOMAIN-KEYWORD,-tiktokcdn-com
 DOMAIN-SUFFIX,muscdn.com
 DOMAIN-SUFFIX,musical.ly
 DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tiktokv.com
+USER-AGENT,tiktok*
 # Proxy 与 Disney 共 4 条规则重复
 DOMAIN-SUFFIX,bamgrid.com
 DOMAIN-SUFFIX,disney-plus.net
 DOMAIN-SUFFIX,disneyplus.com
 DOMAIN-SUFFIX,dssott.com
-# Proxy 与 Global 共 691 条规则重复
+# Proxy 与 Global 共 692 条规则重复
 DOMAIN-KEYWORD,.blogspot.
 DOMAIN-KEYWORD,.pinterest.
 DOMAIN-KEYWORD,blogspot
@@ -2476,8 +2507,10 @@ IP-CIDR,91.198.174.0/24
 IP-CIDR6,2001:67c:4e8::/48
 IP-CIDR6,2001:b28:f23d::/48
 IP-CIDR6,2001:b28:f23f::/48
+USER-AGENT,paypal*
 USER-AGENT,roam*
-# Proxy 与 GlobalMedia 共 113 条规则重复
+# Proxy 与 GlobalMedia 共 116 条规则重复
+DOMAIN-KEYWORD,-tiktokcdn-com
 DOMAIN-KEYWORD,ttvnw
 DOMAIN-KEYWORD,uk-live
 DOMAIN-KEYWORD,youtube
@@ -2498,6 +2531,7 @@ DOMAIN-SUFFIX,bbci.co.uk
 DOMAIN-SUFFIX,bootstrapcdn.com
 DOMAIN-SUFFIX,braze.com
 DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,conviva.com
 DOMAIN-SUFFIX,dazn-api.com
 DOMAIN-SUFFIX,dazn.com
 DOMAIN-SUFFIX,dazndn.com
@@ -2591,6 +2625,7 @@ DOMAIN-SUFFIX,yahoo.co.jp
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,ytimg.com
+USER-AGENT,tiktok*
 # Proxy 与 Github 共 6 条规则重复
 DOMAIN-KEYWORD,github
 DOMAIN-SUFFIX,github.com

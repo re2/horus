@@ -1,23 +1,26 @@
 # NAME: GlobalMedia 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-07 02:44:59
+# UPDATED: 2021-01-07 14:12:24
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # GlobalMedia 与 Adobe 共 1 条规则重复
 DOMAIN-SUFFIX,bam.nr-data.net
-# GlobalMedia 与 Advertising 共 4 条规则重复
+# GlobalMedia 与 Advertising 共 5 条规则重复
 DOMAIN-SUFFIX,bluekai.com
 DOMAIN-SUFFIX,braze.com
+DOMAIN-SUFFIX,conviva.com
 DOMAIN-SUFFIX,jwpcdn.com
 DOMAIN-SUFFIX,socdm.com
-# GlobalMedia 与 AdvertisingTest 共 5 条规则重复
+# GlobalMedia 与 AdvertisingTest 共 6 条规则重复
 DOMAIN-SUFFIX,bluekai.com
 DOMAIN-SUFFIX,braze.com
+DOMAIN-SUFFIX,conviva.com
 DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,jwpcdn.com
 DOMAIN-SUFFIX,socdm.com
-# GlobalMedia 与 AdvertisingLite 共 2 条规则重复
+# GlobalMedia 与 AdvertisingLite 共 3 条规则重复
 DOMAIN-SUFFIX,bluekai.com
+DOMAIN-SUFFIX,conviva.com
 DOMAIN-SUFFIX,socdm.com
 # GlobalMedia 与 AppleNews 共 3 条规则重复
 DOMAIN,gspe1-ssl.ls.apple.com
@@ -311,7 +314,7 @@ USER-AGENT,viutv*
 USER-AGENT,wemusic*
 USER-AGENT,youtube*
 USER-AGENT,youtubemusic*
-# GlobalMedia 与 Spotify 共 8 条规则重复
+# GlobalMedia 与 Spotify 共 9 条规则重复
 DOMAIN-KEYWORD,-spotify-com
 DOMAIN-KEYWORD,spotify.com
 DOMAIN-SUFFIX,pscdn.co
@@ -319,12 +322,12 @@ DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,spoti.fi
 DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,spotifycdn.net
+USER-AGENT,*spotify*
 USER-AGENT,spotify*
 # GlobalMedia 与 Spark 共 1 条规则重复
 DOMAIN-SUFFIX,firebaseio.com
-# GlobalMedia 与 Privacy 共 1 条规则重复
-DOMAIN-SUFFIX,cws.conviva.com
-# GlobalMedia 与 Proxy 共 113 条规则重复
+# GlobalMedia 与 Proxy 共 116 条规则重复
+DOMAIN-KEYWORD,-tiktokcdn-com
 DOMAIN-KEYWORD,ttvnw
 DOMAIN-KEYWORD,uk-live
 DOMAIN-KEYWORD,youtube
@@ -345,6 +348,7 @@ DOMAIN-SUFFIX,bbci.co.uk
 DOMAIN-SUFFIX,bootstrapcdn.com
 DOMAIN-SUFFIX,braze.com
 DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,conviva.com
 DOMAIN-SUFFIX,dazn-api.com
 DOMAIN-SUFFIX,dazn.com
 DOMAIN-SUFFIX,dazndn.com
@@ -438,6 +442,7 @@ DOMAIN-SUFFIX,yahoo.co.jp
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,ytimg.com
+USER-AGENT,tiktok*
 # GlobalMedia 与 YouTubeMusic 共 4 条规则重复
 USER-AGENT,*com.google.ios.youtubemusic*
 USER-AGENT,*youtubemusic*

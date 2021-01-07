@@ -1,14 +1,15 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-07 02:44:58
-# DOMAIN-SUFFIX: 27894
-# USER-AGENT: 4
-# DOMAIN: 1
-# DOMAIN-KEYWORD: 30
+# UPDATED: 2021-01-07 14:12:23
+# DOMAIN-SUFFIX: 27909
+# USER-AGENT: 12
+# DOMAIN: 2
+# DOMAIN-KEYWORD: 32
 # IP-CIDR: 94
 # IP-CIDR6: 3
-# TOTAL: 28026
+# TOTAL: 28052
+DOMAIN-KEYWORD,-tiktokcdn-com
 DOMAIN-KEYWORD,.blogspot.
 DOMAIN-KEYWORD,.pinterest.
 DOMAIN-KEYWORD,1drv
@@ -28,6 +29,7 @@ DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,onedrive
+DOMAIN-KEYWORD,paypal
 DOMAIN-KEYWORD,porn
 DOMAIN-KEYWORD,sci-hub
 DOMAIN-KEYWORD,skydrive
@@ -136,7 +138,15 @@ IP-CIDR,91.198.174.0/24
 IP-CIDR6,2001:67c:4e8::/48
 IP-CIDR6,2001:b28:f23d::/48
 IP-CIDR6,2001:b28:f23f::/48
+USER-AGENT,%e7%ba%bd%e7%ba%a6%e6%97%b6%e6%8a%a5*
+USER-AGENT,awemei18n*
 USER-AGENT,battleroyale*
+USER-AGENT,coinbase*
 USER-AGENT,com.apple.trustd*
+USER-AGENT,instagram*
+USER-AGENT,onedrive*
+USER-AGENT,paypal*
+USER-AGENT,resiliosync*
 USER-AGENT,roam*
+USER-AGENT,tiktok*
 USER-AGENT,whatsapp*
