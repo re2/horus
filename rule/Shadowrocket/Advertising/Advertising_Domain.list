@@ -1,14 +1,26 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-07 14:12:23
+# UPDATED: 2021-01-07 15:11:53
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN-SUFFIX: 42384
-# DOMAIN: 12238
+# DOMAIN-SUFFIX: 42385
+# DOMAIN: 12250
 # DOMAIN-KEYWORD: 61
 # IP-CIDR: 240
 # URL-REGEX: 307
-# TOTAL: 55230
+# TOTAL: 55243
+//client
+//host-suffix
+//iqiyi&pps
+//letv
+//mgtv
+//other
+//pptv
+//site
+//sohu
+//vod
+//youku&tudou
+//youtube
 0.up.qingdaonews.com
 000lk3v.wcomhost.com
 000lkub.rcomhost.com
@@ -23749,6 +23761,7 @@ zzz.clickbank.net
 .data.ads.oppomobile.com
 .data.alexa.com
 .data.apn.co.nz
+.data.bilibili.com
 .data.circulate.com
 .data.danmu.baofeng.com
 .data.doodlemobile.com

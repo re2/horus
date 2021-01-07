@@ -1,16 +1,21 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-07 14:12:22
-# DOMAIN-SUFFIX: 27909
-# USER-AGENT: 12
-# DOMAIN: 2
-# DOMAIN-KEYWORD: 32
-# IP-CIDR: 94
+# UPDATED: 2021-01-07 15:11:52
+# DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
+# DOMAIN-SUFFIX: 27951
+# USER-AGENT: 49
+# DOMAIN: 5
+# DOMAIN-KEYWORD: 42
+# IP-CIDR: 110
 # IP-CIDR6: 3
-# TOTAL: 28052
+# URL-REGEX: 1
+# TOTAL: 28161
+//forcesomedomainswhicharefuckedbygfwwhileresolvingdns
 assets-priconne-redive-us.akamaized.net
-voice.telephony.goog
+ds-linear-abematv.akamaized.net
+ds-vod-abematv.akamaized.net
+hamifans.emome.net
 .000234.com
 .0006999.com
 .000aa.com
@@ -912,6 +917,7 @@ voice.telephony.goog
 .52040h.com
 .5208bb.com
 .520aa.tv
+.520cc.cc
 .520ccc.cc
 .523.ddnsking.com
 .523838.com
@@ -1006,6 +1012,7 @@ voice.telephony.goog
 .5i01.com
 .5idd.us
 .5isotoi5.org
+.5itv.tv
 .5kk.am
 .5kli.r5.cr.rs
 .5lml.com
@@ -1886,6 +1893,7 @@ voice.telephony.goog
 .advanscene.com
 .adventuresbydisney.com
 .advertfan.com
+.advertisercommunity.com
 .advertserve.com
 .adx.promo
 .adxpansion.com
@@ -2034,6 +2042,7 @@ voice.telephony.goog
 .aituzi.com
 .aiuuo.com
 .aiv-cdn.net
+.aiv-delivery.net
 .aiweiwei.com
 .aiweiweiblog.com
 .aizhaofuli.com
@@ -2546,7 +2555,6 @@ voice.telephony.goog
 .api.api861861.com
 .api.arcadia.pncle8.com
 .api.citizenvpn.com
-.api.dmc.nico
 .api.feedbin.com
 .api.finchvpn.org
 .api.identitynow.com
@@ -4804,6 +4812,7 @@ voice.telephony.goog
 .brizzly.com
 .brkmd.com
 .broadbook.com
+.broadcast.co.nz
 .broadpressinc.com
 .brocaproject.com
 .brockbbs.com
@@ -5087,6 +5096,7 @@ voice.telephony.goog
 .c3344.com
 .c3j.fun
 .c4288.com
+.c4assets.com
 .c4story.com
 .c4v6d7v3.stackpathcdn.com
 .c5007.com
@@ -5336,6 +5346,7 @@ voice.telephony.goog
 .cap.org.hk
 .capacitaciones.cl
 .capezio.com
+.capitalg.com
 .capitalgames.com
 .capitalone
 .capsule.cl
@@ -5618,6 +5629,8 @@ voice.telephony.goog
 .changken.idv.tw
 .changp.com
 .changsa.net
+.channel4.com
+.channel5.com
 .channel8news.sg
 .channelfourteen.com
 .channelnewsasia.com
@@ -5865,6 +5878,7 @@ voice.telephony.goog
 .chocalanwines.com
 .chocolatey.org
 .chocolatkey.com
+.chocotv.com.tw
 .choicehotels.com
 .chomp.com
 .chordboard.com
@@ -7233,6 +7247,7 @@ voice.telephony.goog
 .dlsite.jp
 .dlyoutube.com
 .dm530.net
+.dmc.nico
 .dmcdn.net
 .dmhy.org
 .dmm-extension.com
@@ -7580,6 +7595,7 @@ voice.telephony.goog
 .dunlop
 .duns
 .dunyabulteni.net
+.duolingo.cn
 .duosuccess.com
 .duoweitimes.com
 .duping.net
@@ -7685,6 +7701,7 @@ voice.telephony.goog
 .dzb086.com
 .dzb234.com
 .dzbapp.cc
+.dzcdn.net
 .dzze.com
 .e-bay.com
 .e-bay.it
@@ -7937,6 +7954,7 @@ voice.telephony.goog
 .ecstart.com
 .ecv.ebacc777.com
 .edah.us
+.edditstatic.com
 .edeka
 .edenrules.com
 .edgecastcdn.net
@@ -11017,6 +11035,7 @@ voice.telephony.goog
 .happy-vpn.com
 .happy131.com
 .happy6666.com
+.happyon.jp
 .happysocks.com
 .haproxy.org
 .haptic.al
@@ -11055,6 +11074,7 @@ voice.telephony.goog
 .hboasia.com
 .hbogo.com
 .hbogoasia.com
+.hbogoasia.hk
 .hbomax.com
 .hbonow.com
 .hbxnets.com
@@ -11485,6 +11505,7 @@ voice.telephony.goog
 .hornytrip.com
 .hostcgsky.com
 .hostessbrands.com
+.hosting.co.uk
 .hostingbulk.com
 .hostloc.com
 .hosyusokuhou.jp
@@ -11744,6 +11765,7 @@ voice.telephony.goog
 .huloo.cc
 .huloo.tv
 .hulu.com
+.hulu.jp
 .hulu.tv
 .huluaction.com
 .huluad.com
@@ -11802,6 +11824,7 @@ voice.telephony.goog
 .huyandex.com
 .hwadzan.tw
 .hwayue.org.tw
+.hwcdn.net
 .hwcp33.com
 .hwgo.com
 .hwinfo.com
@@ -12657,6 +12680,8 @@ voice.telephony.goog
 .itunesu.com
 .itunesu.net
 .itv
+.itv.com
+.itvstatic.com
 .itweet.net
 .itxtech.org
 .iu45.com
@@ -13334,6 +13359,7 @@ voice.telephony.goog
 .kk2267.com
 .kk711.net
 .kkbox.com
+.kkbox.com.tw
 .kkkcp3.com
 .kkkcp5.com
 .kkkcp8.com
@@ -13344,6 +13370,7 @@ voice.telephony.goog
 .kkswami.com
 .kktix.com
 .kktv-theater.kk.stream
+.kktv.com.tw
 .kktv.me
 .kl8888.com
 .klienux.org
@@ -13829,6 +13856,7 @@ voice.telephony.goog
 .linear-abematv.akamaized.net
 .linearcollider.org
 .linepost.hk
+.linetv.tw
 .linglingfa.com
 .lingq.com
 .linguee.com
@@ -15469,6 +15497,7 @@ voice.telephony.goog
 .my29tv.com
 .my3xxx.com
 .my45.com
+.my5.tv
 .my63305.com
 .my7878.com
 .my888.app
@@ -15842,6 +15871,16 @@ voice.telephony.goog
 .netflix
 .netflix.com
 .netflix.net
+.netflixdnstest0.com
+.netflixdnstest1.com
+.netflixdnstest2.com
+.netflixdnstest3.com
+.netflixdnstest4.com
+.netflixdnstest5.com
+.netflixdnstest6.com
+.netflixdnstest7.com
+.netflixdnstest8.com
+.netflixdnstest9.com
 .netflixinvestor.com
 .netflixtechblog.com
 .netlify.com
@@ -16882,6 +16921,7 @@ voice.telephony.goog
 .ozxw.com
 .ozyoyo.com
 .ozzu.com
+.p-cdn.us
 .p.inkcat.net
 .p.w3cx.us
 .p0084.com
@@ -19643,6 +19683,7 @@ voice.telephony.goog
 .socaltibet.org
 .soccer18.com
 .soccermatchpass.com
+.socdm.com
 .social.com
 .socialblade.com
 .socialeel.com
@@ -19811,6 +19852,7 @@ voice.telephony.goog
 .spankingtube.com
 .spankwire.com
 .sparham.org.uk
+.sparknotes.com
 .spb.com
 .spccaa-bc.org
 .speakerdeck.com
@@ -19870,6 +19912,7 @@ voice.telephony.goog
 .sportsfacebook.com
 .sportstream.com
 .spotflux.com
+.spoti.fi
 .spotify-everywhere.com
 .spotify.com
 .spotify.design
@@ -20608,6 +20651,7 @@ voice.telephony.goog
 .telegramdownload.com
 .telegraph.co.uk
 .telekom.com
+.telephony.goog
 .teleplus.in
 .telesco.pe
 .telesell.com
@@ -21001,6 +21045,7 @@ voice.telephony.goog
 .ticketmonster.co.kr
 .tickling-videos.com
 .tictoc.video
+.tidal.com
 .tidebit.com
 .tidelift.com
 .tidex.com
@@ -21907,6 +21952,7 @@ voice.telephony.goog
 .upxtv.com
 .ur7s.com
 .uraban.me
+.urbanairship.com
 .urbandictionary.com
 .urbandove.org
 .urbansurvival.com
@@ -23106,6 +23152,7 @@ voice.telephony.goog
 .wheretowatch.com
 .whippedass.com
 .whisolutions.com
+.whispersystems.org
 .whispertalks.com
 .white-plus.net
 .whitepages.com.au
@@ -23328,6 +23375,7 @@ voice.telephony.goog
 .wolfatbestbuy.net
 .wolfax.com
 .wolfgang.site40.net
+.wolframalpha.com
 .wolterskluwer
 .womensnikeshox.com
 .womenwill.com
@@ -25292,7 +25340,6 @@ voice.telephony.goog
 .www.kinokuniya.co.jp
 .www.kissanime.com
 .www.kiwisouvenirs.com
-.www.kkbox.com.tw
 .www.kkkapk.com
 .www.kkkcp1.com
 .www.kkkcp2.com

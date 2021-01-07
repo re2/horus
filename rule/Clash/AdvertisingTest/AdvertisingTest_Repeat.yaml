@@ -1,7 +1,7 @@
 # NAME: AdvertisingTest 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-07 14:12:25
+# UPDATED: 2021-01-07 15:11:55
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 payload:
 # AdvertisingTest 与 Adobe 共 6 条规则重复
@@ -11,7 +11,19 @@ payload:
   - DOMAIN-SUFFIX,newrelic.com
   - DOMAIN-SUFFIX,omniture.com
   - DOMAIN-SUFFIX,omtrdc.net
-# AdvertisingTest 与 Advertising 共 51283 条规则重复
+# AdvertisingTest 与 Advertising 共 51277 条规则重复
+  - DOMAIN,//client
+  - DOMAIN,//host-suffix
+  - DOMAIN,//iqiyi&pps
+  - DOMAIN,//letv
+  - DOMAIN,//mgtv
+  - DOMAIN,//other
+  - DOMAIN,//pptv
+  - DOMAIN,//site
+  - DOMAIN,//sohu
+  - DOMAIN,//vod
+  - DOMAIN,//youku&tudou
+  - DOMAIN,//youtube
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,000lk3v.wcomhost.com
   - DOMAIN,000lkub.rcomhost.com
@@ -62,7 +74,6 @@ payload:
   - DOMAIN,1492tapasbar.com
   - DOMAIN,1493361689.rsc.cdn77.org
   - DOMAIN,1543b1db8a0825760.com
-  - DOMAIN,15yomodels.com
   - DOMAIN,16e2ae8f200d975b.com
   - DOMAIN,1710coffee.com
   - DOMAIN,1755568.live173.com
@@ -71,7 +82,6 @@ payload:
   - DOMAIN,18pluscard.com
   - DOMAIN,18plusstore.com
   - DOMAIN,1ejaculationinterne.com
-  - DOMAIN,1loop.com
   - DOMAIN,1sat.itocd.net
   - DOMAIN,1stand2ndmortgage.com
   - DOMAIN,1worlditsolutions.com
@@ -84,7 +94,6 @@ payload:
   - DOMAIN,22a12efe35e3c2f.com
   - DOMAIN,247gamerz.com
   - DOMAIN,247lyrics.com
-  - DOMAIN,247teencash.net
   - DOMAIN,24hf.inq.com
   - DOMAIN,24hf.touchcommerce.com
   - DOMAIN,24holdem.com
@@ -504,7 +513,6 @@ payload:
   - DOMAIN,additcinggames.com
   - DOMAIN,adeelacorporation.com
   - DOMAIN,adfile.hori-gz.com
-  - DOMAIN,adfux.com
   - DOMAIN,adgridwork.com
   - DOMAIN,adgroups.net
   - DOMAIN,adgtracker.com
@@ -516,7 +524,6 @@ payload:
   - DOMAIN,adimg.tv.com
   - DOMAIN,adjourne.com
   - DOMAIN,adjs.hopemobi.net
-  - DOMAIN,adjunky.com
   - DOMAIN,adkariaca.com
   - DOMAIN,adlawyers.net
   - DOMAIN,adlock.in
@@ -739,11 +746,7 @@ payload:
   - DOMAIN,adtools2.amakings.com
   - DOMAIN,adtradradservices.com
   - DOMAIN,adult18games.com
-  - DOMAIN,adultaccessnow.com
-  - DOMAIN,adultcommercial.net
-  - DOMAIN,adultmediabuying.com
   - DOMAIN,adultmoneymakers.com
-  - DOMAIN,adulttubetraffic.com
   - DOMAIN,adv-adlog.variflight.com
   - DOMAIN,adv-ads.variflight.com
   - DOMAIN,adv.440network.com
@@ -770,7 +773,6 @@ payload:
   - DOMAIN,advertisingagent.com
   - DOMAIN,advice-ads.s3.amazonaws.com
   - DOMAIN,adviceintl.com
-  - DOMAIN,advmania.com
   - DOMAIN,adwaengg.com
   - DOMAIN,adwareremovergold.com
   - DOMAIN,adwitserver.com
@@ -780,7 +782,6 @@ payload:
   - DOMAIN,adx.ocala.com
   - DOMAIN,adx.telegram.com
   - DOMAIN,adx.timesdaily.com
-  - DOMAIN,adxmarket.com
   - DOMAIN,adztracking.com
   - DOMAIN,ae.adserver.yahoo.com
   - DOMAIN,aegis.secure-orders.net
@@ -1014,7 +1015,6 @@ payload:
   - DOMAIN,angryhack.com
   - DOMAIN,anhuiguzhai.com
   - DOMAIN,animahouseonline.org
-  - DOMAIN,animeidhentai.com
   - DOMAIN,animeonline.net
   - DOMAIN,ankursociety.org
   - DOMAIN,annamidly.com
@@ -1289,7 +1289,6 @@ payload:
   - DOMAIN,avppet.com
   - DOMAIN,avtoizkorei.com
   - DOMAIN,awgsmfzrslcp.com
-  - DOMAIN,ax47mp-xp-21.com
   - DOMAIN,axisbuild.com
   - DOMAIN,axisdevelopmentltd.com
   - DOMAIN,ayada.zapto.org
@@ -1481,7 +1480,6 @@ payload:
   - DOMAIN,besthacks4u.com
   - DOMAIN,besthacksdll.com
   - DOMAIN,bestlayintown.com
-  - DOMAIN,bestmobiworld.com
   - DOMAIN,bestoffers.activeshopper.com
   - DOMAIN,bestofpush.com
   - DOMAIN,bestonlinegamecheats.net
@@ -1535,7 +1533,6 @@ payload:
   - DOMAIN,bitcoin-wallet.net
   - DOMAIN,bitcoinsfree.org
   - DOMAIN,bitskins.cn.com
-  - DOMAIN,bitterstrawberry.org
   - DOMAIN,bittrex.comze.com
   - DOMAIN,biznettvigator.com
   - DOMAIN,bizzibeans.net
@@ -1616,7 +1613,6 @@ payload:
   - DOMAIN,botd2.wordpress.com
   - DOMAIN,bots.icubeswire.com
   - DOMAIN,botsdownload.com
-  - DOMAIN,bouermes.be
   - DOMAIN,boulevardcoins.com
   - DOMAIN,bountywin.com
   - DOMAIN,boushehri.com
@@ -4608,7 +4604,6 @@ payload:
   - DOMAIN,kittrellglass.com
   - DOMAIN,kittystat.com
   - DOMAIN,kiwe-analytics.com
-  - DOMAIN,klaviyo.com
   - DOMAIN,kliklink.ru
   - DOMAIN,klio908.wixsite.com
   - DOMAIN,klugtaxlaw.com
@@ -5326,7 +5321,6 @@ payload:
   - DOMAIN,mobigamesforpc.com
   - DOMAIN,mobile-redirection.com
   - DOMAIN,mobile.activeshopper.com
-  - DOMAIN,mobile.bitterstrawberry.org
   - DOMAIN,mobileads.indiatimes.com
   - DOMAIN,mobilebouncingcastle.com
   - DOMAIN,mobilegamehackers.com
@@ -20289,6 +20283,7 @@ payload:
   - DOMAIN-SUFFIX,data.ads.oppomobile.com
   - DOMAIN-SUFFIX,data.alexa.com
   - DOMAIN-SUFFIX,data.apn.co.nz
+  - DOMAIN-SUFFIX,data.bilibili.com
   - DOMAIN-SUFFIX,data.circulate.com
   - DOMAIN-SUFFIX,data.danmu.baofeng.com
   - DOMAIN-SUFFIX,data.doodlemobile.com
@@ -43797,7 +43792,6 @@ payload:
   - DOMAIN-SUFFIX,telecommand.telemetry.microsoft.com.nsatc.net
   - DOMAIN-SUFFIX,telegraph.api.hbo.com
   - DOMAIN-SUFFIX,telemetric.dk
-  - DOMAIN-SUFFIX,telemetrics.klaviyo.com
   - DOMAIN-SUFFIX,telemetry.api.wmcdp.io
   - DOMAIN-SUFFIX,telemetry.appex.bing.net
   - DOMAIN-SUFFIX,telemetry.art19.com
@@ -51295,7 +51289,7 @@ payload:
   - IP-CIDR,74.117.182.77/32
   - IP-CIDR,78.140.131.214/32
   - IP-CIDR,91.196.216.64/32
-# AdvertisingTest 与 AdvertisingLite 共 15510 条规则重复
+# AdvertisingTest 与 AdvertisingLite 共 15493 条规则重复
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,0koryu0.easter.ne.jp
   - DOMAIN,0nso0tq1sa4.ml
@@ -51304,13 +51298,10 @@ payload:
   - DOMAIN,12648afd00d93.com
   - DOMAIN,14119276be0852.com
   - DOMAIN,1543b1db8a0825760.com
-  - DOMAIN,15yomodels.com
   - DOMAIN,16e2ae8f200d975b.com
-  - DOMAIN,1loop.com
   - DOMAIN,2.up.qingdaonews.com
   - DOMAIN,21b507a044d841b.com
   - DOMAIN,22a12efe35e3c2f.com
-  - DOMAIN,247teencash.net
   - DOMAIN,2amsports.com
   - DOMAIN,2xbpub.com
   - DOMAIN,3.up.qingdaonews.com
@@ -51346,8 +51337,6 @@ payload:
   - DOMAIN,adclick.lv
   - DOMAIN,adcoin.click
   - DOMAIN,adfile.hori-gz.com
-  - DOMAIN,adfux.com
-  - DOMAIN,adjunky.com
   - DOMAIN,adlock.in
   - DOMAIN,adobeflashupdate14.com
   - DOMAIN,ads-4u.com
@@ -51359,17 +51348,11 @@ payload:
   - DOMAIN,adserving.favorit-network.com
   - DOMAIN,adtools.gossipkings.com
   - DOMAIN,adtools2.amakings.com
-  - DOMAIN,adultaccessnow.com
-  - DOMAIN,adultcommercial.net
-  - DOMAIN,adultmediabuying.com
-  - DOMAIN,adulttubetraffic.com
   - DOMAIN,adv-adlog.variflight.com
   - DOMAIN,adv-ads.variflight.com
   - DOMAIN,adv.riza.it
   - DOMAIN,adverigo.com
   - DOMAIN,advertisement.taobao.com
-  - DOMAIN,advmania.com
-  - DOMAIN,adxmarket.com
   - DOMAIN,afa15.com.ne.kr
   - DOMAIN,agsteier.com
   - DOMAIN,ajewishgift.com
@@ -51384,7 +51367,6 @@ payload:
   - DOMAIN,amazingvacationhotels.com
   - DOMAIN,ambulanciaslazaro.com
   - DOMAIN,aminev.com
-  - DOMAIN,animeidhentai.com
   - DOMAIN,antalya.ru
   - DOMAIN,anyporn.com
   - DOMAIN,aod-image-material.bj.bcebos.com
@@ -51401,7 +51383,6 @@ payload:
   - DOMAIN,atlcourier.com
   - DOMAIN,avppet.com
   - DOMAIN,awgsmfzrslcp.com
-  - DOMAIN,ax47mp-xp-21.com
   - DOMAIN,axisbuild.com
   - DOMAIN,ayidaye.m.zwdu.com
   - DOMAIN,b.nevadaprivateoffice.com
@@ -51421,11 +51402,9 @@ payload:
   - DOMAIN,beldiplomcom.75.com1.ru
   - DOMAIN,best100catfights.com
   - DOMAIN,bestcontentpc.top
-  - DOMAIN,bestmobiworld.com
   - DOMAIN,bezproudoff.cz
   - DOMAIN,bijscode.com
   - DOMAIN,binchoise.ml
-  - DOMAIN,bitterstrawberry.org
   - DOMAIN,bizzibeans.net
   - DOMAIN,blacknite.eu
   - DOMAIN,blinko.es
@@ -51433,7 +51412,6 @@ payload:
   - DOMAIN,blogad.com.tw
   - DOMAIN,bookofkisl.com
   - DOMAIN,bostonparadise.com
-  - DOMAIN,bouermes.be
   - DOMAIN,bracewellfamily.com
   - DOMAIN,bride1.com
   - DOMAIN,broadtech.co
@@ -51651,7 +51629,6 @@ payload:
   - DOMAIN,kapcotool.com
   - DOMAIN,kassabravo.com
   - DOMAIN,kingsoft.com
-  - DOMAIN,klaviyo.com
   - DOMAIN,kliklink.ru
   - DOMAIN,kollagen4you.se
   - DOMAIN,ldzqhq.biz
@@ -66852,7 +66829,7 @@ payload:
   - DOMAIN-SUFFIX,umengcloud.com
   - DOMAIN-SUFFIX,xdrig.com
   - DOMAIN-SUFFIX,zmzfile.com
-# AdvertisingTest 与 ChinaTest 共 1174 条规则重复
+# AdvertisingTest 与 ChinaTest 共 1175 条规则重复
   - DOMAIN-SUFFIX,000dn.com
   - DOMAIN-SUFFIX,0024aaaa.com
   - DOMAIN-SUFFIX,002lzj.com
@@ -67145,6 +67122,7 @@ payload:
   - DOMAIN-SUFFIX,bnq86.com
   - DOMAIN-SUFFIX,bobo.com
   - DOMAIN-SUFFIX,boxshows.com
+  - DOMAIN-SUFFIX,bozhihua.com
   - DOMAIN-SUFFIX,bryonypie.com
   - DOMAIN-SUFFIX,btyou.com
   - DOMAIN-SUFFIX,bugtags.com
@@ -68027,15 +68005,36 @@ payload:
   - DOMAIN-SUFFIX,zzbyc.xyz
   - DOMAIN-SUFFIX,zzpzero.com
   - DOMAIN-SUFFIX,zzsdtzb.com
-# AdvertisingTest 与 ChinaMedia 共 2 条规则重复
+# AdvertisingTest 与 ChinaMedia 共 24 条规则重复
+  - DOMAIN-SUFFIX,1.letvlive.com
+  - DOMAIN-SUFFIX,2.letvlive.com
   - DOMAIN-SUFFIX,71.am
+  - DOMAIN-SUFFIX,ad.api.3g.tudou.com
+  - DOMAIN-SUFFIX,ads1.lfengmobile.com
+  - DOMAIN-SUFFIX,afp.pplive.com
+  - DOMAIN-SUFFIX,api.cupid.qiyi.com
+  - DOMAIN-SUFFIX,api.push.le.com
+  - DOMAIN-SUFFIX,app.aplus.pptv.com
+  - DOMAIN-SUFFIX,as.aplus.pptv.com
+  - DOMAIN-SUFFIX,asimgs.pplive.cn
+  - DOMAIN-SUFFIX,de.as.pptv.com
+  - DOMAIN-SUFFIX,game.pps.tv
+  - DOMAIN-SUFFIX,jp.as.pptv.com
   - DOMAIN-SUFFIX,koowo.com
-# AdvertisingTest 与 Google 共 17 条规则重复
+  - DOMAIN-SUFFIX,msg.video.qiyi.com
+  - DOMAIN-SUFFIX,msg2.video.qiyi.com
+  - DOMAIN-SUFFIX,pp2.pptv.com
+  - DOMAIN-SUFFIX,stat.pptv.com
+  - DOMAIN-SUFFIX,static.g.ppstream.com
+  - DOMAIN-SUFFIX,static.g.pptv.com
+  - DOMAIN-SUFFIX,videojj.com
+  - DOMAIN-SUFFIX,zamplus.com
+  - DOMAIN-SUFFIX,zmzfile.com
+# AdvertisingTest 与 Google 共 15 条规则重复
   - DOMAIN-SUFFIX,2mdn.net
   - DOMAIN-SUFFIX,adservice.google.com
   - DOMAIN-SUFFIX,app-measurement.com
   - DOMAIN-SUFFIX,clickserve.dartsearch.net
-  - DOMAIN-SUFFIX,clientservices.googleapis.com
   - DOMAIN-SUFFIX,doubleclick.net
   - DOMAIN-SUFFIX,google-analytics.com
   - DOMAIN-SUFFIX,googleadservices.com
@@ -68043,9 +68042,8 @@ payload:
   - DOMAIN-SUFFIX,googlesyndication.com
   - DOMAIN-SUFFIX,googletagmanager.com
   - DOMAIN-SUFFIX,googletagservices.com
-  - DOMAIN-SUFFIX,imasdk.googleapis.com
+  - DOMAIN-SUFFIX,mtalk.google.com
   - DOMAIN-SUFFIX,pagead-googlehosted.l.google.com
-  - DOMAIN-SUFFIX,safebrowsing.googleapis.com
   - DOMAIN-SUFFIX,ssl-google-analytics.l.google.com
   - DOMAIN-SUFFIX,www-googletagmanager.l.google.com
 # AdvertisingTest 与 YouTube 共 1 条规则重复
@@ -68056,19 +68054,48 @@ payload:
   - DOMAIN-SUFFIX,uservoice.com
 # AdvertisingTest 与 Niconico 共 1 条规则重复
   - DOMAIN-SUFFIX,socdm.com
-# AdvertisingTest 与 Global 共 5 条规则重复
+# AdvertisingTest 与 Global 共 32 条规则重复
+  - DOMAIN-SUFFIX,2mdn.net
+  - DOMAIN-SUFFIX,2o7.net
+  - DOMAIN-SUFFIX,amplitude.com
+  - DOMAIN-SUFFIX,app-measurement.com
+  - DOMAIN-SUFFIX,azureedge.net
+  - DOMAIN-SUFFIX,bkrtx.com
+  - DOMAIN-SUFFIX,boomtrain.com
+  - DOMAIN-SUFFIX,crashlytics.com
+  - DOMAIN-SUFFIX,crittercism.com
+  - DOMAIN-SUFFIX,demdex.net
   - DOMAIN-SUFFIX,dnvod.tv
+  - DOMAIN-SUFFIX,fabric.io
+  - DOMAIN-SUFFIX,fullstory.com
+  - DOMAIN-SUFFIX,geni.us
+  - DOMAIN-SUFFIX,lightboxcdn.com
   - DOMAIN-SUFFIX,linksalpha.com
+  - DOMAIN-SUFFIX,localnetwork.uop
+  - DOMAIN-SUFFIX,nsstatic.net
   - DOMAIN-SUFFIX,nytlog.com
+  - DOMAIN-SUFFIX,optimizely.com
+  - DOMAIN-SUFFIX,panoramio.com
+  - DOMAIN-SUFFIX,prfct.co
+  - DOMAIN-SUFFIX,pubnub.com
+  - DOMAIN-SUFFIX,pushwoosh.com
+  - DOMAIN-SUFFIX,servebom.com
+  - DOMAIN-SUFFIX,sharethis.com
   - DOMAIN-SUFFIX,socdm.com
+  - DOMAIN-SUFFIX,technorati.com
+  - DOMAIN-SUFFIX,traffichaus.com
+  - DOMAIN-SUFFIX,ubertags.com
   - DOMAIN-SUFFIX,urbanairship.com
-# AdvertisingTest 与 GlobalMedia 共 6 条规则重复
+  - DOMAIN-SUFFIX,xiti.com
+# AdvertisingTest 与 GlobalMedia 共 8 条规则重复
   - DOMAIN-SUFFIX,bluekai.com
   - DOMAIN-SUFFIX,braze.com
   - DOMAIN-SUFFIX,conviva.com
   - DOMAIN-SUFFIX,gvt2.com
   - DOMAIN-SUFFIX,jwpcdn.com
+  - DOMAIN-SUFFIX,segment.com
   - DOMAIN-SUFFIX,socdm.com
+  - DOMAIN-SUFFIX,youboranqs01.com
 # AdvertisingTest 与 Hijacking 共 212 条规则重复
   - DOMAIN-SUFFIX,17gouwuba.com
   - DOMAIN-SUFFIX,186078.com
@@ -68284,7 +68311,7 @@ payload:
   - IP-CIDR,61.160.200.252/32
 # AdvertisingTest 与 Spark 共 1 条规则重复
   - DOMAIN-SUFFIX,amplitude.com
-# AdvertisingTest 与 Privacy 共 2568 条规则重复
+# AdvertisingTest 与 Privacy 共 2567 条规则重复
   - DOMAIN,log-hl-ipv6.snssdk.com
   - DOMAIN,log-lq.snssdk.com
   - DOMAIN,log-va.tiktokv.com
@@ -70380,7 +70407,6 @@ payload:
   - DOMAIN-SUFFIX,te.mytoys.de
   - DOMAIN-SUFFIX,te.supportfreecontent.com
   - DOMAIN-SUFFIX,ted.metro.co.uk
-  - DOMAIN-SUFFIX,telemetrics.klaviyo.com
   - DOMAIN-SUFFIX,telemetry.api.wmcdp.io
   - DOMAIN-SUFFIX,telemetry.art19.com
   - DOMAIN-SUFFIX,telemetry.jivosite.com
@@ -70853,7 +70879,7 @@ payload:
   - DOMAIN-SUFFIX,zsi7.destinia.do
   - DOMAIN-SUFFIX,zyq2.destinia.sk
   - DOMAIN-SUFFIX,zz.bdstatic.com
-# AdvertisingTest 与 Proxy 共 198 条规则重复
+# AdvertisingTest 与 Proxy 共 200 条规则重复
   - DOMAIN-SUFFIX,0emm.com
   - DOMAIN-SUFFIX,100tjs.com
   - DOMAIN-SUFFIX,101com.com
@@ -71020,6 +71046,7 @@ payload:
   - DOMAIN-SUFFIX,sitetag.us
   - DOMAIN-SUFFIX,snap.com
   - DOMAIN-SUFFIX,snapads.com
+  - DOMAIN-SUFFIX,socdm.com
   - DOMAIN-SUFFIX,soundofhope.org
   - DOMAIN-SUFFIX,streamate.com
   - DOMAIN-SUFFIX,taboola.com
@@ -71036,6 +71063,7 @@ payload:
   - DOMAIN-SUFFIX,twittercounter.com
   - DOMAIN-SUFFIX,ubertags.com
   - DOMAIN-SUFFIX,uod2quk646.com
+  - DOMAIN-SUFFIX,urbanairship.com
   - DOMAIN-SUFFIX,visitor.pixplug.in
   - DOMAIN-SUFFIX,voyeurhit.com
   - DOMAIN-SUFFIX,vwo.com

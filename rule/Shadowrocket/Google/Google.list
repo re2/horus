@@ -1,11 +1,12 @@
 # NAME: Google
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-07 14:12:23
+# UPDATED: 2021-01-07 15:11:53
 # USER-AGENT: 3
-# DOMAIN-SUFFIX: 110
-# DOMAIN-KEYWORD: 3
-# TOTAL: 116
+# DOMAIN-SUFFIX: 101
+# DOMAIN-KEYWORD: 5
+# IP-CIDR: 2
+# TOTAL: 111
 DOMAIN-SUFFIX,265.com
 DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,abc.xyz
@@ -30,7 +31,6 @@ DOMAIN-SUFFIX,chromeexperiments.com
 DOMAIN-SUFFIX,chromestatus.com
 DOMAIN-SUFFIX,chromium.org
 DOMAIN-SUFFIX,clickserve.dartsearch.net
-DOMAIN-SUFFIX,clientservices.googleapis.com
 DOMAIN-SUFFIX,corp.google.com
 DOMAIN-SUFFIX,creativelab5.com
 DOMAIN-SUFFIX,crl.pki.goog
@@ -44,7 +44,6 @@ DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,drive.google.com
 DOMAIN-SUFFIX,firebase-settings.crashlytics.com
 DOMAIN-SUFFIX,firebaseio.com
-DOMAIN-SUFFIX,fonts.googleapis.com
 DOMAIN-SUFFIX,getmdl.io
 DOMAIN-SUFFIX,getoutline.org
 DOMAIN-SUFFIX,ggpht.com
@@ -53,8 +52,10 @@ DOMAIN-SUFFIX,gmodules.com
 DOMAIN-SUFFIX,godoc.org
 DOMAIN-SUFFIX,golang.org
 DOMAIN-SUFFIX,google-analytics.com
+DOMAIN-SUFFIX,google.cn
 DOMAIN-SUFFIX,googleadservices.com
 DOMAIN-SUFFIX,googleanalytics.com
+DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googledrive.com
 DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,googletagmanager.com
@@ -67,30 +68,23 @@ DOMAIN-SUFFIX,gvt0.com
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gvt3.com
 DOMAIN-SUFFIX,gwtproject.org
-DOMAIN-SUFFIX,imasdk.googleapis.com
 DOMAIN-SUFFIX,itasoftware.com
 DOMAIN-SUFFIX,kh.google.com
 DOMAIN-SUFFIX,khm.google.com
-DOMAIN-SUFFIX,khm.googleapis.com
 DOMAIN-SUFFIX,khm0.google.com
-DOMAIN-SUFFIX,khm0.googleapis.com
 DOMAIN-SUFFIX,khm1.google.com
-DOMAIN-SUFFIX,khm1.googleapis.com
 DOMAIN-SUFFIX,khm2.google.com
-DOMAIN-SUFFIX,khm2.googleapis.com
 DOMAIN-SUFFIX,khm3.google.com
-DOMAIN-SUFFIX,khm3.googleapis.com
 DOMAIN-SUFFIX,khmdb.google.com
-DOMAIN-SUFFIX,khmdb.googleapis.com
 DOMAIN-SUFFIX,madewithcode.com
 DOMAIN-SUFFIX,material.io
+DOMAIN-SUFFIX,mtalk.google.com
 DOMAIN-SUFFIX,ocsp.pki.goog
 DOMAIN-SUFFIX,pagead-googlehosted.l.google.com
 DOMAIN-SUFFIX,pki-goog.l.google.com
 DOMAIN-SUFFIX,polymer-project.org
 DOMAIN-SUFFIX,recaptcha.net
 DOMAIN-SUFFIX,safebrowsing-cache.google.com
-DOMAIN-SUFFIX,safebrowsing.googleapis.com
 DOMAIN-SUFFIX,settings.crashlytics.com
 DOMAIN-SUFFIX,shattered.io
 DOMAIN-SUFFIX,ssl-google-analytics.l.google.com
@@ -102,8 +96,6 @@ DOMAIN-SUFFIX,tiltbrush.com
 DOMAIN-SUFFIX,toolbarqueries.google.com
 DOMAIN-SUFFIX,tools.google.com
 DOMAIN-SUFFIX,tools.l.google.com
-DOMAIN-SUFFIX,translate.googleapis.com
-DOMAIN-SUFFIX,update.googleapis.com
 DOMAIN-SUFFIX,waveprotocol.org
 DOMAIN-SUFFIX,waymo.com
 DOMAIN-SUFFIX,webmproject.org
@@ -117,8 +109,12 @@ DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-KEYWORD,blogspot
+DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,gstatic
 DOMAIN-KEYWORD,www.google.
+IP-CIDR,173.194.0.0/16,no-resolve
+IP-CIDR,74.125.0.0/16,no-resolve
 USER-AGENT,%e4%ba%91%e7%ab%af%e7%a1%ac%e7%9b%98*
 USER-AGENT,*com.google.drive*
 USER-AGENT,google.drive*

@@ -1,7 +1,7 @@
 # NAME: Privacy 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-07 14:12:24
+# UPDATED: 2021-01-07 15:11:54
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # Privacy 与 Advertising 共 2631 条规则重复
 HOST,log-hl-ipv6.snssdk.com
@@ -2635,7 +2635,7 @@ HOST-SUFFIX,zs.dhl.de
 HOST-SUFFIX,zsi7.destinia.do
 HOST-SUFFIX,zyq2.destinia.sk
 HOST-SUFFIX,zz.bdstatic.com
-# Privacy 与 AdvertisingTest 共 2568 条规则重复
+# Privacy 与 AdvertisingTest 共 2567 条规则重复
 HOST,log-hl-ipv6.snssdk.com
 HOST,log-lq.snssdk.com
 HOST,log-va.tiktokv.com
@@ -4731,7 +4731,6 @@ HOST-SUFFIX,tdf1.vente-unique.pt
 HOST-SUFFIX,te.mytoys.de
 HOST-SUFFIX,te.supportfreecontent.com
 HOST-SUFFIX,ted.metro.co.uk
-HOST-SUFFIX,telemetrics.klaviyo.com
 HOST-SUFFIX,telemetry.api.wmcdp.io
 HOST-SUFFIX,telemetry.art19.com
 HOST-SUFFIX,telemetry.jivosite.com

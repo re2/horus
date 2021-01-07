@@ -1,7 +1,7 @@
 # NAME: AdvertisingLite 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-07 14:12:23
+# UPDATED: 2021-01-07 15:11:54
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # AdvertisingLite 与 Adobe 共 4 条规则重复
 DOMAIN-SUFFIX,adbecrsl.com
@@ -16087,7 +16087,7 @@ URL-REGEX,^https?:\/\/www\.zybang\.com\/adx\/
 URL-REGEX,^https?:\/\/xyst\.yuanfudao\.com\/iphone\/splashesV\d
 URL-REGEX,^https?:\/\/xyz\.cnki\.net\/resourcev7\/api\/manualpush\/SlidsList$
 URL-REGEX,^https?:\/\/yxyapi\d\.drcuiyutao\.com\/yxy-api-gateway\/api\/json\/advert\/
-# AdvertisingLite 与 AdvertisingTest 共 15809 条规则重复
+# AdvertisingLite 与 AdvertisingTest 共 15792 条规则重复
 DOMAIN,0.up.qingdaonews.com
 DOMAIN,0koryu0.easter.ne.jp
 DOMAIN,0nso0tq1sa4.ml
@@ -16096,13 +16096,10 @@ DOMAIN,109-204-26-16.netconnexion.managedbroadband.co.uk
 DOMAIN,12648afd00d93.com
 DOMAIN,14119276be0852.com
 DOMAIN,1543b1db8a0825760.com
-DOMAIN,15yomodels.com
 DOMAIN,16e2ae8f200d975b.com
-DOMAIN,1loop.com
 DOMAIN,2.up.qingdaonews.com
 DOMAIN,21b507a044d841b.com
 DOMAIN,22a12efe35e3c2f.com
-DOMAIN,247teencash.net
 DOMAIN,2amsports.com
 DOMAIN,2xbpub.com
 DOMAIN,3.up.qingdaonews.com
@@ -16138,8 +16135,6 @@ DOMAIN,ad.weibo.com
 DOMAIN,adclick.lv
 DOMAIN,adcoin.click
 DOMAIN,adfile.hori-gz.com
-DOMAIN,adfux.com
-DOMAIN,adjunky.com
 DOMAIN,adlock.in
 DOMAIN,adobeflashupdate14.com
 DOMAIN,ads-4u.com
@@ -16151,17 +16146,11 @@ DOMAIN,ads.yahoo.de
 DOMAIN,adserving.favorit-network.com
 DOMAIN,adtools.gossipkings.com
 DOMAIN,adtools2.amakings.com
-DOMAIN,adultaccessnow.com
-DOMAIN,adultcommercial.net
-DOMAIN,adultmediabuying.com
-DOMAIN,adulttubetraffic.com
 DOMAIN,adv-adlog.variflight.com
 DOMAIN,adv-ads.variflight.com
 DOMAIN,adv.riza.it
 DOMAIN,adverigo.com
 DOMAIN,advertisement.taobao.com
-DOMAIN,advmania.com
-DOMAIN,adxmarket.com
 DOMAIN,afa15.com.ne.kr
 DOMAIN,agsteier.com
 DOMAIN,ajewishgift.com
@@ -16176,7 +16165,6 @@ DOMAIN,amateur.amarotic.com
 DOMAIN,amazingvacationhotels.com
 DOMAIN,ambulanciaslazaro.com
 DOMAIN,aminev.com
-DOMAIN,animeidhentai.com
 DOMAIN,antalya.ru
 DOMAIN,anyporn.com
 DOMAIN,aod-image-material.bj.bcebos.com
@@ -16193,7 +16181,6 @@ DOMAIN,atianqi.com
 DOMAIN,atlcourier.com
 DOMAIN,avppet.com
 DOMAIN,awgsmfzrslcp.com
-DOMAIN,ax47mp-xp-21.com
 DOMAIN,axisbuild.com
 DOMAIN,ayidaye.m.zwdu.com
 DOMAIN,b.nevadaprivateoffice.com
@@ -16213,11 +16200,9 @@ DOMAIN,beholder.xyz
 DOMAIN,beldiplomcom.75.com1.ru
 DOMAIN,best100catfights.com
 DOMAIN,bestcontentpc.top
-DOMAIN,bestmobiworld.com
 DOMAIN,bezproudoff.cz
 DOMAIN,bijscode.com
 DOMAIN,binchoise.ml
-DOMAIN,bitterstrawberry.org
 DOMAIN,bizzibeans.net
 DOMAIN,blacknite.eu
 DOMAIN,blinko.es
@@ -16225,7 +16210,6 @@ DOMAIN,blocks.ginotrack.com
 DOMAIN,blogad.com.tw
 DOMAIN,bookofkisl.com
 DOMAIN,bostonparadise.com
-DOMAIN,bouermes.be
 DOMAIN,bracewellfamily.com
 DOMAIN,bride1.com
 DOMAIN,broadtech.co
@@ -16443,7 +16427,6 @@ DOMAIN,kalantzis.net
 DOMAIN,kapcotool.com
 DOMAIN,kassabravo.com
 DOMAIN,kingsoft.com
-DOMAIN,klaviyo.com
 DOMAIN,kliklink.ru
 DOMAIN,kollagen4you.se
 DOMAIN,ldzqhq.biz
@@ -32572,10 +32555,33 @@ DOMAIN-SUFFIX,zlongad.com
 DOMAIN-SUFFIX,zry8181.com
 DOMAIN-SUFFIX,ztvx8.com
 DOMAIN-SUFFIX,zzbyc.xyz
-# AdvertisingLite 与 ChinaMedia 共 1 条规则重复
+# AdvertisingLite 与 ChinaMedia 共 22 条规则重复
+DOMAIN-SUFFIX,1.letvlive.com
+DOMAIN-SUFFIX,2.letvlive.com
+DOMAIN-SUFFIX,ad.api.3g.tudou.com
+DOMAIN-SUFFIX,ads1.lfengmobile.com
+DOMAIN-SUFFIX,afp.pplive.com
+DOMAIN-SUFFIX,api.cupid.qiyi.com
+DOMAIN-SUFFIX,api.push.le.com
+DOMAIN-SUFFIX,app.aplus.pptv.com
+DOMAIN-SUFFIX,as.aplus.pptv.com
+DOMAIN-SUFFIX,asimgs.pplive.cn
+DOMAIN-SUFFIX,de.as.pptv.com
+DOMAIN-SUFFIX,game.pps.tv
+DOMAIN-SUFFIX,jp.as.pptv.com
 DOMAIN-SUFFIX,koowo.com
+DOMAIN-SUFFIX,msg.video.qiyi.com
+DOMAIN-SUFFIX,msg2.video.qiyi.com
+DOMAIN-SUFFIX,pp2.pptv.com
+DOMAIN-SUFFIX,stat.pptv.com
+DOMAIN-SUFFIX,static.g.ppstream.com
+DOMAIN-SUFFIX,static.g.pptv.com
+DOMAIN-SUFFIX,videojj.com
+DOMAIN-SUFFIX,zamplus.com
 # AdvertisingLite 与 WhiteList 共 1 条规则重复
 DOMAIN,ad.10010.com
+# AdvertisingLite 与 Game 共 1 条规则重复
+DOMAIN,cdp.cloud.unity3d.com
 # AdvertisingLite 与 Google 共 8 条规则重复
 DOMAIN-SUFFIX,adservice.google.com
 DOMAIN-SUFFIX,app-measurement.com
@@ -32589,12 +32595,22 @@ DOMAIN-SUFFIX,googletagservices.com
 DOMAIN-SUFFIX,uservoice.com
 # AdvertisingLite 与 Niconico 共 1 条规则重复
 DOMAIN-SUFFIX,socdm.com
-# AdvertisingLite 与 Global 共 2 条规则重复
+# AdvertisingLite 与 Global 共 11 条规则重复
+DOMAIN-SUFFIX,2o7.net
+DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,crashlytics.com
+DOMAIN-SUFFIX,demdex.net
+DOMAIN-SUFFIX,localnetwork.uop
+DOMAIN-SUFFIX,optimizely.com
+DOMAIN-SUFFIX,panoramio.com
+DOMAIN-SUFFIX,pubnub.com
+DOMAIN-SUFFIX,sharethis.com
 DOMAIN-SUFFIX,socdm.com
 DOMAIN-SUFFIX,urbanairship.com
-# AdvertisingLite 与 GlobalMedia 共 3 条规则重复
+# AdvertisingLite 与 GlobalMedia 共 4 条规则重复
 DOMAIN-SUFFIX,bluekai.com
 DOMAIN-SUFFIX,conviva.com
+DOMAIN-SUFFIX,segment.com
 DOMAIN-SUFFIX,socdm.com
 # AdvertisingLite 与 Hijacking 共 200 条规则重复
 DOMAIN-SUFFIX,17gouwuba.com
@@ -35146,7 +35162,7 @@ DOMAIN-SUFFIX,zs.dhl.de
 DOMAIN-SUFFIX,zsi7.destinia.do
 DOMAIN-SUFFIX,zyq2.destinia.sk
 DOMAIN-SUFFIX,zz.bdstatic.com
-# AdvertisingLite 与 Proxy 共 57 条规则重复
+# AdvertisingLite 与 Proxy 共 59 条规则重复
 DOMAIN-SUFFIX,2o7.net
 DOMAIN-SUFFIX,adbecrsl.com
 DOMAIN-SUFFIX,addthis.com
@@ -35195,10 +35211,12 @@ DOMAIN-SUFFIX,shenyun.com
 DOMAIN-SUFFIX,shenyun.org
 DOMAIN-SUFFIX,shenyunperformingarts.org
 DOMAIN-SUFFIX,sitetag.us
+DOMAIN-SUFFIX,socdm.com
 DOMAIN-SUFFIX,taboola.com
 DOMAIN-SUFFIX,tellapart.com
 DOMAIN-SUFFIX,tradeadexchange.com
 DOMAIN-SUFFIX,tuidang.org
+DOMAIN-SUFFIX,urbanairship.com
 DOMAIN-SUFFIX,xinsheng.net
 DOMAIN-SUFFIX,yuanming.net
 DOMAIN-SUFFIX,zhengjian.org

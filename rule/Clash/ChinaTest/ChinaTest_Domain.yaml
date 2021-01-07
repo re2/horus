@@ -1,14 +1,15 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-07 14:12:22
-# DOMAIN-SUFFIX: 72458
-# DOMAIN: 11
+# UPDATED: 2021-01-07 15:11:53
+# DOMAIN-SUFFIX: 72467
+# DOMAIN: 12
 # IP-CIDR: 4
 # DOMAIN-KEYWORD: 10
 # IP-CIDR6: 4
-# TOTAL: 72487
+# TOTAL: 72497
 payload:
+  - '//speedtest'
   - 'analytics.strava.com'
   - 'blzddist1-a.akamaihd.net'
   - 'client.amplifi.com'
@@ -3328,6 +3329,7 @@ payload:
   - '.35667.com'
   - '.356688.com'
   - '.3566t.com'
+  - '.356884.com'
   - '.357.com'
   - '.357global.com'
   - '.357my.com'
@@ -10328,6 +10330,7 @@ payload:
   - '.ap88.com'
   - '.apa.me'
   - '.apabi.com'
+  - '.apache.org'
   - '.apachecn.org'
   - '.apad.pro'
   - '.apcdianyuan.com'
@@ -10354,6 +10357,7 @@ payload:
   - '.api-zdj.com'
   - '.api.bz'
   - '.api.crisp.chat'
+  - '.api.termius.com'
   - '.apiadmin.org'
   - '.apiairasia.com'
   - '.apicase.io'
@@ -18500,6 +18504,7 @@ payload:
   - '.congzao.com'
   - '.congzhi.com'
   - '.connector-systems.com'
+  - '.conoha.jp'
   - '.conoha.vip'
   - '.conohavps.com'
   - '.conpak.com.hk'
@@ -19305,6 +19310,7 @@ payload:
   - '.cul-studies.com'
   - '.culaiwan.com'
   - '.cultofslavery.com'
+  - '.culturedcode.com'
   - '.cumtenn.com'
   - '.cumulon.com'
   - '.cun58.com'
@@ -27291,6 +27297,7 @@ payload:
   - '.goodtp.com'
   - '.goofish.com'
   - '.google-analytics.com'
+  - '.google.cn'
   - '.googleadservices.com'
   - '.googleadsl.com'
   - '.googleanalytics.com'
@@ -46762,6 +46769,7 @@ payload:
   - '.ovcstf.com'
   - '.ovdream.com'
   - '.ovear.info'
+  - '.overcast.fm'
   - '.overtrue.me'
   - '.overturechina.com'
   - '.ovid.com'
@@ -56907,6 +56915,7 @@ payload:
   - '.tesolsh.com'
   - '.tesoon.com'
   - '.test-edu.net'
+  - '.test-ipv4.com'
   - '.test-ipv6.com'
   - '.test404.com'
   - '.testbird.com'
@@ -62734,6 +62743,7 @@ payload:
   - '.workec.com'
   - '.workehr.com'
   - '.workerman.net'
+  - '.workflowy.com'
   - '.workpcb.com'
   - '.worksgz.com'
   - '.worktile.com'

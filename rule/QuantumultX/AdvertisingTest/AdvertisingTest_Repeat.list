@@ -1,7 +1,7 @@
 # NAME: AdvertisingTest 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-07 14:12:24
+# UPDATED: 2021-01-07 15:11:54
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # AdvertisingTest 与 Adobe 共 6 条规则重复
 HOST-SUFFIX,adbecrsl.com
@@ -10,7 +10,19 @@ HOST-SUFFIX,demdex.net
 HOST-SUFFIX,newrelic.com
 HOST-SUFFIX,omniture.com
 HOST-SUFFIX,omtrdc.net
-# AdvertisingTest 与 Advertising 共 51283 条规则重复
+# AdvertisingTest 与 Advertising 共 51277 条规则重复
+HOST,//client
+HOST,//host-suffix
+HOST,//iqiyi&pps
+HOST,//letv
+HOST,//mgtv
+HOST,//other
+HOST,//pptv
+HOST,//site
+HOST,//sohu
+HOST,//vod
+HOST,//youku&tudou
+HOST,//youtube
 HOST,0.up.qingdaonews.com
 HOST,000lk3v.wcomhost.com
 HOST,000lkub.rcomhost.com
@@ -61,7 +73,6 @@ HOST,14119276be0852.com
 HOST,1492tapasbar.com
 HOST,1493361689.rsc.cdn77.org
 HOST,1543b1db8a0825760.com
-HOST,15yomodels.com
 HOST,16e2ae8f200d975b.com
 HOST,1710coffee.com
 HOST,1755568.live173.com
@@ -70,7 +81,6 @@ HOST,18freeporn.com
 HOST,18pluscard.com
 HOST,18plusstore.com
 HOST,1ejaculationinterne.com
-HOST,1loop.com
 HOST,1sat.itocd.net
 HOST,1stand2ndmortgage.com
 HOST,1worlditsolutions.com
@@ -83,7 +93,6 @@ HOST,21b507a044d841b.com
 HOST,22a12efe35e3c2f.com
 HOST,247gamerz.com
 HOST,247lyrics.com
-HOST,247teencash.net
 HOST,24hf.inq.com
 HOST,24hf.touchcommerce.com
 HOST,24holdem.com
@@ -503,7 +512,6 @@ HOST,addcocgems.com
 HOST,additcinggames.com
 HOST,adeelacorporation.com
 HOST,adfile.hori-gz.com
-HOST,adfux.com
 HOST,adgridwork.com
 HOST,adgroups.net
 HOST,adgtracker.com
@@ -515,7 +523,6 @@ HOST,adimg.ngfiles.com
 HOST,adimg.tv.com
 HOST,adjourne.com
 HOST,adjs.hopemobi.net
-HOST,adjunky.com
 HOST,adkariaca.com
 HOST,adlawyers.net
 HOST,adlock.in
@@ -738,11 +745,7 @@ HOST,adtools.gossipkings.com
 HOST,adtools2.amakings.com
 HOST,adtradradservices.com
 HOST,adult18games.com
-HOST,adultaccessnow.com
-HOST,adultcommercial.net
-HOST,adultmediabuying.com
 HOST,adultmoneymakers.com
-HOST,adulttubetraffic.com
 HOST,adv-adlog.variflight.com
 HOST,adv-ads.variflight.com
 HOST,adv.440network.com
@@ -769,7 +772,6 @@ HOST,advertising.microsoft.com
 HOST,advertisingagent.com
 HOST,advice-ads.s3.amazonaws.com
 HOST,adviceintl.com
-HOST,advmania.com
 HOST,adwaengg.com
 HOST,adwareremovergold.com
 HOST,adwitserver.com
@@ -779,7 +781,6 @@ HOST,adx.ibibo.com
 HOST,adx.ocala.com
 HOST,adx.telegram.com
 HOST,adx.timesdaily.com
-HOST,adxmarket.com
 HOST,adztracking.com
 HOST,ae.adserver.yahoo.com
 HOST,aegis.secure-orders.net
@@ -1013,7 +1014,6 @@ HOST,angelsinuniform.com
 HOST,angryhack.com
 HOST,anhuiguzhai.com
 HOST,animahouseonline.org
-HOST,animeidhentai.com
 HOST,animeonline.net
 HOST,ankursociety.org
 HOST,annamidly.com
@@ -1288,7 +1288,6 @@ HOST,avon-ukraine.com
 HOST,avppet.com
 HOST,avtoizkorei.com
 HOST,awgsmfzrslcp.com
-HOST,ax47mp-xp-21.com
 HOST,axisbuild.com
 HOST,axisdevelopmentltd.com
 HOST,ayada.zapto.org
@@ -1480,7 +1479,6 @@ HOST,besthacks.net
 HOST,besthacks4u.com
 HOST,besthacksdll.com
 HOST,bestlayintown.com
-HOST,bestmobiworld.com
 HOST,bestoffers.activeshopper.com
 HOST,bestofpush.com
 HOST,bestonlinegamecheats.net
@@ -1534,7 +1532,6 @@ HOST,biswanet.com
 HOST,bitcoin-wallet.net
 HOST,bitcoinsfree.org
 HOST,bitskins.cn.com
-HOST,bitterstrawberry.org
 HOST,bittrex.comze.com
 HOST,biznettvigator.com
 HOST,bizzibeans.net
@@ -1615,7 +1612,6 @@ HOST,botd.wordpress.com
 HOST,botd2.wordpress.com
 HOST,bots.icubeswire.com
 HOST,botsdownload.com
-HOST,bouermes.be
 HOST,boulevardcoins.com
 HOST,bountywin.com
 HOST,boushehri.com
@@ -4607,7 +4603,6 @@ HOST,kittengarden.gb.net
 HOST,kittrellglass.com
 HOST,kittystat.com
 HOST,kiwe-analytics.com
-HOST,klaviyo.com
 HOST,kliklink.ru
 HOST,klio908.wixsite.com
 HOST,klugtaxlaw.com
@@ -5325,7 +5320,6 @@ HOST,mmtracking.com
 HOST,mobigamesforpc.com
 HOST,mobile-redirection.com
 HOST,mobile.activeshopper.com
-HOST,mobile.bitterstrawberry.org
 HOST,mobileads.indiatimes.com
 HOST,mobilebouncingcastle.com
 HOST,mobilegamehackers.com
@@ -20288,6 +20282,7 @@ HOST-SUFFIX,data-pic.cdn.cootekservice.com
 HOST-SUFFIX,data.ads.oppomobile.com
 HOST-SUFFIX,data.alexa.com
 HOST-SUFFIX,data.apn.co.nz
+HOST-SUFFIX,data.bilibili.com
 HOST-SUFFIX,data.circulate.com
 HOST-SUFFIX,data.danmu.baofeng.com
 HOST-SUFFIX,data.doodlemobile.com
@@ -43796,7 +43791,6 @@ HOST-SUFFIX,tel-tel-fie.com
 HOST-SUFFIX,telecommand.telemetry.microsoft.com.nsatc.net
 HOST-SUFFIX,telegraph.api.hbo.com
 HOST-SUFFIX,telemetric.dk
-HOST-SUFFIX,telemetrics.klaviyo.com
 HOST-SUFFIX,telemetry.api.wmcdp.io
 HOST-SUFFIX,telemetry.appex.bing.net
 HOST-SUFFIX,telemetry.art19.com
@@ -51294,7 +51288,7 @@ IP-CIDR,69.28.57.245/32
 IP-CIDR,74.117.182.77/32
 IP-CIDR,78.140.131.214/32
 IP-CIDR,91.196.216.64/32
-# AdvertisingTest 与 AdvertisingLite 共 15510 条规则重复
+# AdvertisingTest 与 AdvertisingLite 共 15493 条规则重复
 HOST,0.up.qingdaonews.com
 HOST,0koryu0.easter.ne.jp
 HOST,0nso0tq1sa4.ml
@@ -51303,13 +51297,10 @@ HOST,109-204-26-16.netconnexion.managedbroadband.co.uk
 HOST,12648afd00d93.com
 HOST,14119276be0852.com
 HOST,1543b1db8a0825760.com
-HOST,15yomodels.com
 HOST,16e2ae8f200d975b.com
-HOST,1loop.com
 HOST,2.up.qingdaonews.com
 HOST,21b507a044d841b.com
 HOST,22a12efe35e3c2f.com
-HOST,247teencash.net
 HOST,2amsports.com
 HOST,2xbpub.com
 HOST,3.up.qingdaonews.com
@@ -51345,8 +51336,6 @@ HOST,ad.weibo.com
 HOST,adclick.lv
 HOST,adcoin.click
 HOST,adfile.hori-gz.com
-HOST,adfux.com
-HOST,adjunky.com
 HOST,adlock.in
 HOST,adobeflashupdate14.com
 HOST,ads-4u.com
@@ -51358,17 +51347,11 @@ HOST,ads.yahoo.de
 HOST,adserving.favorit-network.com
 HOST,adtools.gossipkings.com
 HOST,adtools2.amakings.com
-HOST,adultaccessnow.com
-HOST,adultcommercial.net
-HOST,adultmediabuying.com
-HOST,adulttubetraffic.com
 HOST,adv-adlog.variflight.com
 HOST,adv-ads.variflight.com
 HOST,adv.riza.it
 HOST,adverigo.com
 HOST,advertisement.taobao.com
-HOST,advmania.com
-HOST,adxmarket.com
 HOST,afa15.com.ne.kr
 HOST,agsteier.com
 HOST,ajewishgift.com
@@ -51383,7 +51366,6 @@ HOST,amateur.amarotic.com
 HOST,amazingvacationhotels.com
 HOST,ambulanciaslazaro.com
 HOST,aminev.com
-HOST,animeidhentai.com
 HOST,antalya.ru
 HOST,anyporn.com
 HOST,aod-image-material.bj.bcebos.com
@@ -51400,7 +51382,6 @@ HOST,atianqi.com
 HOST,atlcourier.com
 HOST,avppet.com
 HOST,awgsmfzrslcp.com
-HOST,ax47mp-xp-21.com
 HOST,axisbuild.com
 HOST,ayidaye.m.zwdu.com
 HOST,b.nevadaprivateoffice.com
@@ -51420,11 +51401,9 @@ HOST,beholder.xyz
 HOST,beldiplomcom.75.com1.ru
 HOST,best100catfights.com
 HOST,bestcontentpc.top
-HOST,bestmobiworld.com
 HOST,bezproudoff.cz
 HOST,bijscode.com
 HOST,binchoise.ml
-HOST,bitterstrawberry.org
 HOST,bizzibeans.net
 HOST,blacknite.eu
 HOST,blinko.es
@@ -51432,7 +51411,6 @@ HOST,blocks.ginotrack.com
 HOST,blogad.com.tw
 HOST,bookofkisl.com
 HOST,bostonparadise.com
-HOST,bouermes.be
 HOST,bracewellfamily.com
 HOST,bride1.com
 HOST,broadtech.co
@@ -51650,7 +51628,6 @@ HOST,kalantzis.net
 HOST,kapcotool.com
 HOST,kassabravo.com
 HOST,kingsoft.com
-HOST,klaviyo.com
 HOST,kliklink.ru
 HOST,kollagen4you.se
 HOST,ldzqhq.biz
@@ -66851,7 +66828,7 @@ HOST-SUFFIX,umeng.com
 HOST-SUFFIX,umengcloud.com
 HOST-SUFFIX,xdrig.com
 HOST-SUFFIX,zmzfile.com
-# AdvertisingTest 与 ChinaTest 共 1174 条规则重复
+# AdvertisingTest 与 ChinaTest 共 1175 条规则重复
 HOST-SUFFIX,000dn.com
 HOST-SUFFIX,0024aaaa.com
 HOST-SUFFIX,002lzj.com
@@ -67144,6 +67121,7 @@ HOST-SUFFIX,bmp.ovh
 HOST-SUFFIX,bnq86.com
 HOST-SUFFIX,bobo.com
 HOST-SUFFIX,boxshows.com
+HOST-SUFFIX,bozhihua.com
 HOST-SUFFIX,bryonypie.com
 HOST-SUFFIX,btyou.com
 HOST-SUFFIX,bugtags.com
@@ -68026,15 +68004,36 @@ HOST-SUFFIX,zyiis.net
 HOST-SUFFIX,zzbyc.xyz
 HOST-SUFFIX,zzpzero.com
 HOST-SUFFIX,zzsdtzb.com
-# AdvertisingTest 与 ChinaMedia 共 2 条规则重复
+# AdvertisingTest 与 ChinaMedia 共 24 条规则重复
+HOST-SUFFIX,1.letvlive.com
+HOST-SUFFIX,2.letvlive.com
 HOST-SUFFIX,71.am
+HOST-SUFFIX,ad.api.3g.tudou.com
+HOST-SUFFIX,ads1.lfengmobile.com
+HOST-SUFFIX,afp.pplive.com
+HOST-SUFFIX,api.cupid.qiyi.com
+HOST-SUFFIX,api.push.le.com
+HOST-SUFFIX,app.aplus.pptv.com
+HOST-SUFFIX,as.aplus.pptv.com
+HOST-SUFFIX,asimgs.pplive.cn
+HOST-SUFFIX,de.as.pptv.com
+HOST-SUFFIX,game.pps.tv
+HOST-SUFFIX,jp.as.pptv.com
 HOST-SUFFIX,koowo.com
-# AdvertisingTest 与 Google 共 17 条规则重复
+HOST-SUFFIX,msg.video.qiyi.com
+HOST-SUFFIX,msg2.video.qiyi.com
+HOST-SUFFIX,pp2.pptv.com
+HOST-SUFFIX,stat.pptv.com
+HOST-SUFFIX,static.g.ppstream.com
+HOST-SUFFIX,static.g.pptv.com
+HOST-SUFFIX,videojj.com
+HOST-SUFFIX,zamplus.com
+HOST-SUFFIX,zmzfile.com
+# AdvertisingTest 与 Google 共 15 条规则重复
 HOST-SUFFIX,2mdn.net
 HOST-SUFFIX,adservice.google.com
 HOST-SUFFIX,app-measurement.com
 HOST-SUFFIX,clickserve.dartsearch.net
-HOST-SUFFIX,clientservices.googleapis.com
 HOST-SUFFIX,doubleclick.net
 HOST-SUFFIX,google-analytics.com
 HOST-SUFFIX,googleadservices.com
@@ -68042,9 +68041,8 @@ HOST-SUFFIX,googleanalytics.com
 HOST-SUFFIX,googlesyndication.com
 HOST-SUFFIX,googletagmanager.com
 HOST-SUFFIX,googletagservices.com
-HOST-SUFFIX,imasdk.googleapis.com
+HOST-SUFFIX,mtalk.google.com
 HOST-SUFFIX,pagead-googlehosted.l.google.com
-HOST-SUFFIX,safebrowsing.googleapis.com
 HOST-SUFFIX,ssl-google-analytics.l.google.com
 HOST-SUFFIX,www-googletagmanager.l.google.com
 # AdvertisingTest 与 YouTube 共 1 条规则重复
@@ -68055,19 +68053,48 @@ HOST-SUFFIX,fabric.io
 HOST-SUFFIX,uservoice.com
 # AdvertisingTest 与 Niconico 共 1 条规则重复
 HOST-SUFFIX,socdm.com
-# AdvertisingTest 与 Global 共 5 条规则重复
+# AdvertisingTest 与 Global 共 32 条规则重复
+HOST-SUFFIX,2mdn.net
+HOST-SUFFIX,2o7.net
+HOST-SUFFIX,amplitude.com
+HOST-SUFFIX,app-measurement.com
+HOST-SUFFIX,azureedge.net
+HOST-SUFFIX,bkrtx.com
+HOST-SUFFIX,boomtrain.com
+HOST-SUFFIX,crashlytics.com
+HOST-SUFFIX,crittercism.com
+HOST-SUFFIX,demdex.net
 HOST-SUFFIX,dnvod.tv
+HOST-SUFFIX,fabric.io
+HOST-SUFFIX,fullstory.com
+HOST-SUFFIX,geni.us
+HOST-SUFFIX,lightboxcdn.com
 HOST-SUFFIX,linksalpha.com
+HOST-SUFFIX,localnetwork.uop
+HOST-SUFFIX,nsstatic.net
 HOST-SUFFIX,nytlog.com
+HOST-SUFFIX,optimizely.com
+HOST-SUFFIX,panoramio.com
+HOST-SUFFIX,prfct.co
+HOST-SUFFIX,pubnub.com
+HOST-SUFFIX,pushwoosh.com
+HOST-SUFFIX,servebom.com
+HOST-SUFFIX,sharethis.com
 HOST-SUFFIX,socdm.com
+HOST-SUFFIX,technorati.com
+HOST-SUFFIX,traffichaus.com
+HOST-SUFFIX,ubertags.com
 HOST-SUFFIX,urbanairship.com
-# AdvertisingTest 与 GlobalMedia 共 6 条规则重复
+HOST-SUFFIX,xiti.com
+# AdvertisingTest 与 GlobalMedia 共 8 条规则重复
 HOST-SUFFIX,bluekai.com
 HOST-SUFFIX,braze.com
 HOST-SUFFIX,conviva.com
 HOST-SUFFIX,gvt2.com
 HOST-SUFFIX,jwpcdn.com
+HOST-SUFFIX,segment.com
 HOST-SUFFIX,socdm.com
+HOST-SUFFIX,youboranqs01.com
 # AdvertisingTest 与 Hijacking 共 212 条规则重复
 HOST-SUFFIX,17gouwuba.com
 HOST-SUFFIX,186078.com
@@ -68283,7 +68310,7 @@ IP-CIDR,61.160.200.242/32
 IP-CIDR,61.160.200.252/32
 # AdvertisingTest 与 Spark 共 1 条规则重复
 HOST-SUFFIX,amplitude.com
-# AdvertisingTest 与 Privacy 共 2568 条规则重复
+# AdvertisingTest 与 Privacy 共 2567 条规则重复
 HOST,log-hl-ipv6.snssdk.com
 HOST,log-lq.snssdk.com
 HOST,log-va.tiktokv.com
@@ -70379,7 +70406,6 @@ HOST-SUFFIX,tdf1.vente-unique.pt
 HOST-SUFFIX,te.mytoys.de
 HOST-SUFFIX,te.supportfreecontent.com
 HOST-SUFFIX,ted.metro.co.uk
-HOST-SUFFIX,telemetrics.klaviyo.com
 HOST-SUFFIX,telemetry.api.wmcdp.io
 HOST-SUFFIX,telemetry.art19.com
 HOST-SUFFIX,telemetry.jivosite.com
@@ -70852,7 +70878,7 @@ HOST-SUFFIX,zs.dhl.de
 HOST-SUFFIX,zsi7.destinia.do
 HOST-SUFFIX,zyq2.destinia.sk
 HOST-SUFFIX,zz.bdstatic.com
-# AdvertisingTest 与 Proxy 共 198 条规则重复
+# AdvertisingTest 与 Proxy 共 200 条规则重复
 HOST-SUFFIX,0emm.com
 HOST-SUFFIX,100tjs.com
 HOST-SUFFIX,101com.com
@@ -71019,6 +71045,7 @@ HOST-SUFFIX,sitebro.tw
 HOST-SUFFIX,sitetag.us
 HOST-SUFFIX,snap.com
 HOST-SUFFIX,snapads.com
+HOST-SUFFIX,socdm.com
 HOST-SUFFIX,soundofhope.org
 HOST-SUFFIX,streamate.com
 HOST-SUFFIX,taboola.com
@@ -71035,6 +71062,7 @@ HOST-SUFFIX,twilightsex.com
 HOST-SUFFIX,twittercounter.com
 HOST-SUFFIX,ubertags.com
 HOST-SUFFIX,uod2quk646.com
+HOST-SUFFIX,urbanairship.com
 HOST-SUFFIX,visitor.pixplug.in
 HOST-SUFFIX,voyeurhit.com
 HOST-SUFFIX,vwo.com

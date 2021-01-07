@@ -1,15 +1,16 @@
 # NAME: China
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-07 14:12:21
-# HOST-SUFFIX: 613
-# USER-AGENT: 20
-# HOST: 15
+# UPDATED: 2021-01-07 15:11:51
+# HOST-SUFFIX: 621
+# USER-AGENT: 33
+# HOST: 16
 # IP-CIDR: 4
 # HOST-KEYWORD: 11
 # IP6-CIDR: 4
 # GEOIP: 1
-# TOTAL: 668
+# TOTAL: 690
+HOST,//speedtest,China
 HOST,analytics.strava.com,China
 HOST,blzddist1-a.akamaihd.net,China
 HOST,cdn.angruo.com,China
@@ -39,6 +40,7 @@ HOST-SUFFIX,17jita.com,China
 HOST-SUFFIX,189.cn,China
 HOST-SUFFIX,21cn.com,China
 HOST-SUFFIX,343480.com,China
+HOST-SUFFIX,356884.com,China
 HOST-SUFFIX,360.cn,China
 HOST-SUFFIX,360.com,China
 HOST-SUFFIX,360buy.com,China
@@ -87,6 +89,7 @@ HOST-SUFFIX,animetorrents.me,China
 HOST-SUFFIX,annualreviews.org,China
 HOST-SUFFIX,apache.org,China
 HOST-SUFFIX,api.crisp.chat,China
+HOST-SUFFIX,api.termius.com,China
 HOST-SUFFIX,appshike.com,China
 HOST-SUFFIX,aps.org,China
 HOST-SUFFIX,ascelibrary.org,China
@@ -172,6 +175,7 @@ HOST-SUFFIX,cnbetacdn.com,China
 HOST-SUFFIX,cnlang.org,China
 HOST-SUFFIX,com-hs-hkdy.com,China
 HOST-SUFFIX,comicat.org,China
+HOST-SUFFIX,conoha.jp,China
 HOST-SUFFIX,cootekservice.com,China
 HOST-SUFFIX,crashlytics.com,China
 HOST-SUFFIX,csdn.net,China
@@ -237,6 +241,7 @@ HOST-SUFFIX,getpricetag.com,China
 HOST-SUFFIX,gifshow.com,China
 HOST-SUFFIX,godic.net,China
 HOST-SUFFIX,goodread.com,China
+HOST-SUFFIX,google.cn,China
 HOST-SUFFIX,googletraveladservices.com,China
 HOST-SUFFIX,gtimg.com,China
 HOST-SUFFIX,haibian.com,China
@@ -419,6 +424,7 @@ HOST-SUFFIX,oup.com,China
 HOST-SUFFIX,ourbits.club,China
 HOST-SUFFIX,ourdvs.com,China
 HOST-SUFFIX,outlook.com,China
+HOST-SUFFIX,overcast.fm,China
 HOST-SUFFIX,ovid.com,China
 HOST-SUFFIX,oxfordartonline.com,China
 HOST-SUFFIX,oxfordbibliographies.com,China
@@ -456,6 +462,7 @@ HOST-SUFFIX,qingmang.mobi,China
 HOST-SUFFIX,qiniu.com,China
 HOST-SUFFIX,qiniucdn.com,China
 HOST-SUFFIX,qiniudn.com,China
+HOST-SUFFIX,qiyi.com,China
 HOST-SUFFIX,qiyipic.com,China
 HOST-SUFFIX,qlogo.cn,China
 HOST-SUFFIX,qpic.cn,China
@@ -536,6 +543,7 @@ HOST-SUFFIX,teamviewer.com,China
 HOST-SUFFIX,tencent-cloud.net,China
 HOST-SUFFIX,tencent.com,China
 HOST-SUFFIX,tenpay.com,China
+HOST-SUFFIX,test-ipv4.com,China
 HOST-SUFFIX,test-ipv6.com,China
 HOST-SUFFIX,tianyancha.com,China
 HOST-SUFFIX,tietuku.com,China
@@ -588,6 +596,7 @@ HOST-SUFFIX,windows.com,China
 HOST-SUFFIX,windows.net,China
 HOST-SUFFIX,windowsupdate.com,China
 HOST-SUFFIX,wkcdn.com,China
+HOST-SUFFIX,workflowy.com,China
 HOST-SUFFIX,worldbank.org,China
 HOST-SUFFIX,worldscientific.com,China
 HOST-SUFFIX,xbox.com,China
@@ -650,18 +659,31 @@ HOST-KEYWORD,officecdn,China
 HOST-KEYWORD,speedtest,China
 HOST-KEYWORD,taobao,China
 USER-AGENT,%e4%b8%ad%e5%9b%bd%e5%b7%a5%e5%95%86%e9%93%b6%e8%a1%8c*,China
+USER-AGENT,%e4%ba%ac%e4%b8%9c%e5%88%b0%e5%ae%b6*,China
 USER-AGENT,%e4%bc%81%e4%b8%9a%e5%be%ae%e4%bf%a1*,China
 USER-AGENT,%e4%bc%98%e9%85%b7*,China
+USER-AGENT,%e5%8d%b3%e5%88%bb*,China
 USER-AGENT,%e7%bd%91%e6%98%93%e4%ba%91%e9%9f%b3%e4%b9%90*,China
+USER-AGENT,*vainglory*,China
+USER-AGENT,adblock*,China
+USER-AGENT,arrowio*,China
+USER-AGENT,balls*,China
+USER-AGENT,best%20trace*,China
 USER-AGENT,cmb*,China
+USER-AGENT,cmblife*,China
+USER-AGENT,eusoft_ting_en_iphone,China
 USER-AGENT,hearthstone*,China
 USER-AGENT,hide*,China
+USER-AGENT,megawerewolf*,China
 USER-AGENT,micromessenger%20client,China
 USER-AGENT,micromessenger*,China
 USER-AGENT,micromessengerclient*,China
 USER-AGENT,microsoft*,China
+USER-AGENT,moke*,China
 USER-AGENT,neteasemusic*,China
+USER-AGENT,osee2unifiedrelease*,China
 USER-AGENT,paypal*,China
+USER-AGENT,qq*,China
 USER-AGENT,remoteplay*,China
 USER-AGENT,teamviewer*,China
 USER-AGENT,tim*,China

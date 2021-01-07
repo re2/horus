@@ -1,7 +1,7 @@
 # NAME: China 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-07 14:12:25
+# UPDATED: 2021-01-07 15:11:55
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 payload:
 # China 与 Adobe 共 2 条规则重复
@@ -66,8 +66,9 @@ payload:
   - DOMAIN-SUFFIX,bilibili.tv
   - DOMAIN-SUFFIX,bilivideo.com
   - DOMAIN-SUFFIX,hdslb.com
-# China 与 BlackList 共 19 条规则重复
+# China 与 BlackList 共 22 条规则重复
   - DOMAIN-SUFFIX,apache.org
+  - DOMAIN-SUFFIX,api.termius.com
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,bing.net
   - DOMAIN-SUFFIX,culturedcode.com
@@ -80,11 +81,13 @@ payload:
   - DOMAIN-SUFFIX,nssurge.com
   - DOMAIN-SUFFIX,office365.com
   - DOMAIN-SUFFIX,onenote.com
+  - DOMAIN-SUFFIX,overcast.fm
   - DOMAIN-SUFFIX,sciencemag.org
   - DOMAIN-SUFFIX,symcd.com
   - DOMAIN-SUFFIX,teamviewer.com
   - DOMAIN-SUFFIX,trello.com
   - DOMAIN-SUFFIX,unity3d.com
+  - DOMAIN-SUFFIX,workflowy.com
   - DOMAIN-SUFFIX,xteko.com
 # China 与 Blizzard 共 3 条规则重复
   - DOMAIN,blzddist1-a.akamaihd.net
@@ -97,7 +100,8 @@ payload:
   - DOMAIN-SUFFIX,pstatp.com
   - DOMAIN-SUFFIX,snssdk.com
   - DOMAIN-SUFFIX,toutiao.com
-# China 与 ChinaTest 共 612 条规则重复
+# China 与 ChinaTest 共 623 条规则重复
+  - DOMAIN,//speedtest
   - DOMAIN,analytics.strava.com
   - DOMAIN,blzddist1-a.akamaihd.net
   - DOMAIN,client.amplifi.com
@@ -131,6 +135,7 @@ payload:
   - DOMAIN-SUFFIX,17jita.com
   - DOMAIN-SUFFIX,21cn.com
   - DOMAIN-SUFFIX,343480.com
+  - DOMAIN-SUFFIX,356884.com
   - DOMAIN-SUFFIX,360.cn
   - DOMAIN-SUFFIX,360.com
   - DOMAIN-SUFFIX,360buy.com
@@ -176,7 +181,9 @@ payload:
   - DOMAIN-SUFFIX,animebytes.tv
   - DOMAIN-SUFFIX,animetorrents.me
   - DOMAIN-SUFFIX,annualreviews.org
+  - DOMAIN-SUFFIX,apache.org
   - DOMAIN-SUFFIX,api.crisp.chat
+  - DOMAIN-SUFFIX,api.termius.com
   - DOMAIN-SUFFIX,appshike.com
   - DOMAIN-SUFFIX,aps.org
   - DOMAIN-SUFFIX,ascelibrary.org
@@ -255,10 +262,12 @@ payload:
   - DOMAIN-SUFFIX,cnlang.org
   - DOMAIN-SUFFIX,com-hs-hkdy.com
   - DOMAIN-SUFFIX,comicat.org
+  - DOMAIN-SUFFIX,conoha.jp
   - DOMAIN-SUFFIX,cootekservice.com
   - DOMAIN-SUFFIX,crashlytics.com
   - DOMAIN-SUFFIX,csdn.net
   - DOMAIN-SUFFIX,ctrip.com
+  - DOMAIN-SUFFIX,culturedcode.com
   - DOMAIN-SUFFIX,cz88.net
   - DOMAIN-SUFFIX,czybjz.com
   - DOMAIN-SUFFIX,dandanzan.com
@@ -319,6 +328,7 @@ payload:
   - DOMAIN-SUFFIX,gifshow.com
   - DOMAIN-SUFFIX,godic.net
   - DOMAIN-SUFFIX,goodread.com
+  - DOMAIN-SUFFIX,google.cn
   - DOMAIN-SUFFIX,googletraveladservices.com
   - DOMAIN-SUFFIX,gtimg.com
   - DOMAIN-SUFFIX,haibian.com
@@ -488,6 +498,7 @@ payload:
   - DOMAIN-SUFFIX,ourbits.club
   - DOMAIN-SUFFIX,ourdvs.com
   - DOMAIN-SUFFIX,outlook.com
+  - DOMAIN-SUFFIX,overcast.fm
   - DOMAIN-SUFFIX,ovid.com
   - DOMAIN-SUFFIX,oxfordartonline.com
   - DOMAIN-SUFFIX,oxfordbibliographies.com
@@ -524,6 +535,7 @@ payload:
   - DOMAIN-SUFFIX,qiniu.com
   - DOMAIN-SUFFIX,qiniucdn.com
   - DOMAIN-SUFFIX,qiniudn.com
+  - DOMAIN-SUFFIX,qiyi.com
   - DOMAIN-SUFFIX,qiyipic.com
   - DOMAIN-SUFFIX,qq.com
   - DOMAIN-SUFFIX,qqmail.com
@@ -602,6 +614,7 @@ payload:
   - DOMAIN-SUFFIX,tencent-cloud.net
   - DOMAIN-SUFFIX,tencent.com
   - DOMAIN-SUFFIX,tenpay.com
+  - DOMAIN-SUFFIX,test-ipv4.com
   - DOMAIN-SUFFIX,test-ipv6.com
   - DOMAIN-SUFFIX,tianyancha.com
   - DOMAIN-SUFFIX,tietuku.com
@@ -654,6 +667,7 @@ payload:
   - DOMAIN-SUFFIX,windows.net
   - DOMAIN-SUFFIX,windowsupdate.com
   - DOMAIN-SUFFIX,wkcdn.com
+  - DOMAIN-SUFFIX,workflowy.com
   - DOMAIN-SUFFIX,worldbank.org
   - DOMAIN-SUFFIX,worldscientific.com
   - DOMAIN-SUFFIX,xdrig.com
@@ -710,7 +724,7 @@ payload:
   - IP-CIDR6,2a0b:b581::/48
   - IP-CIDR6,2a0b:b582::/48
   - IP-CIDR6,2a0b:b583::/48
-# China 与 ChinaMedia 共 24 条规则重复
+# China 与 ChinaMedia 共 31 条规则重复
   - DOMAIN-SUFFIX,71.am
   - DOMAIN-SUFFIX,71.am.com
   - DOMAIN-SUFFIX,acfun.tv
@@ -725,6 +739,7 @@ payload:
   - DOMAIN-SUFFIX,hitv.com
   - DOMAIN-SUFFIX,iqiyi.com
   - DOMAIN-SUFFIX,iqiyipic.com
+  - DOMAIN-SUFFIX,jstucdn.com
   - DOMAIN-SUFFIX,kugou.com
   - DOMAIN-SUFFIX,letv.com
   - DOMAIN-SUFFIX,mgtv.com
@@ -735,6 +750,12 @@ payload:
   - DOMAIN-SUFFIX,xiami.net
   - DOMAIN-SUFFIX,ykimg.com
   - DOMAIN-SUFFIX,youku.com
+  - DOMAIN-SUFFIX,zimuzu.io
+  - DOMAIN-SUFFIX,zimuzu.tv
+  - DOMAIN-SUFFIX,zmz2019.com
+  - DOMAIN-SUFFIX,zmzapi.com
+  - DOMAIN-SUFFIX,zmzapi.net
+  - DOMAIN-SUFFIX,zmzfile.com
 # China 与 DiDi 共 3 条规则重复
   - DOMAIN-SUFFIX,didialift.com
   - DOMAIN-SUFFIX,didiglobal.com
@@ -760,22 +781,32 @@ payload:
   - DOMAIN-SUFFIX,steamstat.us
   - DOMAIN-SUFFIX,steamstatic.com
   - DOMAIN-SUFFIX,steamusercontent.com
-# China 与 Game 共 11 条规则重复
+# China 与 Game 共 17 条规则重复
   - DOMAIN,blzddist1-a.akamaihd.net
   - DOMAIN,steamcommunity-a.akamaihd.net
   - DOMAIN-SUFFIX,battle.net
+  - DOMAIN-SUFFIX,battlenet.com
   - DOMAIN-SUFFIX,blizzard.com
+  - DOMAIN-SUFFIX,playstation.com
+  - DOMAIN-SUFFIX,playstation.net
+  - DOMAIN-SUFFIX,playstationnetwork.com
+  - DOMAIN-SUFFIX,sonyentertainmentnetwork.com
   - DOMAIN-SUFFIX,steam-chat.com
+  - DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
   - DOMAIN-SUFFIX,steamcontent.com
   - DOMAIN-SUFFIX,steamgames.com
   - DOMAIN-SUFFIX,steampowered.com
   - DOMAIN-SUFFIX,steamstat.us
   - DOMAIN-SUFFIX,steamstatic.com
   - DOMAIN-SUFFIX,steamusercontent.com
-# China 与 Microsoft 共 25 条规则重复
+# China 与 Google 共 1 条规则重复
+  - DOMAIN-SUFFIX,google.cn
+# China 与 Microsoft 共 29 条规则重复
   - DOMAIN-KEYWORD,microsoft
   - DOMAIN-SUFFIX,akadns.net
+  - DOMAIN-SUFFIX,azure.cn
   - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,bing.net
   - DOMAIN-SUFFIX,hotmail.com
   - DOMAIN-SUFFIX,live.com
   - DOMAIN-SUFFIX,live.net
@@ -798,6 +829,8 @@ payload:
   - DOMAIN-SUFFIX,windows.com
   - DOMAIN-SUFFIX,windows.net
   - DOMAIN-SUFFIX,windowsupdate.com
+  - DOMAIN-SUFFIX,xbox.com
+  - DOMAIN-SUFFIX,xboxlive.com
 # China 与 OneDriver 共 1 条规则重复
   - DOMAIN-SUFFIX,sharepoint.com
 # China 与 Meitu 共 4 条规则重复
@@ -833,11 +866,41 @@ payload:
   - DOMAIN-SUFFIX,ibytedtos.com
 # China 与 Pinduoduo 共 1 条规则重复
   - DOMAIN-SUFFIX,yangkeduo.com
-# China 与 Global 共 5 条规则重复
+# China 与 Global 共 35 条规则重复
   - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,bjango.com
+  - DOMAIN-SUFFIX,conoha.jp
+  - DOMAIN-SUFFIX,crashlytics.com
+  - DOMAIN-SUFFIX,culturedcode.com
+  - DOMAIN-SUFFIX,digicert.com
+  - DOMAIN-SUFFIX,dytt8.net
+  - DOMAIN-SUFFIX,getpricetag.com
+  - DOMAIN-SUFFIX,hotmail.com
+  - DOMAIN-SUFFIX,ip.sb
+  - DOMAIN-SUFFIX,licdn.com
+  - DOMAIN-SUFFIX,linkedin.com
+  - DOMAIN-SUFFIX,live.com
+  - DOMAIN-SUFFIX,live.net
+  - DOMAIN-SUFFIX,microsofttranslator.com
+  - DOMAIN-SUFFIX,msedge.net
+  - DOMAIN-SUFFIX,nssurge.com
+  - DOMAIN-SUFFIX,onenote.com
+  - DOMAIN-SUFFIX,outlook.com
+  - DOMAIN-SUFFIX,overcast.fm
   - DOMAIN-SUFFIX,paypal.com
   - DOMAIN-SUFFIX,paypalobjects.com
+  - DOMAIN-SUFFIX,playstation.com
+  - DOMAIN-SUFFIX,playstation.net
+  - DOMAIN-SUFFIX,playstationnetwork.com
+  - DOMAIN-SUFFIX,sciencemag.org
+  - DOMAIN-SUFFIX,sony.com
+  - DOMAIN-SUFFIX,sonyentertainmentnetwork.com
+  - DOMAIN-SUFFIX,symcd.com
+  - DOMAIN-SUFFIX,trello.com
   - DOMAIN-SUFFIX,unity3d.com
+  - DOMAIN-SUFFIX,windows.com
+  - DOMAIN-SUFFIX,windows.net
+  - DOMAIN-SUFFIX,workflowy.com
   - DOMAIN-SUFFIX,xboxlive.com
 # China 与 GlobalMedia 共 2 条规则重复
   - DOMAIN-SUFFIX,byteoversea.com
@@ -928,7 +991,7 @@ payload:
   - DOMAIN-SUFFIX,weibo.cn
   - DOMAIN-SUFFIX,weibo.com
   - DOMAIN-SUFFIX,weibocdn.com
-# China 与 Proxy 共 124 条规则重复
+# China 与 Proxy 共 129 条规则重复
   - DOMAIN-SUFFIX,abercrombie.com
   - DOMAIN-SUFFIX,accuweather.com
   - DOMAIN-SUFFIX,acm.org
@@ -938,6 +1001,7 @@ payload:
   - DOMAIN-SUFFIX,amd.com
   - DOMAIN-SUFFIX,annualreviews.org
   - DOMAIN-SUFFIX,apache.org
+  - DOMAIN-SUFFIX,api.termius.com
   - DOMAIN-SUFFIX,battle.net
   - DOMAIN-SUFFIX,bet365.com
   - DOMAIN-SUFFIX,bing.com
@@ -948,6 +1012,7 @@ payload:
   - DOMAIN-SUFFIX,bstatic.com
   - DOMAIN-SUFFIX,cambridge.org
   - DOMAIN-SUFFIX,clarivate.com
+  - DOMAIN-SUFFIX,conoha.jp
   - DOMAIN-SUFFIX,crashlytics.com
   - DOMAIN-SUFFIX,culturedcode.com
   - DOMAIN-SUFFIX,digicert.com
@@ -956,6 +1021,7 @@ payload:
   - DOMAIN-SUFFIX,firefox.com
   - DOMAIN-SUFFIX,gameloft.com
   - DOMAIN-SUFFIX,getpricetag.com
+  - DOMAIN-SUFFIX,google.cn
   - DOMAIN-SUFFIX,hao123.com
   - DOMAIN-SUFFIX,hdsky.me
   - DOMAIN-SUFFIX,hiwifi.com
@@ -998,6 +1064,7 @@ payload:
   - DOMAIN-SUFFIX,oracle.com
   - DOMAIN-SUFFIX,oup.com
   - DOMAIN-SUFFIX,outlook.com
+  - DOMAIN-SUFFIX,overcast.fm
   - DOMAIN-SUFFIX,ovid.com
   - DOMAIN-SUFFIX,oxfordartonline.com
   - DOMAIN-SUFFIX,oxfordbibliographies.com
@@ -1046,6 +1113,7 @@ payload:
   - DOMAIN-SUFFIX,windows.com
   - DOMAIN-SUFFIX,windows.net
   - DOMAIN-SUFFIX,windowsupdate.com
+  - DOMAIN-SUFFIX,workflowy.com
   - DOMAIN-SUFFIX,xbox.com
   - DOMAIN-SUFFIX,xboxlive.com
   - DOMAIN-SUFFIX,xteko.com
