@@ -1,14 +1,14 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-07 15:11:52
+# UPDATED: 2021-01-07 16:19:21
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 27
-# DOMAIN-SUFFIX: 15240
+# DOMAIN-SUFFIX: 15238
 # DOMAIN: 10178
 # IP-CIDR: 192
 # URL-REGEX: 299
-# TOTAL: 25936
+# TOTAL: 25934
 0.up.qingdaonews.com
 00-gov.cn
 006a039c957c142bb.com
@@ -13351,7 +13351,6 @@ zzomiuob.com
 .blismedia.com
 .blissfulonline.com
 .bllbaby.cn
-.bllzgqbyp
 .blogad01.myweb.hinet.net
 .blogad02.myweb.hinet.net
 .blogdaka.cc
@@ -15842,7 +15841,6 @@ zzomiuob.com
 .fb.xk.miui.com
 .fbaot.com
 .fbieq.com
-.fc-.cdn.bcebos.com
 .fc-feed.cdn.bcebos.com
 .fc.vodafone.de
 .fcaot.com

@@ -1,7 +1,7 @@
 # NAME: AdvertisingTest 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-07 15:11:54
+# UPDATED: 2021-01-07 16:19:23
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # AdvertisingTest 与 Adobe 共 6 条规则重复
 DOMAIN-SUFFIX,adbecrsl.com
@@ -10,19 +10,7 @@ DOMAIN-SUFFIX,demdex.net
 DOMAIN-SUFFIX,newrelic.com
 DOMAIN-SUFFIX,omniture.com
 DOMAIN-SUFFIX,omtrdc.net
-# AdvertisingTest 与 Advertising 共 51584 条规则重复
-DOMAIN,//client
-DOMAIN,//host-suffix
-DOMAIN,//iqiyi&pps
-DOMAIN,//letv
-DOMAIN,//mgtv
-DOMAIN,//other
-DOMAIN,//pptv
-DOMAIN,//site
-DOMAIN,//sohu
-DOMAIN,//vod
-DOMAIN,//youku&tudou
-DOMAIN,//youtube
+# AdvertisingTest 与 Advertising 共 51572 条规则重复
 DOMAIN,0.up.qingdaonews.com
 DOMAIN,000lk3v.wcomhost.com
 DOMAIN,000lkub.rcomhost.com
@@ -51595,7 +51583,7 @@ URL-REGEX,^https?:\/\/www\.zybang\.com\/adx\/
 URL-REGEX,^https?:\/\/xyst\.yuanfudao\.com\/iphone\/splashesV\d
 URL-REGEX,^https?:\/\/xyz\.cnki\.net\/resourcev7\/api\/manualpush\/SlidsList$
 URL-REGEX,^https?:\/\/yxyapi\d\.drcuiyutao\.com\/yxy-api-gateway\/api\/json\/advert\/
-# AdvertisingTest 与 AdvertisingLite 共 15792 条规则重复
+# AdvertisingTest 与 AdvertisingLite 共 15790 条规则重复
 DOMAIN,0.up.qingdaonews.com
 DOMAIN,0koryu0.easter.ne.jp
 DOMAIN,0nso0tq1sa4.ml
@@ -55429,7 +55417,6 @@ DOMAIN-SUFFIX,blfyquz.cn
 DOMAIN-SUFFIX,blismedia.com
 DOMAIN-SUFFIX,blissfulonline.com
 DOMAIN-SUFFIX,bllbaby.cn
-DOMAIN-SUFFIX,bllzgqbyp
 DOMAIN-SUFFIX,blogad01.myweb.hinet.net
 DOMAIN-SUFFIX,blogad02.myweb.hinet.net
 DOMAIN-SUFFIX,blogdaka.cc
@@ -57781,7 +57768,6 @@ DOMAIN-SUFFIX,fazoumee.net
 DOMAIN-SUFFIX,fb.xk.miui.com
 DOMAIN-SUFFIX,fbaot.com
 DOMAIN-SUFFIX,fbieq.com
-DOMAIN-SUFFIX,fc-.cdn.bcebos.com
 DOMAIN-SUFFIX,fc-feed.cdn.bcebos.com
 DOMAIN-SUFFIX,fc.vodafone.de
 DOMAIN-SUFFIX,fcaot.com

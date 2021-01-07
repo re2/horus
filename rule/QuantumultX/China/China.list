@@ -1,16 +1,15 @@
 # NAME: China
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-07 15:11:51
+# UPDATED: 2021-01-07 16:19:21
 # HOST-SUFFIX: 621
 # USER-AGENT: 33
-# HOST: 16
+# HOST: 15
 # IP-CIDR: 4
 # HOST-KEYWORD: 11
 # IP6-CIDR: 4
 # GEOIP: 1
-# TOTAL: 690
-HOST,//speedtest,China
+# TOTAL: 689
 HOST,analytics.strava.com,China
 HOST,blzddist1-a.akamaihd.net,China
 HOST,cdn.angruo.com,China

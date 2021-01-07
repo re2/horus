@@ -1,24 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-07 15:11:51
+# UPDATED: 2021-01-07 16:19:21
 # HOST-SUFFIX: 42385
-# HOST: 12250
+# HOST: 12238
 # HOST-KEYWORD: 61
 # IP-CIDR: 240
-# TOTAL: 54936
-HOST,//client,Advertising
-HOST,//host-suffix,Advertising
-HOST,//iqiyi&pps,Advertising
-HOST,//letv,Advertising
-HOST,//mgtv,Advertising
-HOST,//other,Advertising
-HOST,//pptv,Advertising
-HOST,//site,Advertising
-HOST,//sohu,Advertising
-HOST,//vod,Advertising
-HOST,//youku&tudou,Advertising
-HOST,//youtube,Advertising
+# TOTAL: 54924
 HOST,0.up.qingdaonews.com,Advertising
 HOST,000lk3v.wcomhost.com,Advertising
 HOST,000lkub.rcomhost.com,Advertising

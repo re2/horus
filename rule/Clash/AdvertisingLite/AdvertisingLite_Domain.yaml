@@ -1,12 +1,12 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-07 15:11:53
+# UPDATED: 2021-01-07 16:19:22
 # DOMAIN-KEYWORD: 27
-# DOMAIN-SUFFIX: 15240
+# DOMAIN-SUFFIX: 15238
 # DOMAIN: 10178
 # IP-CIDR: 192
-# TOTAL: 25637
+# TOTAL: 25635
 payload:
   - '0.up.qingdaonews.com'
   - '00-gov.cn'
@@ -13350,7 +13350,6 @@ payload:
   - '.blismedia.com'
   - '.blissfulonline.com'
   - '.bllbaby.cn'
-  - '.bllzgqbyp'
   - '.blogad01.myweb.hinet.net'
   - '.blogad02.myweb.hinet.net'
   - '.blogdaka.cc'
@@ -15841,7 +15840,6 @@ payload:
   - '.fb.xk.miui.com'
   - '.fbaot.com'
   - '.fbieq.com'
-  - '.fc-.cdn.bcebos.com'
   - '.fc-feed.cdn.bcebos.com'
   - '.fc.vodafone.de'
   - '.fcaot.com'
