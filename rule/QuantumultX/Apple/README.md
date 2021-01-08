@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2021-01-09 02:16:09。
+最后检查时间：2021-01-09 02:42:58。
 
 ## 规则统计
 
@@ -42,25 +42,25 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Quan
 
 当前分流规则，已包含以下子规则：
 
-- AppleMusic
-
-- AppleTV
-
 - FitnessPlus
 
-- TestFlight
+- AppleTV
 
 - Siri
 
 - iCloud
 
-- AppleNews
+- AppleBlock
+
+- AppleMusic
 
 - AppleMail
 
-- AppleBlock
-
 - AppStore
+
+- TestFlight
+
+- AppleNews
 
 除非特殊需求，否则不建议重复引用。
 
