@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2021-01-08 21:56:10。
+最后检查时间：2021-01-08 22:07:51。
 
 ## 规则统计
 
@@ -43,23 +43,23 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Shad
 
 当前分流规则，已包含以下子规则：
 
-- Siri
-
-- FitnessPlus
-
-- TestFlight
-
-- AppleBlock
-
 - AppleMail
-
-- AppleMusic
-
-- AppleNews
 
 - AppStore
 
+- AppleBlock
+
+- FitnessPlus
+
+- AppleNews
+
+- AppleMusic
+
+- Siri
+
 - AppleTV
+
+- TestFlight
 
 - iCloud
 
