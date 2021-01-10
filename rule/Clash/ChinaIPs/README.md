@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2021-01-10 23:47:30。
+最后检查时间：2021-01-11 00:12:29。
 
 ## 规则统计
 
@@ -30,15 +30,9 @@
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaIPs/ChinaIPs.yaml
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaIPs/ChinaIPs_Domain.yaml
-
 稳定版：
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/ChinaIPs/ChinaIPs.yaml
-
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/ChinaIPs/ChinaIPs_Domain.yaml
-
-如果稳定版无法访问 ，可能是尚未从实时版的分支合并，建议您先使用实时版，或等待下次稳定版分支合并。
 
 ## 重复统计
 
