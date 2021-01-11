@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-11 17:37:31
+# UPDATED: 2021-01-11 22:34:16
 # DOMAIN-SUFFIX: 42388
-# DOMAIN: 5432
+# DOMAIN: 5436
 # DOMAIN-KEYWORD: 61
 # IP-CIDR: 240
-# TOTAL: 48121
+# TOTAL: 48125
 payload:
   - '000lkub.rcomhost.com'
   - '000lp59.wcomhost.com'
@@ -265,6 +265,7 @@ payload:
   - 'ad.choiceradio.com'
   - 'ad.egloos.com'
   - 'ad.favod.net'
+  - 'ad.hori-gz.com'
   - 'ad.iplayer.org'
   - 'ad.jorte.com'
   - 'ad.jp.ap.valu.com'
@@ -930,6 +931,7 @@ payload:
   - 'bavftcgoapga.com'
   - 'bb.youzu.com'
   - 'bbads.sv.publicus.com'
+  - 'bbs.hori-gz.com'
   - 'bbs.youzu.com'
   - 'bbs.zgfhl.com'
   - 'bbullard.com'
@@ -3032,6 +3034,7 @@ payload:
   - 'mmai4lu3in.weebly.com'
   - 'mmapquest.com'
   - 'mmptrack.com'
+  - 'mms.hori-gz.com'
   - 'mnbcgroup.com'
   - 'mo.freeindoapp.com'
   - 'moapi.wps.cn'
@@ -5375,6 +5378,7 @@ payload:
   - 'yvymaraey.org'
   - 'yx-ads6.com'
   - 'yx.j1sz.com'
+  - 'yxhd.hori-gz.com'
   - 'yyjgift.com'
   - 'yyoutube.com'
   - 'yzunited.com'

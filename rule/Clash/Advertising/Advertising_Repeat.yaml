@@ -1,7 +1,7 @@
 # NAME: Advertising 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-11 17:37:34
+# UPDATED: 2021-01-11 22:34:20
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 payload:
 # Advertising 与 WhiteList 共 1 条规则重复
@@ -1262,7 +1262,7 @@ payload:
   - DOMAIN-SUFFIX,googletagmanager.com
   - DOMAIN-SUFFIX,googletagservices.com
   - DOMAIN-SUFFIX,mtalk.google.com
-# Advertising 与 AdvertisingLite 共 15176 条规则重复
+# Advertising 与 AdvertisingLite 共 15180 条规则重复
   - DOMAIN,0nso0tq1sa4.ml
   - DOMAIN,12648afd00d93.com
   - DOMAIN,14119276be0852.com
@@ -1300,6 +1300,7 @@ payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.21cn.com
   - DOMAIN,ad.9tv.co.il
+  - DOMAIN,ad.hori-gz.com
   - DOMAIN,ad4partners.com
   - DOMAIN,adblockotsosal.ru
   - DOMAIN,adclick.lv
@@ -1375,6 +1376,7 @@ payload:
   - DOMAIN,banners.blacksexmatch.com
   - DOMAIN,bannersnack.com
   - DOMAIN,bavftcgoapga.com
+  - DOMAIN,bbs.hori-gz.com
   - DOMAIN,beacon2.indieclicktv.com
   - DOMAIN,beap.gemini.yahoo.com
   - DOMAIN,beespace.com.ua
@@ -1488,6 +1490,7 @@ payload:
   - DOMAIN,marx-brothers.mhwang.com
   - DOMAIN,media-app.com
   - DOMAIN,mgfd1b.petrix.net
+  - DOMAIN,mms.hori-gz.com
   - DOMAIN,ms11.net
   - DOMAIN,mycleanpc.tk
   - DOMAIN,narrow.azenergyforum.com
@@ -1618,6 +1621,7 @@ payload:
   - DOMAIN,xs.mochiads.com
   - DOMAIN,ynuf.alipay.com
   - DOMAIN,youtuhe.com
+  - DOMAIN,yxhd.hori-gz.com
   - DOMAIN,zafrc.5780.site
   - DOMAIN,zengenti.com
   - DOMAIN,zrosbqwecw.com
@@ -16439,7 +16443,7 @@ payload:
   - IP-CIDR,69.28.57.245/32
   - IP-CIDR,74.117.182.77/32
   - IP-CIDR,78.140.131.214/32
-# Advertising 与 AdvertisingTest 共 46302 条规则重复
+# Advertising 与 AdvertisingTest 共 46306 条规则重复
   - DOMAIN,000lkub.rcomhost.com
   - DOMAIN,000lp59.wcomhost.com
   - DOMAIN,007angels.com
@@ -16639,6 +16643,7 @@ payload:
   - DOMAIN,ad.adstailor.com
   - DOMAIN,ad.aduserver.com
   - DOMAIN,ad.brainbuzz.com
+  - DOMAIN,ad.hori-gz.com
   - DOMAIN,ad.koreadaily.com
   - DOMAIN,ad.moreto.net
   - DOMAIN,ad.searchhound.com
@@ -16996,6 +17001,7 @@ payload:
   - DOMAIN,bavftcgoapga.com
   - DOMAIN,bb.youzu.com
   - DOMAIN,bbads.sv.publicus.com
+  - DOMAIN,bbs.hori-gz.com
   - DOMAIN,bbs.youzu.com
   - DOMAIN,bbs.zgfhl.com
   - DOMAIN,bbullard.com
@@ -18566,6 +18572,7 @@ payload:
   - DOMAIN,mmai4lu3in.weebly.com
   - DOMAIN,mmapquest.com
   - DOMAIN,mmptrack.com
+  - DOMAIN,mms.hori-gz.com
   - DOMAIN,mnbcgroup.com
   - DOMAIN,moapi.wps.cn
   - DOMAIN,mobigamesforpc.com
@@ -20203,6 +20210,7 @@ payload:
   - DOMAIN,yuniomy88.000webhostapp.com
   - DOMAIN,yvymaraey.org
   - DOMAIN,yx.j1sz.com
+  - DOMAIN,yxhd.hori-gz.com
   - DOMAIN,yyjgift.com
   - DOMAIN,yyoutube.com
   - DOMAIN,yzunited.com

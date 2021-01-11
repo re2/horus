@@ -1,7 +1,7 @@
 # NAME: AdvertisingLite 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-11 17:37:32
+# UPDATED: 2021-01-11 22:34:18
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # AdvertisingLite 与 WhiteList 共 1 条规则重复
 DOMAIN,ad.10010.com
@@ -730,7 +730,7 @@ DOMAIN-SUFFIX,googleadservices.com
 DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,googletagservices.com
-# AdvertisingLite 与 Advertising 共 15478 条规则重复
+# AdvertisingLite 与 Advertising 共 15482 条规则重复
 DOMAIN,0nso0tq1sa4.ml
 DOMAIN,12648afd00d93.com
 DOMAIN,14119276be0852.com
@@ -768,6 +768,7 @@ DOMAIN,acwyoynw.com
 DOMAIN,ad.10010.com
 DOMAIN,ad.21cn.com
 DOMAIN,ad.9tv.co.il
+DOMAIN,ad.hori-gz.com
 DOMAIN,ad4partners.com
 DOMAIN,adblockotsosal.ru
 DOMAIN,adclick.lv
@@ -843,6 +844,7 @@ DOMAIN,backup.customstat.video.51togic.com
 DOMAIN,banners.blacksexmatch.com
 DOMAIN,bannersnack.com
 DOMAIN,bavftcgoapga.com
+DOMAIN,bbs.hori-gz.com
 DOMAIN,beacon2.indieclicktv.com
 DOMAIN,beap.gemini.yahoo.com
 DOMAIN,beespace.com.ua
@@ -956,6 +958,7 @@ DOMAIN,marchen-toy.co.jp
 DOMAIN,marx-brothers.mhwang.com
 DOMAIN,media-app.com
 DOMAIN,mgfd1b.petrix.net
+DOMAIN,mms.hori-gz.com
 DOMAIN,ms11.net
 DOMAIN,mycleanpc.tk
 DOMAIN,narrow.azenergyforum.com
@@ -1086,6 +1089,7 @@ DOMAIN,xoomer.alice.it
 DOMAIN,xs.mochiads.com
 DOMAIN,ynuf.alipay.com
 DOMAIN,youtuhe.com
+DOMAIN,yxhd.hori-gz.com
 DOMAIN,zafrc.5780.site
 DOMAIN,zengenti.com
 DOMAIN,zrosbqwecw.com
@@ -16209,7 +16213,7 @@ URL-REGEX,^https?:\/\/www\.zybang\.com\/adx\/
 URL-REGEX,^https?:\/\/xyst\.yuanfudao\.com\/iphone\/splashesV\d
 URL-REGEX,^https?:\/\/xyz\.cnki\.net\/resourcev7\/api\/manualpush\/SlidsList$
 URL-REGEX,^https?:\/\/yxyapi\d\.drcuiyutao\.com\/yxy-api-gateway\/api\/json\/advert\/
-# AdvertisingLite 与 AdvertisingTest 共 15292 条规则重复
+# AdvertisingLite 与 AdvertisingTest 共 15296 条规则重复
 DOMAIN,0nso0tq1sa4.ml
 DOMAIN,12648afd00d93.com
 DOMAIN,14119276be0852.com
@@ -16240,6 +16244,7 @@ DOMAIN,accede.site
 DOMAIN,acwyoynw.com
 DOMAIN,ad.21cn.com
 DOMAIN,ad.9tv.co.il
+DOMAIN,ad.hori-gz.com
 DOMAIN,adclick.lv
 DOMAIN,adcoin.click
 DOMAIN,adfile.hori-gz.com
@@ -16282,6 +16287,7 @@ DOMAIN,axisbuild.com
 DOMAIN,backup.customstat.video.51togic.com
 DOMAIN,banners.blacksexmatch.com
 DOMAIN,bavftcgoapga.com
+DOMAIN,bbs.hori-gz.com
 DOMAIN,beacon2.indieclicktv.com
 DOMAIN,beespace.com.ua
 DOMAIN,beholder.xyz
@@ -16372,6 +16378,7 @@ DOMAIN,marchen-toy.co.jp
 DOMAIN,marx-brothers.mhwang.com
 DOMAIN,media-app.com
 DOMAIN,mgfd1b.petrix.net
+DOMAIN,mms.hori-gz.com
 DOMAIN,ms11.net
 DOMAIN,mycleanpc.tk
 DOMAIN,narrow.azenergyforum.com
@@ -16483,6 +16490,7 @@ DOMAIN,www.volleyball-doppeldorf.de
 DOMAIN,xs.mochiads.com
 DOMAIN,ynuf.alipay.com
 DOMAIN,youtuhe.com
+DOMAIN,yxhd.hori-gz.com
 DOMAIN,zengenti.com
 DOMAIN,zrosbqwecw.com
 DOMAIN,zt.tim-taxi.com

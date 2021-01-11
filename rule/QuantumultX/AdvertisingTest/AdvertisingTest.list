@@ -1,12 +1,12 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-11 17:37:29
+# UPDATED: 2021-01-11 22:34:14
 # HOST-SUFFIX: 63697
 # HOST-KEYWORD: 61
 # IP-CIDR: 240
-# HOST: 3806
-# TOTAL: 67804
+# HOST: 3810
+# TOTAL: 67808
 HOST,000lkub.rcomhost.com,AdvertisingTest
 HOST,000lp59.wcomhost.com,AdvertisingTest
 HOST,007angels.com,AdvertisingTest
@@ -206,6 +206,7 @@ HOST,ad.about.com,AdvertisingTest
 HOST,ad.adstailor.com,AdvertisingTest
 HOST,ad.aduserver.com,AdvertisingTest
 HOST,ad.brainbuzz.com,AdvertisingTest
+HOST,ad.hori-gz.com,AdvertisingTest
 HOST,ad.koreadaily.com,AdvertisingTest
 HOST,ad.moreto.net,AdvertisingTest
 HOST,ad.searchhound.com,AdvertisingTest
@@ -563,6 +564,7 @@ HOST,baseindia.org,AdvertisingTest
 HOST,bavftcgoapga.com,AdvertisingTest
 HOST,bb.youzu.com,AdvertisingTest
 HOST,bbads.sv.publicus.com,AdvertisingTest
+HOST,bbs.hori-gz.com,AdvertisingTest
 HOST,bbs.youzu.com,AdvertisingTest
 HOST,bbs.zgfhl.com,AdvertisingTest
 HOST,bbullard.com,AdvertisingTest
@@ -2133,6 +2135,7 @@ HOST,mmaccthcs.000webhostapp.com,AdvertisingTest
 HOST,mmai4lu3in.weebly.com,AdvertisingTest
 HOST,mmapquest.com,AdvertisingTest
 HOST,mmptrack.com,AdvertisingTest
+HOST,mms.hori-gz.com,AdvertisingTest
 HOST,mnbcgroup.com,AdvertisingTest
 HOST,moapi.wps.cn,AdvertisingTest
 HOST,mobigamesforpc.com,AdvertisingTest
@@ -3770,6 +3773,7 @@ HOST,yumrate.com,AdvertisingTest
 HOST,yuniomy88.000webhostapp.com,AdvertisingTest
 HOST,yvymaraey.org,AdvertisingTest
 HOST,yx.j1sz.com,AdvertisingTest
+HOST,yxhd.hori-gz.com,AdvertisingTest
 HOST,yyjgift.com,AdvertisingTest
 HOST,yyoutube.com,AdvertisingTest
 HOST,yzunited.com,AdvertisingTest

@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-11 17:37:30
+# UPDATED: 2021-01-11 22:34:15
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-SUFFIX: 42388
-# DOMAIN: 5432
+# DOMAIN: 5436
 # DOMAIN-KEYWORD: 61
 # IP-CIDR: 240
 # URL-REGEX: 310
-# TOTAL: 48431
+# TOTAL: 48435
 000lkub.rcomhost.com
 000lp59.wcomhost.com
 007angels.com
@@ -266,6 +266,7 @@ ad.brainbuzz.com
 ad.choiceradio.com
 ad.egloos.com
 ad.favod.net
+ad.hori-gz.com
 ad.iplayer.org
 ad.jorte.com
 ad.jp.ap.valu.com
@@ -931,6 +932,7 @@ batsavcdn.ksmobile.net
 bavftcgoapga.com
 bb.youzu.com
 bbads.sv.publicus.com
+bbs.hori-gz.com
 bbs.youzu.com
 bbs.zgfhl.com
 bbullard.com
@@ -3033,6 +3035,7 @@ mmaglobal.com
 mmai4lu3in.weebly.com
 mmapquest.com
 mmptrack.com
+mms.hori-gz.com
 mnbcgroup.com
 mo.freeindoapp.com
 moapi.wps.cn
@@ -5376,6 +5379,7 @@ yuniomy88.000webhostapp.com
 yvymaraey.org
 yx-ads6.com
 yx.j1sz.com
+yxhd.hori-gz.com
 yyjgift.com
 yyoutube.com
 yzunited.com

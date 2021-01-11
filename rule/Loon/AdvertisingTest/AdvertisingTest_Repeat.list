@@ -1,7 +1,7 @@
 # NAME: AdvertisingTest 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-11 17:37:34
+# UPDATED: 2021-01-11 22:34:19
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # AdvertisingTest 与 Baidu 共 6 条规则重复
 DOMAIN-SUFFIX,baidustatic.com
@@ -1295,7 +1295,7 @@ DOMAIN-SUFFIX,mtalk.google.com
 DOMAIN-SUFFIX,pagead-googlehosted.l.google.com
 DOMAIN-SUFFIX,ssl-google-analytics.l.google.com
 DOMAIN-SUFFIX,www-googletagmanager.l.google.com
-# AdvertisingTest 与 AdvertisingLite 共 15292 条规则重复
+# AdvertisingTest 与 AdvertisingLite 共 15296 条规则重复
 DOMAIN,0nso0tq1sa4.ml
 DOMAIN,12648afd00d93.com
 DOMAIN,14119276be0852.com
@@ -1326,6 +1326,7 @@ DOMAIN,accede.site
 DOMAIN,acwyoynw.com
 DOMAIN,ad.21cn.com
 DOMAIN,ad.9tv.co.il
+DOMAIN,ad.hori-gz.com
 DOMAIN,adclick.lv
 DOMAIN,adcoin.click
 DOMAIN,adfile.hori-gz.com
@@ -1368,6 +1369,7 @@ DOMAIN,axisbuild.com
 DOMAIN,backup.customstat.video.51togic.com
 DOMAIN,banners.blacksexmatch.com
 DOMAIN,bavftcgoapga.com
+DOMAIN,bbs.hori-gz.com
 DOMAIN,beacon2.indieclicktv.com
 DOMAIN,beespace.com.ua
 DOMAIN,beholder.xyz
@@ -1458,6 +1460,7 @@ DOMAIN,marchen-toy.co.jp
 DOMAIN,marx-brothers.mhwang.com
 DOMAIN,media-app.com
 DOMAIN,mgfd1b.petrix.net
+DOMAIN,mms.hori-gz.com
 DOMAIN,ms11.net
 DOMAIN,mycleanpc.tk
 DOMAIN,narrow.azenergyforum.com
@@ -1569,6 +1572,7 @@ DOMAIN,www.volleyball-doppeldorf.de
 DOMAIN,xs.mochiads.com
 DOMAIN,ynuf.alipay.com
 DOMAIN,youtuhe.com
+DOMAIN,yxhd.hori-gz.com
 DOMAIN,zengenti.com
 DOMAIN,zrosbqwecw.com
 DOMAIN,zt.tim-taxi.com
@@ -16588,7 +16592,7 @@ URL-REGEX,^https?:\/\/www\.zybang\.com\/adx\/
 URL-REGEX,^https?:\/\/xyst\.yuanfudao\.com\/iphone\/splashesV\d
 URL-REGEX,^https?:\/\/xyz\.cnki\.net\/resourcev7\/api\/manualpush\/SlidsList$
 URL-REGEX,^https?:\/\/yxyapi\d\.drcuiyutao\.com\/yxy-api-gateway\/api\/json\/advert\/
-# AdvertisingTest 与 Advertising 共 46612 条规则重复
+# AdvertisingTest 与 Advertising 共 46616 条规则重复
 DOMAIN,000lkub.rcomhost.com
 DOMAIN,000lp59.wcomhost.com
 DOMAIN,007angels.com
@@ -16788,6 +16792,7 @@ DOMAIN,ad.about.com
 DOMAIN,ad.adstailor.com
 DOMAIN,ad.aduserver.com
 DOMAIN,ad.brainbuzz.com
+DOMAIN,ad.hori-gz.com
 DOMAIN,ad.koreadaily.com
 DOMAIN,ad.moreto.net
 DOMAIN,ad.searchhound.com
@@ -17145,6 +17150,7 @@ DOMAIN,baseindia.org
 DOMAIN,bavftcgoapga.com
 DOMAIN,bb.youzu.com
 DOMAIN,bbads.sv.publicus.com
+DOMAIN,bbs.hori-gz.com
 DOMAIN,bbs.youzu.com
 DOMAIN,bbs.zgfhl.com
 DOMAIN,bbullard.com
@@ -18715,6 +18721,7 @@ DOMAIN,mmaccthcs.000webhostapp.com
 DOMAIN,mmai4lu3in.weebly.com
 DOMAIN,mmapquest.com
 DOMAIN,mmptrack.com
+DOMAIN,mms.hori-gz.com
 DOMAIN,mnbcgroup.com
 DOMAIN,moapi.wps.cn
 DOMAIN,mobigamesforpc.com
@@ -20352,6 +20359,7 @@ DOMAIN,yumrate.com
 DOMAIN,yuniomy88.000webhostapp.com
 DOMAIN,yvymaraey.org
 DOMAIN,yx.j1sz.com
+DOMAIN,yxhd.hori-gz.com
 DOMAIN,yyjgift.com
 DOMAIN,yyoutube.com
 DOMAIN,yzunited.com

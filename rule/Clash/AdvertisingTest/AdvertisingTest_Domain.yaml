@@ -1,12 +1,12 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-11 17:37:31
+# UPDATED: 2021-01-11 22:34:16
 # DOMAIN-SUFFIX: 63697
 # DOMAIN-KEYWORD: 61
 # IP-CIDR: 240
-# DOMAIN: 3806
-# TOTAL: 67804
+# DOMAIN: 3810
+# TOTAL: 67808
 payload:
   - '000lkub.rcomhost.com'
   - '000lp59.wcomhost.com'
@@ -207,6 +207,7 @@ payload:
   - 'ad.adstailor.com'
   - 'ad.aduserver.com'
   - 'ad.brainbuzz.com'
+  - 'ad.hori-gz.com'
   - 'ad.koreadaily.com'
   - 'ad.moreto.net'
   - 'ad.searchhound.com'
@@ -564,6 +565,7 @@ payload:
   - 'bavftcgoapga.com'
   - 'bb.youzu.com'
   - 'bbads.sv.publicus.com'
+  - 'bbs.hori-gz.com'
   - 'bbs.youzu.com'
   - 'bbs.zgfhl.com'
   - 'bbullard.com'
@@ -2134,6 +2136,7 @@ payload:
   - 'mmai4lu3in.weebly.com'
   - 'mmapquest.com'
   - 'mmptrack.com'
+  - 'mms.hori-gz.com'
   - 'mnbcgroup.com'
   - 'moapi.wps.cn'
   - 'mobigamesforpc.com'
@@ -3771,6 +3774,7 @@ payload:
   - 'yuniomy88.000webhostapp.com'
   - 'yvymaraey.org'
   - 'yx.j1sz.com'
+  - 'yxhd.hori-gz.com'
   - 'yyjgift.com'
   - 'yyoutube.com'
   - 'yzunited.com'

@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-11 17:37:28
+# UPDATED: 2021-01-11 22:34:14
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-SUFFIX: 63697
 # DOMAIN-KEYWORD: 61
 # IP-CIDR: 240
-# DOMAIN: 3806
+# DOMAIN: 3810
 # URL-REGEX: 310
-# TOTAL: 68114
+# TOTAL: 68118
 000lkub.rcomhost.com
 000lp59.wcomhost.com
 007angels.com
@@ -208,6 +208,7 @@ ad.about.com
 ad.adstailor.com
 ad.aduserver.com
 ad.brainbuzz.com
+ad.hori-gz.com
 ad.koreadaily.com
 ad.moreto.net
 ad.searchhound.com
@@ -565,6 +566,7 @@ baseindia.org
 bavftcgoapga.com
 bb.youzu.com
 bbads.sv.publicus.com
+bbs.hori-gz.com
 bbs.youzu.com
 bbs.zgfhl.com
 bbullard.com
@@ -2135,6 +2137,7 @@ mmaccthcs.000webhostapp.com
 mmai4lu3in.weebly.com
 mmapquest.com
 mmptrack.com
+mms.hori-gz.com
 mnbcgroup.com
 moapi.wps.cn
 mobigamesforpc.com
@@ -3772,6 +3775,7 @@ yumrate.com
 yuniomy88.000webhostapp.com
 yvymaraey.org
 yx.j1sz.com
+yxhd.hori-gz.com
 yyjgift.com
 yyoutube.com
 yzunited.com

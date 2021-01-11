@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-11 17:37:29
+# UPDATED: 2021-01-11 22:34:14
 # HOST-SUFFIX: 42388
-# HOST: 5432
+# HOST: 5436
 # HOST-KEYWORD: 61
 # IP-CIDR: 240
-# TOTAL: 48121
+# TOTAL: 48125
 HOST,000lkub.rcomhost.com,Advertising
 HOST,000lp59.wcomhost.com,Advertising
 HOST,007angels.com,Advertising
@@ -264,6 +264,7 @@ HOST,ad.brainbuzz.com,Advertising
 HOST,ad.choiceradio.com,Advertising
 HOST,ad.egloos.com,Advertising
 HOST,ad.favod.net,Advertising
+HOST,ad.hori-gz.com,Advertising
 HOST,ad.iplayer.org,Advertising
 HOST,ad.jorte.com,Advertising
 HOST,ad.jp.ap.valu.com,Advertising
@@ -929,6 +930,7 @@ HOST,batsavcdn.ksmobile.net,Advertising
 HOST,bavftcgoapga.com,Advertising
 HOST,bb.youzu.com,Advertising
 HOST,bbads.sv.publicus.com,Advertising
+HOST,bbs.hori-gz.com,Advertising
 HOST,bbs.youzu.com,Advertising
 HOST,bbs.zgfhl.com,Advertising
 HOST,bbullard.com,Advertising
@@ -3031,6 +3033,7 @@ HOST,mmaglobal.com,Advertising
 HOST,mmai4lu3in.weebly.com,Advertising
 HOST,mmapquest.com,Advertising
 HOST,mmptrack.com,Advertising
+HOST,mms.hori-gz.com,Advertising
 HOST,mnbcgroup.com,Advertising
 HOST,mo.freeindoapp.com,Advertising
 HOST,moapi.wps.cn,Advertising
@@ -5374,6 +5377,7 @@ HOST,yuniomy88.000webhostapp.com,Advertising
 HOST,yvymaraey.org,Advertising
 HOST,yx-ads6.com,Advertising
 HOST,yx.j1sz.com,Advertising
+HOST,yxhd.hori-gz.com,Advertising
 HOST,yyjgift.com,Advertising
 HOST,yyoutube.com,Advertising
 HOST,yzunited.com,Advertising

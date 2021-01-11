@@ -1,12 +1,12 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-11 17:37:31
+# UPDATED: 2021-01-11 22:34:16
 # DOMAIN-KEYWORD: 27
 # DOMAIN-SUFFIX: 15241
-# DOMAIN: 4315
+# DOMAIN: 4319
 # IP-CIDR: 192
-# TOTAL: 19775
+# TOTAL: 19779
 payload:
   - '00-gov.cn'
   - '006a039c957c142bb.com'
@@ -686,6 +686,7 @@ payload:
   - 'ad.aloodo.com'
   - 'ad.aquamediadirect.com'
   - 'ad.bitbay.net'
+  - 'ad.hori-gz.com'
   - 'ad.style'
   - 'ad.tencentmusic.com'
   - 'ad.valuecalling.com'
@@ -1794,6 +1795,7 @@ payload:
   - 'bb1acb0ea5ddb1fed8.com'
   - 'bb475d71fa0b1b2.com'
   - 'bbelements.com'
+  - 'bbs.hori-gz.com'
   - 'bc0a.com'
   - 'bcash4you.com'
   - 'bcfeedback.taobao.com'
@@ -3331,6 +3333,7 @@ payload:
   - 'mmadsgadget.com'
   - 'mmi.bemobile.ua'
   - 'mms.cmpsky.com'
+  - 'mms.hori-gz.com'
   - 'mo.4k9b.cn'
   - 'mo.baidu.com'
   - 'moafoche.com'
@@ -4306,6 +4309,7 @@ payload:
   - 'yupfiles.net'
   - 'yuppads.com'
   - 'yw78.cn'
+  - 'yxhd.hori-gz.com'
   - 'z.opmnstr.com'
   - 'zafrc.5780.site'
   - 'zconfig.alibabausercontent.com'

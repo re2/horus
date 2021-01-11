@@ -1,12 +1,12 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-11 17:37:31
+# UPDATED: 2021-01-11 22:34:16
 # DOMAIN-SUFFIX: 63697
 # DOMAIN-KEYWORD: 61
 # IP-CIDR: 240
-# DOMAIN: 3806
-# TOTAL: 67804
+# DOMAIN: 3810
+# TOTAL: 67808
 payload:
   - DOMAIN,000lkub.rcomhost.com
   - DOMAIN,000lp59.wcomhost.com
@@ -207,6 +207,7 @@ payload:
   - DOMAIN,ad.adstailor.com
   - DOMAIN,ad.aduserver.com
   - DOMAIN,ad.brainbuzz.com
+  - DOMAIN,ad.hori-gz.com
   - DOMAIN,ad.koreadaily.com
   - DOMAIN,ad.moreto.net
   - DOMAIN,ad.searchhound.com
@@ -564,6 +565,7 @@ payload:
   - DOMAIN,bavftcgoapga.com
   - DOMAIN,bb.youzu.com
   - DOMAIN,bbads.sv.publicus.com
+  - DOMAIN,bbs.hori-gz.com
   - DOMAIN,bbs.youzu.com
   - DOMAIN,bbs.zgfhl.com
   - DOMAIN,bbullard.com
@@ -2134,6 +2136,7 @@ payload:
   - DOMAIN,mmai4lu3in.weebly.com
   - DOMAIN,mmapquest.com
   - DOMAIN,mmptrack.com
+  - DOMAIN,mms.hori-gz.com
   - DOMAIN,mnbcgroup.com
   - DOMAIN,moapi.wps.cn
   - DOMAIN,mobigamesforpc.com
@@ -3771,6 +3774,7 @@ payload:
   - DOMAIN,yuniomy88.000webhostapp.com
   - DOMAIN,yvymaraey.org
   - DOMAIN,yx.j1sz.com
+  - DOMAIN,yxhd.hori-gz.com
   - DOMAIN,yyjgift.com
   - DOMAIN,yyoutube.com
   - DOMAIN,yzunited.com
