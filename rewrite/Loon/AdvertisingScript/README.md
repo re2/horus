@@ -9,7 +9,7 @@
 **整合知乎、BiliBili、什么值得买三个APP去广告，及脚本去除开屏广告复写。**
 
 
-最后检查时间：2021-01-11 02:47:34。
+最后检查时间：2021-01-11 17:38:04。
 
 ## 复写统计
 
@@ -18,7 +18,7 @@
 | mitm | 18 |
 | DOMAIN-SUFFIX | 1 |
 | URL-REGEX | 6 |
-| DOMAIN | 2 |
+| DOMAIN | 4 |
 | DOMAIN-KEYWORD | 1 |
 | IP-CIDR | 1 |
 | USER-AGENT | 1 |
