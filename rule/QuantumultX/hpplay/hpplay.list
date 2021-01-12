@@ -1,0 +1,12 @@
+# NAME: hpplay
+# AUTHOR: blackmatrix7
+# GITHUB: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2021-01-12 15:00:14
+# HOST-SUFFIX: 6
+# TOTAL: 6
+HOST-SUFFIX,hpplay.cn,hpplay
+HOST-SUFFIX,hpplay.com.cn,hpplay
+HOST-SUFFIX,mirrorcast.cn,hpplay
+HOST-SUFFIX,mirrorcast.com.cn,hpplay
+HOST-SUFFIX,mirrorcast.tv,hpplay
+HOST-SUFFIX,乐播.com,hpplay
