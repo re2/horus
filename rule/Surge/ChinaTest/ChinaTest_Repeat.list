@@ -1,7 +1,7 @@
 # NAME: ChinaTest 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-12 23:16:17
+# UPDATED: 2021-01-13 00:30:03
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # ChinaTest 与 WhiteList 共 1 条规则重复
 DOMAIN,analytics.strava.com
@@ -3589,7 +3589,7 @@ DOMAIN-SUFFIX,zlongad.com
 DOMAIN-SUFFIX,zry8181.com
 DOMAIN-SUFFIX,ztvx8.com
 DOMAIN-SUFFIX,zzbyc.xyz
-# ChinaTest 与 Advertising 共 1155 条规则重复
+# ChinaTest 与 Advertising 共 1156 条规则重复
 DOMAIN-SUFFIX,000dn.com
 DOMAIN-SUFFIX,0024aaaa.com
 DOMAIN-SUFFIX,002lzj.com
@@ -4380,6 +4380,7 @@ DOMAIN-SUFFIX,qujishu.com
 DOMAIN-SUFFIX,quyaoya.com
 DOMAIN-SUFFIX,qvpublish.com
 DOMAIN-SUFFIX,qwxcs.com
+DOMAIN-SUFFIX,qysyyg.com
 DOMAIN-SUFFIX,qzxmtyy.com
 DOMAIN-SUFFIX,rannabio.com
 DOMAIN-SUFFIX,raonie.com
