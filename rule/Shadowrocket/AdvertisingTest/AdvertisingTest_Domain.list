@@ -1,12 +1,12 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-13 11:05:11
+# UPDATED: 2021-01-14 03:06:11
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN-SUFFIX: 63768
+# DOMAIN-SUFFIX: 63767
 # DOMAIN-KEYWORD: 61
 # IP-CIDR: 240
-# DOMAIN: 4427
+# DOMAIN: 4428
 # URL-REGEX: 310
 # TOTAL: 68806
 000lkub.rcomhost.com
@@ -412,6 +412,7 @@ agsteier.com
 ah1.ssammn.com
 ahingenieriasa.com
 ahmedshow.com
+ahoyhyperbay.com
 ai-sweets.com
 aibolita.com
 aileronx.com
@@ -7498,11 +7499,7 @@ zzcw.uuzham.com
 .ablehed.pro
 .ablen02.tk
 .ablen03.tk
-.ablen04.tk
 .ablen06.tk
-.ablen07.tk
-.ablen08.tk
-.ablen09.tk
 .ablen10.tk
 .ablen11.tk
 .ablenctionalle.info
@@ -12596,7 +12593,6 @@ zzcw.uuzham.com
 .ahneiwkpsnxign.com
 .ahoff.ru
 .ahojer.com
-.ahoyhyperbay.com
 .ahoypiratebaai.eu
 .ahqlx.top
 .ahqpqpdjpj.com
@@ -14825,7 +14821,6 @@ zzcw.uuzham.com
 .astancerta.fun
 .astat.nikkei.com
 .aster18cdn.nl
-.aster18prx.nl
 .asterilivestream.com
 .asteriresearch.com
 .asterpix.com
@@ -23097,12 +23092,8 @@ zzcw.uuzham.com
 .darakht.com
 .dardwebertoha.info
 .darersan.co
-.darking03.tk
-.darking04.tk
 .darking05.tk
-.darking06.tk
 .darking07.tk
-.darking09.tk
 .darlingtonandstocktontimes-gb.darlingtonandstocktontimes.co.uk
 .darmowe-liczniki.info
 .darmowe-zakupy.com
@@ -28099,6 +28090,7 @@ zzcw.uuzham.com
 .flixfacts.com
 .flixprice.com
 .flixsyndication.net
+.fljgsht.ru
 .fljozww19f.com
 .fll007.com
 .flloczhqdkn.com
@@ -28538,6 +28530,7 @@ zzcw.uuzham.com
 .freecontent.science
 .freecontent.stream
 .freecontent.tr
+.freecontent.trade
 .freecoolgift.com
 .freecounter.it
 .freecounter.ovh
@@ -32325,6 +32318,7 @@ zzcw.uuzham.com
 .hornymatches.com
 .hornyspots.com
 .horried.pro
+.horrorscopeme.ml
 .horse-racing-affiliate-program.co.uk
 .horsenectar.com
 .horsered.com
@@ -35573,6 +35567,7 @@ zzcw.uuzham.com
 .jquerrycdn.do
 .jquery-cdn.do
 .jquery-cdn.download
+.jquery-uim.do
 .jquery-uim.download
 .jquerycdn.co.il
 .jqueryget.com
@@ -39795,6 +39790,7 @@ zzcw.uuzham.com
 .marchex.com
 .marchites.club
 .marchtv.ru
+.marcycoin.org
 .marerajahcopied.com
 .marfeel.com
 .marfeelcache.com
@@ -40691,6 +40687,7 @@ zzcw.uuzham.com
 .metrics.fidelity.com.edgekey.net
 .metrics.foxnews.com
 .metrics.gap.com
+.metrics.getvitals.io
 .metrics.gfycat.com
 .metrics.govexec.com
 .metrics.hackerrank.com.edgekey.net
@@ -42427,7 +42424,6 @@ zzcw.uuzham.com
 .myntelligence.com
 .mynunu.net
 .myoffers.bid
-.myoffers.party
 .myoffertracking.com
 .myogwiwjlfrngo.com
 .myomnistar.com
@@ -46534,6 +46530,7 @@ zzcw.uuzham.com
 .persuadesock.com
 .persuadesupport.com
 .pertholin.com
+.pertosj.ru
 .pertycleaner.site
 .peruse.ai
 .perymiynf.com
@@ -47238,6 +47235,7 @@ zzcw.uuzham.com
 .play.estream.nu
 .play.heavymetalmachines.com
 .play.leadzuaf.com
+.play.play.tainiesonline.stream
 .play.traffpartners.com
 .play.yo.onvid.club
 .play2.biz
@@ -48458,7 +48456,6 @@ zzcw.uuzham.com
 .psvgnczo.com
 .psxxbhheqxoy.com
 .psychologicaltotalnumeric.com
-.psychomining.de
 .psylefywha.pro
 .psyma-statistics.com
 .psywed.com
@@ -49357,6 +49354,7 @@ zzcw.uuzham.com
 .qlssbq.cn
 .qlyfjtkl.com
 .qlzn6i1l.com
+.qlzwfzfatjth.ru
 .qmhigtmwikvzin.com
 .qmin.xin
 .qmiypgoukkl.com
@@ -51735,6 +51733,7 @@ zzcw.uuzham.com
 .s.ppjol.net
 .s.qd.qingting.fm
 .s.qd.qingtingfm.com
+.s.qiangger.pw
 .s.qqhpg.com
 .s.qtad.qingting.fm
 .s.remonti.org
@@ -52144,6 +52143,7 @@ zzcw.uuzham.com
 .sbgftsoe.com
 .sbgsodufuosmmvsdf.info
 .sbhc.portalhc.com
+.sbhmn-miner.com
 .sbietlbug.com
 .sbiim.com
 .sbinx.com
@@ -56898,7 +56898,6 @@ zzcw.uuzham.com
 .taimacau.club
 .tainiesonline.pw
 .tainiesonline.st
-.tainiesonline.stream
 .taiphaib.net
 .taisi666.top
 .taiv8.com
@@ -57101,6 +57100,7 @@ zzcw.uuzham.com
 .tawk.to
 .taxel.jp
 .taxi-petr.by
+.tazm9p7tso.trade
 .tb.code.twyxi.com
 .tbaffiliate.com
 .tbaia.com
@@ -64605,7 +64605,6 @@ zzcw.uuzham.com
 .www.freecontent.loan
 .www.freecontent.party
 .www.freecontent.racing
-.www.freecontent.trade
 .www.freecontent.win
 .www.freemaintenancesysforpcandmac.top
 .www.freespinwinner.win
@@ -67728,6 +67727,7 @@ zzcw.uuzham.com
 .zisunion.com
 .zitanmushu.com
 .zitaoh.cn
+.zivbxion.ru
 .zixun8.com
 .ziye8.com
 .ziyeaiying.com

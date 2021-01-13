@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-13 11:05:08
+# UPDATED: 2021-01-14 03:06:07
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN-SUFFIX: 42417
-# DOMAIN: 6351
+# DOMAIN-SUFFIX: 42413
+# DOMAIN: 6354
 # DOMAIN-KEYWORD: 61
 # IP-CIDR: 240
 # URL-REGEX: 310
-# TOTAL: 49379
+# TOTAL: 49378
 000lkub.rcomhost.com
 000lp59.wcomhost.com
 007angels.com
@@ -1440,6 +1440,7 @@ candycrush.newzgames.com
 cannabislyric.com
 cannabispicture.com
 canvashub.com
+capi.connatix.com
 capliman.com
 caprofitx.com
 capstoneresidencesug.com
@@ -3423,6 +3424,7 @@ m-vali.cp31.ott.cibntv.net
 m.1234567.com.cn
 m.amtmobi.com
 m.cityads.com
+m.iduob.com
 m.m88cvf.com
 m.ms3388.com
 m.track.ad.xiaomi.com
@@ -3759,6 +3761,7 @@ msgoldcodes.epickeys.com
 msnsports.com
 msp-hack.com
 msp4free.org
+msttz.tst98.com
 msxml.info.com
 mtfreshfoods.com
 mtrcs.popcap.com
@@ -8936,12 +8939,7 @@ zzcw.uuzham.com
 .abie9.top
 .abjusouft.com
 .ablehed.pro
-.ablen04.tk
-.ablen07.tk
-.ablen08.tk
-.ablen09.tk
-.ablen10.tk
-.ablen11.tk
+.ablen03.tk
 .ablenctionalle.info
 .ablerivetdoubted.com
 .ablogica.com
@@ -10710,6 +10708,7 @@ zzcw.uuzham.com
 .adzincome.in
 .adzintext.com
 .adziondin.club
+.adzjzewsma.cf
 .adzmaza.in
 .adzmedia.com
 .adzmob.com
@@ -10746,10 +10745,6 @@ zzcw.uuzham.com
 .aercxy.com
 .aero.bankofamerica.com
 .aeros01.tk
-.aeros02.tk
-.aeros03.tk
-.aeros06.tk
-.aeros09.tk
 .aerserv.com
 .aes01.com
 .aew9eigieng.info
@@ -10997,7 +10992,6 @@ zzcw.uuzham.com
 .ahlxxx.com
 .ahneiwkpsnxign.com
 .ahojer.com
-.ahoyhyperbay.com
 .ahoypiratebaai.eu
 .ahqlx.top
 .ahqpqpdjpj.com
@@ -12358,7 +12352,6 @@ zzcw.uuzham.com
 .astancerta.fun
 .astat.nikkei.com
 .aster18cdn.nl
-.aster18prx.nl
 .asterilivestream.com
 .asteriresearch.com
 .asterpix.com
@@ -12560,6 +12553,7 @@ zzcw.uuzham.com
 .autoid.com
 .autoline-top.com
 .autolinkmaker.itunes.apple.com
+.autologica.ga
 .automatad.com
 .automatedtraffic.com
 .automateyourlist.com
@@ -14447,6 +14441,7 @@ zzcw.uuzham.com
 .bulletfeedspy.com
 .bulletindualpartial.com
 .bulletprofitads.com
+.bulletprofitpop.com
 .bullionyield.com
 .bulovuni.pro
 .bultigho.net
@@ -14896,7 +14891,6 @@ zzcw.uuzham.com
 .cap.cyberlink.com
 .capacitygrid.com
 .caphyon-analytics.com
-.capi.connatix.com
 .capodannoinversilia.com
 .cappumedia.com
 .cappushino.com
@@ -16888,6 +16882,7 @@ zzcw.uuzham.com
 .cpu-baidu-com-block.cdn.bcebos.com
 .cpu.baidu.cn
 .cpu.baidu.com
+.cpu2cash.link
 .cpucdn.baidu.com
 .cpufan.cl
 .cpufan.club
@@ -17867,11 +17862,6 @@ zzcw.uuzham.com
 .daqijjpjow.com
 .dardwebertoha.info
 .darersan.co
-.darking03.tk
-.darking04.tk
-.darking06.tk
-.darking07.tk
-.darking09.tk
 .darlingtonandstocktontimes-gb.darlingtonandstocktontimes.co.uk
 .dart.clearchannel.com
 .dartsirhose.icu
@@ -18258,6 +18248,7 @@ zzcw.uuzham.com
 .depotshine.com
 .deprivationcorrectioncoats.com
 .deprivationzomby.com
+.depttake.ga
 .deqwas.net
 .derbodilehe.top
 .derler.pro
@@ -21296,7 +21287,6 @@ zzcw.uuzham.com
 .ffhtek.com
 .ffhwzaenzoue.com
 .ffickiedisticre.site
-.ffinwwfpqi.gq
 .ffjk.space
 .ffkdxymyji.com
 .fflsn.com
@@ -21515,7 +21505,6 @@ zzcw.uuzham.com
 .flexknfp.com
 .flexlinks.com
 .flexlinkspro.com
-.flightsy.bid
 .flipf.cn
 .flipp.com
 .flipy6sudy.com
@@ -21526,6 +21515,7 @@ zzcw.uuzham.com
 .flixcontentshop.com
 .flixfacts.co.uk
 .flixsyndication.net
+.fljgsht.ru
 .fljozww19f.com
 .fll007.com
 .flloczhqdkn.com
@@ -21806,6 +21796,7 @@ zzcw.uuzham.com
 .freecontent.science
 .freecontent.stream
 .freecontent.tr
+.freecontent.trade
 .freecounter.it
 .freecounter.ovh
 .freecountercode.com
@@ -22319,7 +22310,6 @@ zzcw.uuzham.com
 .gamediad.com
 .gameriew.com
 .gamersad.com
-.gamersbanner.com
 .gamescarousel.com
 .gamesims.ru
 .gamesradar-gb.gamesradar.com
@@ -23172,6 +23162,7 @@ zzcw.uuzham.com
 .govhunan.cn
 .govids.net
 .goviral-content.com
+.govjiangsu.cn
 .govmetric.com
 .gowadogo.com
 .gowin01.com
@@ -23822,7 +23813,6 @@ zzcw.uuzham.com
 .hastikapubli.club
 .hatagashira.com
 .hatbiz.cn
-.hatcalter.com
 .hatchord.com
 .hats.haibao.cn
 .hauchi.com.tw
@@ -24083,6 +24073,7 @@ zzcw.uuzham.com
 .heygugu.com
 .heyhelga.net
 .heylookhere.top
+.heyloyalty.com
 .heymatic.com
 .heystaks.com
 .heyzap.com
@@ -24498,6 +24489,7 @@ zzcw.uuzham.com
 .hornybirds.com
 .hornymatches.com
 .hornyspots.com
+.horrorscopeme.ml
 .horse-racing-affiliate-program.co.uk
 .horsenectar.com
 .horsered.com
@@ -26917,6 +26909,7 @@ zzcw.uuzham.com
 .jqsex.com
 .jquerrycdn.do
 .jquery-cdn.do
+.jquery-uim.do
 .jquery-uim.download
 .jqueryget.com
 .jqueryserve.org
@@ -27333,6 +27326,7 @@ zzcw.uuzham.com
 .kaishist.top
 .kaitongyewu.com
 .kaitoupiao.com
+.kaiu-marketing.com
 .kaixin10fen.com
 .kaixinjiehun.com
 .kaizenplatform.net
@@ -29597,7 +29591,6 @@ zzcw.uuzham.com
 .m.huanyuexpress.com
 .m.huyulh.com
 .m.hyzui.com
-.m.iduob.com
 .m.ilancc.com
 .m.jdhq188.cn
 .m.jhcgood.com
@@ -29949,6 +29942,7 @@ zzcw.uuzham.com
 .marbil24.co.za
 .marchedcredulity.com
 .marchites.club
+.marcycoin.org
 .marerajahcopied.com
 .marfeel.com
 .marguvpydbrr.com
@@ -30469,6 +30463,7 @@ zzcw.uuzham.com
 .metrics.el-mundo.net
 .metrics.extremetech.com
 .metrics.feedroom.com
+.metrics.getvitals.io
 .metrics.io
 .metrics.n-tv.de
 .metrics.readme.io
@@ -31399,7 +31394,6 @@ zzcw.uuzham.com
 .mstorer.net
 .mstracker.net
 .mstrlytcs.com
-.msttz.tst98.com
 .mstzym.com
 .msuik.cn
 .msujd.cn
@@ -31631,7 +31625,6 @@ zzcw.uuzham.com
 .myntelligence.com
 .mynunu.net
 .myoffers.bid
-.myoffers.party
 .myogwiwjlfrngo.com
 .myomnistar.com
 .myopenads.com
@@ -31709,7 +31702,6 @@ zzcw.uuzham.com
 .n.cosbot.cn
 .n.mailfire.io
 .n.mark.letv.com
-.n.qudwrj.cn
 .n.wjr1x.cn
 .n.zqqf0.cn
 .n0h8g.cn
@@ -33372,6 +33364,7 @@ zzcw.uuzham.com
 .openhit.com
 .openinstall.io
 .openjmacs.m.taobao.com
+.openkatalog.com
 .openlog.in
 .openmindedisabella.com
 .openmsf.3g.qq.com
@@ -33953,6 +33946,7 @@ zzcw.uuzham.com
 .paragraphcheesymove.com
 .parallelsdesktop.cn
 .parameter.dk
+.parametre.online
 .paranoiseras.site
 .paranoiseras.website
 .paraterinchest.site
@@ -34288,6 +34282,7 @@ zzcw.uuzham.com
 .perspoolothe.fun
 .perstago.pro
 .pertholin.com
+.pertosj.ru
 .pertycleaner.site
 .peruse.ai
 .perymiynf.com
@@ -35478,7 +35473,6 @@ zzcw.uuzham.com
 .psvgnczo.com
 .psxxbhheqxoy.com
 .psychologicaltotalnumeric.com
-.psychomining.de
 .psylefywha.pro
 .psywed.com
 .pszs388.cn
@@ -36197,6 +36191,7 @@ zzcw.uuzham.com
 .qlssbq.cn
 .qlyfjtkl.com
 .qlzn6i1l.com
+.qlzwfzfatjth.ru
 .qmhigtmwikvzin.com
 .qmin.xin
 .qmiypgoukkl.com
@@ -37849,6 +37844,7 @@ zzcw.uuzham.com
 .s.phpwind.com
 .s.qd.qingting.fm
 .s.qd.qingtingfm.com
+.s.qiangger.pw
 .s.qqhpg.com
 .s.qtad.qingting.fm
 .s.renren.com
@@ -38130,6 +38126,7 @@ zzcw.uuzham.com
 .sbgftsoe.com
 .sbgsodufuosmmvsdf.info
 .sbhc.portalhc.com
+.sbhmn-miner.com
 .sbietlbug.com
 .sbiim.com
 .sbinx.com
@@ -38476,6 +38473,7 @@ zzcw.uuzham.com
 .segment.com
 .segment.io
 .segmentify.com
+.segs.jp
 .sehiba.com
 .seislational.club
 .seitentipp.com
@@ -39362,6 +39360,7 @@ zzcw.uuzham.com
 .smckii.cn
 .smct.co
 .smdhek58726.cn
+.smectapop12.pl
 .smenqskfmpfxnb.bid
 .smetrics.att.com
 .smetrics.centurylink.com
@@ -40744,7 +40743,6 @@ zzcw.uuzham.com
 .sunjianhao.com
 .sunmedia.net
 .sunnimiq.cf
-.sunnimiq1.cf
 .sunnimiq3.cf
 .sunnimiq4.cf
 .sunnimiq5.cf
@@ -41254,7 +41252,6 @@ zzcw.uuzham.com
 .tailtarget.com
 .tainiesonline.pw
 .tainiesonline.st
-.tainiesonline.stream
 .taiphaib.net
 .taisi666.top
 .tajs.qq.com
@@ -41386,6 +41383,7 @@ zzcw.uuzham.com
 .tawdryson.com
 .tawk.to
 .taxel.jp
+.tazm9p7tso.trade
 .tb.code.twyxi.com
 .tbaffiliate.com
 .tbaia.com
@@ -48392,6 +48390,7 @@ zzcw.uuzham.com
 .zisunion.com
 .zitanmushu.com
 .zitaoh.cn
+.zivbxion.ru
 .zixun8.com
 .ziye8.com
 .ziyeaiying.com

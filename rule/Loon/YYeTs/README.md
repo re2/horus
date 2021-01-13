@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2021-01-13 11:05:34。
+最后检查时间：2021-01-14 03:06:39。
 
 ## 规则统计
 
@@ -49,7 +49,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon
 |  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/China)    | 689   | [9](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/YYeTs/YYeTs_Repeat.list)   |   1.31% |
 |  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaTest)    | 72184   | [14](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/YYeTs/YYeTs_Repeat.list)   |   0.02% |
 |  [ChinaMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaMedia)    | 141   | [7](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/YYeTs/YYeTs_Repeat.list)   |   4.96% |
-|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising)    | 49379   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/YYeTs/YYeTs_Repeat.list)   |   0.0% |
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising)    | 49378   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/YYeTs/YYeTs_Repeat.list)   |   0.0% |
 |  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingTest)    | 68806   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/YYeTs/YYeTs_Repeat.list)   |   0.0% |
 |  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Proxy)    | 27895   | [13](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/YYeTs/YYeTs_Repeat.list)   |   0.05% |
 ### 特别说明
