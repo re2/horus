@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2021-01-14 20:37:56。
+最后检查时间：2021-01-15 03:02:45。
 
 ## 规则统计
 
@@ -42,25 +42,25 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clas
 
 当前分流规则，已包含以下子规则：
 
-- AppleBlock
-
-- AppleTV
-
-- Siri
-
-- AppleMail
-
-- FitnessPlus
-
 - AppStore
 
 - TestFlight
 
-- AppleNews
+- FitnessPlus
 
 - AppleMusic
 
+- Siri
+
+- AppleBlock
+
+- AppleNews
+
+- AppleMail
+
 - iCloud
+
+- AppleTV
 
 除非特殊需求，否则不建议重复引用。
 
