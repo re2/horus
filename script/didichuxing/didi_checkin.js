@@ -63,7 +63,7 @@ function BenefitCheckIn(token, cityId, source_id=''){
                     });
                   }
                   // 连续签到的额外奖励
-                  if (element.sign_rule.hasOwnProperty('perfect_attendance_bonus')){
+                  if (element.sign_rule.perfect_attendance_bonus && element.sign_rule.perfect_attendance_bonus.length > 0){
                     element.sign_rule.perfect_attendance_bonus.forEach(item => {
                       signAmount += item.amount;
                     });
