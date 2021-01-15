@@ -1,7 +1,7 @@
 # NAME: AdvertisingLite 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-15 03:02:12
+# UPDATED: 2021-01-16 03:04:13
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # AdvertisingLite 与 WhiteList 共 1 条规则重复
 DOMAIN,ad.10010.com
@@ -772,13 +772,11 @@ DOMAIN-SUFFIX,googleadservices.com
 DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,googletagservices.com
-# AdvertisingLite 与 Advertising 共 15412 条规则重复
+# AdvertisingLite 与 Advertising 共 15395 条规则重复
 DOMAIN,0nso0tq1sa4.ml
 DOMAIN,12648afd00d93.com
 DOMAIN,14119276be0852.com
-DOMAIN,1543b1db8a0825760.com
 DOMAIN,15yomodels.com
-DOMAIN,16e2ae8f200d975b.com
 DOMAIN,1loop.com
 DOMAIN,21b507a044d841b.com
 DOMAIN,22a12efe35e3c2f.com
@@ -804,7 +802,6 @@ DOMAIN,a.update.51edm.net
 DOMAIN,a2af4f04914ed298.com
 DOMAIN,abcdespanol.com
 DOMAIN,accede.site
-DOMAIN,achren.org
 DOMAIN,actionlocker.com
 DOMAIN,acwyoynw.com
 DOMAIN,ad.10010.com
@@ -903,7 +900,6 @@ DOMAIN,buzina.xyz
 DOMAIN,by98.com
 DOMAIN,byvue.com
 DOMAIN,c75b9ac5103e5d125b8.com
-DOMAIN,calcch.com
 DOMAIN,callingcardsinstantly.com
 DOMAIN,calltrk.com
 DOMAIN,cannabislyric.com
@@ -918,7 +914,6 @@ DOMAIN,cf1c0.thisav.com
 DOMAIN,cfasync.gq
 DOMAIN,checkmy.cam
 DOMAIN,chokertraffic.com
-DOMAIN,clkcln.com
 DOMAIN,clkfeed.com
 DOMAIN,cm.lianmeng.360.cn
 DOMAIN,cmicapui.ce.gov.br
@@ -929,7 +924,6 @@ DOMAIN,cs.celebbusters.com
 DOMAIN,ctyzd.com
 DOMAIN,d1054130-28095.cp.blacknight.com
 DOMAIN,daralasnan.com
-DOMAIN,daredorm.com
 DOMAIN,date-for-more.com
 DOMAIN,dev.imp.nextmedia.com
 DOMAIN,device-messaging-na.amazon.com
@@ -972,7 +966,6 @@ DOMAIN,nowina.info
 DOMAIN,ns1.the-sinner.net
 DOMAIN,officeon.ch.ma
 DOMAIN,okvfijgdmqton.bid
-DOMAIN,oprahsearch.com
 DOMAIN,p.s.360.cn
 DOMAIN,parronnotandone.info
 DOMAIN,pix360.co.nf
@@ -986,7 +979,6 @@ DOMAIN,reclamus.com
 DOMAIN,roks.ua
 DOMAIN,rpt.hpplay.cn
 DOMAIN,rsiuk.co.uk
-DOMAIN,rubiks.ca
 DOMAIN,s.lianmeng.360.cn
 DOMAIN,s.share.baidu.com
 DOMAIN,s1.stat.lianmeng.360.cn
@@ -998,22 +990,17 @@ DOMAIN,service.jiagu.360.cn
 DOMAIN,sexyster.tk
 DOMAIN,show.1688.com
 DOMAIN,slightlyoffcenter.net
-DOMAIN,smrtlnks.com
 DOMAIN,ssa.1337x.to
 DOMAIN,stat.lianmeng.360.cn
 DOMAIN,stat.tf.360.cn
 DOMAIN,static.jebe.renren.com
 DOMAIN,stats.guess.tf.360.cn
-DOMAIN,sub.avgle.com
 DOMAIN,sunlux.net
 DOMAIN,sunny99.cholerik.cz
 DOMAIN,szinhaz.hu
 DOMAIN,tatami-solutions.com
-DOMAIN,tcrwharen.homepage.t-online.de
-DOMAIN,teameda.net
 DOMAIN,thcextractor.com
 DOMAIN,thefxarchive.com
-DOMAIN,thekat.nl
 DOMAIN,thewinesteward.com
 DOMAIN,tjoomo.com
 DOMAIN,top.baidu.com
@@ -1024,15 +1011,12 @@ DOMAIN,update.51edm.net
 DOMAIN,v.tf.360.cn
 DOMAIN,vernoblisk.com
 DOMAIN,vkont.bos.ru
-DOMAIN,voluumtrk3.com
-DOMAIN,widgets.digg.com
 DOMAIN,wuvac.agwebdigital.com
 DOMAIN,www.0uk.net
 DOMAIN,www.3peaks.co.jp
 DOMAIN,www.acquisizionevideo.com
 DOMAIN,www.actiagroup.com
 DOMAIN,www.advancesrl.eu
-DOMAIN,www.aerreravasi.com
 DOMAIN,www.airsonett.se
 DOMAIN,www.alphamedical02.fr
 DOMAIN,www.angolotesti.it
@@ -1060,7 +1044,6 @@ DOMAIN,www.tpt.edu.in
 DOMAIN,www.two-of-us.at
 DOMAIN,xn--18225-zta.biz
 DOMAIN,xoomer.alice.it
-DOMAIN,yatnozin.info
 DOMAIN,ynuf.alipay.com
 DOMAIN,yxhd.hori-gz.com
 DOMAIN,zafrc.5780.site
@@ -16185,12 +16168,10 @@ URL-REGEX,^https?:\/\/www\.zybang\.com\/adx\/
 URL-REGEX,^https?:\/\/xyst\.yuanfudao\.com\/iphone\/splashesV\d
 URL-REGEX,^https?:\/\/xyz\.cnki\.net\/resourcev7\/api\/manualpush\/SlidsList$
 URL-REGEX,^https?:\/\/yxyapi\d\.drcuiyutao\.com\/yxy-api-gateway\/api\/json\/advert\/
-# AdvertisingLite 与 AdvertisingTest 共 15241 条规则重复
+# AdvertisingLite 与 AdvertisingTest 共 15228 条规则重复
 DOMAIN,0nso0tq1sa4.ml
 DOMAIN,12648afd00d93.com
 DOMAIN,14119276be0852.com
-DOMAIN,1543b1db8a0825760.com
-DOMAIN,16e2ae8f200d975b.com
 DOMAIN,21b507a044d841b.com
 DOMAIN,22a12efe35e3c2f.com
 DOMAIN,2xbpub.com
@@ -16212,7 +16193,6 @@ DOMAIN,a.update.51edm.net
 DOMAIN,a2af4f04914ed298.com
 DOMAIN,abcdespanol.com
 DOMAIN,accede.site
-DOMAIN,achren.org
 DOMAIN,acwyoynw.com
 DOMAIN,ad.hori-gz.com
 DOMAIN,adclick.lv
@@ -16293,7 +16273,6 @@ DOMAIN,contentcache-a.akamaihd.net
 DOMAIN,cs.celebbusters.com
 DOMAIN,d1054130-28095.cp.blacknight.com
 DOMAIN,daralasnan.com
-DOMAIN,daredorm.com
 DOMAIN,dev.imp.nextmedia.com
 DOMAIN,device-messaging-na.amazon.com
 DOMAIN,down.feiyang163.com
@@ -16331,7 +16310,6 @@ DOMAIN,nowina.info
 DOMAIN,ns1.the-sinner.net
 DOMAIN,officeon.ch.ma
 DOMAIN,okvfijgdmqton.bid
-DOMAIN,oprahsearch.com
 DOMAIN,p.s.360.cn
 DOMAIN,pix360.co.nf
 DOMAIN,ppfjlk1.5tps.vip
@@ -16341,7 +16319,6 @@ DOMAIN,r6.mo.baidu.com
 DOMAIN,reclamus.com
 DOMAIN,roks.ua
 DOMAIN,rsiuk.co.uk
-DOMAIN,rubiks.ca
 DOMAIN,s.share.baidu.com
 DOMAIN,s1.stat.lianmeng.360.cn
 DOMAIN,safety.amw.com
@@ -16354,15 +16331,11 @@ DOMAIN,stat.lianmeng.360.cn
 DOMAIN,stat.tf.360.cn
 DOMAIN,static.jebe.renren.com
 DOMAIN,stats.guess.tf.360.cn
-DOMAIN,sub.avgle.com
 DOMAIN,sunlux.net
 DOMAIN,sunny99.cholerik.cz
 DOMAIN,szinhaz.hu
-DOMAIN,tcrwharen.homepage.t-online.de
-DOMAIN,teameda.net
 DOMAIN,thcextractor.com
 DOMAIN,thefxarchive.com
-DOMAIN,thekat.nl
 DOMAIN,thewinesteward.com
 DOMAIN,top.baidu.com
 DOMAIN,tracker.ai.xiaomi.com
@@ -16372,14 +16345,12 @@ DOMAIN,update.51edm.net
 DOMAIN,v.tf.360.cn
 DOMAIN,vernoblisk.com
 DOMAIN,vkont.bos.ru
-DOMAIN,widgets.digg.com
 DOMAIN,wuvac.agwebdigital.com
 DOMAIN,www.0uk.net
 DOMAIN,www.3peaks.co.jp
 DOMAIN,www.acquisizionevideo.com
 DOMAIN,www.actiagroup.com
 DOMAIN,www.advancesrl.eu
-DOMAIN,www.aerreravasi.com
 DOMAIN,www.airsonett.se
 DOMAIN,www.alphamedical02.fr
 DOMAIN,www.angolotesti.it
@@ -16406,7 +16377,6 @@ DOMAIN,www.thesparkmachine.com
 DOMAIN,www.tpt.edu.in
 DOMAIN,www.two-of-us.at
 DOMAIN,xn--18225-zta.biz
-DOMAIN,yatnozin.info
 DOMAIN,ynuf.alipay.com
 DOMAIN,yxhd.hori-gz.com
 DOMAIN,zoomdirect.com.au
