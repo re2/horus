@@ -56,9 +56,18 @@ function BenefitCheckIn(token, cityId, source_id=''){
               obj.data.sign.info.sign_activity.forEach(element => {
                 if (element.sign_status == 1){
                   signDays += 1;
-                  element.sign_rule.track_bonus.forEach(bonu => {
-                    signAmount += bonu.amout;
-                  });
+                  // 累计每日签到奖励
+                  if (element.sign_rule.hasOwnProperty('track_bonus')){
+                    element.sign_rule.track_bonus.forEach(item => {
+                      signAmount += item.amount;
+                    });
+                  }
+                  // 连续签到的额外奖励
+                  if (element.sign_rule.hasOwnProperty('perfect_attendance_bonus')){
+                    element.sign_rule.perfect_attendance_bonus.forEach(item => {
+                      signAmount += item.amount;
+                    });
+                  }
                 }
               });
               resolve(['签到成功', signDays, signAmount]);
@@ -934,7 +943,7 @@ function CollectWools(index, actId, ticket, appId='common'){
         magicJS.logInfo(didiSigninStr);
         benefitSubTitle += `🧧福利金签到：${didiSigninStr}`;
         if (signDays > 0){
-          benefitContent += `本周期已联系签到${signDays}，累计获得${signAmount}福利金`;
+          benefitContent += `本周期已联系签到${signDays}天\n累计获得${signAmount}福利金`;
         }
         // if (subsidy > 0){
         //   benefitContent += `获取${subsidy}福利金`;
