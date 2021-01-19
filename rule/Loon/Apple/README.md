@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2021-01-19 23:19:06。
+最后检查时间：2021-01-20 02:59:59。
 
 ## 规则统计
 
@@ -42,25 +42,25 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon
 
 当前分流规则，已包含以下子规则：
 
-- iCloud
+- TestFlight
+
+- FitnessPlus
 
 - AppleMusic
 
 - AppleTV
 
+- AppleBlock
+
+- AppleNews
+
 - Siri
 
-- AppleMail
-
-- TestFlight
-
-- FitnessPlus
-
-- AppleBlock
+- iCloud
 
 - AppStore
 
-- AppleNews
+- AppleMail
 
 除非特殊需求，否则不建议重复引用。
 
