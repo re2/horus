@@ -1,7 +1,7 @@
 # NAME: AdvertisingLite 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-20 02:59:38
+# UPDATED: 2021-01-21 03:05:13
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 payload:
 # AdvertisingLite 与 WhiteList 共 1 条规则重复
@@ -768,7 +768,7 @@ payload:
   - DOMAIN-SUFFIX,googlesyndication.com
   - DOMAIN-SUFFIX,googletagmanager.com
   - DOMAIN-SUFFIX,googletagservices.com
-# AdvertisingLite 与 Advertising 共 15756 条规则重复
+# AdvertisingLite 与 Advertising 共 15741 条规则重复
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,0koryu0.easter.ne.jp
   - DOMAIN,0nso0tq1sa4.ml
@@ -906,7 +906,6 @@ payload:
   - DOMAIN,ax47mp-xp-21.com
   - DOMAIN,axisbuild.com
   - DOMAIN,ayidaye.m.zwdu.com
-  - DOMAIN,b.nevadaprivateoffice.com
   - DOMAIN,babos.scrapping.cc
   - DOMAIN,backup.customstat.video.51togic.com
   - DOMAIN,banners.blacksexmatch.com
@@ -922,7 +921,6 @@ payload:
   - DOMAIN,beap.gemini.yahoo.com
   - DOMAIN,beespace.com.ua
   - DOMAIN,beholder.xyz
-  - DOMAIN,beineiros.xyz
   - DOMAIN,beldiplomcom.75.com1.ru
   - DOMAIN,best100catfights.com
   - DOMAIN,bezproudoff.cz
@@ -1181,7 +1179,6 @@ payload:
   - DOMAIN,internet-bb.tk
   - DOMAIN,invention.festinolente.cl
   - DOMAIN,iolam.it
-  - DOMAIN,ip-182-50-129-164.ip.secureserver.net
   - DOMAIN,ip-182-50-129-181.ip.secureserver.net
   - DOMAIN,ip2location.com
   - DOMAIN,isonomia.com.ar
@@ -1266,7 +1263,6 @@ payload:
   - DOMAIN,mysagagame.com
   - DOMAIN,mysumo.de
   - DOMAIN,n8s.jp
-  - DOMAIN,na.ads.yahoo.com
   - DOMAIN,nadegda-95.ru
   - DOMAIN,nailbytes1.com
   - DOMAIN,namesakeoscilloscopemarquis.com
@@ -1422,15 +1418,12 @@ payload:
   - DOMAIN,service.jiagu.360.cn
   - DOMAIN,services.wes.df.telemetry.microsoft.com
   - DOMAIN,settings-win.data.microsoft.com
-  - DOMAIN,sex-journey.com
   - DOMAIN,sexykittenporn.com
-  - DOMAIN,sexyoilwrestling.com
   - DOMAIN,sexyster.tk
   - DOMAIN,sf3-ttcdn-tos.pstatp.com
   - DOMAIN,sf6-ttcdn-tos.pstatp.com
   - DOMAIN,sgs.us.com
   - DOMAIN,sgvuexlhbgpylr.com
-  - DOMAIN,shalseey.com
   - DOMAIN,shangmiss.wap.xsbiquge.com
   - DOMAIN,shop17741405.m.youzan.com
   - DOMAIN,shopeasy.by
@@ -1443,7 +1436,6 @@ payload:
   - DOMAIN,smartwebads.com
   - DOMAIN,smrcek.com
   - DOMAIN,sp-prod.net
-  - DOMAIN,sp.analytics.yahoo.com
   - DOMAIN,speednetwork6.com
   - DOMAIN,spekband.com
   - DOMAIN,sqm.df.telemetry.microsoft.com
@@ -1460,7 +1452,6 @@ payload:
   - DOMAIN,stopmeagency.free.fr
   - DOMAIN,style-eyes.eu
   - DOMAIN,sub.avgle.com
-  - DOMAIN,sudcom.org
   - DOMAIN,sunny99.cholerik.cz
   - DOMAIN,surveyend.com
   - DOMAIN,svetyivanrilski.com
@@ -1522,10 +1513,8 @@ payload:
   - DOMAIN,users173.lolipop.jp
   - DOMAIN,v.aty.sohu.com
   - DOMAIN,v.tf.360.cn
-  - DOMAIN,vasfxpribls.com
   - DOMAIN,veehdmymwvvexv.com
   - DOMAIN,vernoblisk.com
-  - DOMAIN,vette-porno.nl
   - DOMAIN,vg.aty.sohu.com
   - DOMAIN,viewex.co.uk
   - DOMAIN,villalecchi.com
@@ -1539,7 +1528,6 @@ payload:
   - DOMAIN,wahyufian.zoomshare.com
   - DOMAIN,watson.ppe.telemetry.microsoft.com
   - DOMAIN,watson.telemetry.microsoft.com
-  - DOMAIN,wbsadsdel.com
   - DOMAIN,wbsadsdel2.com
   - DOMAIN,wc0x83ghk.homepage.t-online.de
   - DOMAIN,webcashmaker.com
@@ -1558,7 +1546,6 @@ payload:
   - DOMAIN,wonchangvacuum.com.my
   - DOMAIN,wonderlandads.com
   - DOMAIN,wp9.ru
-  - DOMAIN,wrapper.ign.com
   - DOMAIN,wroclawski.com.pl
   - DOMAIN,wss.rand.com.ru
   - DOMAIN,wuvac.agwebdigital.com
@@ -1627,7 +1614,6 @@ payload:
   - DOMAIN,www.ostsee-schnack.de
   - DOMAIN,www.outlinearray.com
   - DOMAIN,www.perupuntocom.com
-  - DOMAIN,www.petpleasers.ca
   - DOMAIN,www.pgathailand.com
   - DOMAIN,www.profill-smd.com
   - DOMAIN,www.propan.ru
@@ -1701,7 +1687,6 @@ payload:
   - DOMAIN,zaloapp.com
   - DOMAIN,zanyx.club
   - DOMAIN,zboac.com
-  - DOMAIN,zengenti.com
   - DOMAIN,zeroredirect1.com
   - DOMAIN,zkic.com
   - DOMAIN,zoomdirect.com.au
@@ -16525,7 +16510,7 @@ payload:
   - IP-CIDR,69.28.57.245/32
   - IP-CIDR,74.117.182.77/32
   - IP-CIDR,78.140.131.214/32
-# AdvertisingLite 与 AdvertisingTest 共 15465 条规则重复
+# AdvertisingLite 与 AdvertisingTest 共 15452 条规则重复
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,0koryu0.easter.ne.jp
   - DOMAIN,0nso0tq1sa4.ml
@@ -16620,7 +16605,6 @@ payload:
   - DOMAIN,awgsmfzrslcp.com
   - DOMAIN,axisbuild.com
   - DOMAIN,ayidaye.m.zwdu.com
-  - DOMAIN,b.nevadaprivateoffice.com
   - DOMAIN,babos.scrapping.cc
   - DOMAIN,backup.customstat.video.51togic.com
   - DOMAIN,banners.blacksexmatch.com
@@ -16634,7 +16618,6 @@ payload:
   - DOMAIN,beacon2.indieclicktv.com
   - DOMAIN,beespace.com.ua
   - DOMAIN,beholder.xyz
-  - DOMAIN,beineiros.xyz
   - DOMAIN,beldiplomcom.75.com1.ru
   - DOMAIN,best100catfights.com
   - DOMAIN,bezproudoff.cz
@@ -16841,7 +16824,6 @@ payload:
   - DOMAIN,internet-bb.tk
   - DOMAIN,invention.festinolente.cl
   - DOMAIN,iolam.it
-  - DOMAIN,ip-182-50-129-164.ip.secureserver.net
   - DOMAIN,ip-182-50-129-181.ip.secureserver.net
   - DOMAIN,ip2location.com
   - DOMAIN,isonomia.com.ar
@@ -16907,7 +16889,6 @@ payload:
   - DOMAIN,mycleanpc.tk
   - DOMAIN,mylabsrl.com
   - DOMAIN,n8s.jp
-  - DOMAIN,na.ads.yahoo.com
   - DOMAIN,nadegda-95.ru
   - DOMAIN,nailbytes1.com
   - DOMAIN,narrow.azenergyforum.com
@@ -17024,9 +17005,7 @@ payload:
   - DOMAIN,service.jiagu.360.cn
   - DOMAIN,services.wes.df.telemetry.microsoft.com
   - DOMAIN,settings-win.data.microsoft.com
-  - DOMAIN,sex-journey.com
   - DOMAIN,sexykittenporn.com
-  - DOMAIN,sexyoilwrestling.com
   - DOMAIN,sexyster.tk
   - DOMAIN,sgs.us.com
   - DOMAIN,sgvuexlhbgpylr.com
@@ -17039,7 +17018,6 @@ payload:
   - DOMAIN,slightlyoffcenter.net
   - DOMAIN,smrcek.com
   - DOMAIN,sp-prod.net
-  - DOMAIN,sp.analytics.yahoo.com
   - DOMAIN,spekband.com
   - DOMAIN,sqm.df.telemetry.microsoft.com
   - DOMAIN,sqm.telemetry.microsoft.com
@@ -17055,7 +17033,6 @@ payload:
   - DOMAIN,stopmeagency.free.fr
   - DOMAIN,style-eyes.eu
   - DOMAIN,sub.avgle.com
-  - DOMAIN,sudcom.org
   - DOMAIN,sunny99.cholerik.cz
   - DOMAIN,svetyivanrilski.com
   - DOMAIN,swiftypecdn.com
@@ -17110,10 +17087,8 @@ payload:
   - DOMAIN,users173.lolipop.jp
   - DOMAIN,v.aty.sohu.com
   - DOMAIN,v.tf.360.cn
-  - DOMAIN,vasfxpribls.com
   - DOMAIN,veehdmymwvvexv.com
   - DOMAIN,vernoblisk.com
-  - DOMAIN,vette-porno.nl
   - DOMAIN,vg.aty.sohu.com
   - DOMAIN,viewex.co.uk
   - DOMAIN,villalecchi.com
@@ -17136,7 +17111,6 @@ payload:
   - DOMAIN,womenslabour.org
   - DOMAIN,wonchangvacuum.com.my
   - DOMAIN,wp9.ru
-  - DOMAIN,wrapper.ign.com
   - DOMAIN,wroclawski.com.pl
   - DOMAIN,wuvac.agwebdigital.com
   - DOMAIN,www.0uk.net
@@ -17204,7 +17178,6 @@ payload:
   - DOMAIN,www.ostsee-schnack.de
   - DOMAIN,www.outlinearray.com
   - DOMAIN,www.perupuntocom.com
-  - DOMAIN,www.petpleasers.ca
   - DOMAIN,www.pgathailand.com
   - DOMAIN,www.profill-smd.com
   - DOMAIN,www.propan.ru
@@ -17271,7 +17244,6 @@ payload:
   - DOMAIN,yumekin.com
   - DOMAIN,yxhd.hori-gz.com
   - DOMAIN,zaloapp.com
-  - DOMAIN,zengenti.com
   - DOMAIN,zkic.com
   - DOMAIN,zoomdirect.com.au
   - DOMAIN,zous.szm.sk
