@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2021-01-21 23:13:17。
+最后检查时间：2021-01-22 02:59:54。
 
 ## 规则统计
 
@@ -42,21 +42,21 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surg
 
 当前分流规则，已包含以下子规则：
 
-- NetEaseMusic
-
 - Youku
+
+- LeTV
+
+- Douyu
 
 - BiliBili
 
 - Himalaya
 
-- Douyu
-
-- CCTV
+- NetEaseMusic
 
 - iQIYI
 
-- LeTV
+- CCTV
 
 - TencentVideo
 
