@@ -1,7 +1,7 @@
 # NAME: AdvertisingLite 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-25 02:58:14
+# UPDATED: 2021-01-26 03:03:20
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # AdvertisingLite 与 WhiteList 共 1 条规则重复
 HOST,ad.10010.com
@@ -26,10 +26,9 @@ HOST-SUFFIX,mob.com
 HOST-SUFFIX,umeng.com
 HOST-SUFFIX,umengcloud.com
 HOST-SUFFIX,xdrig.com
-# AdvertisingLite 与 ChinaTest 共 637 条规则重复
+# AdvertisingLite 与 ChinaTest 共 636 条规则重复
 HOST,2mdn.net
 HOST,clientservices.googleapis.com
-HOST,imasdk.googleapis.com
 HOST-SUFFIX,000dn.com
 HOST-SUFFIX,0024aaaa.com
 HOST-SUFFIX,002lzj.com
@@ -751,7 +750,7 @@ HOST-SUFFIX,googleadservices.com
 HOST-SUFFIX,googlesyndication.com
 HOST-SUFFIX,googletagmanager.com
 HOST-SUFFIX,googletagservices.com
-# AdvertisingLite 与 Advertising 共 15628 条规则重复
+# AdvertisingLite 与 Advertising 共 15583 条规则重复
 HOST,0.up.qingdaonews.com
 HOST,0koryu0.easter.ne.jp
 HOST,0nso0tq1sa4.ml
@@ -800,7 +799,6 @@ HOST,acwyoynw.com
 HOST,ad.10010.com
 HOST,ad.21cn.com
 HOST,ad.9tv.co.il
-HOST,ad.getfond.info
 HOST,ad.hori-gz.com
 HOST,ad.weibo.com
 HOST,ad.xunkids.com
@@ -928,7 +926,6 @@ HOST,cdncache2-a.akamaihd.net
 HOST,cdnmedia.xyz
 HOST,ce9c00f41ae8cdd.com
 HOST,centralwestwater.com.au
-HOST,cf-particle-html.eip.telegraph.co.uk
 HOST,cf1c0.thisav.com
 HOST,checkmy.cam
 HOST,chokertraffic.com
@@ -953,7 +950,6 @@ HOST,coolmirage.com
 HOST,cosmos.furnipict.com
 HOST,count.spiegel.de
 HOST,cpmterra.com
-HOST,cracks.vg
 HOST,crackspider.us
 HOST,crackzone.net
 HOST,csmail.iggcn.com
@@ -983,12 +979,9 @@ HOST,dfp.aa.sdo.com
 HOST,diagnosis.ad.xiaomi.com
 HOST,diaryofagameaddict.com
 HOST,dimarsbg.com
-HOST,dimenal.com.br
-HOST,dimsnetwork.com
 HOST,direct.wap.zol.com.cn
 HOST,directxex.com
 HOST,discvr.net
-HOST,ditds.xyz
 HOST,dntrax.com
 HOST,dofeb.frenchgerlemanelectric.com
 HOST,dogwuyrspt.com
@@ -1007,7 +1000,6 @@ HOST,download.grandcloud.cn
 HOST,dradvice.in
 HOST,dss0.bdstatic.com
 HOST,dump1.no-ip.biz
-HOST,e.gomev.cn
 HOST,e.tf.360.cn
 HOST,edf.fr.kfskz.com
 HOST,eeps.me
@@ -1054,7 +1046,6 @@ HOST,frtyb.com
 HOST,frtye.com
 HOST,g05.info
 HOST,geil.alon3.tk
-HOST,generalchemicalsupply.com
 HOST,getdatanetukscan.info
 HOST,gettraff.com
 HOST,giveaways.club
@@ -1081,7 +1072,6 @@ HOST,hexadl.line55.net
 HOST,hhourtrk2.com
 HOST,hinsib.com
 HOST,hlpnowp-c.com
-HOST,hnskorea.co.kr
 HOST,hobbytotaalservice.nl
 HOST,holexknw.loan
 HOST,honeybadger.io
@@ -1210,7 +1200,6 @@ HOST,omeda.com
 HOST,onecount.net
 HOST,online-media24.de
 HOST,onlinecashmethod.com
-HOST,oprahsearch.com
 HOST,optiker-michelmann.de
 HOST,optimization-methods.com
 HOST,opus.analytics.yahoo.com
@@ -1245,7 +1234,6 @@ HOST,popped.biz
 HOST,pornomovies.com
 HOST,port.bg
 HOST,portablevaporizer.com
-HOST,portraitphotographygroup.com
 HOST,pos-kupang.com
 HOST,potpourrichordataoscilloscope.com
 HOST,potvaporizer.com
@@ -1266,7 +1254,6 @@ HOST,prowlerz.com
 HOST,psoaptou.net
 HOST,psoonsod.com
 HOST,ptp123.com
-HOST,puenteaereo.info
 HOST,purethc.com
 HOST,push2.eastmoney.com
 HOST,pussyspace.com
@@ -1276,7 +1263,6 @@ HOST,quickcash-system.com
 HOST,qzxcvb.m.zwdu.com
 HOST,r.51wnl-cq.com
 HOST,r6.mo.baidu.com
-HOST,ranklink.de
 HOST,rat-on-subway.mhwang.com
 HOST,rbxtrk.com
 HOST,rcads.net
@@ -1285,11 +1271,9 @@ HOST,reclamus.com
 HOST,redirections.site
 HOST,rentfromart.com
 HOST,reports.wes.df.telemetry.microsoft.com
-HOST,restions-planted.com
 HOST,rev.da.netease.com
 HOST,reviewdollars.com
 HOST,roks.ua
-HOST,roulettebotplus.com
 HOST,rpt.hpplay.cn
 HOST,rsiuk.co.uk
 HOST,runslin.com
@@ -1306,13 +1290,11 @@ HOST,safety.amw.com
 HOST,sajari.com
 HOST,sasson-cpa.co.il
 HOST,scaner-or.tk
-HOST,scdsfdfgdr12.tk
 HOST,scriptall.gq
 HOST,securesoft.info
 HOST,securitywebservices.com
 HOST,semengineers.com
 HOST,seoholding.com
-HOST,seonetwizard.com
 HOST,server.freegamesall.com
 HOST,server1.extra-web.cz
 HOST,service.jiagu.360.cn
@@ -1322,13 +1304,9 @@ HOST,sexykittenporn.com
 HOST,sf3-ttcdn-tos.pstatp.com
 HOST,sf6-ttcdn-tos.pstatp.com
 HOST,sgs.us.com
-HOST,sgvuexlhbgpylr.com
-HOST,shalseey.com
-HOST,shangmiss.wap.xsbiquge.com
 HOST,shop17741405.m.youzan.com
 HOST,shopeasy.by
 HOST,show.1688.com
-HOST,showheroes.com
 HOST,sierra-fox.com
 HOST,skgroup.kiev.ua
 HOST,slashdot.org
@@ -1347,19 +1325,16 @@ HOST,stat.lianmeng.360.cn
 HOST,stat.tf.360.cn
 HOST,static.gg.uuu9.com
 HOST,static.jebe.renren.com
-HOST,static.retirementcommunitiesfyi.com
 HOST,stats.guess.tf.360.cn
 HOST,sticans.pro
 HOST,stopmeagency.free.fr
 HOST,style-eyes.eu
-HOST,sub.avgle.com
 HOST,sudcom.org
 HOST,sunny99.cholerik.cz
 HOST,surveyend.com
 HOST,svetyivanrilski.com
 HOST,swiftypecdn.com
 HOST,symkashop.ru
-HOST,syncedvision.com
 HOST,szinhaz.hu
 HOST,t.zisu.cn.com
 HOST,t1.a.market.xiaomi.com
@@ -1368,7 +1343,6 @@ HOST,t3.a.market.xiaomi.com
 HOST,t4.a.market.xiaomi.com
 HOST,t5.a.market.xiaomi.com
 HOST,tabex.sopharma.bg
-HOST,tamilcm.com
 HOST,tatami-solutions.com
 HOST,tavuks.com
 HOST,tcrwharen.homepage.t-online.de
@@ -1396,12 +1370,10 @@ HOST,traff1.com
 HOST,traffic-c.com
 HOST,trafficgrowth.com
 HOST,triangleservicesltd.com
-HOST,tscl.com.bd
 HOST,tu.cvnad.com
 HOST,tvduznfdgim.com
 HOST,tvzhe.com
 HOST,u4ghzfb.com
-HOST,unalbilgisayar.com
 HOST,undefined.it
 HOST,unitex.home.pl
 HOST,unyhjoehc.com
@@ -1414,13 +1386,10 @@ HOST,v.tf.360.cn
 HOST,veehdmymwvvexv.com
 HOST,vernoblisk.com
 HOST,vg.aty.sohu.com
-HOST,villalecchi.com
 HOST,vistatech.us
 HOST,vitamasaz.pl
 HOST,vkont.bos.ru
 HOST,vm.aty.sohu.com
-HOST,vmay.com
-HOST,vural-electronic.com
 HOST,vvps.ws
 HOST,watson.ppe.telemetry.microsoft.com
 HOST,watson.telemetry.microsoft.com
@@ -1432,21 +1401,15 @@ HOST,webkatalog.li
 HOST,webordermanager.com
 HOST,websalesusa.com
 HOST,websearchers.net
-HOST,webtrackerplus.com
 HOST,weliketofuckstrangers.com
 HOST,wes.df.telemetry.microsoft.com
-HOST,wgpartner.com
-HOST,widgets.digg.com
-HOST,windspotter.net
 HOST,wkmg.co.kr
 HOST,womenslabour.org
 HOST,wonchangvacuum.com.my
 HOST,wonderlandads.com
-HOST,wp9.ru
 HOST,wrapper.ign.com
 HOST,wss.rand.com.ru
 HOST,wuvac.agwebdigital.com
-HOST,wv-law.com
 HOST,www.0uk.net
 HOST,www.3peaks.co.jp
 HOST,www.acquisizionevideo.com
@@ -1492,11 +1455,8 @@ HOST,www.officialrdr.com
 HOST,www.ostsee-schnack.de
 HOST,www.outlinearray.com
 HOST,www.perupuntocom.com
-HOST,www.petpleasers.ca
 HOST,www.pgathailand.com
 HOST,www.profill-smd.com
-HOST,www.realinnovation.com
-HOST,www.rebeccacella.com
 HOST,www.rempko.sk
 HOST,www.ristoromontebasso.it
 HOST,www.rokus-tgy.hu
@@ -1505,7 +1465,6 @@ HOST,www.rooversadvocatuur.nl
 HOST,www.saemark.is
 HOST,www.sankyo.gr.jp
 HOST,www.sanseracingteam.com
-HOST,www.sbo.it
 HOST,www.scanmyphones.com
 HOST,www.secondome.com
 HOST,www.secretchina.com
@@ -1516,7 +1475,6 @@ HOST,www.slivki.com.ua
 HOST,www.smartscan.ro
 HOST,www.sonnoli.com
 HOST,www.spris.com
-HOST,www.super8service.de
 HOST,www.t-gas.co.uk
 HOST,www.tdms.saglik.gov.tr
 HOST,www.technix.it
@@ -1530,7 +1488,6 @@ HOST,www.vivaimontina.com
 HOST,www.volleyball-doppeldorf.de
 HOST,www.vvvic.com
 HOST,www.whitesports.co.kr
-HOST,www.wigglewoo.com
 HOST,www.wrestlingexposed.com
 HOST,www.xiruz.kit.net
 HOST,www.ywvcomputerprocess.info
@@ -1538,7 +1495,6 @@ HOST,www.zyxyfy.com
 HOST,wxbrdppfpr.com
 HOST,x.mochiads.com
 HOST,xamateurpornlic.www1.biz
-HOST,xindalawyer.com
 HOST,xn--18225-zta.biz
 HOST,xnxx.com
 HOST,xoomer.alice.it
@@ -1555,10 +1511,8 @@ HOST,yumekin.com
 HOST,yxhd.hori-gz.com
 HOST,zafrc.5780.site
 HOST,zaloapp.com
-HOST,zanyx.club
 HOST,zkic.com
 HOST,zoomdirect.com.au
-HOST,zous.szm.sk
 HOST,zt.tim-taxi.com
 HOST,zzomiuob.com
 HOST-KEYWORD,admarvel
@@ -16380,7 +16334,7 @@ IP-CIDR,67.229.224.28/32
 IP-CIDR,69.28.57.245/32
 IP-CIDR,74.117.182.77/32
 IP-CIDR,78.140.131.214/32
-# AdvertisingLite 与 AdvertisingTest 共 15354 条规则重复
+# AdvertisingLite 与 AdvertisingTest 共 15319 条规则重复
 HOST,0.up.qingdaonews.com
 HOST,0koryu0.easter.ne.jp
 HOST,0nso0tq1sa4.ml
@@ -16422,7 +16376,6 @@ HOST,accede.site
 HOST,acwyoynw.com
 HOST,ad.21cn.com
 HOST,ad.9tv.co.il
-HOST,ad.getfond.info
 HOST,ad.hori-gz.com
 HOST,ad.weibo.com
 HOST,ad.xunkids.com
@@ -16509,7 +16462,6 @@ HOST,cdncache2-a.akamaihd.net
 HOST,cdnmedia.xyz
 HOST,ce9c00f41ae8cdd.com
 HOST,centralwestwater.com.au
-HOST,cf-particle-html.eip.telegraph.co.uk
 HOST,cf1c0.thisav.com
 HOST,ciclismovalenciano.com
 HOST,citymediamagazin.hu
@@ -16527,7 +16479,6 @@ HOST,contentcache-a.akamaihd.net
 HOST,coolmirage.com
 HOST,cosmos.furnipict.com
 HOST,count.spiegel.de
-HOST,cracks.vg
 HOST,crackspider.us
 HOST,crackzone.net
 HOST,csmail.iggcn.com
@@ -16554,8 +16505,6 @@ HOST,dfp.aa.sdo.com
 HOST,diagnosis.ad.xiaomi.com
 HOST,diaryofagameaddict.com
 HOST,dimarsbg.com
-HOST,dimenal.com.br
-HOST,dimsnetwork.com
 HOST,direct.wap.zol.com.cn
 HOST,directxex.com
 HOST,discvr.net
@@ -16574,7 +16523,6 @@ HOST,download.56.com
 HOST,download.grandcloud.cn
 HOST,dss0.bdstatic.com
 HOST,dump1.no-ip.biz
-HOST,e.gomev.cn
 HOST,e.tf.360.cn
 HOST,edf.fr.kfskz.com
 HOST,eeps.me
@@ -16612,7 +16560,6 @@ HOST,freeserials.spb.ru
 HOST,freeserials.ws
 HOST,g05.info
 HOST,geil.alon3.tk
-HOST,generalchemicalsupply.com
 HOST,getdatanetukscan.info
 HOST,gklmedia.com
 HOST,go-quicky.com
@@ -16631,7 +16578,6 @@ HOST,hanulsms.com
 HOST,harshwhispers.com
 HOST,hexadl.line55.net
 HOST,hinsib.com
-HOST,hnskorea.co.kr
 HOST,hobbytotaalservice.nl
 HOST,honeybadger.io
 HOST,hoppr.co
@@ -16735,7 +16681,6 @@ HOST,officeon.ch.ma
 HOST,okvfijgdmqton.bid
 HOST,onecount.net
 HOST,online-media24.de
-HOST,oprahsearch.com
 HOST,optiker-michelmann.de
 HOST,optimization-methods.com
 HOST,opus.analytics.yahoo.com
@@ -16760,7 +16705,6 @@ HOST,poolmining.net
 HOST,pornomovies.com
 HOST,port.bg
 HOST,portablevaporizer.com
-HOST,portraitphotographygroup.com
 HOST,pos-kupang.com
 HOST,potvaporizer.com
 HOST,ppfjlk1.5tps.vip
@@ -16772,7 +16716,6 @@ HOST,profile.bharatmatrimony.com
 HOST,promo.pegcweb.com
 HOST,promos.wealthymen.com
 HOST,prorodeosportmed.com
-HOST,puenteaereo.info
 HOST,purethc.com
 HOST,push2.eastmoney.com
 HOST,pussyspace.com
@@ -16798,13 +16741,11 @@ HOST,saemark.is
 HOST,safety.amw.com
 HOST,sasson-cpa.co.il
 HOST,scaner-or.tk
-HOST,scdsfdfgdr12.tk
 HOST,scriptall.gq
 HOST,securesoft.info
 HOST,securitywebservices.com
 HOST,semengineers.com
 HOST,seoholding.com
-HOST,seonetwizard.com
 HOST,server.freegamesall.com
 HOST,server1.extra-web.cz
 HOST,service.jiagu.360.cn
@@ -16812,8 +16753,6 @@ HOST,services.wes.df.telemetry.microsoft.com
 HOST,settings-win.data.microsoft.com
 HOST,sexykittenporn.com
 HOST,sgs.us.com
-HOST,sgvuexlhbgpylr.com
-HOST,shangmiss.wap.xsbiquge.com
 HOST,shop17741405.m.youzan.com
 HOST,show.1688.com
 HOST,sierra-fox.com
@@ -16832,12 +16771,10 @@ HOST,stat.lianmeng.360.cn
 HOST,stat.tf.360.cn
 HOST,static.gg.uuu9.com
 HOST,static.jebe.renren.com
-HOST,static.retirementcommunitiesfyi.com
 HOST,stats.guess.tf.360.cn
 HOST,sticans.pro
 HOST,stopmeagency.free.fr
 HOST,style-eyes.eu
-HOST,sub.avgle.com
 HOST,sudcom.org
 HOST,sunny99.cholerik.cz
 HOST,svetyivanrilski.com
@@ -16850,7 +16787,6 @@ HOST,t3.a.market.xiaomi.com
 HOST,t4.a.market.xiaomi.com
 HOST,t5.a.market.xiaomi.com
 HOST,tabex.sopharma.bg
-HOST,tamilcm.com
 HOST,tavuks.com
 HOST,tcrwharen.homepage.t-online.de
 HOST,teameda.comcastbiz.net
@@ -16874,12 +16810,10 @@ HOST,tracking.v.tf.360.cn
 HOST,traff1.com
 HOST,trafficgrowth.com
 HOST,triangleservicesltd.com
-HOST,tscl.com.bd
 HOST,tu.cvnad.com
 HOST,tvduznfdgim.com
 HOST,tvzhe.com
 HOST,u4ghzfb.com
-HOST,unalbilgisayar.com
 HOST,undefined.it
 HOST,unitex.home.pl
 HOST,unyhjoehc.com
@@ -16892,13 +16826,10 @@ HOST,v.tf.360.cn
 HOST,veehdmymwvvexv.com
 HOST,vernoblisk.com
 HOST,vg.aty.sohu.com
-HOST,villalecchi.com
 HOST,vistatech.us
 HOST,vitamasaz.pl
 HOST,vkont.bos.ru
 HOST,vm.aty.sohu.com
-HOST,vmay.com
-HOST,vural-electronic.com
 HOST,vvps.ws
 HOST,watson.ppe.telemetry.microsoft.com
 HOST,watson.telemetry.microsoft.com
@@ -16906,15 +16837,11 @@ HOST,webcashmaker.com
 HOST,webcom-software.ws
 HOST,webordermanager.com
 HOST,websalesusa.com
-HOST,widgets.digg.com
-HOST,windspotter.net
 HOST,wkmg.co.kr
 HOST,womenslabour.org
 HOST,wonchangvacuum.com.my
-HOST,wp9.ru
 HOST,wrapper.ign.com
 HOST,wuvac.agwebdigital.com
-HOST,wv-law.com
 HOST,www.0uk.net
 HOST,www.3peaks.co.jp
 HOST,www.acquisizionevideo.com
@@ -16960,11 +16887,8 @@ HOST,www.officialrdr.com
 HOST,www.ostsee-schnack.de
 HOST,www.outlinearray.com
 HOST,www.perupuntocom.com
-HOST,www.petpleasers.ca
 HOST,www.pgathailand.com
 HOST,www.profill-smd.com
-HOST,www.realinnovation.com
-HOST,www.rebeccacella.com
 HOST,www.rempko.sk
 HOST,www.ristoromontebasso.it
 HOST,www.rokus-tgy.hu
@@ -16973,7 +16897,6 @@ HOST,www.rooversadvocatuur.nl
 HOST,www.saemark.is
 HOST,www.sankyo.gr.jp
 HOST,www.sanseracingteam.com
-HOST,www.sbo.it
 HOST,www.scanmyphones.com
 HOST,www.secondome.com
 HOST,www.sieltre.it
@@ -16983,7 +16906,6 @@ HOST,www.slivki.com.ua
 HOST,www.smartscan.ro
 HOST,www.sonnoli.com
 HOST,www.spris.com
-HOST,www.super8service.de
 HOST,www.t-gas.co.uk
 HOST,www.tdms.saglik.gov.tr
 HOST,www.technix.it
@@ -16997,14 +16919,12 @@ HOST,www.vivaimontina.com
 HOST,www.volleyball-doppeldorf.de
 HOST,www.vvvic.com
 HOST,www.whitesports.co.kr
-HOST,www.wigglewoo.com
 HOST,www.wrestlingexposed.com
 HOST,www.xiruz.kit.net
 HOST,www.ywvcomputerprocess.info
 HOST,www.zyxyfy.com
 HOST,wxbrdppfpr.com
 HOST,xamateurpornlic.www1.biz
-HOST,xindalawyer.com
 HOST,xn--18225-zta.biz
 HOST,xnxx.com
 HOST,xotsa.frenchgerlemanelectric.com
@@ -17020,7 +16940,6 @@ HOST,yxhd.hori-gz.com
 HOST,zaloapp.com
 HOST,zkic.com
 HOST,zoomdirect.com.au
-HOST,zous.szm.sk
 HOST,zt.tim-taxi.com
 HOST,zzomiuob.com
 HOST-KEYWORD,admarvel
@@ -34285,7 +34204,7 @@ HOST-SUFFIX,zyq2.destinia.sk
 HOST-SUFFIX,zz.bdstatic.com
 # AdvertisingLite 与 Game 共 1 条规则重复
 HOST,cdp.cloud.unity3d.com
-# AdvertisingLite 与 Proxy 共 59 条规则重复
+# AdvertisingLite 与 Proxy 共 60 条规则重复
 HOST-SUFFIX,2o7.net
 HOST-SUFFIX,adbecrsl.com
 HOST-SUFFIX,addthis.com
@@ -34317,6 +34236,7 @@ HOST-SUFFIX,googletagmanager.com
 HOST-SUFFIX,googletagservices.com
 HOST-SUFFIX,guangming.org
 HOST-SUFFIX,javhd.com
+HOST-SUFFIX,jimdo.com
 HOST-SUFFIX,jwpltx.com
 HOST-SUFFIX,localnetwork.uop
 HOST-SUFFIX,marketo.com
