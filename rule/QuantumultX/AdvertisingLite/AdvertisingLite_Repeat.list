@@ -1,7 +1,7 @@
 # NAME: AdvertisingLite 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-31 02:38:18
+# UPDATED: 2021-02-01 02:37:53
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # AdvertisingLite 与 WhiteList 共 1 条规则重复
 HOST,ad.10010.com
@@ -26,7 +26,7 @@ HOST-SUFFIX,mob.com
 HOST-SUFFIX,umeng.com
 HOST-SUFFIX,umengcloud.com
 HOST-SUFFIX,xdrig.com
-# AdvertisingLite 与 ChinaTest 共 637 条规则重复
+# AdvertisingLite 与 ChinaTest 共 636 条规则重复
 HOST,2mdn.net
 HOST,imasdk.googleapis.com
 HOST-SUFFIX,000dn.com
@@ -459,7 +459,6 @@ HOST-SUFFIX,quyaoya.com
 HOST-SUFFIX,qzxmtyy.com
 HOST-SUFFIX,rannabio.com
 HOST-SUFFIX,rdtuijian.com
-HOST-SUFFIX,remote88.com
 HOST-SUFFIX,rtbasia.com
 HOST-SUFFIX,ruxianke.com
 HOST-SUFFIX,s8x1.com
@@ -751,8 +750,9 @@ HOST-SUFFIX,googleadservices.com
 HOST-SUFFIX,googlesyndication.com
 HOST-SUFFIX,googletagmanager.com
 HOST-SUFFIX,googletagservices.com
-# AdvertisingLite 与 Advertising 共 15747 条规则重复
+# AdvertisingLite 与 Advertising 共 15777 条规则重复
 HOST,0.up.qingdaonews.com
+HOST,0d847862199.com
 HOST,0koryu0.easter.ne.jp
 HOST,0nso0tq1sa4.ml
 HOST,1.up.qingdaonews.com
@@ -788,7 +788,6 @@ HOST,86240336d5604d7.com
 HOST,91mobiles.com
 HOST,97b1c56132dfcdd90f93-0c5c8388c0a5897e648f883e2c86dc72.r54.cf5.rackcdn.com
 HOST,97ff623306ff4c26996.com
-HOST,999fitness.com
 HOST,99a9339abed56.com
 HOST,a.update.51edm.net
 HOST,a2af4f04914ed298.com
@@ -834,12 +833,14 @@ HOST,adv-ads.variflight.com
 HOST,adv.ettoday.net
 HOST,adv.riza.it
 HOST,adverigo.com
+HOST,advertisement.taobao.com
 HOST,advmania.com
 HOST,adxmarket.com
 HOST,afa15.com.ne.kr
 HOST,affairexcuses.com
 HOST,agsteier.com
 HOST,ailanibah.com
+HOST,ajewishgift.com
 HOST,ajkrls.com
 HOST,akcdinzvcenhjh.com
 HOST,akirkpatrick.com
@@ -895,7 +896,6 @@ HOST,banners.passiondollars.com
 HOST,banners.rude.com
 HOST,banners.rushcommerce.com
 HOST,bannersnack.net
-HOST,bavftcgoapga.com
 HOST,bbs.hori-gz.com
 HOST,bde.be
 HOST,beacon2.indieclicktv.com
@@ -938,6 +938,7 @@ HOST,cdncache2-a.akamaihd.net
 HOST,cdnmedia.xyz
 HOST,ce9c00f41ae8cdd.com
 HOST,centralwestwater.com.au
+HOST,cf-particle-html.eip.telegraph.co.uk
 HOST,cf1c0.thisav.com
 HOST,cfasync.gq
 HOST,checkmy.cam
@@ -948,6 +949,7 @@ HOST,citymediamagazin.hu
 HOST,classicspeedway.com
 HOST,cleverusenet.club
 HOST,click.absoluteagency.com
+HOST,clickiocdn.com
 HOST,clickz.lonelycheatingwives.com
 HOST,clkcln.com
 HOST,clkfeed.com
@@ -992,7 +994,6 @@ HOST,d2oa97wrxvxm7y.cloudfront.net
 HOST,d3jgr4uve1d188.cloudfront.net
 HOST,d3ud741uvs727m.cloudfront.net
 HOST,d4.cumshots.ws
-HOST,d6e9d7d57085c0.com
 HOST,daralasnan.com
 HOST,date-for-more.com
 HOST,datefree.com
@@ -1055,6 +1056,7 @@ HOST,ext.baidu.com
 HOST,ezdownloadpro.info
 HOST,f.aty.sohu.com
 HOST,f.gj555.net
+HOST,f9918c3545cc7b.com
 HOST,fadeatrighlet.com
 HOST,falconsafe.com.sg
 HOST,fapping.club
@@ -1062,10 +1064,10 @@ HOST,faq-candrive.tk
 HOST,fbku.com
 HOST,fcanr.tracking.miui.com
 HOST,fehsnwiem.com
+HOST,femalewrestlingnow.com
 HOST,fgawegwr.chez.com
 HOST,fhserve.com
 HOST,files.dsnetwb.com
-HOST,finance-reporting.org
 HOST,financenews.pw
 HOST,finnhair.co.uk
 HOST,firehouse651.com
@@ -1120,7 +1122,6 @@ HOST,higher.dwebsi.tk
 HOST,higheurest.com
 HOST,hinsib.com
 HOST,hlpnowp-c.com
-HOST,hmbgumjgey.com
 HOST,hmora.fred-build.tk
 HOST,hnskorea.co.kr
 HOST,hobbytotaalservice.nl
@@ -1136,6 +1137,7 @@ HOST,hotfacesitting.com
 HOST,hotspot.cz
 HOST,hpplay.cn
 HOST,hrtya.com
+HOST,hst-19-33.splius.lt
 HOST,httpdns.n.netease.com
 HOST,hujii.qplanner.cf
 HOST,huluads.info
@@ -1144,15 +1146,12 @@ HOST,hy-brasil.mhwang.com
 HOST,hydraulicpowerpack.com
 HOST,hzdaye.m.zwdu.com
 HOST,iamagameaddict.com
-HOST,iclwy.xyz
 HOST,ilividnewtab.com
 HOST,imagedoll.com
 HOST,images.topguncustomz.com
 HOST,img.ads.csdn.net
 HOST,img001.com
-HOST,imgmaze.pw
 HOST,imgspice.com
-HOST,imgtown.pw
 HOST,impressoras-cartoes.com.pt
 HOST,imsnp.com
 HOST,inclusivediversity.co.uk
@@ -1186,14 +1185,12 @@ HOST,kadman.net
 HOST,kaizentraffic.com
 HOST,kalantzis.net
 HOST,kapcotool.com
-HOST,kids-fashion.dk
 HOST,kingsoft.com
 HOST,klaviyo.com
 HOST,kliklink.ru
 HOST,kollagen4you.se
 HOST,ldzqhq.biz
 HOST,legendsdtv.com
-HOST,leohd59.ru
 HOST,letsgoshopping.tk
 HOST,letshareus.com
 HOST,lexu.goggendorf.at
@@ -1218,7 +1215,6 @@ HOST,luckyblank.info
 HOST,luckyclear.info
 HOST,luckyhalo.info
 HOST,luckypure.info
-HOST,luckyshine.info
 HOST,luckytidy.info
 HOST,lwxlsj.wap.xsbiquge.com
 HOST,m-vali.cp31.ott.cibntv.net
@@ -1236,7 +1232,6 @@ HOST,marvin.pw
 HOST,marx-brothers.mhwang.com
 HOST,mathenea.com
 HOST,maudfkdsuyp.com
-HOST,maxisoft.co.uk
 HOST,media-app.com
 HOST,mediatrade.h19.ru
 HOST,merrymilkfoods.com
@@ -1246,11 +1241,9 @@ HOST,mirandolasrl.it
 HOST,mktmobi.com
 HOST,mmg.aty.sohu.com
 HOST,mms.hori-gz.com
-HOST,montpti.top
 HOST,mordi.fun
 HOST,mowithlerendu.pro
 HOST,ms11.net
-HOST,mueller-holz-bau.com
 HOST,murbil.hostei.com
 HOST,mycleanpc.tk
 HOST,mylabsrl.com
@@ -1288,7 +1281,6 @@ HOST,ns1.the-sinner.net
 HOST,nt-associates.com
 HOST,nudebeachgalleries.net
 HOST,nuptialimages.com
-HOST,nymphdate.com
 HOST,oawoo.frenchgerlemanelectric.com
 HOST,obkom.net.ua
 HOST,ocpersian.com
@@ -1298,13 +1290,14 @@ HOST,okvfijgdmqton.bid
 HOST,omeda.com
 HOST,omrdatacapture.com
 HOST,onecount.net
+HOST,onhitads.net
 HOST,online-media24.de
 HOST,onlinecashmethod.com
-HOST,onlineshopping.website
 HOST,onrio.com.br
 HOST,optiker-michelmann.de
 HOST,optimization-methods.com
 HOST,opus.analytics.yahoo.com
+HOST,orbowlada.strefa.pl
 HOST,org-dot-com.com
 HOST,ospserver.net
 HOST,ouptoobe.net
@@ -1328,6 +1321,7 @@ HOST,photoscape.ch
 HOST,piwik.pro
 HOST,pix360.co.nf
 HOST,pixroute.com
+HOST,player.streamshow.it
 HOST,plengeh.wen.ru
 HOST,plsdrct2.me
 HOST,pm.aty.sohu.com
@@ -1344,6 +1338,7 @@ HOST,potpourrichordataoscilloscope.com
 HOST,potvaporizer.com
 HOST,powershopnet.net
 HOST,ppfjlk1.5tps.vip
+HOST,pradakomechanicals.com
 HOST,pride-u-bike.com
 HOST,privacy4browsers.com
 HOST,private.hotelcesenaticobooking.info
@@ -1367,6 +1362,7 @@ HOST,purethc.com
 HOST,push2.eastmoney.com
 HOST,pussyspace.com
 HOST,qewa33a.com
+HOST,qgwazwmlx.com
 HOST,qualigo.com
 HOST,quickcash-system.com
 HOST,qzxcvb.m.zwdu.com
@@ -1417,12 +1413,14 @@ HOST,search.video.iqiyi.com
 HOST,securesoft.info
 HOST,securitywebservices.com
 HOST,semengineers.com
+HOST,sentrol.cl
 HOST,seonetwizard.com
 HOST,server.freegamesall.com
 HOST,server1.extra-web.cz
 HOST,service.jiagu.360.cn
 HOST,services.wes.df.telemetry.microsoft.com
 HOST,settings-win.data.microsoft.com
+HOST,sex-journey.com
 HOST,sexykittenporn.com
 HOST,sexyoilwrestling.com
 HOST,sexyster.tk
@@ -1456,9 +1454,16 @@ HOST,sticans.pro
 HOST,stopmeagency.free.fr
 HOST,style-eyes.eu
 HOST,sub.avgle.com
+HOST,sub.za.com
 HOST,subscription.iqiyi.com
 HOST,sudcom.org
+HOST,sunlux.net
 HOST,sunny99.cholerik.cz
+HOST,surveyend.com
+HOST,svetyivanrilski.com
+HOST,swiftypecdn.com
+HOST,symkashop.ru
+HOST,syncedvision.com
 HOST,szinhaz.hu
 HOST,t.zisu.cn.com
 HOST,t1.a.market.xiaomi.com
@@ -1468,8 +1473,11 @@ HOST,t4.a.market.xiaomi.com
 HOST,t5.a.market.xiaomi.com
 HOST,tabex.sopharma.bg
 HOST,tamilcm.com
+HOST,tatami-solutions.com
 HOST,tavuks.com
+HOST,tcrwharen.homepage.t-online.de
 HOST,teameda.comcastbiz.net
+HOST,teameda.net
 HOST,tecslide.com
 HOST,telecommand.telemetry.microsoft.com
 HOST,test.ark.letv.com
@@ -1497,7 +1505,9 @@ HOST,tripedrated.xyz
 HOST,tu.cvnad.com
 HOST,tubemoviez.com
 HOST,tvduznfdgim.com
+HOST,tvzhe.com
 HOST,u4ghzfb.com
+HOST,unalbilgisayar.com
 HOST,undefined.it
 HOST,unitex.home.pl
 HOST,unlim-app.tk
@@ -1512,26 +1522,32 @@ HOST,us.vortex-win.data.microsoft.com
 HOST,users173.lolipop.jp
 HOST,v.aty.sohu.com
 HOST,v.tf.360.cn
+HOST,vasfxpribls.com
 HOST,veehdmymwvvexv.com
 HOST,vernoblisk.com
+HOST,vette-porno.nl
 HOST,vg.aty.sohu.com
 HOST,vistatech.us
 HOST,vitamasaz.pl
 HOST,vkont.bos.ru
 HOST,vm.aty.sohu.com
 HOST,voluumtrk3.com
+HOST,vps.gcx3.cn
 HOST,vural-electronic.com
 HOST,vvps.ws
+HOST,wahyufian.zoomshare.com
 HOST,watson.ppe.telemetry.microsoft.com
 HOST,watson.telemetry.microsoft.com
 HOST,wbsadsdel.com
 HOST,wbsadsdel2.com
+HOST,wc0x83ghk.homepage.t-online.de
 HOST,webcashmaker.com
 HOST,webcom-software.ws
 HOST,webkatalog.li
 HOST,webordermanager.com
 HOST,websalesusa.com
 HOST,websearchers.net
+HOST,webtrackerplus.com
 HOST,weliketofuckstrangers.com
 HOST,wes.df.telemetry.microsoft.com
 HOST,widgets.digg.com
@@ -1595,15 +1611,19 @@ HOST,www.jcmarcadolib.com
 HOST,www.joomlalivechat.com
 HOST,www.kcta.or.kr
 HOST,www.kjbbc.net
+HOST,www.lccl.org.uk
 HOST,www.lifelabs.vn
+HOST,www.litra.com.mk
 HOST,www.lostartofbeingadame.com
 HOST,www.lowes-pianos-and-organs.com
 HOST,www.makohela.tk
+HOST,www.marinoderosas.com
 HOST,www.marss.eu
 HOST,www.milardi.it
 HOST,www.mondoperaio.net
 HOST,www.montacarichi.it
 HOST,www.moviedownloader.net
+HOST,www.notaverde.com
 HOST,www.nothingcompares.co.uk
 HOST,www.nuvon.com
 HOST,www.obyz.de
@@ -1628,6 +1648,7 @@ HOST,www.saemark.is
 HOST,www.salentoeasy.it
 HOST,www.sankyo.gr.jp
 HOST,www.sanseracingteam.com
+HOST,www.sbo.it
 HOST,www.scanmyphones.com
 HOST,www.secondome.com
 HOST,www.secretchina.com
@@ -1638,7 +1659,10 @@ HOST,www.slivki.com.ua
 HOST,www.smartscan.ro
 HOST,www.sonnoli.com
 HOST,www.spris.com
+HOST,www.studiolegaleabbruzzese.com
 HOST,www.super8service.de
+HOST,www.t-gas.co.uk
+HOST,www.tdms.saglik.gov.tr
 HOST,www.technix.it
 HOST,www.thesparkmachine.com
 HOST,www.tiergestuetzt.de
@@ -1646,6 +1670,7 @@ HOST,www.tpt.edu.in
 HOST,www.two-of-us.at
 HOST,www.uriyuri.com
 HOST,www.usaenterprise.com
+HOST,www.vinyljazzrecords.com
 HOST,www.vivaimontina.com
 HOST,www.volleyball-doppeldorf.de
 HOST,www.vvvic.com
@@ -1654,12 +1679,12 @@ HOST,www.wigglewoo.com
 HOST,www.wrestlingexposed.com
 HOST,www.wyroki.eu
 HOST,www.xiruz.kit.net
+HOST,www.ywvcomputerprocess.info
 HOST,www.zyxyfy.com
 HOST,wxbrdppfpr.com
 HOST,x.mochiads.com
 HOST,xamateurpornlic.www1.biz
 HOST,xindalawyer.com
-HOST,xmrminer.cc
 HOST,xn--18225-zta.biz
 HOST,xnxx.com
 HOST,xoomer.alice.it
@@ -1675,7 +1700,11 @@ HOST,yql.yahoo.com
 HOST,yumekin.com
 HOST,yxhd.hori-gz.com
 HOST,zafrc.5780.site
+HOST,zaloapp.com
+HOST,zanyx.club
+HOST,zboac.com
 HOST,zeroredirect1.com
+HOST,zkic.com
 HOST,zoomdirect.com.au
 HOST,zous.szm.sk
 HOST,zrosbqwecw.com
@@ -16499,8 +16528,9 @@ IP-CIDR,67.229.224.28/32
 IP-CIDR,69.28.57.245/32
 IP-CIDR,74.117.182.77/32
 IP-CIDR,78.140.131.214/32
-# AdvertisingLite 与 AdvertisingTest 共 15458 条规则重复
+# AdvertisingLite 与 AdvertisingTest 共 15481 条规则重复
 HOST,0.up.qingdaonews.com
+HOST,0d847862199.com
 HOST,0koryu0.easter.ne.jp
 HOST,0nso0tq1sa4.ml
 HOST,1.up.qingdaonews.com
@@ -16532,7 +16562,6 @@ HOST,799f3607457e.com
 HOST,86240336d5604d7.com
 HOST,97b1c56132dfcdd90f93-0c5c8388c0a5897e648f883e2c86dc72.r54.cf5.rackcdn.com
 HOST,97ff623306ff4c26996.com
-HOST,999fitness.com
 HOST,99a9339abed56.com
 HOST,a.update.51edm.net
 HOST,a2af4f04914ed298.com
@@ -16563,9 +16592,11 @@ HOST,adv-adlog.variflight.com
 HOST,adv-ads.variflight.com
 HOST,adv.riza.it
 HOST,adverigo.com
+HOST,advertisement.taobao.com
 HOST,afa15.com.ne.kr
 HOST,agsteier.com
 HOST,ailanibah.com
+HOST,ajewishgift.com
 HOST,akcdinzvcenhjh.com
 HOST,akirkpatrick.com
 HOST,alegroup.info
@@ -16602,7 +16633,6 @@ HOST,banners.passiondollars.com
 HOST,banners.rude.com
 HOST,banners.rushcommerce.com
 HOST,bannersnack.net
-HOST,bavftcgoapga.com
 HOST,bbs.hori-gz.com
 HOST,bde.be
 HOST,beacon2.indieclicktv.com
@@ -16637,6 +16667,7 @@ HOST,cdncache2-a.akamaihd.net
 HOST,cdnmedia.xyz
 HOST,ce9c00f41ae8cdd.com
 HOST,centralwestwater.com.au
+HOST,cf-particle-html.eip.telegraph.co.uk
 HOST,cf1c0.thisav.com
 HOST,cfasync.gq
 HOST,ciclismovalenciano.com
@@ -16677,7 +16708,6 @@ HOST,d2izls9pm2f64q.cloudfront.net
 HOST,d2o307dm5mqftz.cloudfront.net
 HOST,d3jgr4uve1d188.cloudfront.net
 HOST,d4.cumshots.ws
-HOST,d6e9d7d57085c0.com
 HOST,daralasnan.com
 HOST,datefree.com
 HOST,dawnframing.com
@@ -16731,12 +16761,14 @@ HOST,ex.technor.com
 HOST,ext.baidu.com
 HOST,f.aty.sohu.com
 HOST,f.gj555.net
+HOST,f9918c3545cc7b.com
 HOST,fadeatrighlet.com
 HOST,falconsafe.com.sg
 HOST,faq-candrive.tk
 HOST,fbku.com
 HOST,fcanr.tracking.miui.com
 HOST,fehsnwiem.com
+HOST,femalewrestlingnow.com
 HOST,fgawegwr.chez.com
 HOST,files.dsnetwb.com
 HOST,financenews.pw
@@ -16778,7 +16810,6 @@ HOST,harshwhispers.com
 HOST,hexadl.line55.net
 HOST,higher.dwebsi.tk
 HOST,hinsib.com
-HOST,hmbgumjgey.com
 HOST,hmora.fred-build.tk
 HOST,hnskorea.co.kr
 HOST,hobbytotaalservice.nl
@@ -16791,6 +16822,7 @@ HOST,hosting-controlpin.tk
 HOST,hosting-controlpr.tk
 HOST,hotfacesitting.com
 HOST,hotspot.cz
+HOST,hst-19-33.splius.lt
 HOST,httpdns.n.netease.com
 HOST,hujii.qplanner.cf
 HOST,hwekl8dz1d.com
@@ -16798,15 +16830,12 @@ HOST,hy-brasil.mhwang.com
 HOST,hydraulicpowerpack.com
 HOST,hzdaye.m.zwdu.com
 HOST,iamagameaddict.com
-HOST,iclwy.xyz
 HOST,ilividnewtab.com
 HOST,imagedoll.com
 HOST,images.topguncustomz.com
 HOST,img.ads.csdn.net
 HOST,img001.com
-HOST,imgmaze.pw
 HOST,imgspice.com
-HOST,imgtown.pw
 HOST,impressoras-cartoes.com.pt
 HOST,inclusivediversity.co.uk
 HOST,incoctel.cl
@@ -16834,13 +16863,11 @@ HOST,kadirzerey.com
 HOST,kadman.net
 HOST,kalantzis.net
 HOST,kapcotool.com
-HOST,kids-fashion.dk
 HOST,kingsoft.com
 HOST,kliklink.ru
 HOST,kollagen4you.se
 HOST,ldzqhq.biz
 HOST,legendsdtv.com
-HOST,leohd59.ru
 HOST,letsgoshopping.tk
 HOST,lexu.goggendorf.at
 HOST,limbik.io
@@ -16857,7 +16884,6 @@ HOST,luckyblank.info
 HOST,luckyclear.info
 HOST,luckyhalo.info
 HOST,luckypure.info
-HOST,luckyshine.info
 HOST,luckytidy.info
 HOST,lwxlsj.wap.xsbiquge.com
 HOST,m-vali.cp31.ott.cibntv.net
@@ -16873,7 +16899,6 @@ HOST,marvin.pw
 HOST,marx-brothers.mhwang.com
 HOST,mathenea.com
 HOST,maudfkdsuyp.com
-HOST,maxisoft.co.uk
 HOST,media-app.com
 HOST,mediatrade.h19.ru
 HOST,merrymilkfoods.com
@@ -16882,10 +16907,8 @@ HOST,ministerio-publi.info
 HOST,mirandolasrl.it
 HOST,mmg.aty.sohu.com
 HOST,mms.hori-gz.com
-HOST,montpti.top
 HOST,mowithlerendu.pro
 HOST,ms11.net
-HOST,mueller-holz-bau.com
 HOST,murbil.hostei.com
 HOST,mycleanpc.tk
 HOST,mylabsrl.com
@@ -16927,6 +16950,7 @@ HOST,onrio.com.br
 HOST,optiker-michelmann.de
 HOST,optimization-methods.com
 HOST,opus.analytics.yahoo.com
+HOST,orbowlada.strefa.pl
 HOST,org-dot-com.com
 HOST,ospserver.net
 HOST,ouptoobe.net
@@ -16943,6 +16967,7 @@ HOST,phitenmy.com
 HOST,photoscape.ch
 HOST,pix360.co.nf
 HOST,pixroute.com
+HOST,player.streamshow.it
 HOST,plengeh.wen.ru
 HOST,pm.aty.sohu.com
 HOST,podzemi.myotis.info
@@ -16956,6 +16981,7 @@ HOST,pos-kupang.com
 HOST,potvaporizer.com
 HOST,powershopnet.net
 HOST,ppfjlk1.5tps.vip
+HOST,pradakomechanicals.com
 HOST,pride-u-bike.com
 HOST,private.hotelcesenaticobooking.info
 HOST,privateinternetaccess.com
@@ -16970,6 +16996,7 @@ HOST,purethc.com
 HOST,push2.eastmoney.com
 HOST,pussyspace.com
 HOST,qewa33a.com
+HOST,qgwazwmlx.com
 HOST,qualigo.com
 HOST,quickcash-system.com
 HOST,qzxcvb.m.zwdu.com
@@ -17007,12 +17034,14 @@ HOST,search.video.iqiyi.com
 HOST,securesoft.info
 HOST,securitywebservices.com
 HOST,semengineers.com
+HOST,sentrol.cl
 HOST,seonetwizard.com
 HOST,server.freegamesall.com
 HOST,server1.extra-web.cz
 HOST,service.jiagu.360.cn
 HOST,services.wes.df.telemetry.microsoft.com
 HOST,settings-win.data.microsoft.com
+HOST,sex-journey.com
 HOST,sexykittenporn.com
 HOST,sexyoilwrestling.com
 HOST,sexyster.tk
@@ -17042,7 +17071,10 @@ HOST,stopmeagency.free.fr
 HOST,style-eyes.eu
 HOST,sub.avgle.com
 HOST,sudcom.org
+HOST,sunlux.net
 HOST,sunny99.cholerik.cz
+HOST,svetyivanrilski.com
+HOST,swiftypecdn.com
 HOST,szinhaz.hu
 HOST,t.zisu.cn.com
 HOST,t1.a.market.xiaomi.com
@@ -17053,7 +17085,9 @@ HOST,t5.a.market.xiaomi.com
 HOST,tabex.sopharma.bg
 HOST,tamilcm.com
 HOST,tavuks.com
+HOST,tcrwharen.homepage.t-online.de
 HOST,teameda.comcastbiz.net
+HOST,teameda.net
 HOST,tecslide.com
 HOST,telecommand.telemetry.microsoft.com
 HOST,test.ark.letv.com
@@ -17078,7 +17112,9 @@ HOST,tripedrated.xyz
 HOST,tu.cvnad.com
 HOST,tubemoviez.com
 HOST,tvduznfdgim.com
+HOST,tvzhe.com
 HOST,u4ghzfb.com
+HOST,unalbilgisayar.com
 HOST,undefined.it
 HOST,unitex.home.pl
 HOST,unlim-app.tk
@@ -17093,17 +17129,22 @@ HOST,us.vortex-win.data.microsoft.com
 HOST,users173.lolipop.jp
 HOST,v.aty.sohu.com
 HOST,v.tf.360.cn
+HOST,vasfxpribls.com
 HOST,veehdmymwvvexv.com
 HOST,vernoblisk.com
+HOST,vette-porno.nl
 HOST,vg.aty.sohu.com
 HOST,vistatech.us
 HOST,vitamasaz.pl
 HOST,vkont.bos.ru
 HOST,vm.aty.sohu.com
+HOST,vps.gcx3.cn
 HOST,vural-electronic.com
 HOST,vvps.ws
+HOST,wahyufian.zoomshare.com
 HOST,watson.ppe.telemetry.microsoft.com
 HOST,watson.telemetry.microsoft.com
+HOST,wc0x83ghk.homepage.t-online.de
 HOST,webcashmaker.com
 HOST,webcom-software.ws
 HOST,webordermanager.com
@@ -17167,15 +17208,19 @@ HOST,www.jcmarcadolib.com
 HOST,www.joomlalivechat.com
 HOST,www.kcta.or.kr
 HOST,www.kjbbc.net
+HOST,www.lccl.org.uk
 HOST,www.lifelabs.vn
+HOST,www.litra.com.mk
 HOST,www.lostartofbeingadame.com
 HOST,www.lowes-pianos-and-organs.com
 HOST,www.makohela.tk
+HOST,www.marinoderosas.com
 HOST,www.marss.eu
 HOST,www.milardi.it
 HOST,www.mondoperaio.net
 HOST,www.montacarichi.it
 HOST,www.moviedownloader.net
+HOST,www.notaverde.com
 HOST,www.nothingcompares.co.uk
 HOST,www.nuvon.com
 HOST,www.obyz.de
@@ -17200,6 +17245,7 @@ HOST,www.saemark.is
 HOST,www.salentoeasy.it
 HOST,www.sankyo.gr.jp
 HOST,www.sanseracingteam.com
+HOST,www.sbo.it
 HOST,www.scanmyphones.com
 HOST,www.secondome.com
 HOST,www.sieltre.it
@@ -17209,7 +17255,10 @@ HOST,www.slivki.com.ua
 HOST,www.smartscan.ro
 HOST,www.sonnoli.com
 HOST,www.spris.com
+HOST,www.studiolegaleabbruzzese.com
 HOST,www.super8service.de
+HOST,www.t-gas.co.uk
+HOST,www.tdms.saglik.gov.tr
 HOST,www.technix.it
 HOST,www.thesparkmachine.com
 HOST,www.tiergestuetzt.de
@@ -17217,6 +17266,7 @@ HOST,www.tpt.edu.in
 HOST,www.two-of-us.at
 HOST,www.uriyuri.com
 HOST,www.usaenterprise.com
+HOST,www.vinyljazzrecords.com
 HOST,www.vivaimontina.com
 HOST,www.volleyball-doppeldorf.de
 HOST,www.vvvic.com
@@ -17225,11 +17275,11 @@ HOST,www.wigglewoo.com
 HOST,www.wrestlingexposed.com
 HOST,www.wyroki.eu
 HOST,www.xiruz.kit.net
+HOST,www.ywvcomputerprocess.info
 HOST,www.zyxyfy.com
 HOST,wxbrdppfpr.com
 HOST,xamateurpornlic.www1.biz
 HOST,xindalawyer.com
-HOST,xmrminer.cc
 HOST,xn--18225-zta.biz
 HOST,xnxx.com
 HOST,xotsa.frenchgerlemanelectric.com
@@ -17242,6 +17292,8 @@ HOST,youtuhe.com
 HOST,yql.yahoo.com
 HOST,yumekin.com
 HOST,yxhd.hori-gz.com
+HOST,zaloapp.com
+HOST,zkic.com
 HOST,zoomdirect.com.au
 HOST,zous.szm.sk
 HOST,zrosbqwecw.com
