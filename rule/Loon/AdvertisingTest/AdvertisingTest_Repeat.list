@@ -1,7 +1,7 @@
 # NAME: AdvertisingTest 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-02 02:39:08
+# UPDATED: 2021-02-02 09:35:40
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # AdvertisingTest 与 Baidu 共 6 条规则重复
 DOMAIN-SUFFIX,baidustatic.com
@@ -37,7 +37,7 @@ DOMAIN-SUFFIX,umeng.com
 DOMAIN-SUFFIX,umengcloud.com
 DOMAIN-SUFFIX,xdrig.com
 DOMAIN-SUFFIX,zmzfile.com
-# AdvertisingTest 与 ChinaTest 共 1166 条规则重复
+# AdvertisingTest 与 ChinaTest 共 1165 条规则重复
 DOMAIN-SUFFIX,000dn.com
 DOMAIN-SUFFIX,0024aaaa.com
 DOMAIN-SUFFIX,002lzj.com
@@ -365,7 +365,6 @@ DOMAIN-SUFFIX,cmcore.com
 DOMAIN-SUFFIX,cnbanbao.com
 DOMAIN-SUFFIX,cnkok.com
 DOMAIN-SUFFIX,cnliken.com
-DOMAIN-SUFFIX,cnsjx.net
 DOMAIN-SUFFIX,cnxad.com
 DOMAIN-SUFFIX,cnzz.com
 DOMAIN-SUFFIX,cnzz.net
@@ -74164,7 +74163,7 @@ DOMAIN-SUFFIX,zyq2.destinia.sk
 DOMAIN-SUFFIX,zz.bdstatic.com
 # AdvertisingTest 与 Blizzard 共 1 条规则重复
 DOMAIN-SUFFIX,cdp.cloud.unity3d.com
-# AdvertisingTest 与 Proxy 共 204 条规则重复
+# AdvertisingTest 与 Proxy 共 205 条规则重复
 DOMAIN-SUFFIX,0emm.com
 DOMAIN-SUFFIX,100tjs.com
 DOMAIN-SUFFIX,101com.com
@@ -74232,6 +74231,7 @@ DOMAIN-SUFFIX,doubleclickbygoogle.com
 DOMAIN-SUFFIX,dynamic-dns.net
 DOMAIN-SUFFIX,ebayadvertising.com
 DOMAIN-SUFFIX,ebayclassifiedsgroup.com
+DOMAIN-SUFFIX,edigitalsurvey.com
 DOMAIN-SUFFIX,enlnks.com
 DOMAIN-SUFFIX,epochtimes.com
 DOMAIN-SUFFIX,epochweekly.com
@@ -74286,7 +74286,6 @@ DOMAIN-SUFFIX,marketo.net
 DOMAIN-SUFFIX,mdialog.com
 DOMAIN-SUFFIX,meebo.com
 DOMAIN-SUFFIX,mhradio.org
-DOMAIN-SUFFIX,minergate.com
 DOMAIN-SUFFIX,minghui.org
 DOMAIN-SUFFIX,mm-cgnews.com
 DOMAIN-SUFFIX,mmaaxx.com
@@ -74347,6 +74346,7 @@ DOMAIN-SUFFIX,traffichaus.com
 DOMAIN-SUFFIX,trust.zone
 DOMAIN-SUFFIX,tuidang.org
 DOMAIN-SUFFIX,tweetboard.com
+DOMAIN-SUFFIX,tweetmeme.com
 DOMAIN-SUFFIX,twilightsex.com
 DOMAIN-SUFFIX,twittercounter.com
 DOMAIN-SUFFIX,ubertags.com

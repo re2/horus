@@ -1,12 +1,12 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-02 02:39:03
-# DOMAIN-SUFFIX: 64289
+# UPDATED: 2021-02-02 09:35:35
+# DOMAIN-SUFFIX: 64303
 # DOMAIN-KEYWORD: 60
 # IP-CIDR: 240
 # DOMAIN: 10869
-# TOTAL: 75458
+# TOTAL: 75472
 payload:
   - '0.up.qingdaonews.com'
   - '000lk3v.wcomhost.com'
@@ -17761,6 +17761,7 @@ payload:
   - '.adserver.sanomawsoy.fi'
   - '.adserver.sciflicks.com'
   - '.adserver.scmp.com'
+  - '.adserver.scr.sk'
   - '.adserver.securityfocus.com'
   - '.adserver.sharewareonline.com'
   - '.adserver.singnet.com'
@@ -18337,6 +18338,7 @@ payload:
   - '.adv.mediaharbor.co.kr'
   - '.adv.merlin.co.il'
   - '.adv.mezon.ru'
+  - '.adv.mpvc.it'
   - '.adv.mxmcdn.net'
   - '.adv.nexthardware.com'
   - '.adv.pilseta24.lv'
@@ -25172,6 +25174,7 @@ payload:
   - '.calfsbreedstax.com'
   - '.califia.imaginemedia.com'
   - '.caligula.pro'
+  - '.caliskankoylu.com'
   - '.caliyuna.cn'
   - '.caljqsml.com'
   - '.call-tracking.by'
@@ -27060,6 +27063,7 @@ payload:
   - '.clonezilla.fr'
   - '.cloot.ga'
   - '.closeoutproductsreview.com'
+  - '.closiner.com'
   - '.clotezar.com'
   - '.clotfun.mobi'
   - '.clotfun.online'
@@ -29855,6 +29859,7 @@ payload:
   - '.das5ku9q.com'
   - '.dasdk.luojilab.com'
   - '.dasfdasfasdf.no-ip.info'
+  - '.dasfelynsaterr.webcam'
   - '.dash001.prxio.site'
   - '.dashantechan.cn'
   - '.dashaowu.com'
@@ -29955,6 +29960,7 @@ payload:
   - '.datasecu.do'
   - '.datasecu.download'
   - '.datasteam.io'
+  - '.dataunion.com.br'
   - '.dataur.ru'
   - '.datawrkz.com'
   - '.datax.baidu.com'
@@ -31479,6 +31485,7 @@ payload:
   - '.dratio.com'
   - '.draulinehandon.info'
   - '.drawbacksubdue.com'
+  - '.drawnperink.com'
   - '.drawservant.com'
   - '.draydaisbitch.com'
   - '.drbwugautcgh.com'
@@ -39640,6 +39647,7 @@ payload:
   - '.hzdhr.cn'
   - '.hzfcx.top'
   - '.hzhfhkj.cn'
+  - '.hzhongjianfund.com'
   - '.hzht666.com'
   - '.hzhyhm.com'
   - '.hzkachqd.com'
@@ -51597,6 +51605,7 @@ payload:
   - '.okwfx.cn'
   - '.okx6.site'
   - '.okx7.site'
+  - '.ol6nhf.cn'
   - '.olb.pns.kt.com'
   - '.olc0.cn'
   - '.olcdn.com'
@@ -57843,6 +57852,7 @@ payload:
   - '.rkauzlyh.com'
   - '.rkcqlsiu9fr6.top'
   - '.rkdms.com'
+  - '.rkfnrkjfnrkfnkjh.xyz'
   - '.rkft2sdl8b.ru'
   - '.rkomf.com'
   - '.rkpecade.com'
@@ -61980,6 +61990,7 @@ payload:
   - '.starlayer.com'
   - '.starlix.ql.st'
   - '.starlizard.com.cn'
+  - '.starman.fathomdns.com'
   - '.starmobs.com'
   - '.stars.applicaster.com'
   - '.starseed.fr'
@@ -63017,6 +63028,7 @@ payload:
   - '.sun.win'
   - '.sunaffiliation.com'
   - '.sunburgh.com'
+  - '.sundady.online'
   - '.sundayceremonytitanic.com'
   - '.sundaysky.com'
   - '.sunderport.com.cn'
@@ -67845,6 +67857,7 @@ payload:
   - '.unreshiramor.com'
   - '.unrestchat.com'
   - '.unrulymedia.com'
+  - '.unrulyrotate.com'
   - '.unrummaged.com'
   - '.unrzhgdly.com'
   - '.unscrewing.ru'
@@ -70385,6 +70398,7 @@ payload:
   - '.wellmadefrog.com'
   - '.wellmov.com'
   - '.wellnessmonitor.bravehost.com'
+  - '.wellnesszap.com'
   - '.wellsfarg0-onllne.net'
   - '.welsworn.info'
   - '.welt-der-links.de'

@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-02 02:39:05
+# UPDATED: 2021-02-02 09:35:36
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN-SUFFIX: 64289
+# DOMAIN-SUFFIX: 64303
 # DOMAIN-KEYWORD: 60
 # IP-CIDR: 240
 # DOMAIN: 10869
 # URL-REGEX: 310
-# TOTAL: 75768
+# TOTAL: 75782
 0.up.qingdaonews.com
 000lk3v.wcomhost.com
 000lkub.rcomhost.com
@@ -17762,6 +17762,7 @@ zzz.clickbank.net
 .adserver.sanomawsoy.fi
 .adserver.sciflicks.com
 .adserver.scmp.com
+.adserver.scr.sk
 .adserver.securityfocus.com
 .adserver.sharewareonline.com
 .adserver.singnet.com
@@ -18338,6 +18339,7 @@ zzz.clickbank.net
 .adv.mediaharbor.co.kr
 .adv.merlin.co.il
 .adv.mezon.ru
+.adv.mpvc.it
 .adv.mxmcdn.net
 .adv.nexthardware.com
 .adv.pilseta24.lv
@@ -25173,6 +25175,7 @@ zzz.clickbank.net
 .calfsbreedstax.com
 .califia.imaginemedia.com
 .caligula.pro
+.caliskankoylu.com
 .caliyuna.cn
 .caljqsml.com
 .call-tracking.by
@@ -27061,6 +27064,7 @@ zzz.clickbank.net
 .clonezilla.fr
 .cloot.ga
 .closeoutproductsreview.com
+.closiner.com
 .clotezar.com
 .clotfun.mobi
 .clotfun.online
@@ -29856,6 +29860,7 @@ zzz.clickbank.net
 .das5ku9q.com
 .dasdk.luojilab.com
 .dasfdasfasdf.no-ip.info
+.dasfelynsaterr.webcam
 .dash001.prxio.site
 .dashantechan.cn
 .dashaowu.com
@@ -29956,6 +29961,7 @@ zzz.clickbank.net
 .datasecu.do
 .datasecu.download
 .datasteam.io
+.dataunion.com.br
 .dataur.ru
 .datawrkz.com
 .datax.baidu.com
@@ -31480,6 +31486,7 @@ zzz.clickbank.net
 .dratio.com
 .draulinehandon.info
 .drawbacksubdue.com
+.drawnperink.com
 .drawservant.com
 .draydaisbitch.com
 .drbwugautcgh.com
@@ -39641,6 +39648,7 @@ zzz.clickbank.net
 .hzdhr.cn
 .hzfcx.top
 .hzhfhkj.cn
+.hzhongjianfund.com
 .hzht666.com
 .hzhyhm.com
 .hzkachqd.com
@@ -51598,6 +51606,7 @@ zzz.clickbank.net
 .okwfx.cn
 .okx6.site
 .okx7.site
+.ol6nhf.cn
 .olb.pns.kt.com
 .olc0.cn
 .olcdn.com
@@ -57844,6 +57853,7 @@ zzz.clickbank.net
 .rkauzlyh.com
 .rkcqlsiu9fr6.top
 .rkdms.com
+.rkfnrkjfnrkfnkjh.xyz
 .rkft2sdl8b.ru
 .rkomf.com
 .rkpecade.com
@@ -61981,6 +61991,7 @@ zzz.clickbank.net
 .starlayer.com
 .starlix.ql.st
 .starlizard.com.cn
+.starman.fathomdns.com
 .starmobs.com
 .stars.applicaster.com
 .starseed.fr
@@ -63018,6 +63029,7 @@ zzz.clickbank.net
 .sun.win
 .sunaffiliation.com
 .sunburgh.com
+.sundady.online
 .sundayceremonytitanic.com
 .sundaysky.com
 .sunderport.com.cn
@@ -67846,6 +67858,7 @@ zzz.clickbank.net
 .unreshiramor.com
 .unrestchat.com
 .unrulymedia.com
+.unrulyrotate.com
 .unrummaged.com
 .unrzhgdly.com
 .unscrewing.ru
@@ -70386,6 +70399,7 @@ zzz.clickbank.net
 .wellmadefrog.com
 .wellmov.com
 .wellnessmonitor.bravehost.com
+.wellnesszap.com
 .wellsfarg0-onllne.net
 .welsworn.info
 .welt-der-links.de

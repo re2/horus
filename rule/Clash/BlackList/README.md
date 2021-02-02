@@ -9,7 +9,7 @@
 **黑名单指被XXX或国内直连非常慢的网址，等同于Proxy，建议直接使用Proxy分流规则，此项因为历史原因保留。**
 
 
-最后检查时间：2021-02-02 02:39:36。
+最后检查时间：2021-02-02 09:36:12。
 
 ## 规则统计
 
@@ -52,7 +52,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clas
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
 |  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/China)    | 657   | [22](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BlackList/BlackList_Repeat.list)   |   3.35% |
-|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/ChinaTest)    | 71479   | [24](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BlackList/BlackList_Repeat.list)   |   0.03% |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/ChinaTest)    | 71474   | [24](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BlackList/BlackList_Repeat.list)   |   0.03% |
 |  [Apple](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Apple)    | 85   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BlackList/BlackList_Repeat.list)   |   2.35% |
 |  [TestFlight](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/TestFlight)    | 3   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BlackList/BlackList_Repeat.list)   |   33.33% |
 |  [AppleBlock](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/AppleBlock)    | 6   | [6](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BlackList/BlackList_Repeat.list)   |   100.0% |
@@ -64,14 +64,14 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clas
 |  [Google](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Google)    | 101   | [41](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BlackList/BlackList_Repeat.list)   |   40.59% |
 |  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/AdvertisingLite)    | 26997   | [9](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BlackList/BlackList_Repeat.list)   |   0.03% |
 |  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Advertising)    | 58412   | [22](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BlackList/BlackList_Repeat.list)   |   0.04% |
-|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/AdvertisingTest)    | 75458   | [28](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BlackList/BlackList_Repeat.list)   |   0.04% |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/AdvertisingTest)    | 75472   | [28](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BlackList/BlackList_Repeat.list)   |   0.04% |
 |  [Game](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Game)    | 64   | [3](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BlackList/BlackList_Repeat.list)   |   4.69% |
 |  [Epic](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Epic)    | 15   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BlackList/BlackList_Repeat.list)   |   6.67% |
 |  [WildRift](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/WildRift)    | 3   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BlackList/BlackList_Repeat.list)   |   66.67% |
 |  [Garena](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Garena)    | 15   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BlackList/BlackList_Repeat.list)   |   6.67% |
 |  [Nintendo](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Nintendo)    | 123   | [4](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BlackList/BlackList_Repeat.list)   |   3.25% |
 |  [Riot](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Riot)    | 54   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BlackList/BlackList_Repeat.list)   |   3.7% |
-|  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Proxy)    | 28089   | [756](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BlackList/BlackList_Repeat.list)   |   2.69% |
+|  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Proxy)    | 28200   | [756](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BlackList/BlackList_Repeat.list)   |   2.68% |
 |  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Global)    | 1253   | [676](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BlackList/BlackList_Repeat.list)   |   53.95% |
 |  [GlobalMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/GlobalMedia)    | 1080   | [18](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BlackList/BlackList_Repeat.list)   |   1.67% |
 |  [PotatoChat](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/PotatoChat)    | 3   | [3](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BlackList/BlackList_Repeat.list)   |   100.0% |

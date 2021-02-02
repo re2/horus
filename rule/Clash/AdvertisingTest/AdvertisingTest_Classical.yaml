@@ -1,12 +1,12 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-02 02:39:03
-# DOMAIN-SUFFIX: 64289
+# UPDATED: 2021-02-02 09:35:35
+# DOMAIN-SUFFIX: 64303
 # DOMAIN-KEYWORD: 60
 # IP-CIDR: 240
 # DOMAIN: 10869
-# TOTAL: 75458
+# TOTAL: 75472
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,000lk3v.wcomhost.com
@@ -17761,6 +17761,7 @@ payload:
   - DOMAIN-SUFFIX,adserver.sanomawsoy.fi
   - DOMAIN-SUFFIX,adserver.sciflicks.com
   - DOMAIN-SUFFIX,adserver.scmp.com
+  - DOMAIN-SUFFIX,adserver.scr.sk
   - DOMAIN-SUFFIX,adserver.securityfocus.com
   - DOMAIN-SUFFIX,adserver.sharewareonline.com
   - DOMAIN-SUFFIX,adserver.singnet.com
@@ -18337,6 +18338,7 @@ payload:
   - DOMAIN-SUFFIX,adv.mediaharbor.co.kr
   - DOMAIN-SUFFIX,adv.merlin.co.il
   - DOMAIN-SUFFIX,adv.mezon.ru
+  - DOMAIN-SUFFIX,adv.mpvc.it
   - DOMAIN-SUFFIX,adv.mxmcdn.net
   - DOMAIN-SUFFIX,adv.nexthardware.com
   - DOMAIN-SUFFIX,adv.pilseta24.lv
@@ -25172,6 +25174,7 @@ payload:
   - DOMAIN-SUFFIX,calfsbreedstax.com
   - DOMAIN-SUFFIX,califia.imaginemedia.com
   - DOMAIN-SUFFIX,caligula.pro
+  - DOMAIN-SUFFIX,caliskankoylu.com
   - DOMAIN-SUFFIX,caliyuna.cn
   - DOMAIN-SUFFIX,caljqsml.com
   - DOMAIN-SUFFIX,call-tracking.by
@@ -27060,6 +27063,7 @@ payload:
   - DOMAIN-SUFFIX,clonezilla.fr
   - DOMAIN-SUFFIX,cloot.ga
   - DOMAIN-SUFFIX,closeoutproductsreview.com
+  - DOMAIN-SUFFIX,closiner.com
   - DOMAIN-SUFFIX,clotezar.com
   - DOMAIN-SUFFIX,clotfun.mobi
   - DOMAIN-SUFFIX,clotfun.online
@@ -29855,6 +29859,7 @@ payload:
   - DOMAIN-SUFFIX,das5ku9q.com
   - DOMAIN-SUFFIX,dasdk.luojilab.com
   - DOMAIN-SUFFIX,dasfdasfasdf.no-ip.info
+  - DOMAIN-SUFFIX,dasfelynsaterr.webcam
   - DOMAIN-SUFFIX,dash001.prxio.site
   - DOMAIN-SUFFIX,dashantechan.cn
   - DOMAIN-SUFFIX,dashaowu.com
@@ -29955,6 +29960,7 @@ payload:
   - DOMAIN-SUFFIX,datasecu.do
   - DOMAIN-SUFFIX,datasecu.download
   - DOMAIN-SUFFIX,datasteam.io
+  - DOMAIN-SUFFIX,dataunion.com.br
   - DOMAIN-SUFFIX,dataur.ru
   - DOMAIN-SUFFIX,datawrkz.com
   - DOMAIN-SUFFIX,datax.baidu.com
@@ -31479,6 +31485,7 @@ payload:
   - DOMAIN-SUFFIX,dratio.com
   - DOMAIN-SUFFIX,draulinehandon.info
   - DOMAIN-SUFFIX,drawbacksubdue.com
+  - DOMAIN-SUFFIX,drawnperink.com
   - DOMAIN-SUFFIX,drawservant.com
   - DOMAIN-SUFFIX,draydaisbitch.com
   - DOMAIN-SUFFIX,drbwugautcgh.com
@@ -39640,6 +39647,7 @@ payload:
   - DOMAIN-SUFFIX,hzdhr.cn
   - DOMAIN-SUFFIX,hzfcx.top
   - DOMAIN-SUFFIX,hzhfhkj.cn
+  - DOMAIN-SUFFIX,hzhongjianfund.com
   - DOMAIN-SUFFIX,hzht666.com
   - DOMAIN-SUFFIX,hzhyhm.com
   - DOMAIN-SUFFIX,hzkachqd.com
@@ -51597,6 +51605,7 @@ payload:
   - DOMAIN-SUFFIX,okwfx.cn
   - DOMAIN-SUFFIX,okx6.site
   - DOMAIN-SUFFIX,okx7.site
+  - DOMAIN-SUFFIX,ol6nhf.cn
   - DOMAIN-SUFFIX,olb.pns.kt.com
   - DOMAIN-SUFFIX,olc0.cn
   - DOMAIN-SUFFIX,olcdn.com
@@ -57843,6 +57852,7 @@ payload:
   - DOMAIN-SUFFIX,rkauzlyh.com
   - DOMAIN-SUFFIX,rkcqlsiu9fr6.top
   - DOMAIN-SUFFIX,rkdms.com
+  - DOMAIN-SUFFIX,rkfnrkjfnrkfnkjh.xyz
   - DOMAIN-SUFFIX,rkft2sdl8b.ru
   - DOMAIN-SUFFIX,rkomf.com
   - DOMAIN-SUFFIX,rkpecade.com
@@ -61980,6 +61990,7 @@ payload:
   - DOMAIN-SUFFIX,starlayer.com
   - DOMAIN-SUFFIX,starlix.ql.st
   - DOMAIN-SUFFIX,starlizard.com.cn
+  - DOMAIN-SUFFIX,starman.fathomdns.com
   - DOMAIN-SUFFIX,starmobs.com
   - DOMAIN-SUFFIX,stars.applicaster.com
   - DOMAIN-SUFFIX,starseed.fr
@@ -63017,6 +63028,7 @@ payload:
   - DOMAIN-SUFFIX,sun.win
   - DOMAIN-SUFFIX,sunaffiliation.com
   - DOMAIN-SUFFIX,sunburgh.com
+  - DOMAIN-SUFFIX,sundady.online
   - DOMAIN-SUFFIX,sundayceremonytitanic.com
   - DOMAIN-SUFFIX,sundaysky.com
   - DOMAIN-SUFFIX,sunderport.com.cn
@@ -67845,6 +67857,7 @@ payload:
   - DOMAIN-SUFFIX,unreshiramor.com
   - DOMAIN-SUFFIX,unrestchat.com
   - DOMAIN-SUFFIX,unrulymedia.com
+  - DOMAIN-SUFFIX,unrulyrotate.com
   - DOMAIN-SUFFIX,unrummaged.com
   - DOMAIN-SUFFIX,unrzhgdly.com
   - DOMAIN-SUFFIX,unscrewing.ru
@@ -70385,6 +70398,7 @@ payload:
   - DOMAIN-SUFFIX,wellmadefrog.com
   - DOMAIN-SUFFIX,wellmov.com
   - DOMAIN-SUFFIX,wellnessmonitor.bravehost.com
+  - DOMAIN-SUFFIX,wellnesszap.com
   - DOMAIN-SUFFIX,wellsfarg0-onllne.net
   - DOMAIN-SUFFIX,welsworn.info
   - DOMAIN-SUFFIX,welt-der-links.de

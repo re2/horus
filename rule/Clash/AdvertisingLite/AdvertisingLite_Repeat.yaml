@@ -1,7 +1,7 @@
 # NAME: AdvertisingLite 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-02 02:39:09
+# UPDATED: 2021-02-02 09:35:41
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 payload:
 # AdvertisingLite 与 WhiteList 共 1 条规则重复
@@ -27,7 +27,7 @@ payload:
   - DOMAIN-SUFFIX,umeng.com
   - DOMAIN-SUFFIX,umengcloud.com
   - DOMAIN-SUFFIX,xdrig.com
-# AdvertisingLite 与 ChinaTest 共 635 条规则重复
+# AdvertisingLite 与 ChinaTest 共 634 条规则重复
   - DOMAIN,2mdn.net
   - DOMAIN,imasdk.googleapis.com
   - DOMAIN-SUFFIX,000dn.com
@@ -205,7 +205,6 @@ payload:
   - DOMAIN-SUFFIX,clotfun.online
   - DOMAIN-SUFFIX,cmcore.com
   - DOMAIN-SUFFIX,cnkok.com
-  - DOMAIN-SUFFIX,cnsjx.net
   - DOMAIN-SUFFIX,cnxad.com
   - DOMAIN-SUFFIX,cnzz.com
   - DOMAIN-SUFFIX,coccccc.cc
@@ -34630,7 +34629,7 @@ payload:
   - DOMAIN-SUFFIX,zz.bdstatic.com
 # AdvertisingLite 与 Game 共 1 条规则重复
   - DOMAIN,cdp.cloud.unity3d.com
-# AdvertisingLite 与 Proxy 共 60 条规则重复
+# AdvertisingLite 与 Proxy 共 61 条规则重复
   - DOMAIN-SUFFIX,2o7.net
   - DOMAIN-SUFFIX,adbecrsl.com
   - DOMAIN-SUFFIX,addthis.com
@@ -34651,6 +34650,7 @@ payload:
   - DOMAIN-SUFFIX,dajiyuan.com
   - DOMAIN-SUFFIX,demdex.net
   - DOMAIN-SUFFIX,doubleclick.net
+  - DOMAIN-SUFFIX,edigitalsurvey.com
   - DOMAIN-SUFFIX,epochweekly.com
   - DOMAIN-SUFFIX,fgmtv.org
   - DOMAIN-SUFFIX,flurry.com

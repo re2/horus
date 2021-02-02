@@ -1,7 +1,7 @@
 # NAME: AdvertisingLite 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-02 02:39:07
+# UPDATED: 2021-02-02 09:35:39
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # AdvertisingLite 与 WhiteList 共 1 条规则重复
 HOST,ad.10010.com
@@ -26,7 +26,7 @@ HOST-SUFFIX,mob.com
 HOST-SUFFIX,umeng.com
 HOST-SUFFIX,umengcloud.com
 HOST-SUFFIX,xdrig.com
-# AdvertisingLite 与 ChinaTest 共 635 条规则重复
+# AdvertisingLite 与 ChinaTest 共 634 条规则重复
 HOST,2mdn.net
 HOST,imasdk.googleapis.com
 HOST-SUFFIX,000dn.com
@@ -204,7 +204,6 @@ HOST-SUFFIX,clotfun.mobi
 HOST-SUFFIX,clotfun.online
 HOST-SUFFIX,cmcore.com
 HOST-SUFFIX,cnkok.com
-HOST-SUFFIX,cnsjx.net
 HOST-SUFFIX,cnxad.com
 HOST-SUFFIX,cnzz.com
 HOST-SUFFIX,coccccc.cc
@@ -34629,7 +34628,7 @@ HOST-SUFFIX,zyq2.destinia.sk
 HOST-SUFFIX,zz.bdstatic.com
 # AdvertisingLite 与 Game 共 1 条规则重复
 HOST,cdp.cloud.unity3d.com
-# AdvertisingLite 与 Proxy 共 60 条规则重复
+# AdvertisingLite 与 Proxy 共 61 条规则重复
 HOST-SUFFIX,2o7.net
 HOST-SUFFIX,adbecrsl.com
 HOST-SUFFIX,addthis.com
@@ -34650,6 +34649,7 @@ HOST-SUFFIX,dafahao.com
 HOST-SUFFIX,dajiyuan.com
 HOST-SUFFIX,demdex.net
 HOST-SUFFIX,doubleclick.net
+HOST-SUFFIX,edigitalsurvey.com
 HOST-SUFFIX,epochweekly.com
 HOST-SUFFIX,fgmtv.org
 HOST-SUFFIX,flurry.com
