@@ -1,9 +1,32 @@
 # NAME: Garena 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-02 17:43:52.622460
+# UPDATED: 2021-02-02 23:31:57.218327
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
+# Garena 与 Game 共 15 条规则重复
+DOMAIN-SUFFIX,avatargarenanow-a.akamaihd.net
+DOMAIN-SUFFIX,cdngarenanow-a.akamaihd.net
+DOMAIN-SUFFIX,dlmobilegarena-a.akamaihd.net
+DOMAIN-SUFFIX,garena.co.id
+DOMAIN-SUFFIX,garena.co.th
+DOMAIN-SUFFIX,garena.com
+DOMAIN-SUFFIX,garena.live
+DOMAIN-SUFFIX,garena.my
+DOMAIN-SUFFIX,garena.ph
+DOMAIN-SUFFIX,garena.sg
+DOMAIN-SUFFIX,garena.tv
+DOMAIN-SUFFIX,garena.tw
+DOMAIN-SUFFIX,garena.vn
+DOMAIN-SUFFIX,garenanow.com
+DOMAIN-SUFFIX,seagroup.com
 # Garena 与 Proxy 共 6 条规则重复
+DOMAIN-SUFFIX,garena.co.id
+DOMAIN-SUFFIX,garena.com
+DOMAIN-SUFFIX,garena.live
+DOMAIN-SUFFIX,garena.tv
+DOMAIN-SUFFIX,garenanow.com
+DOMAIN-SUFFIX,seagroup.com
+# Garena 与 Global 共 6 条规则重复
 DOMAIN-SUFFIX,garena.co.id
 DOMAIN-SUFFIX,garena.com
 DOMAIN-SUFFIX,garena.live

@@ -1,7 +1,7 @@
 # NAME: Google 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-02 17:43:54.113225
+# UPDATED: 2021-02-02 23:31:58.540598
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # Google 与 AdvertisingLite 共 8 条规则重复
 HOST-SUFFIX,adservice.google.com
@@ -23,7 +23,7 @@ HOST-SUFFIX,googlesyndication.com
 HOST-SUFFIX,googletagmanager.com
 HOST-SUFFIX,googletagservices.com
 HOST-SUFFIX,mtalk.google.com
-# Google 与 AdvertisingTest 共 14 条规则重复
+# Google 与 AdvertisingTest 共 15 条规则重复
 HOST-SUFFIX,2mdn.net
 HOST-SUFFIX,adservice.google.com
 HOST-SUFFIX,app-measurement.com
@@ -35,6 +35,7 @@ HOST-SUFFIX,googleanalytics.com
 HOST-SUFFIX,googlesyndication.com
 HOST-SUFFIX,googletagmanager.com
 HOST-SUFFIX,googletagservices.com
+HOST-SUFFIX,mtalk.google.com
 HOST-SUFFIX,pagead-googlehosted.l.google.com
 HOST-SUFFIX,ssl-google-analytics.l.google.com
 HOST-SUFFIX,www-googletagmanager.l.google.com
@@ -126,9 +127,11 @@ HOST-SUFFIX,yt.be
 HOST-SUFFIX,ytimg.com
 IP-CIDR,173.194.0.0/16
 IP-CIDR,74.125.0.0/16
-# Google 与 Global 共 59 条规则重复
+# Google 与 Global 共 73 条规则重复
 HOST-KEYWORD,blogspot
+HOST-KEYWORD,gmail
 HOST-KEYWORD,google
+HOST-SUFFIX,265.com
 HOST-SUFFIX,2mdn.net
 HOST-SUFFIX,abc.xyz
 HOST-SUFFIX,ampproject.org
@@ -148,6 +151,7 @@ HOST-SUFFIX,creativelab5.com
 HOST-SUFFIX,debug.com
 HOST-SUFFIX,deepmind.com
 HOST-SUFFIX,dialogflow.com
+HOST-SUFFIX,doubleclick.net
 HOST-SUFFIX,firebaseio.com
 HOST-SUFFIX,getmdl.io
 HOST-SUFFIX,getoutline.org
@@ -156,7 +160,18 @@ HOST-SUFFIX,gmail.com
 HOST-SUFFIX,gmodules.com
 HOST-SUFFIX,godoc.org
 HOST-SUFFIX,golang.org
+HOST-SUFFIX,google-analytics.com
+HOST-SUFFIX,google.cn
+HOST-SUFFIX,googleadservices.com
+HOST-SUFFIX,googleanalytics.com
+HOST-SUFFIX,googleapis.com
+HOST-SUFFIX,googledrive.com
+HOST-SUFFIX,googlesyndication.com
+HOST-SUFFIX,googletagmanager.com
+HOST-SUFFIX,googletagservices.com
+HOST-SUFFIX,googleusercontent.com
 HOST-SUFFIX,gstatic.com
+HOST-SUFFIX,gtm.oasisfeng.com
 HOST-SUFFIX,gv.com
 HOST-SUFFIX,gvt0.com
 HOST-SUFFIX,gvt1.com
@@ -235,4 +250,6 @@ IP-CIDR,74.125.0.0/16
 # Google 与 Spark 共 1 条规则重复
 HOST-SUFFIX,firebaseio.com
 # Google 与 China 共 1 条规则重复
+HOST-SUFFIX,google.cn
+# Google 与 ChinaTest 共 1 条规则重复
 HOST-SUFFIX,google.cn

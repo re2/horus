@@ -1,7 +1,7 @@
 # NAME: CITIC
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-02 17:43:45.341823
+# UPDATED: 2021-02-02 23:31:50.783197
 # HOST-SUFFIX: 27
 # TOTAL: 27
 HOST-SUFFIX,chinaamc.com,CITIC

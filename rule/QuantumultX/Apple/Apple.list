@@ -1,52 +1,104 @@
 # NAME: Apple
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-02 17:43:44.583601
-# HOST-SUFFIX: 21
-# IP-CIDR: 10
+# UPDATED: 2021-02-02 23:31:50.088992
+# HOST-SUFFIX: 68
 # HOST: 2
-# HOST-KEYWORD: 2
-# USER-AGENT: 17
-# TOTAL: 52
+# HOST-KEYWORD: 3
+# USER-AGENT: 21
+# IP-CIDR: 10
+# TOTAL: 104
 HOST,api.smoot.apple.cn,Apple
 HOST,apple.comscoreresearch.com,Apple
 HOST-SUFFIX,aaplimg.com,Apple
 HOST-SUFFIX,akadns.net,Apple
 HOST-SUFFIX,apple-cloudkit.com,Apple
+HOST-SUFFIX,apple-dns.net,AppleProxy
+HOST-SUFFIX,apple-icloud.cn,iCloud
 HOST-SUFFIX,apple-mapkit.com,Apple
 HOST-SUFFIX,apple.co,Apple
 HOST-SUFFIX,apple.com,Apple
 HOST-SUFFIX,apple.com.cn,Apple
 HOST-SUFFIX,apple.news,Apple
+HOST-SUFFIX,appleicloud.cn,iCloud
+HOST-SUFFIX,applemx-icloud.com,iCloud
 HOST-SUFFIX,appsto.re,Apple
 HOST-SUFFIX,appstore.com,Apple
 HOST-SUFFIX,cdn-apple.com,Apple
 HOST-SUFFIX,crashlytics.com,Apple
+HOST-SUFFIX,digicert.com,AppleProxy
 HOST-SUFFIX,gsp4-cn.ls.apple.com.edgekey.net,Apple
+HOST-SUFFIX,icloud-apple.cn,iCloud
 HOST-SUFFIX,icloud-content.com,Apple
+HOST-SUFFIX,icloud-isupport.com,iCloud
+HOST-SUFFIX,icloud.ch,iCloud
 HOST-SUFFIX,icloud.com,Apple
 HOST-SUFFIX,icloud.com.cn,Apple
+HOST-SUFFIX,icloud.de,iCloud
+HOST-SUFFIX,icloud.ee,iCloud
+HOST-SUFFIX,icloud.fi,iCloud
+HOST-SUFFIX,icloud.fr,iCloud
+HOST-SUFFIX,icloud.hu,iCloud
+HOST-SUFFIX,icloud.ie,iCloud
+HOST-SUFFIX,icloud.is,iCloud
+HOST-SUFFIX,icloud.jp,iCloud
+HOST-SUFFIX,icloud.lv,iCloud
+HOST-SUFFIX,icloud.net.cn,iCloud
+HOST-SUFFIX,icloud.om,iCloud
+HOST-SUFFIX,icloud.org,iCloud
+HOST-SUFFIX,icloud.pt,iCloud
+HOST-SUFFIX,icloud.ro,iCloud
+HOST-SUFFIX,icloud.se,iCloud
+HOST-SUFFIX,icloud.si,iCloud
+HOST-SUFFIX,icloud.sk,iCloud
+HOST-SUFFIX,icloud.vn,iCloud
+HOST-SUFFIX,icloudads.net,iCloud
+HOST-SUFFIX,icloudapple.cn,iCloud
+HOST-SUFFIX,icloudbox.net,iCloud
+HOST-SUFFIX,icloudbrowser.net,iCloud
+HOST-SUFFIX,icloude.com,iCloud
+HOST-SUFFIX,icloudhome.com,iCloud
+HOST-SUFFIX,icloudmail.net,iCloud
+HOST-SUFFIX,icloudmusic.net,iCloud
+HOST-SUFFIX,icloudnet.net,iCloud
+HOST-SUFFIX,icloudo.com,iCloud
+HOST-SUFFIX,icloudo.de,iCloud
+HOST-SUFFIX,icloudo.net,iCloud
+HOST-SUFFIX,icloudos.de,iCloud
+HOST-SUFFIX,icloudos.net,iCloud
+HOST-SUFFIX,icloudpay.net,iCloud
+HOST-SUFFIX,icloudsecure.net,iCloud
+HOST-SUFFIX,icloudsetup.com,iCloud
+HOST-SUFFIX,ios-icloud.com,iCloud
 HOST-SUFFIX,itunes.com,Apple
 HOST-SUFFIX,me.com,Apple
+HOST-SUFFIX,myicloud.net,iCloud
+HOST-SUFFIX,mylcloud.net,iCloud
 HOST-SUFFIX,mzstatic.com,Apple
 HOST-SUFFIX,store.apple.com.edgekey.net,Apple
 HOST-SUFFIX,www.apple.com.edgekey.net,Apple
+HOST-SUFFIX,wwwicloud.com,iCloud
 HOST-KEYWORD,apple.com.akadns.net,Apple
 HOST-KEYWORD,icloud.com.akadns.net,Apple
+HOST-KEYWORD,testflight,TestFlight
 USER-AGENT,%E5%9C%B0%E5%9B%BE*,Apple
 USER-AGENT,%E6%9F%A5%E6%89%BE*,Apple
 USER-AGENT,%E8%AE%BE%E7%BD%AE*,Apple
 USER-AGENT,*WeatherFoundation*,Apple
 USER-AGENT,*com.apple.mobileme.fmip1,Apple
 USER-AGENT,AppStore*,Apple
+USER-AGENT,AppleNews*,AppleNews
 USER-AGENT,FMDClient*,Apple
 USER-AGENT,FMFD*,Apple
 USER-AGENT,FindMy*,Apple
 USER-AGENT,Maps*,Apple
+USER-AGENT,Music*,AppleMusic
 USER-AGENT,TestFlight*,Apple
 USER-AGENT,com.apple.Maps,Apple
 USER-AGENT,com.apple.appstored*,Apple
 USER-AGENT,com.apple.geod*,Apple
+USER-AGENT,com.apple.news*,AppleNews
+USER-AGENT,com.apple.trustd*,AppleProxy
 USER-AGENT,fmflocatord*,Apple
 USER-AGENT,geod*,Apple
 USER-AGENT,locationd*,Apple

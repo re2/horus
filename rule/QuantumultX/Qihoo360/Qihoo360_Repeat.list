@@ -1,7 +1,7 @@
 # NAME: Qihoo360 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-02 17:43:55.156228
+# UPDATED: 2021-02-02 23:31:59.450366
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # Qihoo360 与 Advertising 共 1 条规则重复
 HOST-SUFFIX,qhupdate.com
@@ -56,8 +56,9 @@ HOST-SUFFIX,qhimg.com
 HOST-SUFFIX,qhres.com
 HOST-SUFFIX,qihucdn.com
 HOST-SUFFIX,so.com
-# Qihoo360 与 ChinaTest 共 48 条规则重复
+# Qihoo360 与 ChinaTest 共 49 条规则重复
 HOST-SUFFIX,360-jr.com
+HOST-SUFFIX,360.cn
 HOST-SUFFIX,360.com
 HOST-SUFFIX,360chou.com
 HOST-SUFFIX,360daikuan.com

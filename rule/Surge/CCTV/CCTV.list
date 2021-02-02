@@ -1,7 +1,7 @@
 # NAME: CCTV
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-02 17:43:43.174823
+# UPDATED: 2021-02-02 23:31:48.898501
 # DOMAIN-SUFFIX: 42
 # TOTAL: 42
 DOMAIN-SUFFIX,cctv.cn

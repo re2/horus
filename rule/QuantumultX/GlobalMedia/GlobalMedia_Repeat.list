@@ -1,7 +1,7 @@
 # NAME: GlobalMedia 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-02 17:43:54.199004
+# UPDATED: 2021-02-02 23:31:58.646263
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # GlobalMedia 与 AdvertisingLite 共 3 条规则重复
 HOST-SUFFIX,conviva.com
@@ -14,12 +14,13 @@ HOST-SUFFIX,segment.com
 HOST-SUFFIX,sentry.io
 HOST-SUFFIX,socdm.com
 HOST-SUFFIX,youboranqs01.com
-# GlobalMedia 与 AdvertisingTest 共 7 条规则重复
+# GlobalMedia 与 AdvertisingTest 共 8 条规则重复
 HOST-SUFFIX,braze.com
 HOST-SUFFIX,conviva.com
 HOST-SUFFIX,gvt2.com
 HOST-SUFFIX,jwpcdn.com
 HOST-SUFFIX,segment.com
+HOST-SUFFIX,sentry.io
 HOST-SUFFIX,socdm.com
 HOST-SUFFIX,youboranqs01.com
 # GlobalMedia 与 YouTube 共 9 条规则重复
@@ -55,9 +56,11 @@ USER-AGENT,com.apple.news*
 HOST,np-edge.itunes.apple.com
 HOST,play-edge.itunes.apple.com
 HOST-SUFFIX,tv.apple.com
-# GlobalMedia 与 Apple 共 2 条规则重复
+# GlobalMedia 与 Apple 共 4 条规则重复
 HOST,apple.comscoreresearch.com
 HOST-SUFFIX,apple.news
+USER-AGENT,AppleNews*
+USER-AGENT,com.apple.news*
 # GlobalMedia 与 Proxy 共 119 条规则重复
 HOST-KEYWORD,-tiktokcdn-com
 HOST-KEYWORD,ttvnw
@@ -178,17 +181,16 @@ HOST-SUFFIX,youtu.be
 HOST-SUFFIX,youtube.com
 HOST-SUFFIX,ytimg.com
 USER-AGENT,TikTok*
-# GlobalMedia 与 Global 共 165 条规则重复
-HOST,edge.api.brightcove.com
-HOST,kktv-theater.kk.stream
-HOST,players.brightcove.net
-HOST,youtubei.googleapis.com
+# GlobalMedia 与 Global 共 199 条规则重复
 HOST-KEYWORD,-spotify-com
+HOST-KEYWORD,-tiktokcdn-com
 HOST-KEYWORD,avoddashs
 HOST-KEYWORD,bbcfmt
 HOST-KEYWORD,spotify.com
+HOST-KEYWORD,ttvnw
 HOST-KEYWORD,uk-live
 HOST-KEYWORD,voddazn
+HOST-KEYWORD,youtube
 HOST-SUFFIX,5itv.tv
 HOST-SUFFIX,abema.io
 HOST-SUFFIX,abema.tv
@@ -198,47 +200,74 @@ HOST-SUFFIX,aiv-delivery.net
 HOST-SUFFIX,amazonaws.com
 HOST-SUFFIX,amazonvideo.com
 HOST-SUFFIX,ameba.jp
+HOST-SUFFIX,apple.news
 HOST-SUFFIX,bahamut.com.tw
 HOST-SUFFIX,bamgrid.com
+HOST-SUFFIX,bbc.co
 HOST-SUFFIX,bbc.co.uk
 HOST-SUFFIX,bbc.com
+HOST-SUFFIX,bbci.co
 HOST-SUFFIX,bbci.co.uk
+HOST-SUFFIX,boltdns.net
+HOST-SUFFIX,bootstrapcdn.com
+HOST-SUFFIX,braze.com
 HOST-SUFFIX,c4assets.com
 HOST-SUFFIX,channel4.com
 HOST-SUFFIX,channel5.com
 HOST-SUFFIX,cloudfront.net
+HOST-SUFFIX,conviva.com
 HOST-SUFFIX,dazn-api.com
 HOST-SUFFIX,dazn.com
+HOST-SUFFIX,dazndn.com
 HOST-SUFFIX,deezer.com
 HOST-SUFFIX,disney-plus.net
 HOST-SUFFIX,disneyplus.com
 HOST-SUFFIX,dmc.nico
 HOST-SUFFIX,dssott.com
 HOST-SUFFIX,dzcdn.net
+HOST-SUFFIX,edgedatg.com
 HOST-SUFFIX,encoretvb.com
 HOST-SUFFIX,fast.com
 HOST-SUFFIX,firebaseio.com
 HOST-SUFFIX,fox.com
 HOST-SUFFIX,foxdcg.com
+HOST-SUFFIX,foxplus.com
 HOST-SUFFIX,gamer.com.tw
 HOST-SUFFIX,go.com
 HOST-SUFFIX,googlevideo.com
+HOST-SUFFIX,gvt2.com
 HOST-SUFFIX,happyon.jp
 HOST-SUFFIX,hayabusa.io
 HOST-SUFFIX,hbo.com
+HOST-SUFFIX,hboasia.com
 HOST-SUFFIX,hbogo.com
 HOST-SUFFIX,hbogoasia.com
 HOST-SUFFIX,hbogoasia.hk
+HOST-SUFFIX,hbomax.com
 HOST-SUFFIX,hbonow.com
 HOST-SUFFIX,hinet.net
 HOST-SUFFIX,hulu.com
 HOST-SUFFIX,hulu.jp
+HOST-SUFFIX,huluad.com
 HOST-SUFFIX,huluim.com
 HOST-SUFFIX,hulustream.com
+HOST-SUFFIX,indazn.com
+HOST-SUFFIX,intercom.io
+HOST-SUFFIX,ipinfo.io
 HOST-SUFFIX,itv.com
 HOST-SUFFIX,itvstatic.com
+HOST-SUFFIX,japonx.com
+HOST-SUFFIX,japonx.net
+HOST-SUFFIX,japonx.tv
+HOST-SUFFIX,japonx.vip
+HOST-SUFFIX,japronx.com
+HOST-SUFFIX,japronx.net
+HOST-SUFFIX,japronx.tv
+HOST-SUFFIX,japronx.vip
 HOST-SUFFIX,joox.com
 HOST-SUFFIX,jtvnw.net
+HOST-SUFFIX,jwpcdn.com
+HOST-SUFFIX,jwplayer.com
 HOST-SUFFIX,kfs.io
 HOST-SUFFIX,kkbox.com
 HOST-SUFFIX,kkbox.com.tw
@@ -247,6 +276,9 @@ HOST-SUFFIX,kktv.me
 HOST-SUFFIX,linetv.tw
 HOST-SUFFIX,litv.tv
 HOST-SUFFIX,llnwd.net
+HOST-SUFFIX,media-amazon.com
+HOST-SUFFIX,muscdn.com
+HOST-SUFFIX,musical.ly
 HOST-SUFFIX,my5.tv
 HOST-SUFFIX,mytvsuper.com
 HOST-SUFFIX,netflix.com
@@ -287,8 +319,12 @@ HOST-SUFFIX,socdm.com
 HOST-SUFFIX,soundcloud.com
 HOST-SUFFIX,spoti.fi
 HOST-SUFFIX,spotify.com
+HOST-SUFFIX,spotifycdn.net
 HOST-SUFFIX,theplatform.com
 HOST-SUFFIX,tidal.com
+HOST-SUFFIX,tiktok.com
+HOST-SUFFIX,tiktokcdn.com
+HOST-SUFFIX,tiktokv.com
 HOST-SUFFIX,ttvnw.net
 HOST-SUFFIX,tvb.com
 HOST-SUFFIX,twitch.tv
@@ -334,6 +370,7 @@ USER-AGENT,SoundCloud*
 USER-AGENT,Spotify*
 USER-AGENT,TIDAL*
 USER-AGENT,TaiwanGood*
+USER-AGENT,TikTok*
 USER-AGENT,Viu*
 USER-AGENT,ViuTV*
 USER-AGENT,WeMusic*

@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: 
 # GITHUB: 
-# UPDATED: 2021-02-02 17:43:50.732081
-# DOMAIN-SUFFIX: 27931
+# UPDATED: 2021-02-02 23:31:55.529402
+# DOMAIN-SUFFIX: 27932
 # USER-AGENT: 12
 # DOMAIN: 35
 # DOMAIN-KEYWORD: 29
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# TOTAL: 28098
+# TOTAL: 28099
 amp.akamaized.net
 apple.com.akadns.net
 assets-priconne-redive-us.akamaized.net
@@ -22131,6 +22131,7 @@ www-cdn.icloud.com.akadns.net
 .v2556.com
 .v2dn.com
 .v2ex.co
+.v2ex.com
 .v2fly.org
 .v2ray.com
 .v2ray.cool

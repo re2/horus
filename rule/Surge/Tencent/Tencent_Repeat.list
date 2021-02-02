@@ -1,7 +1,7 @@
 # NAME: Tencent 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-02 17:43:53.203138
+# UPDATED: 2021-02-02 23:31:57.738269
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # Tencent 与 AdvertisingLite 共 2 条规则重复
 DOMAIN-SUFFIX,tencentmind.com
@@ -46,7 +46,7 @@ DOMAIN-SUFFIX,tencent-cloud.net
 DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,tenpay.com
 DOMAIN-SUFFIX,wechat.com
-# Tencent 与 ChinaTest 共 148 条规则重复
+# Tencent 与 ChinaTest 共 150 条规则重复
 DOMAIN-SUFFIX,accessibilityunion.org
 DOMAIN-SUFFIX,agcloudcs.com
 DOMAIN-SUFFIX,apcdns.net
@@ -129,7 +129,9 @@ DOMAIN-SUFFIX,qcloudzygj.com
 DOMAIN-SUFFIX,qdmm.com
 DOMAIN-SUFFIX,qdwenxue.com
 DOMAIN-SUFFIX,qidian.com
+DOMAIN-SUFFIX,qlogo.cn
 DOMAIN-SUFFIX,qmail.com
+DOMAIN-SUFFIX,qpic.cn
 DOMAIN-SUFFIX,qplus.com
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,qqmail.com

@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2021-02-02 17:44:26.106956。
+最后检查时间：2021-02-02 23:32:25.280066。
 
 ## 规则统计
 
@@ -46,10 +46,10 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingLite)    | 31266   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/JiGuangTuiSong/JiGuangTuiSong_Repeat.list)   |   0.01% |
-|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising)    | 64807   | [16](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/JiGuangTuiSong/JiGuangTuiSong_Repeat.list)   |   0.02% |
-|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingTest)    | 63841   | [16](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/JiGuangTuiSong/JiGuangTuiSong_Repeat.list)   |   0.03% |
-|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaTest)    | 71423   | [6](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/JiGuangTuiSong/JiGuangTuiSong_Repeat.list)   |   0.01% |
+|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingLite)    | 31116   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/JiGuangTuiSong/JiGuangTuiSong_Repeat.list)   |   0.01% |
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising)    | 64559   | [16](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/JiGuangTuiSong/JiGuangTuiSong_Repeat.list)   |   0.02% |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingTest)    | 80217   | [16](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/JiGuangTuiSong/JiGuangTuiSong_Repeat.list)   |   0.02% |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaTest)    | 71672   | [6](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/JiGuangTuiSong/JiGuangTuiSong_Repeat.list)   |   0.01% |
 ### 特别说明
 程序在实际运算时，会根据DOMAIN、DOMAIN-SUFFIX、IP-CIDR、IP-CIDR6间的包含关系进行去重，而出于运行效率考虑，重复规则只统计纯文本匹配，所以可能与实际效果有所出入，仅供参考。
 

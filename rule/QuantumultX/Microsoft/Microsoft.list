@@ -1,11 +1,12 @@
 # NAME: Microsoft
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-02 17:43:44.524925
-# USER-AGENT: 2
-# HOST-KEYWORD: 3
+# UPDATED: 2021-02-02 23:31:50.040988
 # HOST-SUFFIX: 92
-# TOTAL: 97
+# USER-AGENT: 3
+# HOST-KEYWORD: 4
+# TOTAL: 99
+HOST-SUFFIX,1drv.com,OneDrive
 HOST-SUFFIX,aadrm.com,Microsoft
 HOST-SUFFIX,acompli.com,Microsoft
 HOST-SUFFIX,acompli.net,Microsoft
@@ -25,7 +26,6 @@ HOST-SUFFIX,cloudappsecurity.com,Microsoft
 HOST-SUFFIX,docs.com,Microsoft
 HOST-SUFFIX,edgesuite.net,Microsoft
 HOST-SUFFIX,fabric.io,Microsoft
-HOST-SUFFIX,files.1drv.com,Microsoft
 HOST-SUFFIX,gfx.ms,Microsoft
 HOST-SUFFIX,hotmail.com,Microsoft
 HOST-SUFFIX,live.com,Microsoft
@@ -101,5 +101,7 @@ HOST-SUFFIX,yammerusercontent.com,Microsoft
 HOST-KEYWORD,1drv,Microsoft
 HOST-KEYWORD,microsoft,Microsoft
 HOST-KEYWORD,onedrive,Microsoft
+HOST-KEYWORD,skydrive,OneDrive
 USER-AGENT,Microsoft*,Microsoft
 USER-AGENT,OneDrive*,Microsoft
+USER-AGENT,OneDriveiOSApp*,OneDrive

@@ -1,10 +1,10 @@
 # NAME: Porn
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-02 17:43:46.516424
+# UPDATED: 2021-02-02 23:31:51.869379
+# DOMAIN-SUFFIX: 23
 # DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 22
-# TOTAL: 23
+# TOTAL: 24
 DOMAIN-SUFFIX,8teenxxx.com
 DOMAIN-SUFFIX,ahcdn.com
 DOMAIN-SUFFIX,bcvcdn.com
@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,phprcdn.com
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,pornhubpremium.com
+DOMAIN-SUFFIX,pronstore.com
 DOMAIN-SUFFIX,rdtcdn.com
 DOMAIN-SUFFIX,redtube.com
 DOMAIN-SUFFIX,sb-cd.com

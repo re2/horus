@@ -1,7 +1,7 @@
 # NAME: NYTimes 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-02 17:43:57.336251
+# UPDATED: 2021-02-02 23:32:01.462020
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 payload:
 # NYTimes 与 Advertising 共 3 条规则重复
@@ -24,15 +24,18 @@ payload:
   - DOMAIN-SUFFIX,nytlog.com
   - DOMAIN-SUFFIX,nytstyle.com
   - DOMAIN-SUFFIX,timestalks.com
-# NYTimes 与 Global 共 8 条规则重复
+# NYTimes 与 Global 共 11 条规则重复
   - DOMAIN-SUFFIX,nyt.com
+  - DOMAIN-SUFFIX,nyt.net
   - DOMAIN-SUFFIX,nytchina.com
   - DOMAIN-SUFFIX,nytcn.me
   - DOMAIN-SUFFIX,nytco.com
+  - DOMAIN-SUFFIX,nyti.ms
   - DOMAIN-SUFFIX,nytimes.com
   - DOMAIN-SUFFIX,nytimg.com
   - DOMAIN-SUFFIX,nytlog.com
   - DOMAIN-SUFFIX,nytstyle.com
+  - DOMAIN-SUFFIX,timestalks.com
 # NYTimes 与 BlackList 共 4 条规则重复
   - DOMAIN-SUFFIX,nyt.com
   - DOMAIN-SUFFIX,nytimes.com

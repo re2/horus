@@ -1,9 +1,16 @@
 # NAME: ATTWatchTV 规则重复情况
 # AUTHOR: 
 # GITHUB: 
-# UPDATED: 2021-02-02 17:43:58.668123
+# UPDATED: 2021-02-02 23:32:02.627978
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # ATTWatchTV 与 Proxy 共 6 条规则重复
+DOMAIN-SUFFIX,att.tv
+DOMAIN-SUFFIX,atttvnow.com
+DOMAIN-SUFFIX,attwatchtv.com
+DOMAIN-SUFFIX,directv.com
+DOMAIN-SUFFIX,dtvce.com
+DOMAIN-SUFFIX,nettyinternet.com
+# ATTWatchTV 与 Global 共 6 条规则重复
 DOMAIN-SUFFIX,att.tv
 DOMAIN-SUFFIX,atttvnow.com
 DOMAIN-SUFFIX,attwatchtv.com

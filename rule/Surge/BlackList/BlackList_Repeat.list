@@ -1,7 +1,7 @@
 # NAME: BlackList 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-02 17:43:52.754456
+# UPDATED: 2021-02-02 23:31:57.353530
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # BlackList 与 AdvertisingLite 共 9 条规则重复
 DOMAIN-SUFFIX,2o7.net
@@ -36,7 +36,7 @@ DOMAIN-SUFFIX,technorati.com
 DOMAIN-SUFFIX,traffichaus.com
 DOMAIN-SUFFIX,ubertags.com
 DOMAIN-SUFFIX,xiti.com
-# BlackList 与 AdvertisingTest 共 27 条规则重复
+# BlackList 与 AdvertisingTest 共 28 条规则重复
 DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,2o7.net
 DOMAIN-SUFFIX,app-measurement.com
@@ -52,6 +52,7 @@ DOMAIN-SUFFIX,fullstory.com
 DOMAIN-SUFFIX,geni.us
 DOMAIN-SUFFIX,lightboxcdn.com
 DOMAIN-SUFFIX,localnetwork.uop
+DOMAIN-SUFFIX,msedge.net
 DOMAIN-SUFFIX,nsstatic.net
 DOMAIN-SUFFIX,optimizely.com
 DOMAIN-SUFFIX,panoramio.com
@@ -79,8 +80,15 @@ DOMAIN-SUFFIX,supermariorun.com
 # BlackList 与 Riot 共 2 条规则重复
 DOMAIN-SUFFIX,riotcdn.net
 DOMAIN-SUFFIX,riotgames.com
-# BlackList 与 Game 共 1 条规则重复
+# BlackList 与 Game 共 8 条规则重复
+DOMAIN-SUFFIX,garena.com
 DOMAIN-SUFFIX,helpshift.com
+DOMAIN-SUFFIX,nintendo.com
+DOMAIN-SUFFIX,nintendo.net
+DOMAIN-SUFFIX,pokemon.com
+DOMAIN-SUFFIX,riotcdn.net
+DOMAIN-SUFFIX,riotgames.com
+DOMAIN-SUFFIX,supermariorun.com
 # BlackList 与 YouTube 共 3 条规则重复
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,youtu.be
@@ -157,9 +165,11 @@ DOMAIN,testflight.apple.com
 DOMAIN-SUFFIX,apple-dns.net
 DOMAIN-SUFFIX,appsto.re
 PROCESS-NAME,lookupviewservice
-# BlackList 与 Apple 共 1 条规则重复
+# BlackList 与 Apple 共 3 条规则重复
+DOMAIN-SUFFIX,apple-dns.net
 DOMAIN-SUFFIX,appsto.re
-# BlackList 与 Proxy 共 758 条规则重复
+PROCESS-NAME,lookupviewservice
+# BlackList 与 Proxy 共 759 条规则重复
 DOMAIN-KEYWORD,appledaily
 DOMAIN-KEYWORD,beetalk
 DOMAIN-KEYWORD,blogspot
@@ -763,6 +773,7 @@ DOMAIN-SUFFIX,uspto.gov
 DOMAIN-SUFFIX,ustream.tv
 DOMAIN-SUFFIX,v.gd
 DOMAIN-SUFFIX,v2ex.co
+DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,v2ray.com
 DOMAIN-SUFFIX,van001.com
 DOMAIN-SUFFIX,vanpeople.com
@@ -918,20 +929,17 @@ IP-CIDR,75.126.0.0/16
 USER-AGENT,Roam*
 USER-AGENT,WhatsApp*
 USER-AGENT,battleroyale*
-# BlackList 与 Global 共 677 条规则重复
-DOMAIN,api-glb-sea.smoot.apple.com
-DOMAIN,books.itunes.apple.com
-DOMAIN,hls.itunes.apple.com
-DOMAIN,lookup-api.apple.com
-DOMAIN,testflight.apple.com
+# BlackList 与 Global 共 760 条规则重复
 DOMAIN-KEYWORD,appledaily
 DOMAIN-KEYWORD,beetalk
 DOMAIN-KEYWORD,blogspot
+DOMAIN-KEYWORD,dlercloud
 DOMAIN-KEYWORD,dropbox
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,instagram
+DOMAIN-KEYWORD,tesla
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-SUFFIX,1e100.net
@@ -948,10 +956,12 @@ DOMAIN-SUFFIX,adblockplus.org
 DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,adobedtm.com
 DOMAIN-SUFFIX,aerisapi.com
+DOMAIN-SUFFIX,airtable.com
 DOMAIN-SUFFIX,akamai.net
 DOMAIN-SUFFIX,akamaihd.net
 DOMAIN-SUFFIX,alfredapp.com
 DOMAIN-SUFFIX,allconnected.co
+DOMAIN-SUFFIX,amazon.co
 DOMAIN-SUFFIX,amazon.co.jp
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,amazonaws.com
@@ -967,13 +977,17 @@ DOMAIN-SUFFIX,angularjs.org
 DOMAIN-SUFFIX,anthonycalzadilla.com
 DOMAIN-SUFFIX,aol.com
 DOMAIN-SUFFIX,aolcdn.com
+DOMAIN-SUFFIX,apache.org
 DOMAIN-SUFFIX,apartmentratings.com
 DOMAIN-SUFFIX,apartments.com
+DOMAIN-SUFFIX,api.mixpanel.com
+DOMAIN-SUFFIX,api.termius.com
 DOMAIN-SUFFIX,apigee.com
 DOMAIN-SUFFIX,apk-dl.com
 DOMAIN-SUFFIX,apkpure.com
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,appdownloader.net
+DOMAIN-SUFFIX,apple-dns.net
 DOMAIN-SUFFIX,appshopper.com
 DOMAIN-SUFFIX,appspot.com
 DOMAIN-SUFFIX,appsto.re
@@ -988,6 +1002,7 @@ DOMAIN-SUFFIX,att.com
 DOMAIN-SUFFIX,autodraw.com
 DOMAIN-SUFFIX,avgle.com
 DOMAIN-SUFFIX,awsstatic.com
+DOMAIN-SUFFIX,azure.com
 DOMAIN-SUFFIX,azureedge.net
 DOMAIN-SUFFIX,azurewebsites.net
 DOMAIN-SUFFIX,badoo.com
@@ -998,6 +1013,7 @@ DOMAIN-SUFFIX,bbtoystore.com
 DOMAIN-SUFFIX,betvictor.com
 DOMAIN-SUFFIX,bigsound.org
 DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bing.net
 DOMAIN-SUFFIX,bintray.com
 DOMAIN-SUFFIX,bit.com
 DOMAIN-SUFFIX,bit.do
@@ -1018,18 +1034,21 @@ DOMAIN-SUFFIX,bloomberg.com
 DOMAIN-SUFFIX,books.com.tw
 DOMAIN-SUFFIX,booktopia.com.au
 DOMAIN-SUFFIX,boomtrain.com
+DOMAIN-SUFFIX,botanwang.com
 DOMAIN-SUFFIX,box.com
 DOMAIN-SUFFIX,box.net
 DOMAIN-SUFFIX,boxun.com
 DOMAIN-SUFFIX,cachefly.net
 DOMAIN-SUFFIX,cbc.ca
 DOMAIN-SUFFIX,cccat.io
+DOMAIN-SUFFIX,cdn.angruo.com
 DOMAIN-SUFFIX,cdn.segment.com
 DOMAIN-SUFFIX,cdnst.net
 DOMAIN-SUFFIX,celestrak.com
 DOMAIN-SUFFIX,census.gov
 DOMAIN-SUFFIX,centauro.com.br
 DOMAIN-SUFFIX,certificate-transparency.org
+DOMAIN-SUFFIX,chinadigitaltimes.net
 DOMAIN-SUFFIX,chinatimes.com
 DOMAIN-SUFFIX,chrome.com
 DOMAIN-SUFFIX,chromecast.com
@@ -1039,9 +1058,11 @@ DOMAIN-SUFFIX,chromestatus.com
 DOMAIN-SUFFIX,chromium.org
 DOMAIN-SUFFIX,cl.ly
 DOMAIN-SUFFIX,clearsurance.com
+DOMAIN-SUFFIX,clien.net
 DOMAIN-SUFFIX,cloudcone.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,cloudgarage.jp
 DOMAIN-SUFFIX,cloudmagic.com
 DOMAIN-SUFFIX,cmail19.com
 DOMAIN-SUFFIX,cnet.com
@@ -1054,6 +1075,7 @@ DOMAIN-SUFFIX,creativelab5.com
 DOMAIN-SUFFIX,crittercism.com
 DOMAIN-SUFFIX,culturalspot.org
 DOMAIN-SUFFIX,culturedcode.com
+DOMAIN-SUFFIX,cygames.jp
 DOMAIN-SUFFIX,d.pr
 DOMAIN-SUFFIX,danilo.to
 DOMAIN-SUFFIX,daolan.net
@@ -1099,6 +1121,7 @@ DOMAIN-SUFFIX,evernote.com
 DOMAIN-SUFFIX,extmatrix.com
 DOMAIN-SUFFIX,eyny.com
 DOMAIN-SUFFIX,fabric.io
+DOMAIN-SUFFIX,fanqiang.network
 DOMAIN-SUFFIX,fastly.net
 DOMAIN-SUFFIX,fastmail.com
 DOMAIN-SUFFIX,fastpic.ru
@@ -1117,15 +1140,18 @@ DOMAIN-SUFFIX,flickr.com
 DOMAIN-SUFFIX,flipboard.com
 DOMAIN-SUFFIX,flipkart.com
 DOMAIN-SUFFIX,flitto.com
+DOMAIN-SUFFIX,flurry.com
 DOMAIN-SUFFIX,fnac.be
 DOMAIN-SUFFIX,fnac.com
 DOMAIN-SUFFIX,freeopenproxy.com
+DOMAIN-SUFFIX,fubo.tv
 DOMAIN-SUFFIX,fullstory.com
 DOMAIN-SUFFIX,funkyimg.com
 DOMAIN-SUFFIX,fxnetworks.com
 DOMAIN-SUFFIX,fzlm.net
 DOMAIN-SUFFIX,g.co
 DOMAIN-SUFFIX,gabia.net
+DOMAIN-SUFFIX,garena.com
 DOMAIN-SUFFIX,gcr.io
 DOMAIN-SUFFIX,geni.us
 DOMAIN-SUFFIX,get.how
@@ -1144,7 +1170,9 @@ DOMAIN-SUFFIX,gitbook.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,globalsign.com
 DOMAIN-SUFFIX,gmail.com
+DOMAIN-SUFFIX,gmocloud.com
 DOMAIN-SUFFIX,gmodules.com
+DOMAIN-SUFFIX,gnews.org
 DOMAIN-SUFFIX,go.com
 DOMAIN-SUFFIX,go.jp
 DOMAIN-SUFFIX,godaddy.com
@@ -1155,6 +1183,7 @@ DOMAIN-SUFFIX,goodreaders.com
 DOMAIN-SUFFIX,goodreads.com
 DOMAIN-SUFFIX,gosetsuden.jp
 DOMAIN-SUFFIX,gravatar.com
+DOMAIN-SUFFIX,gstatic.cn
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,gunsamerica.com
 DOMAIN-SUFFIX,gvt0.com
@@ -1164,6 +1193,7 @@ DOMAIN-SUFFIX,hackmd.io
 DOMAIN-SUFFIX,helpshift.com
 DOMAIN-SUFFIX,here.com
 DOMAIN-SUFFIX,heroku.com
+DOMAIN-SUFFIX,hitun.io
 DOMAIN-SUFFIX,hockeyapp.net
 DOMAIN-SUFFIX,homedepot.com
 DOMAIN-SUFFIX,hootsuite.com
@@ -1186,6 +1216,7 @@ DOMAIN-SUFFIX,instapaper.com
 DOMAIN-SUFFIX,instructables.com
 DOMAIN-SUFFIX,io.io
 DOMAIN-SUFFIX,ip.sb
+DOMAIN-SUFFIX,ipaddress.com
 DOMAIN-SUFFIX,ipn.li
 DOMAIN-SUFFIX,is.gd
 DOMAIN-SUFFIX,ishowsapp.com
@@ -1211,13 +1242,17 @@ DOMAIN-SUFFIX,kik.com
 DOMAIN-SUFFIX,klip.me
 DOMAIN-SUFFIX,kobo.com
 DOMAIN-SUFFIX,kobobooks.com
+DOMAIN-SUFFIX,krypt.com
 DOMAIN-SUFFIX,leancloud.com
 DOMAIN-SUFFIX,leetcode.com
+DOMAIN-SUFFIX,lhie1.com
 DOMAIN-SUFFIX,libsyn.com
 DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,lightboxcdn.com
 DOMAIN-SUFFIX,like.com
+DOMAIN-SUFFIX,lin.ee
 DOMAIN-SUFFIX,line-apps.com
+DOMAIN-SUFFIX,line-cdn.net
 DOMAIN-SUFFIX,line-scdn.net
 DOMAIN-SUFFIX,line.me
 DOMAIN-SUFFIX,linkedin.com
@@ -1233,6 +1268,7 @@ DOMAIN-SUFFIX,macromedia.com
 DOMAIN-SUFFIX,macrumors.com
 DOMAIN-SUFFIX,madewithcode.com
 DOMAIN-SUFFIX,mailfence.com
+DOMAIN-SUFFIX,mangaup.jp
 DOMAIN-SUFFIX,manhuaren.com
 DOMAIN-SUFFIX,marketwatch.com
 DOMAIN-SUFFIX,mashable.com
@@ -1243,6 +1279,7 @@ DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,mega.co.nz
 DOMAIN-SUFFIX,mega.nz
 DOMAIN-SUFFIX,megaupload.com
+DOMAIN-SUFFIX,merlinblog.xyz
 DOMAIN-SUFFIX,messenger.com
 DOMAIN-SUFFIX,microsofttranslator.com
 DOMAIN-SUFFIX,mindnode.com
@@ -1254,6 +1291,7 @@ DOMAIN-SUFFIX,mp3buscador.com
 DOMAIN-SUFFIX,msedge.net
 DOMAIN-SUFFIX,mycnnews.com
 DOMAIN-SUFFIX,myfontastic.com
+DOMAIN-SUFFIX,myjs.tw
 DOMAIN-SUFFIX,name.com
 DOMAIN-SUFFIX,nasa.gov
 DOMAIN-SUFFIX,nationwide.com
@@ -1264,6 +1302,7 @@ DOMAIN-SUFFIX,netmarble.com
 DOMAIN-SUFFIX,newipnow.com
 DOMAIN-SUFFIX,nexon.com
 DOMAIN-SUFFIX,nextmedia.com
+DOMAIN-SUFFIX,nhncorp.jp
 DOMAIN-SUFFIX,nianticlabs.com
 DOMAIN-SUFFIX,nicovideo.jp
 DOMAIN-SUFFIX,nih.gov
@@ -1274,6 +1313,7 @@ DOMAIN-SUFFIX,nordstrom.com
 DOMAIN-SUFFIX,nordstromimage.com
 DOMAIN-SUFFIX,nordstromrack.com
 DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,novafile.com
 DOMAIN-SUFFIX,nrk.no
 DOMAIN-SUFFIX,nsstatic.net
 DOMAIN-SUFFIX,nssurge.com
@@ -1281,6 +1321,7 @@ DOMAIN-SUFFIX,nyt.com
 DOMAIN-SUFFIX,nytimes.com
 DOMAIN-SUFFIX,nytimg.com
 DOMAIN-SUFFIX,nytstyle.com
+DOMAIN-SUFFIX,office365.com
 DOMAIN-SUFFIX,omnigroup.com
 DOMAIN-SUFFIX,onenote.com
 DOMAIN-SUFFIX,ooyala.com
@@ -1303,6 +1344,7 @@ DOMAIN-SUFFIX,piaotian.net
 DOMAIN-SUFFIX,picacomic.com
 DOMAIN-SUFFIX,picasaweb.com
 DOMAIN-SUFFIX,pinboard.in
+DOMAIN-SUFFIX,ping.pe
 DOMAIN-SUFFIX,pinimg.com
 DOMAIN-SUFFIX,pinterest.com
 DOMAIN-SUFFIX,pixelmator.com
@@ -1323,6 +1365,7 @@ DOMAIN-SUFFIX,puffinbrowser.com
 DOMAIN-SUFFIX,pushbullet.com
 DOMAIN-SUFFIX,pushwoosh.com
 DOMAIN-SUFFIX,pximg.net
+DOMAIN-SUFFIX,pythonhosted.org
 DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,quoracdn.net
 DOMAIN-SUFFIX,readingtimes.com.tw
@@ -1335,13 +1378,17 @@ DOMAIN-SUFFIX,reuters.com
 DOMAIN-SUFFIX,rfi.fr
 DOMAIN-SUFFIX,rileyguide.com
 DOMAIN-SUFFIX,rime.im
+DOMAIN-SUFFIX,riotcdn.net
+DOMAIN-SUFFIX,riotgames.com
 DOMAIN-SUFFIX,rsf.org
+DOMAIN-SUFFIX,rthk.hk
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,sciencedaily.com
 DOMAIN-SUFFIX,sciencemag.org
 DOMAIN-SUFFIX,scribd.com
 DOMAIN-SUFFIX,search.com
 DOMAIN-SUFFIX,servebom.com
+DOMAIN-SUFFIX,sexinsex.net
 DOMAIN-SUFFIX,sfx.ms
 DOMAIN-SUFFIX,shadowsocks.org
 DOMAIN-SUFFIX,shadowverse.jp
@@ -1398,6 +1445,7 @@ DOMAIN-SUFFIX,talkonly.net
 DOMAIN-SUFFIX,tapbots.com
 DOMAIN-SUFFIX,tapbots.net
 DOMAIN-SUFFIX,target.com
+DOMAIN-SUFFIX,teamviewer.com
 DOMAIN-SUFFIX,techcrunch.com
 DOMAIN-SUFFIX,technorati.com
 DOMAIN-SUFFIX,techsmith.com
@@ -1429,7 +1477,9 @@ DOMAIN-SUFFIX,torrentprivacy.com
 DOMAIN-SUFFIX,torrentproject.se
 DOMAIN-SUFFIX,torrentz.eu
 DOMAIN-SUFFIX,tracfone.com
+DOMAIN-SUFFIX,tradingview.com
 DOMAIN-SUFFIX,traffichaus.com
+DOMAIN-SUFFIX,trakt.tv
 DOMAIN-SUFFIX,transparency.org
 DOMAIN-SUFFIX,trello.com
 DOMAIN-SUFFIX,trendsmap.com
@@ -1467,6 +1517,7 @@ DOMAIN-SUFFIX,unblocksites.co
 DOMAIN-SUFFIX,unfiltered.news
 DOMAIN-SUFFIX,unity3d.com
 DOMAIN-SUFFIX,unpo.org
+DOMAIN-SUFFIX,unsplash.com
 DOMAIN-SUFFIX,untraceable.us
 DOMAIN-SUFFIX,uploaded.net
 DOMAIN-SUFFIX,uploader.jp
@@ -1481,6 +1532,8 @@ DOMAIN-SUFFIX,usma.edu
 DOMAIN-SUFFIX,uspto.gov
 DOMAIN-SUFFIX,ustream.tv
 DOMAIN-SUFFIX,v.gd
+DOMAIN-SUFFIX,v2ex.co
+DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,v2ray.com
 DOMAIN-SUFFIX,van001.com
 DOMAIN-SUFFIX,vanpeople.com
@@ -1552,6 +1605,7 @@ DOMAIN-SUFFIX,xda-developers.com
 DOMAIN-SUFFIX,xeeno.com
 DOMAIN-SUFFIX,xfinity.com
 DOMAIN-SUFFIX,xiti.com
+DOMAIN-SUFFIX,xteko.com
 DOMAIN-SUFFIX,xuite.net
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,yahoo.com
@@ -1577,25 +1631,65 @@ DOMAIN-SUFFIX,zaobao.com.sg
 DOMAIN-SUFFIX,zattoo.com
 DOMAIN-SUFFIX,zeutch.com
 DOMAIN-SUFFIX,zynamics.com
+IP-CIDR,1.201.0.0/24
+IP-CIDR,103.2.28.0/22
+IP-CIDR,103.246.56.0/22
+IP-CIDR,103.27.148.0/22
 IP-CIDR,103.4.96.0/22
+IP-CIDR,110.76.140.0/22
+IP-CIDR,113.61.104.0/22
+IP-CIDR,119.235.224.0/21
+IP-CIDR,119.235.232.0/23
+IP-CIDR,119.235.235.0/24
+IP-CIDR,119.235.236.0/23
 IP-CIDR,125.209.208.0/20
+IP-CIDR,125.6.146.0/24
+IP-CIDR,125.6.149.0/24
+IP-CIDR,125.6.190.0/24
 IP-CIDR,129.134.0.0/17
+IP-CIDR,13.251.24.0/24
+IP-CIDR,13.251.41.0/24
+IP-CIDR,13.32.0.0/15
+IP-CIDR,13.35.0.0/17
 IP-CIDR,157.240.0.0/17
+IP-CIDR,17.252.156.0/23
 IP-CIDR,173.194.0.0/16
 IP-CIDR,173.252.64.0/18
+IP-CIDR,174.37.0.0/16
 IP-CIDR,179.60.192.0/22
+IP-CIDR,18.184.0.0/15
+IP-CIDR,18.194.0.0/15
+IP-CIDR,18.208.0.0/13
+IP-CIDR,18.232.0.0/14
 IP-CIDR,185.60.216.0/22
+IP-CIDR,203.104.103.0/24
+IP-CIDR,203.174.66.64/26
+IP-CIDR,203.174.77.0/24
 IP-CIDR,204.15.20.0/22
+IP-CIDR,208.43.0.0/16
+IP-CIDR,27.0.236.0/22
 IP-CIDR,31.13.24.0/21
 IP-CIDR,31.13.64.0/18
 IP-CIDR,45.64.40.0/22
+IP-CIDR,52.200.0.0/13
+IP-CIDR,52.58.0.0/15
+IP-CIDR,52.74.0.0/16
+IP-CIDR,52.77.0.0/16
+IP-CIDR,52.84.0.0/15
+IP-CIDR,54.156.0.0/14
+IP-CIDR,54.226.0.0/15
+IP-CIDR,54.230.156.0/22
+IP-CIDR,54.93.0.0/16
 IP-CIDR,66.220.144.0/20
-IP-CIDR,69.171.224.0/19
 IP-CIDR,69.63.176.0/20
 IP-CIDR,74.119.76.0/22
 IP-CIDR,74.125.0.0/16
+IP-CIDR,74.86.0.0/16
+IP-CIDR,75.126.0.0/16
 PROCESS-NAME,lookupviewservice
 USER-AGENT,Roam*
+USER-AGENT,WhatsApp*
+USER-AGENT,battleroyale*
 # BlackList 与 GlobalMedia 共 18 条规则重复
 DOMAIN-SUFFIX,adobedtm.com
 DOMAIN-SUFFIX,amazonaws.com
@@ -1803,6 +1897,27 @@ DOMAIN-SUFFIX,trello.com
 DOMAIN-SUFFIX,unity3d.com
 DOMAIN-SUFFIX,workflowy.com
 DOMAIN-SUFFIX,xteko.com
-# BlackList 与 ChinaTest 共 2 条规则重复
+# BlackList 与 ChinaTest 共 23 条规则重复
+DOMAIN-SUFFIX,apache.org
+DOMAIN-SUFFIX,api.termius.com
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bing.net
+DOMAIN-SUFFIX,culturedcode.com
+DOMAIN-SUFFIX,getpricetag.com
+DOMAIN-SUFFIX,ip.sb
+DOMAIN-SUFFIX,licdn.com
+DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,manhuaren.com
+DOMAIN-SUFFIX,microsofttranslator.com
+DOMAIN-SUFFIX,msedge.net
+DOMAIN-SUFFIX,nssurge.com
+DOMAIN-SUFFIX,office365.com
+DOMAIN-SUFFIX,onenote.com
+DOMAIN-SUFFIX,overcast.fm
+DOMAIN-SUFFIX,sciencemag.org
+DOMAIN-SUFFIX,symcd.com
+DOMAIN-SUFFIX,teamviewer.com
+DOMAIN-SUFFIX,trello.com
+DOMAIN-SUFFIX,unity3d.com
+DOMAIN-SUFFIX,workflowy.com
 DOMAIN-SUFFIX,xteko.com

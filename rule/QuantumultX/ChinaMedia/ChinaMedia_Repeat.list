@@ -1,7 +1,7 @@
 # NAME: ChinaMedia 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-02 17:43:54.659002
+# UPDATED: 2021-02-02 23:31:59.042400
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # ChinaMedia 与 AdvertisingLite 共 22 条规则重复
 HOST-SUFFIX,1.letvlive.com
@@ -51,7 +51,7 @@ HOST-SUFFIX,static.g.pptv.com
 HOST-SUFFIX,videojj.com
 HOST-SUFFIX,zamplus.com
 HOST-SUFFIX,zmzfile.com
-# ChinaMedia 与 AdvertisingTest 共 23 条规则重复
+# ChinaMedia 与 AdvertisingTest 共 24 条规则重复
 HOST-SUFFIX,1.letvlive.com
 HOST-SUFFIX,2.letvlive.com
 HOST-SUFFIX,71.am
@@ -75,13 +75,18 @@ HOST-SUFFIX,static.g.ppstream.com
 HOST-SUFFIX,static.g.pptv.com
 HOST-SUFFIX,videojj.com
 HOST-SUFFIX,zamplus.com
+HOST-SUFFIX,zmzfile.com
 # ChinaMedia 与 Proxy 共 4 条规则重复
 HOST-SUFFIX,jstucdn.com
 HOST-SUFFIX,zimuzu.tv
 HOST-SUFFIX,zmz2019.com
 HOST-SUFFIX,zmzapi.com
-# ChinaMedia 与 AsianMedia 共 24 条规则重复
-HOST,upos-hz-mirrorakam.akamaized.net
+# ChinaMedia 与 Global 共 4 条规则重复
+HOST-SUFFIX,jstucdn.com
+HOST-SUFFIX,zimuzu.tv
+HOST-SUFFIX,zmz2019.com
+HOST-SUFFIX,zmzapi.com
+# ChinaMedia 与 AsianMedia 共 23 条规则重复
 HOST-KEYWORD,bilibili
 HOST-KEYWORD,qiyi
 HOST-SUFFIX,71.am.com
@@ -107,26 +112,72 @@ USER-AGENT,TencentMidasConnect*
 USER-AGENT,iQiYi*
 # ChinaMedia 与 WeTV 共 1 条规则重复
 HOST-SUFFIX,v.smtcdns.com
-# ChinaMedia 与 BiliBili 共 16 条规则重复
+# ChinaMedia 与 BiliBili 共 62 条规则重复
 HOST-SUFFIX,acg.tv
 HOST-SUFFIX,acgvideo.com
 HOST-SUFFIX,b23.tv
+HOST-SUFFIX,baka.im
+HOST-SUFFIX,bigfun.cn
+HOST-SUFFIX,bigfunapp.cn
+HOST-SUFFIX,bili22.cn
+HOST-SUFFIX,bili2233.cn
+HOST-SUFFIX,bili23.cn
+HOST-SUFFIX,bili33.cn
 HOST-SUFFIX,biliapi.com
 HOST-SUFFIX,biliapi.net
+HOST-SUFFIX,bilibili.cc
+HOST-SUFFIX,bilibili.cn
+HOST-SUFFIX,bilibili.co
 HOST-SUFFIX,bilibili.com
 HOST-SUFFIX,bilibili.tv
+HOST-SUFFIX,bilibiligame.cn
+HOST-SUFFIX,bilibiligame.net
+HOST-SUFFIX,bilibilipay.cn
+HOST-SUFFIX,bilibilipay.com
+HOST-SUFFIX,biligame.cn
 HOST-SUFFIX,biligame.com
 HOST-SUFFIX,biligame.net
+HOST-SUFFIX,biliplus.com
+HOST-SUFFIX,bilivideo.cn
 HOST-SUFFIX,bilivideo.com
+HOST-SUFFIX,bilivideo.net
+HOST-SUFFIX,corari.com
+HOST-SUFFIX,dyhgames.com
 HOST-SUFFIX,hdslb.com
+HOST-SUFFIX,hdslb.com.w.kunlunhuf.com
+HOST-SUFFIX,hdslb.com.w.kunlunpi.com
+HOST-SUFFIX,hdslb.net
+HOST-SUFFIX,hdslb.org
 HOST-SUFFIX,im9.com
+HOST-SUFFIX,mcbbs.net
+HOST-SUFFIX,mincdn.com
+HOST-SUFFIX,sharejoytech.com
 HOST-SUFFIX,smtcdns.net
+HOST-SUFFIX,upos-hz-mirrorakam.akamaized.net
+HOST-SUFFIX,uposdash-302-bilivideo.yfcdn.net
+HOST-SUFFIX,yo9.com
+IP-CIDR,106.75.74.76/32
+IP-CIDR,111.206.25.147/32
+IP-CIDR,119.29.29.29/32
+IP-CIDR,119.3.238.64/32
+IP-CIDR,120.92.108.182/32
+IP-CIDR,120.92.113.99/32
+IP-CIDR,120.92.153.217/32
+IP-CIDR,128.1.62.200/31
+IP-CIDR,134.175.207.130/32
+IP-CIDR,150.116.92.250/32
+IP-CIDR,164.52.76.18/32
+IP-CIDR,203.107.1.33/32
+IP-CIDR,203.107.1.34/32
+IP-CIDR,203.107.1.65/32
+IP-CIDR,203.107.1.66/32
+IP-CIDR,45.43.32.234/32
 USER-AGENT,*bili*
 USER-AGENT,Bilibili*
 USER-AGENT,bili*
 # ChinaMedia 与 Baidu 共 1 条规则重复
 HOST-SUFFIX,qianqian.com
-# ChinaMedia 与 China 共 35 条规则重复
+# ChinaMedia 与 China 共 38 条规则重复
 HOST-SUFFIX,71.am
 HOST-SUFFIX,71.am.com
 HOST-SUFFIX,acfun.tv
@@ -137,6 +188,8 @@ HOST-SUFFIX,biliapi.net
 HOST-SUFFIX,bilibili.com
 HOST-SUFFIX,bilibili.tv
 HOST-SUFFIX,bilivideo.com
+HOST-SUFFIX,cctv.com
+HOST-SUFFIX,cctvpic.com
 HOST-SUFFIX,hdslb.com
 HOST-SUFFIX,hitv.com
 HOST-SUFFIX,iqiyi.com
@@ -144,6 +197,7 @@ HOST-SUFFIX,iqiyipic.com
 HOST-SUFFIX,jstucdn.com
 HOST-SUFFIX,kugou.com
 HOST-SUFFIX,letv.com
+HOST-SUFFIX,livechina.com
 HOST-SUFFIX,mgtv.com
 HOST-SUFFIX,sohu.com
 HOST-SUFFIX,soku.com
@@ -162,33 +216,46 @@ USER-AGENT,%E4%BC%98%E9%85%B7*
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,NeteaseMusic*
 USER-AGENT,YYeTs*
-# ChinaMedia 与 ChinaTest 共 43 条规则重复
-HOST,upos-hz-mirrorakam.akamaized.net
+# ChinaMedia 与 ChinaTest 共 61 条规则重复
 HOST-SUFFIX,56.com
 HOST-SUFFIX,71.am
+HOST-SUFFIX,71.am.com
+HOST-SUFFIX,acfun.tv
 HOST-SUFFIX,acg.tv
 HOST-SUFFIX,acgvideo.com
 HOST-SUFFIX,aixifan.com
 HOST-SUFFIX,b23.tv
 HOST-SUFFIX,biliapi.com
 HOST-SUFFIX,biliapi.net
+HOST-SUFFIX,bilibili.cc
+HOST-SUFFIX,bilibili.co
 HOST-SUFFIX,bilibili.com
 HOST-SUFFIX,bilibili.tv
+HOST-SUFFIX,bilibiligame.net
 HOST-SUFFIX,biligame.com
 HOST-SUFFIX,biligame.net
 HOST-SUFFIX,bilivideo.com
+HOST-SUFFIX,cctv.com
+HOST-SUFFIX,cctvpic.com
+HOST-SUFFIX,chinalive.com
 HOST-SUFFIX,hdslb.com
+HOST-SUFFIX,hdslb.net
 HOST-SUFFIX,hitv.com
 HOST-SUFFIX,hunantv.com
 HOST-SUFFIX,im9.com
+HOST-SUFFIX,ipanda.com
+HOST-SUFFIX,ipanda.net
 HOST-SUFFIX,iqiyi.com
 HOST-SUFFIX,iqiyipic.com
 HOST-SUFFIX,jstucdn.com
 HOST-SUFFIX,koowo.com
 HOST-SUFFIX,kugou.com
 HOST-SUFFIX,letv.com
+HOST-SUFFIX,livechina.com
+HOST-SUFFIX,mcbbs.net
 HOST-SUFFIX,mgtv.com
 HOST-SUFFIX,miguvideo.com
+HOST-SUFFIX,mincdn.com
 HOST-SUFFIX,qianqian.com
 HOST-SUFFIX,qy.net
 HOST-SUFFIX,smtcdns.net
@@ -206,12 +273,60 @@ HOST-SUFFIX,zimuzu.tv
 HOST-SUFFIX,zmz2019.com
 HOST-SUFFIX,zmzapi.com
 HOST-SUFFIX,zmzapi.net
+HOST-SUFFIX,zmzfile.com
+USER-AGENT,%E4%BC%98%E9%85%B7*
+USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
+USER-AGENT,NeteaseMusic*
+USER-AGENT,YYeTs*
 # ChinaMedia 与 ChinaIPs 共 2 条规则重复
 IP-CIDR,101.224.0.0/13
 IP-CIDR,119.176.0.0/12
 # ChinaMedia 与 SohuSogo 共 2 条规则重复
 HOST-SUFFIX,sohu.com
 HOST-SUFFIX,v-56.com
+# ChinaMedia 与 CCTV 共 42 条规则重复
+HOST-SUFFIX,cctv.cn
+HOST-SUFFIX,cctv.com
+HOST-SUFFIX,cctvlib.cn
+HOST-SUFFIX,cctvlib.com.cn
+HOST-SUFFIX,cctvlibrary.cn
+HOST-SUFFIX,cctvlibrary.com.cn
+HOST-SUFFIX,cctvpic.com
+HOST-SUFFIX,cctvpro.cn
+HOST-SUFFIX,cctvpro.com.cn
+HOST-SUFFIX,chinaepg.cn
+HOST-SUFFIX,chinalive.com
+HOST-SUFFIX,citv.net.cn
+HOST-SUFFIX,cnms.net.cn
+HOST-SUFFIX,cntv.cn
+HOST-SUFFIX,cntv.com.cn
+HOST-SUFFIX,cntvwb.cn
+HOST-SUFFIX,gjgbdszt.cn
+HOST-SUFFIX,gjgbdszt.com.cn
+HOST-SUFFIX,gjgbdszt.net.cn
+HOST-SUFFIX,ipanda.cn
+HOST-SUFFIX,ipanda.com
+HOST-SUFFIX,ipanda.com.cn
+HOST-SUFFIX,ipanda.net
+HOST-SUFFIX,livechina.cn
+HOST-SUFFIX,livechina.com
+HOST-SUFFIX,olympicchannelchina.cn
+HOST-SUFFIX,tvcc.cn
+HOST-SUFFIX,tvcc.com.cn
+HOST-SUFFIX,xn--fiq53l6wcx3kp9bc7joo6apn8a.cn
+HOST-SUFFIX,xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s
+HOST-SUFFIX,xn--fiq53l90et9fpncc7joo6apn8a.cn
+HOST-SUFFIX,xn--kprv4ewxfr9cpxcc7joo6apn8a.cn
+HOST-SUFFIX,xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8s
+HOST-SUFFIX,zggbdszt.cn
+HOST-SUFFIX,zggbdszt.com.cn
+HOST-SUFFIX,zggbdszt.net.cn
+HOST-SUFFIX,zygbdszt.net.cn
+HOST-SUFFIX,中国广播电视总台.cn
+HOST-SUFFIX,中国广播电视总台.中国
+HOST-SUFFIX,中央广播电视总台.cn
+HOST-SUFFIX,国家广播电视总台.cn
+HOST-SUFFIX,国家广播电视总台.中国
 # ChinaMedia 与 Tencent 共 6 条规则重复
 HOST-SUFFIX,smtcdns.net
 USER-AGENT,MOO%E9%9F%B3%E4%B9%90*

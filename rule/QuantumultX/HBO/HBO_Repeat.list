@@ -1,7 +1,7 @@
 # NAME: HBO 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-02 17:43:54.405764
+# UPDATED: 2021-02-02 23:31:58.830190
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # HBO 与 Advertising 共 1 条规则重复
 HOST-SUFFIX,youboranqs01.com
@@ -20,12 +20,19 @@ HOST-SUFFIX,maxgo.com
 HOST-SUFFIX,now-ashare.com
 HOST-SUFFIX,now-tv.com
 HOST-SUFFIX,nowe.com
-# HBO 与 Global 共 7 条规则重复
+# HBO 与 Global 共 14 条规则重复
+HOST-SUFFIX,cinemax.com
+HOST-SUFFIX,forthethrone.com
 HOST-SUFFIX,hbo.com
+HOST-SUFFIX,hboasia.com
 HOST-SUFFIX,hbogo.com
 HOST-SUFFIX,hbogoasia.com
 HOST-SUFFIX,hbogoasia.hk
+HOST-SUFFIX,hbomax.com
 HOST-SUFFIX,hbonow.com
+HOST-SUFFIX,maxgo.com
+HOST-SUFFIX,now-ashare.com
+HOST-SUFFIX,now-tv.com
 HOST-SUFFIX,nowe.com
 USER-AGENT,HBO%20NOW*
 # HBO 与 GlobalMedia 共 12 条规则重复

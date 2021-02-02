@@ -1,7 +1,7 @@
 # NAME: ByteDance 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-02 17:43:54.619014
+# UPDATED: 2021-02-02 23:31:59.007923
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # ByteDance 与 AdvertisingLite 共 1 条规则重复
 HOST-SUFFIX,pangolin-sdk-toutiao.com
@@ -9,9 +9,13 @@ HOST-SUFFIX,pangolin-sdk-toutiao.com
 HOST-SUFFIX,pangolin-sdk-toutiao-b.com
 HOST-SUFFIX,pangolin-sdk-toutiao.com
 HOST-SUFFIX,toutiaopage.com
-# ByteDance 与 AdvertisingTest 共 1 条规则重复
+# ByteDance 与 AdvertisingTest 共 3 条规则重复
+HOST-SUFFIX,pangolin-sdk-toutiao-b.com
+HOST-SUFFIX,pangolin-sdk-toutiao.com
 HOST-SUFFIX,toutiaopage.com
 # ByteDance 与 Proxy 共 1 条规则重复
+HOST-SUFFIX,amemv.com
+# ByteDance 与 Global 共 1 条规则重复
 HOST-SUFFIX,amemv.com
 # ByteDance 与 TikTok 共 2 条规则重复
 HOST-SUFFIX,amemv.com
