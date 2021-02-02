@@ -1,7 +1,7 @@
 # NAME: Hulu 规则重复情况
 # AUTHOR: 
 # GITHUB: 
-# UPDATED: 2021-02-02 14:25:51.188192
+# UPDATED: 2021-02-02 14:43:05.609723
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # Hulu 与 Proxy 共 45 条规则重复
 DOMAIN-SUFFIX,112263.com
