@@ -1,9 +1,9 @@
 # NAME: Global
 # AUTHOR: 
 # GITHUB: 
-# UPDATED: 2021-02-02 23:31:55.558721
+# UPDATED: 2021-02-03 02:35:30.507307
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN-SUFFIX: 27993
+# DOMAIN-SUFFIX: 27992
 # USER-AGENT: 49
 # DOMAIN: 36
 # DOMAIN-KEYWORD: 42
@@ -11,7 +11,7 @@
 # IP-CIDR6: 3
 # PROCESS-NAME: 1
 # URL-REGEX: 1
-# TOTAL: 28252
+# TOTAL: 28251
 amp.akamaized.net
 apple.com.akadns.net
 assets-priconne-redive-us.akamaized.net
@@ -48,7 +48,6 @@ tesla-cdn.thron.com
 videos-rockstargames-com.akamaized.net
 widgets.stripst.com
 www-cdn.icloud.com.akadns.net
-.000000000000000000000000000000000000000000000000000000000000001.com
 .0006999.com
 .000aa.com
 .000webhost.com

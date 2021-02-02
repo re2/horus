@@ -1,7 +1,7 @@
 # NAME: Proxy 规则重复情况
 # AUTHOR: 
 # GITHUB: 
-# UPDATED: 2021-02-02 23:32:02.468316
+# UPDATED: 2021-02-03 02:35:36.960219
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # Proxy 与 AdvertisingLite 共 59 条规则重复
 DOMAIN-SUFFIX,2o7.net
@@ -1481,7 +1481,7 @@ DOMAIN-SUFFIX,mylcloud.net
 DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-SUFFIX,wwwicloud.com
 USER-AGENT,com.apple.trustd*
-# Proxy 与 Global 共 28082 条规则重复
+# Proxy 与 Global 共 28081 条规则重复
 DOMAIN,amp.akamaized.net
 DOMAIN,apple.com.akadns.net
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -1545,7 +1545,6 @@ DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,uk-live
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,youtube
-DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
 DOMAIN-SUFFIX,0006999.com
 DOMAIN-SUFFIX,000aa.com
 DOMAIN-SUFFIX,000webhost.com

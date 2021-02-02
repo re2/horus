@@ -1,15 +1,15 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-02 23:31:51.353938
+# UPDATED: 2021-02-03 02:35:26.572123
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 27
 # DOMAIN-SUFFIX: 15241
-# DOMAIN: 15353
+# DOMAIN: 15427
 # IP-CIDR: 192
 # USER-AGENT: 1
 # URL-REGEX: 302
-# TOTAL: 31116
+# TOTAL: 31190
 0.up.qingdaonews.com
 00-gov.cn
 0024aadd.com
@@ -116,6 +116,7 @@
 1357902.cn
 139site.com
 13vm73vbmp.com
+13yg.cn
 14119276be0852.com
 152media.com
 153105c2f9564.com
@@ -131,6 +132,7 @@
 1740f665a91b68.com
 176.chuangmijishu.xyz
 1797wan.com
+17b1dbd9f3ae7db27cf.com
 18-plus.net
 1800freecams.com
 188server.com
@@ -142,6 +144,7 @@
 19beda38dc2ce42.com
 19d12dd9de1.com
 1b6a637cbe7bb65ac.com
+1b969cef84d93b43.com
 1bcde.com
 1ccbt.com
 1ced38bdc42b883.com
@@ -156,12 +159,15 @@
 1fwjpdwguvqs.com
 1han-rit-ten.com
 1hanritten.com
+1haows.cn
 1lo0.net
 1loop.com
 1nimo.com
 1pel.com
+1q2w3.live
 1rx.io
 1rxntv.io
+1sen-pit-fan.com
 1v7.cn
 1web.me
 1worldonline.com
@@ -175,6 +181,7 @@
 204st.us
 206solutions.com
 20a840a14a0ef7d6.com
+20afcc1f257.com
 20dollars2surf.com
 21.huanqiu.com
 2137dc12f9d8.com
@@ -186,11 +193,13 @@
 21find.com
 21sexturycash.com
 22a12efe35e3c2f.com
+22b765488021d482280.com
 22pixx.xyz
 23205523023daea6.com
 2334ea708ab6d79.com
 2345.com
 23kmm.com
+23rsdsfdsf.com
 23txt.com
 24200.h5ixp.com
 2444efc8cd8e.com
@@ -199,6 +208,7 @@
 247ilabs.com
 247realmedia.com
 247teencash.net
+247view.net
 24ad89fc2690ed9369.com
 24businessnews.com
 24counter.com
@@ -208,6 +218,7 @@
 24smi.info
 24smi.net
 24smi.org
+24smile.org
 24vunvrv.com
 24x7adservice.com
 2529.com
@@ -215,24 +226,35 @@
 2559a303164ddde96.com
 258zw.com
 25ku.com
+27015dbc43d77c.com
+2712f45c0bb0d67d710.com
 2726fecdfde157bdcd.com
 2778255fe56.com
+27pan.2wk.com
 2898.com
 29ae58661b9c7178.com
 29d65cebb82ef9f.com
 2a12be6140880286.com
 2amsports.com
+2an-hit-ren.com
 2bbb379103988619ef.com
 2beon.co.kr
 2c0dad36bdb9eb859f0.com
 2c3a97984f45.com
 2c6bcbbb82ce911.com
+2cbisyjaae.com
 2d7bd9e6eb370143.com
+2db24c0ea6.com
+2delllwrite.com
 2dpt.com
+2e27bf1f09307aeb.com
+2el-2el-fie.com
 2f.com
 2f5a1f1fab21a56.com
 2gok8g15p2.com
+2hanwriten.com
 2ip.ua
+2iui01.com
 2kl08cd74f.com
 2kurl.com
 2leep.com
@@ -244,11 +266,13 @@
 2performant.com
 2ptxxjjzpy.com
 2smt6mfgo.de
+2ssltome.ga
 2xbpub.com
 2yt.cn
 3.iscrv.com
 3.up.qingdaonews.com
 303marketplace.com
+304c40d20085e.com
 30b9e3a7d7e2b.com
 30daychange.co
 315gg.com
@@ -257,8 +281,11 @@
 31xiaoshuo.org
 321tui.cn
 321tui.com
+322927.com
 32979c00fcc59b5.com
 32a79e2833309ebe.com
+32b4oilo.com
+32b92bc03f19.com
 3324.cn
 3381e74f70adfb59.com
 33across.com
@@ -290,14 +317,19 @@
 3761fcd24ef9281f5.com
 3798.com
 37signals.com
+386704cb2300cf1a.com
+3878896c72ed218.com
 38ra.com
+392a50219df6.com
 395e27cfc83ea88f.com
 39d1d397c97730.com
+3a64ddc048d277.com
 3a8c9b0ca405b5.com
 3ac901bf5793b0fccff.com
 3alian.net
 3b0b68c876376f7311.com
 3b9eb5ed04721bef.com
+3bfkxta3dg.com
 3c0012ab95c132f.com
 3c06b86c4147745b.com
 3c34083bda22d8.com
@@ -2518,6 +2550,7 @@ bannerbridge.net
 bannerconnect.com
 bannerconnect.net
 bannerdealer.com
+bannerexchange.com.au
 bannerflow.com
 bannerflux.com
 bannerignition.co.za
@@ -3624,7 +3657,6 @@ clickz.lonelycheatingwives.com
 clickzzs.nl
 client.tahono.com
 clientgear.com
-clientservices.googleapis.com
 clixco.in
 clixcount.com
 clixgalore.com
@@ -4146,6 +4178,7 @@ customstat.video.51togic.com
 cutescale.online
 cutw.pro
 cux.io
+cvixcaboqq.com
 cvqgnkeqme.com
 cvtr.io
 cwandzytnzplqn.com
@@ -5022,7 +5055,13 @@ e-referrer.com
 e-viral.com
 e-webtrack.net
 e-zeeinternet.com
+e.131pu.cn
+e.1q89b.cn
+e.21lxb.cn
+e.2j75d.cn
 e.2l06k.cn
+e.2n5kmg.cn
+e.2t4um.cn
 e.35rqb.cn
 e.53trya.cn
 e.967nd.cn
@@ -8195,25 +8234,42 @@ lvnsxvdrwyv.com
 lvodomi.info
 lvodomo.info
 lvrvufurxhgp.com
+lvvfcuzzdor.com
 lvxingxian.cn
 lwadm.com
+lwfvrhlqzjseyu.com
 lwfw88.cn
+lwmwrsfzm.com
 lwprdsbqpej.com
+lwsxrphion.com
 lwxjg.com
 lx2rv.com
 lxbjs.baidu.com
+lxcpbfwqagzfz.com
+lxhkqjqpswhg.com
 lxoakdaejjryws.com
 lxtrack.com
+lxykalyvq.com
+lxzwknybfvycxr.com
 lyaaikspui.com
+lycnjtuomkpgca.com
+lydgyhthfb.com
+lydiaydi.com
 lygnasa.cn
 lylog.1391.com
+lyngro.com
 lypn.com
 lypn.net
+lyssmgbr.com
 lytics.io
 lytiks.com
 lytrjx.cn
+lyukxxwfqdn.com
 lyzon.com.cn
+lzfqxxtgyydrc.com
+lzfyahjavcik.com
 lzjl.com
+lzowrfhqy.com
 lzpv4rsmat.com
 lztffxdgackjhi.com
 lzzqqc.com
@@ -8224,9 +8280,22 @@ m-t.io
 m-vali.cp31.ott.cibntv.net
 m.1234567.com.cn
 m.168ey.com
+m.17w3a.cn
+m.198nc.cn
+m.1i94f.cn
+m.1qp9k.cn
+m.1r8th.cn
+m.1s8pj.cn
+m.1sur6d.cn
+m.1x3td.cn
+m.1yjlm.com
 m.20mao.com
+m.247pb.cn
+m.24ihe.cn
 m.24pga.cn
+m.2j75d.cn
 m.2l06k.cn
+m.2n5kmg.cn
 m.34uvn.cn
 m.35rqb.cn
 m.53trya.cn
@@ -8267,6 +8336,8 @@ m.hx623.cn
 m.jdhq188.cn
 m.jinhuizhibo.com
 m.laxienian888.com
+m.lws48e.cn
+m.ly0p9e.cn
 m.maiduoer.com
 m.mcnnic.com
 m.mffcf.cn
@@ -9343,6 +9414,7 @@ nlmrjnew.oss-cn-shanghai.aliyuncs.com
 nlog.droid4x.cn
 nlwy0.com
 nmcdn.us
+nmldqncelrpht.com
 nmsbaseball.com
 nmywwgnnkmud.com
 nnmmdhpi.com
@@ -9490,6 +9562,7 @@ oalselry.com
 oampa.csheaven.com
 oapsa.tourstogo.us
 oaraunal.com
+oasc04012.247realmedia.com
 oatvyenmekc.com
 oawoo.frenchgerlemanelectric.com
 oaxpcohp.com
@@ -13874,6 +13947,7 @@ uzerly.net
 uzixia.zwdu.com
 uzrating.com
 v-links.net
+v.37uta.cn
 v.aty.sohu.com
 v.center
 v.dengbaozx.cn

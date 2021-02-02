@@ -1,7 +1,7 @@
 # NAME: ChinaTelecom
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-02 23:31:50.829627
+# UPDATED: 2021-02-03 02:35:26.088359
 # HOST-SUFFIX: 83
 # TOTAL: 83
 HOST-SUFFIX,01058511989.com,ChinaTelecom

@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-02 23:31:53.854422
-# DOMAIN-SUFFIX: 27993
+# UPDATED: 2021-02-03 02:35:28.925325
+# DOMAIN-SUFFIX: 27992
 # DOMAIN: 36
 # DOMAIN-KEYWORD: 42
 # IP-CIDR: 127
 # IP-CIDR6: 3
 # PROCESS-NAME: 1
-# TOTAL: 28202
+# TOTAL: 28201
 payload:
   - DOMAIN,amp.akamaized.net
   - DOMAIN,apple.com.akadns.net
@@ -46,7 +46,6 @@ payload:
   - DOMAIN,videos-rockstargames-com.akamaized.net
   - DOMAIN,widgets.stripst.com
   - DOMAIN,www-cdn.icloud.com.akadns.net
-  - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
   - DOMAIN-SUFFIX,0006999.com
   - DOMAIN-SUFFIX,000aa.com
   - DOMAIN-SUFFIX,000webhost.com

@@ -1,12 +1,12 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-02 23:31:53.282774
+# UPDATED: 2021-02-03 02:35:28.407925
 # DOMAIN-KEYWORD: 27
 # DOMAIN-SUFFIX: 15241
-# DOMAIN: 15353
+# DOMAIN: 15427
 # IP-CIDR: 192
-# TOTAL: 30813
+# TOTAL: 30887
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,00-gov.cn
@@ -114,6 +114,7 @@ payload:
   - DOMAIN,1357902.cn
   - DOMAIN,139site.com
   - DOMAIN,13vm73vbmp.com
+  - DOMAIN,13yg.cn
   - DOMAIN,14119276be0852.com
   - DOMAIN,152media.com
   - DOMAIN,153105c2f9564.com
@@ -129,6 +130,7 @@ payload:
   - DOMAIN,1740f665a91b68.com
   - DOMAIN,176.chuangmijishu.xyz
   - DOMAIN,1797wan.com
+  - DOMAIN,17b1dbd9f3ae7db27cf.com
   - DOMAIN,18-plus.net
   - DOMAIN,1800freecams.com
   - DOMAIN,188server.com
@@ -140,6 +142,7 @@ payload:
   - DOMAIN,19beda38dc2ce42.com
   - DOMAIN,19d12dd9de1.com
   - DOMAIN,1b6a637cbe7bb65ac.com
+  - DOMAIN,1b969cef84d93b43.com
   - DOMAIN,1bcde.com
   - DOMAIN,1ccbt.com
   - DOMAIN,1ced38bdc42b883.com
@@ -154,12 +157,15 @@ payload:
   - DOMAIN,1fwjpdwguvqs.com
   - DOMAIN,1han-rit-ten.com
   - DOMAIN,1hanritten.com
+  - DOMAIN,1haows.cn
   - DOMAIN,1lo0.net
   - DOMAIN,1loop.com
   - DOMAIN,1nimo.com
   - DOMAIN,1pel.com
+  - DOMAIN,1q2w3.live
   - DOMAIN,1rx.io
   - DOMAIN,1rxntv.io
+  - DOMAIN,1sen-pit-fan.com
   - DOMAIN,1v7.cn
   - DOMAIN,1web.me
   - DOMAIN,1worldonline.com
@@ -173,6 +179,7 @@ payload:
   - DOMAIN,204st.us
   - DOMAIN,206solutions.com
   - DOMAIN,20a840a14a0ef7d6.com
+  - DOMAIN,20afcc1f257.com
   - DOMAIN,20dollars2surf.com
   - DOMAIN,21.huanqiu.com
   - DOMAIN,2137dc12f9d8.com
@@ -184,11 +191,13 @@ payload:
   - DOMAIN,21find.com
   - DOMAIN,21sexturycash.com
   - DOMAIN,22a12efe35e3c2f.com
+  - DOMAIN,22b765488021d482280.com
   - DOMAIN,22pixx.xyz
   - DOMAIN,23205523023daea6.com
   - DOMAIN,2334ea708ab6d79.com
   - DOMAIN,2345.com
   - DOMAIN,23kmm.com
+  - DOMAIN,23rsdsfdsf.com
   - DOMAIN,23txt.com
   - DOMAIN,24200.h5ixp.com
   - DOMAIN,2444efc8cd8e.com
@@ -197,6 +206,7 @@ payload:
   - DOMAIN,247ilabs.com
   - DOMAIN,247realmedia.com
   - DOMAIN,247teencash.net
+  - DOMAIN,247view.net
   - DOMAIN,24ad89fc2690ed9369.com
   - DOMAIN,24businessnews.com
   - DOMAIN,24counter.com
@@ -206,6 +216,7 @@ payload:
   - DOMAIN,24smi.info
   - DOMAIN,24smi.net
   - DOMAIN,24smi.org
+  - DOMAIN,24smile.org
   - DOMAIN,24vunvrv.com
   - DOMAIN,24x7adservice.com
   - DOMAIN,2529.com
@@ -213,24 +224,35 @@ payload:
   - DOMAIN,2559a303164ddde96.com
   - DOMAIN,258zw.com
   - DOMAIN,25ku.com
+  - DOMAIN,27015dbc43d77c.com
+  - DOMAIN,2712f45c0bb0d67d710.com
   - DOMAIN,2726fecdfde157bdcd.com
   - DOMAIN,2778255fe56.com
+  - DOMAIN,27pan.2wk.com
   - DOMAIN,2898.com
   - DOMAIN,29ae58661b9c7178.com
   - DOMAIN,29d65cebb82ef9f.com
   - DOMAIN,2a12be6140880286.com
   - DOMAIN,2amsports.com
+  - DOMAIN,2an-hit-ren.com
   - DOMAIN,2bbb379103988619ef.com
   - DOMAIN,2beon.co.kr
   - DOMAIN,2c0dad36bdb9eb859f0.com
   - DOMAIN,2c3a97984f45.com
   - DOMAIN,2c6bcbbb82ce911.com
+  - DOMAIN,2cbisyjaae.com
   - DOMAIN,2d7bd9e6eb370143.com
+  - DOMAIN,2db24c0ea6.com
+  - DOMAIN,2delllwrite.com
   - DOMAIN,2dpt.com
+  - DOMAIN,2e27bf1f09307aeb.com
+  - DOMAIN,2el-2el-fie.com
   - DOMAIN,2f.com
   - DOMAIN,2f5a1f1fab21a56.com
   - DOMAIN,2gok8g15p2.com
+  - DOMAIN,2hanwriten.com
   - DOMAIN,2ip.ua
+  - DOMAIN,2iui01.com
   - DOMAIN,2kl08cd74f.com
   - DOMAIN,2kurl.com
   - DOMAIN,2leep.com
@@ -242,11 +264,13 @@ payload:
   - DOMAIN,2performant.com
   - DOMAIN,2ptxxjjzpy.com
   - DOMAIN,2smt6mfgo.de
+  - DOMAIN,2ssltome.ga
   - DOMAIN,2xbpub.com
   - DOMAIN,2yt.cn
   - DOMAIN,3.iscrv.com
   - DOMAIN,3.up.qingdaonews.com
   - DOMAIN,303marketplace.com
+  - DOMAIN,304c40d20085e.com
   - DOMAIN,30b9e3a7d7e2b.com
   - DOMAIN,30daychange.co
   - DOMAIN,315gg.com
@@ -255,8 +279,11 @@ payload:
   - DOMAIN,31xiaoshuo.org
   - DOMAIN,321tui.cn
   - DOMAIN,321tui.com
+  - DOMAIN,322927.com
   - DOMAIN,32979c00fcc59b5.com
   - DOMAIN,32a79e2833309ebe.com
+  - DOMAIN,32b4oilo.com
+  - DOMAIN,32b92bc03f19.com
   - DOMAIN,3324.cn
   - DOMAIN,3381e74f70adfb59.com
   - DOMAIN,33across.com
@@ -288,14 +315,19 @@ payload:
   - DOMAIN,3761fcd24ef9281f5.com
   - DOMAIN,3798.com
   - DOMAIN,37signals.com
+  - DOMAIN,386704cb2300cf1a.com
+  - DOMAIN,3878896c72ed218.com
   - DOMAIN,38ra.com
+  - DOMAIN,392a50219df6.com
   - DOMAIN,395e27cfc83ea88f.com
   - DOMAIN,39d1d397c97730.com
+  - DOMAIN,3a64ddc048d277.com
   - DOMAIN,3a8c9b0ca405b5.com
   - DOMAIN,3ac901bf5793b0fccff.com
   - DOMAIN,3alian.net
   - DOMAIN,3b0b68c876376f7311.com
   - DOMAIN,3b9eb5ed04721bef.com
+  - DOMAIN,3bfkxta3dg.com
   - DOMAIN,3c0012ab95c132f.com
   - DOMAIN,3c06b86c4147745b.com
   - DOMAIN,3c34083bda22d8.com
@@ -2516,6 +2548,7 @@ payload:
   - DOMAIN,bannerconnect.com
   - DOMAIN,bannerconnect.net
   - DOMAIN,bannerdealer.com
+  - DOMAIN,bannerexchange.com.au
   - DOMAIN,bannerflow.com
   - DOMAIN,bannerflux.com
   - DOMAIN,bannerignition.co.za
@@ -3622,7 +3655,6 @@ payload:
   - DOMAIN,clickzzs.nl
   - DOMAIN,client.tahono.com
   - DOMAIN,clientgear.com
-  - DOMAIN,clientservices.googleapis.com
   - DOMAIN,clixco.in
   - DOMAIN,clixcount.com
   - DOMAIN,clixgalore.com
@@ -4144,6 +4176,7 @@ payload:
   - DOMAIN,cutescale.online
   - DOMAIN,cutw.pro
   - DOMAIN,cux.io
+  - DOMAIN,cvixcaboqq.com
   - DOMAIN,cvqgnkeqme.com
   - DOMAIN,cvtr.io
   - DOMAIN,cwandzytnzplqn.com
@@ -5020,7 +5053,13 @@ payload:
   - DOMAIN,e-viral.com
   - DOMAIN,e-webtrack.net
   - DOMAIN,e-zeeinternet.com
+  - DOMAIN,e.131pu.cn
+  - DOMAIN,e.1q89b.cn
+  - DOMAIN,e.21lxb.cn
+  - DOMAIN,e.2j75d.cn
   - DOMAIN,e.2l06k.cn
+  - DOMAIN,e.2n5kmg.cn
+  - DOMAIN,e.2t4um.cn
   - DOMAIN,e.35rqb.cn
   - DOMAIN,e.53trya.cn
   - DOMAIN,e.967nd.cn
@@ -8193,25 +8232,42 @@ payload:
   - DOMAIN,lvodomi.info
   - DOMAIN,lvodomo.info
   - DOMAIN,lvrvufurxhgp.com
+  - DOMAIN,lvvfcuzzdor.com
   - DOMAIN,lvxingxian.cn
   - DOMAIN,lwadm.com
+  - DOMAIN,lwfvrhlqzjseyu.com
   - DOMAIN,lwfw88.cn
+  - DOMAIN,lwmwrsfzm.com
   - DOMAIN,lwprdsbqpej.com
+  - DOMAIN,lwsxrphion.com
   - DOMAIN,lwxjg.com
   - DOMAIN,lx2rv.com
   - DOMAIN,lxbjs.baidu.com
+  - DOMAIN,lxcpbfwqagzfz.com
+  - DOMAIN,lxhkqjqpswhg.com
   - DOMAIN,lxoakdaejjryws.com
   - DOMAIN,lxtrack.com
+  - DOMAIN,lxykalyvq.com
+  - DOMAIN,lxzwknybfvycxr.com
   - DOMAIN,lyaaikspui.com
+  - DOMAIN,lycnjtuomkpgca.com
+  - DOMAIN,lydgyhthfb.com
+  - DOMAIN,lydiaydi.com
   - DOMAIN,lygnasa.cn
   - DOMAIN,lylog.1391.com
+  - DOMAIN,lyngro.com
   - DOMAIN,lypn.com
   - DOMAIN,lypn.net
+  - DOMAIN,lyssmgbr.com
   - DOMAIN,lytics.io
   - DOMAIN,lytiks.com
   - DOMAIN,lytrjx.cn
+  - DOMAIN,lyukxxwfqdn.com
   - DOMAIN,lyzon.com.cn
+  - DOMAIN,lzfqxxtgyydrc.com
+  - DOMAIN,lzfyahjavcik.com
   - DOMAIN,lzjl.com
+  - DOMAIN,lzowrfhqy.com
   - DOMAIN,lzpv4rsmat.com
   - DOMAIN,lztffxdgackjhi.com
   - DOMAIN,lzzqqc.com
@@ -8222,9 +8278,22 @@ payload:
   - DOMAIN,m-vali.cp31.ott.cibntv.net
   - DOMAIN,m.1234567.com.cn
   - DOMAIN,m.168ey.com
+  - DOMAIN,m.17w3a.cn
+  - DOMAIN,m.198nc.cn
+  - DOMAIN,m.1i94f.cn
+  - DOMAIN,m.1qp9k.cn
+  - DOMAIN,m.1r8th.cn
+  - DOMAIN,m.1s8pj.cn
+  - DOMAIN,m.1sur6d.cn
+  - DOMAIN,m.1x3td.cn
+  - DOMAIN,m.1yjlm.com
   - DOMAIN,m.20mao.com
+  - DOMAIN,m.247pb.cn
+  - DOMAIN,m.24ihe.cn
   - DOMAIN,m.24pga.cn
+  - DOMAIN,m.2j75d.cn
   - DOMAIN,m.2l06k.cn
+  - DOMAIN,m.2n5kmg.cn
   - DOMAIN,m.34uvn.cn
   - DOMAIN,m.35rqb.cn
   - DOMAIN,m.53trya.cn
@@ -8265,6 +8334,8 @@ payload:
   - DOMAIN,m.jdhq188.cn
   - DOMAIN,m.jinhuizhibo.com
   - DOMAIN,m.laxienian888.com
+  - DOMAIN,m.lws48e.cn
+  - DOMAIN,m.ly0p9e.cn
   - DOMAIN,m.maiduoer.com
   - DOMAIN,m.mcnnic.com
   - DOMAIN,m.mffcf.cn
@@ -9341,6 +9412,7 @@ payload:
   - DOMAIN,nlog.droid4x.cn
   - DOMAIN,nlwy0.com
   - DOMAIN,nmcdn.us
+  - DOMAIN,nmldqncelrpht.com
   - DOMAIN,nmsbaseball.com
   - DOMAIN,nmywwgnnkmud.com
   - DOMAIN,nnmmdhpi.com
@@ -9488,6 +9560,7 @@ payload:
   - DOMAIN,oampa.csheaven.com
   - DOMAIN,oapsa.tourstogo.us
   - DOMAIN,oaraunal.com
+  - DOMAIN,oasc04012.247realmedia.com
   - DOMAIN,oatvyenmekc.com
   - DOMAIN,oawoo.frenchgerlemanelectric.com
   - DOMAIN,oaxpcohp.com
@@ -13872,6 +13945,7 @@ payload:
   - DOMAIN,uzixia.zwdu.com
   - DOMAIN,uzrating.com
   - DOMAIN,v-links.net
+  - DOMAIN,v.37uta.cn
   - DOMAIN,v.aty.sohu.com
   - DOMAIN,v.center
   - DOMAIN,v.dengbaozx.cn

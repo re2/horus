@@ -1,11 +1,10 @@
 # NAME: ChinaTest 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-02 23:31:59.015300
+# UPDATED: 2021-02-03 02:35:33.707039
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
-# ChinaTest 与 AdvertisingLite 共 635 条规则重复
+# ChinaTest 与 AdvertisingLite 共 634 条规则重复
 HOST,2mdn.net
-HOST,clientservices.googleapis.com
 HOST,imasdk.googleapis.com
 HOST-SUFFIX,000dn.com
 HOST-SUFFIX,0024aaaa.com

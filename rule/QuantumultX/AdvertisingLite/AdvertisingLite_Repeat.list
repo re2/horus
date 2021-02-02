@@ -1,9 +1,9 @@
 # NAME: AdvertisingLite 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-02 23:31:58.363983
+# UPDATED: 2021-02-03 02:35:33.105889
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
-# AdvertisingLite 与 Advertising 共 16061 条规则重复
+# AdvertisingLite 与 Advertising 共 16110 条规则重复
 HOST,0.up.qingdaonews.com
 HOST,0d847862199.com
 HOST,0koryu0.easter.ne.jp
@@ -11,22 +11,44 @@ HOST,0nso0tq1sa4.ml
 HOST,1.up.qingdaonews.com
 HOST,109-204-26-16.netconnexion.managedbroadband.co.uk
 HOST,12648afd00d93.com
+HOST,13yg.cn
 HOST,14119276be0852.com
 HOST,1543b1db8a0825760.com
 HOST,15yomodels.com
 HOST,16e2ae8f200d975b.com
+HOST,17b1dbd9f3ae7db27cf.com
+HOST,1b969cef84d93b43.com
 HOST,1e122c580cf.com
 HOST,1loop.com
+HOST,1q2w3.live
 HOST,2.up.qingdaonews.com
 HOST,21b507a044d841b.com
 HOST,22a12efe35e3c2f.com
+HOST,22b765488021d482280.com
+HOST,23rsdsfdsf.com
 HOST,247teencash.net
+HOST,247view.net
+HOST,27015dbc43d77c.com
+HOST,2712f45c0bb0d67d710.com
 HOST,2726fecdfde157bdcd.com
 HOST,2amsports.com
+HOST,2an-hit-ren.com
+HOST,2cbisyjaae.com
+HOST,2db24c0ea6.com
+HOST,2delllwrite.com
+HOST,2e27bf1f09307aeb.com
+HOST,2el-2el-fie.com
+HOST,2ssltome.ga
 HOST,2xbpub.com
 HOST,3.up.qingdaonews.com
 HOST,31a5610ce3a8a2.com
 HOST,31ab9d66427a22.com
+HOST,32b4oilo.com
+HOST,32b92bc03f19.com
+HOST,386704cb2300cf1a.com
+HOST,392a50219df6.com
+HOST,3a64ddc048d277.com
+HOST,3bfkxta3dg.com
 HOST,3c06b86c4147745b.com
 HOST,3c34083bda22d8.com
 HOST,3d55eccf56053ff2e8.com
@@ -374,6 +396,12 @@ HOST,dump1.no-ip.biz
 HOST,dvnafl0qtqz9k.cloudfront.net
 HOST,dyn.primecdn.net
 HOST,dzmxze7hxwn6b.cloudfront.net
+HOST,e.131pu.cn
+HOST,e.1q89b.cn
+HOST,e.21lxb.cn
+HOST,e.2j75d.cn
+HOST,e.2n5kmg.cn
+HOST,e.2t4um.cn
 HOST,e.35rqb.cn
 HOST,e.tf.360.cn
 HOST,e9mlrvy1.com
@@ -598,13 +626,33 @@ HOST,luckypure.info
 HOST,luckyshine.info
 HOST,luckysuccess.info
 HOST,luckytidy.info
+HOST,lvvfcuzzdor.com
+HOST,lwfvrhlqzjseyu.com
+HOST,lxcpbfwqagzfz.com
+HOST,lxzwknybfvycxr.com
+HOST,lyssmgbr.com
 HOST,lzpv4rsmat.com
 HOST,m-vali.cp31.ott.cibntv.net
 HOST,m.1234567.com.cn
+HOST,m.17w3a.cn
+HOST,m.198nc.cn
+HOST,m.1i94f.cn
+HOST,m.1qp9k.cn
+HOST,m.1r8th.cn
+HOST,m.1s8pj.cn
+HOST,m.1sur6d.cn
+HOST,m.1x3td.cn
+HOST,m.1yjlm.com
+HOST,m.247pb.cn
+HOST,m.24ihe.cn
 HOST,m.24pga.cn
+HOST,m.2j75d.cn
+HOST,m.2n5kmg.cn
 HOST,m.34uvn.cn
 HOST,m.35rqb.cn
 HOST,m.aty.sohu.com
+HOST,m.lws48e.cn
+HOST,m.ly0p9e.cn
 HOST,m.track.ad.xiaomi.com
 HOST,mahindrainsurance.com
 HOST,mailboto.com
@@ -1012,6 +1060,7 @@ HOST,us.vortex-win.data.microsoft.com
 HOST,usenetnl.download
 HOST,users173.lolipop.jp
 HOST,utrfixbusce.com
+HOST,v.37uta.cn
 HOST,v.aty.sohu.com
 HOST,v.tf.360.cn
 HOST,v2.gdt.qq.com
@@ -16065,7 +16114,7 @@ IP-CIDR,69.28.57.245/32
 IP-CIDR,74.117.182.77/32
 IP-CIDR,78.140.131.214/32
 USER-AGENT,AVOS*
-# AdvertisingLite 与 AdvertisingTest 共 15696 条规则重复
+# AdvertisingLite 与 AdvertisingTest 共 15741 条规则重复
 HOST,0.up.qingdaonews.com
 HOST,0d847862199.com
 HOST,0koryu0.easter.ne.jp
@@ -16076,15 +16125,34 @@ HOST,12648afd00d93.com
 HOST,14119276be0852.com
 HOST,1543b1db8a0825760.com
 HOST,16e2ae8f200d975b.com
+HOST,17b1dbd9f3ae7db27cf.com
 HOST,1e122c580cf.com
+HOST,1q2w3.live
 HOST,2.up.qingdaonews.com
 HOST,21b507a044d841b.com
 HOST,22a12efe35e3c2f.com
+HOST,22b765488021d482280.com
+HOST,23rsdsfdsf.com
+HOST,247view.net
+HOST,27015dbc43d77c.com
+HOST,2712f45c0bb0d67d710.com
 HOST,2726fecdfde157bdcd.com
 HOST,2amsports.com
+HOST,2an-hit-ren.com
+HOST,2cbisyjaae.com
+HOST,2db24c0ea6.com
+HOST,2delllwrite.com
+HOST,2el-2el-fie.com
+HOST,2ssltome.ga
 HOST,2xbpub.com
 HOST,3.up.qingdaonews.com
 HOST,31ab9d66427a22.com
+HOST,32b4oilo.com
+HOST,32b92bc03f19.com
+HOST,386704cb2300cf1a.com
+HOST,392a50219df6.com
+HOST,3a64ddc048d277.com
+HOST,3bfkxta3dg.com
 HOST,3c34083bda22d8.com
 HOST,3d55eccf56053ff2e8.com
 HOST,3da86d9fe797f228.com
@@ -16347,6 +16415,12 @@ HOST,dump1.no-ip.biz
 HOST,dvnafl0qtqz9k.cloudfront.net
 HOST,dyn.primecdn.net
 HOST,dzmxze7hxwn6b.cloudfront.net
+HOST,e.131pu.cn
+HOST,e.1q89b.cn
+HOST,e.21lxb.cn
+HOST,e.2j75d.cn
+HOST,e.2n5kmg.cn
+HOST,e.2t4um.cn
 HOST,e.35rqb.cn
 HOST,e.tf.360.cn
 HOST,e9mlrvy1.com
@@ -16523,12 +16597,31 @@ HOST,luckypure.info
 HOST,luckyshine.info
 HOST,luckysuccess.info
 HOST,luckytidy.info
+HOST,lvvfcuzzdor.com
+HOST,lwfvrhlqzjseyu.com
+HOST,lxcpbfwqagzfz.com
+HOST,lxzwknybfvycxr.com
+HOST,lyssmgbr.com
 HOST,lzpv4rsmat.com
 HOST,m-vali.cp31.ott.cibntv.net
 HOST,m.1234567.com.cn
+HOST,m.17w3a.cn
+HOST,m.198nc.cn
+HOST,m.1i94f.cn
+HOST,m.1qp9k.cn
+HOST,m.1r8th.cn
+HOST,m.1sur6d.cn
+HOST,m.1x3td.cn
+HOST,m.1yjlm.com
+HOST,m.247pb.cn
+HOST,m.24ihe.cn
 HOST,m.24pga.cn
+HOST,m.2j75d.cn
+HOST,m.2n5kmg.cn
 HOST,m.34uvn.cn
 HOST,m.35rqb.cn
+HOST,m.lws48e.cn
+HOST,m.ly0p9e.cn
 HOST,m.track.ad.xiaomi.com
 HOST,mahindrainsurance.com
 HOST,mailboto.com
@@ -16841,6 +16934,7 @@ HOST,url-cameralist.tk
 HOST,us.vortex-win.data.microsoft.com
 HOST,users173.lolipop.jp
 HOST,utrfixbusce.com
+HOST,v.37uta.cn
 HOST,v.aty.sohu.com
 HOST,v.tf.360.cn
 HOST,vasfxpribls.com
@@ -34493,9 +34587,8 @@ HOST-SUFFIX,mob.com
 HOST-SUFFIX,umeng.com
 HOST-SUFFIX,umengcloud.com
 HOST-SUFFIX,xdrig.com
-# AdvertisingLite 与 ChinaTest 共 635 条规则重复
+# AdvertisingLite 与 ChinaTest 共 634 条规则重复
 HOST,2mdn.net
-HOST,clientservices.googleapis.com
 HOST,imasdk.googleapis.com
 HOST-SUFFIX,000dn.com
 HOST-SUFFIX,0024aaaa.com

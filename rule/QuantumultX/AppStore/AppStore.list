@@ -1,7 +1,7 @@
 # NAME: AppStore
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-02 23:31:50.044562
+# UPDATED: 2021-02-03 02:35:25.378362
 # HOST: 2
 # TOTAL: 2
 HOST,apps.apple.com,AppStore

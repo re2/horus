@@ -1,10 +1,10 @@
 # NAME: AdvertisingLite 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-02 23:32:00.936869
+# UPDATED: 2021-02-03 02:35:35.530731
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 payload:
-# AdvertisingLite 与 Advertising 共 16060 条规则重复
+# AdvertisingLite 与 Advertising 共 16109 条规则重复
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,0d847862199.com
   - DOMAIN,0koryu0.easter.ne.jp
@@ -12,22 +12,44 @@ payload:
   - DOMAIN,1.up.qingdaonews.com
   - DOMAIN,109-204-26-16.netconnexion.managedbroadband.co.uk
   - DOMAIN,12648afd00d93.com
+  - DOMAIN,13yg.cn
   - DOMAIN,14119276be0852.com
   - DOMAIN,1543b1db8a0825760.com
   - DOMAIN,15yomodels.com
   - DOMAIN,16e2ae8f200d975b.com
+  - DOMAIN,17b1dbd9f3ae7db27cf.com
+  - DOMAIN,1b969cef84d93b43.com
   - DOMAIN,1e122c580cf.com
   - DOMAIN,1loop.com
+  - DOMAIN,1q2w3.live
   - DOMAIN,2.up.qingdaonews.com
   - DOMAIN,21b507a044d841b.com
   - DOMAIN,22a12efe35e3c2f.com
+  - DOMAIN,22b765488021d482280.com
+  - DOMAIN,23rsdsfdsf.com
   - DOMAIN,247teencash.net
+  - DOMAIN,247view.net
+  - DOMAIN,27015dbc43d77c.com
+  - DOMAIN,2712f45c0bb0d67d710.com
   - DOMAIN,2726fecdfde157bdcd.com
   - DOMAIN,2amsports.com
+  - DOMAIN,2an-hit-ren.com
+  - DOMAIN,2cbisyjaae.com
+  - DOMAIN,2db24c0ea6.com
+  - DOMAIN,2delllwrite.com
+  - DOMAIN,2e27bf1f09307aeb.com
+  - DOMAIN,2el-2el-fie.com
+  - DOMAIN,2ssltome.ga
   - DOMAIN,2xbpub.com
   - DOMAIN,3.up.qingdaonews.com
   - DOMAIN,31a5610ce3a8a2.com
   - DOMAIN,31ab9d66427a22.com
+  - DOMAIN,32b4oilo.com
+  - DOMAIN,32b92bc03f19.com
+  - DOMAIN,386704cb2300cf1a.com
+  - DOMAIN,392a50219df6.com
+  - DOMAIN,3a64ddc048d277.com
+  - DOMAIN,3bfkxta3dg.com
   - DOMAIN,3c06b86c4147745b.com
   - DOMAIN,3c34083bda22d8.com
   - DOMAIN,3d55eccf56053ff2e8.com
@@ -375,6 +397,12 @@ payload:
   - DOMAIN,dvnafl0qtqz9k.cloudfront.net
   - DOMAIN,dyn.primecdn.net
   - DOMAIN,dzmxze7hxwn6b.cloudfront.net
+  - DOMAIN,e.131pu.cn
+  - DOMAIN,e.1q89b.cn
+  - DOMAIN,e.21lxb.cn
+  - DOMAIN,e.2j75d.cn
+  - DOMAIN,e.2n5kmg.cn
+  - DOMAIN,e.2t4um.cn
   - DOMAIN,e.35rqb.cn
   - DOMAIN,e.tf.360.cn
   - DOMAIN,e9mlrvy1.com
@@ -599,13 +627,33 @@ payload:
   - DOMAIN,luckyshine.info
   - DOMAIN,luckysuccess.info
   - DOMAIN,luckytidy.info
+  - DOMAIN,lvvfcuzzdor.com
+  - DOMAIN,lwfvrhlqzjseyu.com
+  - DOMAIN,lxcpbfwqagzfz.com
+  - DOMAIN,lxzwknybfvycxr.com
+  - DOMAIN,lyssmgbr.com
   - DOMAIN,lzpv4rsmat.com
   - DOMAIN,m-vali.cp31.ott.cibntv.net
   - DOMAIN,m.1234567.com.cn
+  - DOMAIN,m.17w3a.cn
+  - DOMAIN,m.198nc.cn
+  - DOMAIN,m.1i94f.cn
+  - DOMAIN,m.1qp9k.cn
+  - DOMAIN,m.1r8th.cn
+  - DOMAIN,m.1s8pj.cn
+  - DOMAIN,m.1sur6d.cn
+  - DOMAIN,m.1x3td.cn
+  - DOMAIN,m.1yjlm.com
+  - DOMAIN,m.247pb.cn
+  - DOMAIN,m.24ihe.cn
   - DOMAIN,m.24pga.cn
+  - DOMAIN,m.2j75d.cn
+  - DOMAIN,m.2n5kmg.cn
   - DOMAIN,m.34uvn.cn
   - DOMAIN,m.35rqb.cn
   - DOMAIN,m.aty.sohu.com
+  - DOMAIN,m.lws48e.cn
+  - DOMAIN,m.ly0p9e.cn
   - DOMAIN,m.track.ad.xiaomi.com
   - DOMAIN,mahindrainsurance.com
   - DOMAIN,mailboto.com
@@ -1013,6 +1061,7 @@ payload:
   - DOMAIN,usenetnl.download
   - DOMAIN,users173.lolipop.jp
   - DOMAIN,utrfixbusce.com
+  - DOMAIN,v.37uta.cn
   - DOMAIN,v.aty.sohu.com
   - DOMAIN,v.tf.360.cn
   - DOMAIN,v2.gdt.qq.com
@@ -16065,7 +16114,7 @@ payload:
   - IP-CIDR,69.28.57.245/32
   - IP-CIDR,74.117.182.77/32
   - IP-CIDR,78.140.131.214/32
-# AdvertisingLite 与 AdvertisingTest 共 15695 条规则重复
+# AdvertisingLite 与 AdvertisingTest 共 15740 条规则重复
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,0d847862199.com
   - DOMAIN,0koryu0.easter.ne.jp
@@ -16076,15 +16125,34 @@ payload:
   - DOMAIN,14119276be0852.com
   - DOMAIN,1543b1db8a0825760.com
   - DOMAIN,16e2ae8f200d975b.com
+  - DOMAIN,17b1dbd9f3ae7db27cf.com
   - DOMAIN,1e122c580cf.com
+  - DOMAIN,1q2w3.live
   - DOMAIN,2.up.qingdaonews.com
   - DOMAIN,21b507a044d841b.com
   - DOMAIN,22a12efe35e3c2f.com
+  - DOMAIN,22b765488021d482280.com
+  - DOMAIN,23rsdsfdsf.com
+  - DOMAIN,247view.net
+  - DOMAIN,27015dbc43d77c.com
+  - DOMAIN,2712f45c0bb0d67d710.com
   - DOMAIN,2726fecdfde157bdcd.com
   - DOMAIN,2amsports.com
+  - DOMAIN,2an-hit-ren.com
+  - DOMAIN,2cbisyjaae.com
+  - DOMAIN,2db24c0ea6.com
+  - DOMAIN,2delllwrite.com
+  - DOMAIN,2el-2el-fie.com
+  - DOMAIN,2ssltome.ga
   - DOMAIN,2xbpub.com
   - DOMAIN,3.up.qingdaonews.com
   - DOMAIN,31ab9d66427a22.com
+  - DOMAIN,32b4oilo.com
+  - DOMAIN,32b92bc03f19.com
+  - DOMAIN,386704cb2300cf1a.com
+  - DOMAIN,392a50219df6.com
+  - DOMAIN,3a64ddc048d277.com
+  - DOMAIN,3bfkxta3dg.com
   - DOMAIN,3c34083bda22d8.com
   - DOMAIN,3d55eccf56053ff2e8.com
   - DOMAIN,3da86d9fe797f228.com
@@ -16347,6 +16415,12 @@ payload:
   - DOMAIN,dvnafl0qtqz9k.cloudfront.net
   - DOMAIN,dyn.primecdn.net
   - DOMAIN,dzmxze7hxwn6b.cloudfront.net
+  - DOMAIN,e.131pu.cn
+  - DOMAIN,e.1q89b.cn
+  - DOMAIN,e.21lxb.cn
+  - DOMAIN,e.2j75d.cn
+  - DOMAIN,e.2n5kmg.cn
+  - DOMAIN,e.2t4um.cn
   - DOMAIN,e.35rqb.cn
   - DOMAIN,e.tf.360.cn
   - DOMAIN,e9mlrvy1.com
@@ -16523,12 +16597,31 @@ payload:
   - DOMAIN,luckyshine.info
   - DOMAIN,luckysuccess.info
   - DOMAIN,luckytidy.info
+  - DOMAIN,lvvfcuzzdor.com
+  - DOMAIN,lwfvrhlqzjseyu.com
+  - DOMAIN,lxcpbfwqagzfz.com
+  - DOMAIN,lxzwknybfvycxr.com
+  - DOMAIN,lyssmgbr.com
   - DOMAIN,lzpv4rsmat.com
   - DOMAIN,m-vali.cp31.ott.cibntv.net
   - DOMAIN,m.1234567.com.cn
+  - DOMAIN,m.17w3a.cn
+  - DOMAIN,m.198nc.cn
+  - DOMAIN,m.1i94f.cn
+  - DOMAIN,m.1qp9k.cn
+  - DOMAIN,m.1r8th.cn
+  - DOMAIN,m.1sur6d.cn
+  - DOMAIN,m.1x3td.cn
+  - DOMAIN,m.1yjlm.com
+  - DOMAIN,m.247pb.cn
+  - DOMAIN,m.24ihe.cn
   - DOMAIN,m.24pga.cn
+  - DOMAIN,m.2j75d.cn
+  - DOMAIN,m.2n5kmg.cn
   - DOMAIN,m.34uvn.cn
   - DOMAIN,m.35rqb.cn
+  - DOMAIN,m.lws48e.cn
+  - DOMAIN,m.ly0p9e.cn
   - DOMAIN,m.track.ad.xiaomi.com
   - DOMAIN,mahindrainsurance.com
   - DOMAIN,mailboto.com
@@ -16841,6 +16934,7 @@ payload:
   - DOMAIN,us.vortex-win.data.microsoft.com
   - DOMAIN,users173.lolipop.jp
   - DOMAIN,utrfixbusce.com
+  - DOMAIN,v.37uta.cn
   - DOMAIN,v.aty.sohu.com
   - DOMAIN,v.tf.360.cn
   - DOMAIN,vasfxpribls.com
@@ -34492,9 +34586,8 @@ payload:
   - DOMAIN-SUFFIX,umeng.com
   - DOMAIN-SUFFIX,umengcloud.com
   - DOMAIN-SUFFIX,xdrig.com
-# AdvertisingLite 与 ChinaTest 共 635 条规则重复
+# AdvertisingLite 与 ChinaTest 共 634 条规则重复
   - DOMAIN,2mdn.net
-  - DOMAIN,clientservices.googleapis.com
   - DOMAIN,imasdk.googleapis.com
   - DOMAIN-SUFFIX,000dn.com
   - DOMAIN-SUFFIX,0024aaaa.com

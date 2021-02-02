@@ -1,7 +1,7 @@
 # NAME: Qihoo360
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-02 23:31:51.119030
+# UPDATED: 2021-02-03 02:35:26.349253
 # HOST-SUFFIX: 50
 # TOTAL: 50
 HOST-SUFFIX,360-jr.com,Qihoo360

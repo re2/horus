@@ -1,7 +1,7 @@
 # NAME: Proxy 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-02 23:31:58.607739
+# UPDATED: 2021-02-03 02:35:33.325057
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # Proxy 与 AdvertisingLite 共 59 条规则重复
 HOST-SUFFIX,2o7.net
@@ -1481,7 +1481,7 @@ HOST-SUFFIX,mylcloud.net
 HOST-SUFFIX,mzstatic.com
 HOST-SUFFIX,wwwicloud.com
 USER-AGENT,com.apple.trustd*
-# Proxy 与 Global 共 28082 条规则重复
+# Proxy 与 Global 共 28081 条规则重复
 HOST,amp.akamaized.net
 HOST,apple.com.akadns.net
 HOST,assets-priconne-redive-us.akamaized.net
@@ -1545,7 +1545,6 @@ HOST-KEYWORD,twitter
 HOST-KEYWORD,uk-live
 HOST-KEYWORD,whatsapp
 HOST-KEYWORD,youtube
-HOST-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
 HOST-SUFFIX,0006999.com
 HOST-SUFFIX,000aa.com
 HOST-SUFFIX,000webhost.com
