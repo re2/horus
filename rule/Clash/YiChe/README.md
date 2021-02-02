@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2021-02-02 14:56:00.672193。
+最后检查时间：2021-02-02 15:42:23.532629。
 
 ## 规则统计
 
@@ -46,9 +46,9 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clas
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/AdvertisingLite)    | 39109   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YiChe/YiChe_Repeat.list)   |   0.0% |
-|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Advertising)    | 91923   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YiChe/YiChe_Repeat.list)   |   0.0% |
-|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/AdvertisingTest)    | 63846   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YiChe/YiChe_Repeat.list)   |   0.0% |
+|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/AdvertisingLite)    | 26575   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YiChe/YiChe_Repeat.list)   |   0.0% |
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Advertising)    | 57411   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YiChe/YiChe_Repeat.list)   |   0.0% |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/AdvertisingTest)    | 63835   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YiChe/YiChe_Repeat.list)   |   0.0% |
 |  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/China)    | 661   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YiChe/YiChe_Repeat.list)   |   0.3% |
 |  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/ChinaTest)    | 71423   | [5](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YiChe/YiChe_Repeat.list)   |   0.01% |
 ### 特别说明

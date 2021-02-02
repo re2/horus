@@ -1,12 +1,10 @@
 # NAME: AdvertisingTest 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-02 14:55:23.766787
+# UPDATED: 2021-02-02 15:41:47.226770
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 payload:
-# AdvertisingTest 与 AdvertisingLite 共 14298 条规则重复
-  - DOMAIN,ad-channel.woyeahgo.tk
-  - DOMAIN,ad-display.wikawika.xyz
+# AdvertisingTest 与 AdvertisingLite 共 14296 条规则重复
   - DOMAIN,ad.21cn.com
   - DOMAIN,ads-img-qc.xhscdn.com
   - DOMAIN,ads-video-qc.xhscdn.com
@@ -14303,9 +14301,7 @@ payload:
   - IP-CIDR,69.28.57.245/32
   - IP-CIDR,74.117.182.77/32
   - IP-CIDR,78.140.131.214/32
-# AdvertisingTest 与 Advertising 共 41975 条规则重复
-  - DOMAIN,ad-channel.woyeahgo.tk
-  - DOMAIN,ad-display.wikawika.xyz
+# AdvertisingTest 与 Advertising 共 41973 条规则重复
   - DOMAIN,ad.21cn.com
   - DOMAIN,ads-img-qc.xhscdn.com
   - DOMAIN,ads-video-qc.xhscdn.com

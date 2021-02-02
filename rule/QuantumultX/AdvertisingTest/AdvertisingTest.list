@@ -1,26 +1,22 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-02 14:55:11.918714
+# UPDATED: 2021-02-02 15:41:36.266940
 # HOST-SUFFIX: 63559
 # HOST-KEYWORD: 51
 # IP-CIDR: 184
-# HOST: 52
-# TOTAL: 63846
+# HOST: 41
+# TOTAL: 63835
 HOST,abema-adx.ameba.jp,AdvertisingTest
 HOST,ad-analysis.pconline.com.cn,AdvertisingTest
-HOST,ad-channel.woyeahgo.tk,AdvertisingTest
-HOST,ad-display.wikawika.xyz,AdvertisingTest
 HOST,ad-stat.ksosoft.com,AdvertisingTest
 HOST,ad.21cn.com,AdvertisingTest
 HOST,ad.bn.netease.com,AdvertisingTest
 HOST,ad.hzyoka.com,AdvertisingTest
 HOST,ad.k.21cn.com,AdvertisingTest
 HOST,ad.wappalyzer.com,AdvertisingTest
-HOST,adbehavior.wsa.ximalaya.com,AdvertisingTest
 HOST,adextra.51wnl-cq.com,AdvertisingTest
 HOST,adfile.wifi8.com,AdvertisingTest
-HOST,adimg.vue.weibo.com,AdvertisingTest
 HOST,admonitor.thepaper.cn,AdvertisingTest
 HOST,ads-img-qc.xhscdn.com,AdvertisingTest
 HOST,ads-video-qc.xhscdn.com,AdvertisingTest
@@ -28,7 +24,6 @@ HOST,ads.aplusapi.pptv.com,AdvertisingTest
 HOST,ads.chinadaily.com.cn,AdvertisingTest
 HOST,ads.daydaycook.com.cn,AdvertisingTest
 HOST,ads.mojicdn.com,AdvertisingTest
-HOST,adsmind.tc.qq.com,AdvertisingTest
 HOST,adv.bandi.so,AdvertisingTest
 HOST,adx-api.hupu.com,AdvertisingTest
 HOST,ap.dongqiudi.com,AdvertisingTest
@@ -50,15 +45,9 @@ HOST,log-yex.youdao.com,AdvertisingTest
 HOST,mads.suning.com,AdvertisingTest
 HOST,mopnativeadv.037201.com,AdvertisingTest
 HOST,optimus-ads.amap.com.w.alikunlun.com,AdvertisingTest
-HOST,pgdt.gtimg.com,AdvertisingTest
-HOST,q.i.gdt.qq.com,AdvertisingTest
-HOST,regist.fotoable.com,AdvertisingTest
-HOST,splashqqlive.gtimg.com,AdvertisingTest
 HOST,t-ads.xiaohongshu.com,AdvertisingTest
 HOST,tj.playcvn.com,AdvertisingTest
 HOST,tu.cvnad.com,AdvertisingTest
-HOST,wxsnsdy.wxs.qq.com,AdvertisingTest
-HOST,wxsnsdythumb.wxs.qq.com,AdvertisingTest
 HOST-SUFFIX,00-gov.cn,AdvertisingTest
 HOST-SUFFIX,000dn.com,AdvertisingTest
 HOST-SUFFIX,001union.com,AdvertisingTest

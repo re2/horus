@@ -1,26 +1,22 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-02 14:55:13.596499
+# UPDATED: 2021-02-02 15:41:37.811212
 # DOMAIN-SUFFIX: 63559
 # DOMAIN-KEYWORD: 51
 # IP-CIDR: 184
-# DOMAIN: 52
-# TOTAL: 63846
+# DOMAIN: 41
+# TOTAL: 63835
 abema-adx.ameba.jp
 ad-analysis.pconline.com.cn
-ad-channel.woyeahgo.tk
-ad-display.wikawika.xyz
 ad-stat.ksosoft.com
 ad.21cn.com
 ad.bn.netease.com
 ad.hzyoka.com
 ad.k.21cn.com
 ad.wappalyzer.com
-adbehavior.wsa.ximalaya.com
 adextra.51wnl-cq.com
 adfile.wifi8.com
-adimg.vue.weibo.com
 admonitor.thepaper.cn
 ads-img-qc.xhscdn.com
 ads-video-qc.xhscdn.com
@@ -28,7 +24,6 @@ ads.aplusapi.pptv.com
 ads.chinadaily.com.cn
 ads.daydaycook.com.cn
 ads.mojicdn.com
-adsmind.tc.qq.com
 adv.bandi.so
 adx-api.hupu.com
 ap.dongqiudi.com
@@ -50,15 +45,9 @@ log-yex.youdao.com
 mads.suning.com
 mopnativeadv.037201.com
 optimus-ads.amap.com.w.alikunlun.com
-pgdt.gtimg.com
-q.i.gdt.qq.com
-regist.fotoable.com
-splashqqlive.gtimg.com
 t-ads.xiaohongshu.com
 tj.playcvn.com
 tu.cvnad.com
-wxsnsdy.wxs.qq.com
-wxsnsdythumb.wxs.qq.com
 .00-gov.cn
 .000dn.com
 .001union.com
