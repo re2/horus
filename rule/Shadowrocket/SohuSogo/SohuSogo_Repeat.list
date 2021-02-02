@@ -1,7 +1,7 @@
 # NAME: SohuSogo 规则重复情况
 # AUTHOR: 
 # GITHUB: 
-# UPDATED: 2021-02-02 15:41:49.037065
+# UPDATED: 2021-02-02 17:43:58.962003
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # SohuSogo 与 China 共 7 条规则重复
 DOMAIN-SUFFIX,sogo.com

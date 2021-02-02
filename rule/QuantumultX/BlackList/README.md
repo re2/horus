@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2021-02-02 15:41:59.330481。
+最后检查时间：2021-02-02 17:44:10.821397。
 
 ## 规则统计
 
@@ -50,9 +50,9 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Quan
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AdvertisingLite)    | 26576   | [9](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/BlackList/BlackList_Repeat.list)   |   0.03% |
-|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Advertising)    | 57412   | [22](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/BlackList/BlackList_Repeat.list)   |   0.04% |
-|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AdvertisingTest)    | 63835   | [27](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/BlackList/BlackList_Repeat.list)   |   0.04% |
+|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AdvertisingLite)    | 30964   | [9](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/BlackList/BlackList_Repeat.list)   |   0.03% |
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Advertising)    | 64524   | [22](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/BlackList/BlackList_Repeat.list)   |   0.03% |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AdvertisingTest)    | 63841   | [27](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/BlackList/BlackList_Repeat.list)   |   0.04% |
 |  [Epic](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Epic)    | 2   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/BlackList/BlackList_Repeat.list)   |   50.0% |
 |  [WildRift](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/WildRift)    | 3   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/BlackList/BlackList_Repeat.list)   |   66.67% |
 |  [Garena](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Garena)    | 15   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/BlackList/BlackList_Repeat.list)   |   6.67% |

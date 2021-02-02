@@ -8,11 +8,11 @@
 
 
 
-最后检查时间：2021-02-02 15:42:15.480398。
+最后检查时间：2021-02-02 17:44:29.014426。
 
 ## 规则统计
 
-总计规则：63835 条。
+总计规则：63841 条。
 
 各类型规则统计：
 
@@ -21,7 +21,7 @@
 | DOMAIN-SUFFIX | 63559 |
 | DOMAIN-KEYWORD | 51 |
 | IP-CIDR | 184 |
-| DOMAIN | 41 |
+| DOMAIN | 47 |
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化
@@ -58,8 +58,8 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clas
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/AdvertisingLite)    | 26575   | [14296](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AdvertisingTest/AdvertisingTest_Repeat.list)   |   53.79% |
-|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Advertising)    | 57411   | [41973](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AdvertisingTest/AdvertisingTest_Repeat.list)   |   73.11% |
+|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/AdvertisingLite)    | 30963   | [14297](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AdvertisingTest/AdvertisingTest_Repeat.list)   |   46.17% |
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Advertising)    | 64523   | [41973](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AdvertisingTest/AdvertisingTest_Repeat.list)   |   65.05% |
 |  [Hijacking](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Hijacking)    | 219   | [202](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AdvertisingTest/AdvertisingTest_Repeat.list)   |   92.24% |
 |  [Privacy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Privacy)    | 2839   | [2563](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AdvertisingTest/AdvertisingTest_Repeat.list)   |   90.28% |
 |  [Blizzard](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Blizzard)    | 38   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AdvertisingTest/AdvertisingTest_Repeat.list)   |   2.63% |

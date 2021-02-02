@@ -9,11 +9,11 @@
 
 去广告精简版分流规则中含有URL-REGEX类型，此类的规则对于HTTPS请求需要MITM使用才能生效。程序已默认根据正则推导一份MITM的模块/复写/插件在当前分流规则的目录中，便于参考搭配使用。
 
-最后检查时间：2021-02-02 15:42:06.742087。
+最后检查时间：2021-02-02 17:44:19.252992。
 
 ## 规则统计
 
-总计规则：26878 条。
+总计规则：31266 条。
 
 各类型规则统计：
 
@@ -21,7 +21,7 @@
 | ---- | ---- |
 | DOMAIN-KEYWORD | 27 |
 | DOMAIN-SUFFIX | 15241 |
-| DOMAIN | 11115 |
+| DOMAIN | 15503 |
 | IP-CIDR | 192 |
 | USER-AGENT | 1 |
 | URL-REGEX | 302 |
@@ -58,8 +58,8 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising)    | 57695   | [16082](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AdvertisingLite/AdvertisingLite_Repeat.list)   |   27.87% |
-|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingTest)    | 63835   | [14296](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AdvertisingLite/AdvertisingLite_Repeat.list)   |   22.4% |
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising)    | 64807   | [16451](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AdvertisingLite/AdvertisingLite_Repeat.list)   |   25.38% |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingTest)    | 63841   | [14297](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AdvertisingLite/AdvertisingLite_Repeat.list)   |   22.39% |
 |  [Hijacking](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Hijacking)    | 219   | [200](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AdvertisingLite/AdvertisingLite_Repeat.list)   |   91.32% |
 |  [Privacy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Privacy)    | 2839   | [2346](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AdvertisingLite/AdvertisingLite_Repeat.list)   |   82.63% |
 |  [Game](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Game)    | 22   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AdvertisingLite/AdvertisingLite_Repeat.list)   |   4.55% |

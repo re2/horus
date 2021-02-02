@@ -1,15 +1,16 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-02 15:41:39.916943
+# UPDATED: 2021-02-02 17:43:48.504497
 # DOMAIN-SUFFIX: 63559
 # DOMAIN-KEYWORD: 51
 # IP-CIDR: 184
-# DOMAIN: 41
-# TOTAL: 63835
+# DOMAIN: 47
+# TOTAL: 63841
 payload:
   - DOMAIN,abema-adx.ameba.jp
   - DOMAIN,ad-analysis.pconline.com.cn
+  - DOMAIN,ad-display.wikawika.xyz
   - DOMAIN,ad-stat.ksosoft.com
   - DOMAIN,ad.21cn.com
   - DOMAIN,ad.bn.netease.com
@@ -25,6 +26,7 @@ payload:
   - DOMAIN,ads.chinadaily.com.cn
   - DOMAIN,ads.daydaycook.com.cn
   - DOMAIN,ads.mojicdn.com
+  - DOMAIN,adsmind.tc.qq.com
   - DOMAIN,adv.bandi.so
   - DOMAIN,adx-api.hupu.com
   - DOMAIN,ap.dongqiudi.com
@@ -46,9 +48,13 @@ payload:
   - DOMAIN,mads.suning.com
   - DOMAIN,mopnativeadv.037201.com
   - DOMAIN,optimus-ads.amap.com.w.alikunlun.com
+  - DOMAIN,q.i.gdt.qq.com
+  - DOMAIN,splashqqlive.gtimg.com
   - DOMAIN,t-ads.xiaohongshu.com
   - DOMAIN,tj.playcvn.com
   - DOMAIN,tu.cvnad.com
+  - DOMAIN,wxsnsdy.wxs.qq.com
+  - DOMAIN,wxsnsdythumb.wxs.qq.com
   - DOMAIN-SUFFIX,00-gov.cn
   - DOMAIN-SUFFIX,000dn.com
   - DOMAIN-SUFFIX,001union.com

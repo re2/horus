@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2021-02-02 15:42:14.931074。
+最后检查时间：2021-02-02 17:44:28.419612。
 
 ## 规则统计
 
@@ -46,7 +46,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising)    | 57695   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/YYeTs/YYeTs_Repeat.list)   |   0.0% |
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising)    | 64807   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/YYeTs/YYeTs_Repeat.list)   |   0.0% |
 |  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Proxy)    | 28098   | [13](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/YYeTs/YYeTs_Repeat.list)   |   0.05% |
 |  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/China)    | 693   | [9](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/YYeTs/YYeTs_Repeat.list)   |   1.3% |
 |  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaTest)    | 71423   | [11](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/YYeTs/YYeTs_Repeat.list)   |   0.02% |

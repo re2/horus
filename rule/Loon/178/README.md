@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2021-02-02 15:42:11.090467。
+最后检查时间：2021-02-02 17:44:24.051427。
 
 ## 规则统计
 
@@ -46,9 +46,9 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingLite)    | 26878   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/178/178_Repeat.list)   |   0.0% |
-|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising)    | 57695   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/178/178_Repeat.list)   |   0.0% |
-|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingTest)    | 63835   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/178/178_Repeat.list)   |   0.0% |
+|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingLite)    | 31266   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/178/178_Repeat.list)   |   0.0% |
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising)    | 64807   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/178/178_Repeat.list)   |   0.0% |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingTest)    | 63841   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/178/178_Repeat.list)   |   0.0% |
 |  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/China)    | 693   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/178/178_Repeat.list)   |   0.14% |
 |  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaTest)    | 71423   | [11](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/178/178_Repeat.list)   |   0.02% |
 ### 特别说明

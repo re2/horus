@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2021-02-02 15:42:08.867579。
+最后检查时间：2021-02-02 17:44:21.594238。
 
 ## 规则统计
 
@@ -49,7 +49,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingTest)    | 63835   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AmazonPrimeVideo/AmazonPrimeVideo_Repeat.list)   |   0.0% |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingTest)    | 63841   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AmazonPrimeVideo/AmazonPrimeVideo_Repeat.list)   |   0.0% |
 |  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Proxy)    | 28098   | [12](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AmazonPrimeVideo/AmazonPrimeVideo_Repeat.list)   |   0.04% |
 |  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Global)    | 1292   | [8](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AmazonPrimeVideo/AmazonPrimeVideo_Repeat.list)   |   0.62% |
 |  [GlobalMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/GlobalMedia)    | 1138   | [9](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AmazonPrimeVideo/AmazonPrimeVideo_Repeat.list)   |   0.79% |

@@ -8,11 +8,11 @@
 
 
 
-最后检查时间：2021-02-02 15:42:06.792930。
+最后检查时间：2021-02-02 17:44:19.314413。
 
 ## 规则统计
 
-总计规则：63835 条。
+总计规则：63841 条。
 
 各类型规则统计：
 
@@ -21,7 +21,7 @@
 | DOMAIN-SUFFIX | 63559 |
 | DOMAIN-KEYWORD | 51 |
 | IP-CIDR | 184 |
-| DOMAIN | 41 |
+| DOMAIN | 47 |
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化
@@ -58,8 +58,8 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingLite)    | 26878   | [14296](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AdvertisingTest/AdvertisingTest_Repeat.list)   |   53.19% |
-|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising)    | 57695   | [41973](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AdvertisingTest/AdvertisingTest_Repeat.list)   |   72.75% |
+|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingLite)    | 31266   | [14297](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AdvertisingTest/AdvertisingTest_Repeat.list)   |   45.73% |
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising)    | 64807   | [41973](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AdvertisingTest/AdvertisingTest_Repeat.list)   |   64.77% |
 |  [Hijacking](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Hijacking)    | 219   | [202](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AdvertisingTest/AdvertisingTest_Repeat.list)   |   92.24% |
 |  [Privacy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Privacy)    | 2839   | [2563](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AdvertisingTest/AdvertisingTest_Repeat.list)   |   90.28% |
 |  [Blizzard](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Blizzard)    | 38   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/AdvertisingTest/AdvertisingTest_Repeat.list)   |   2.63% |

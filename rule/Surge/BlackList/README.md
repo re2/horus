@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2021-02-02 15:41:50.854935。
+最后检查时间：2021-02-02 17:44:01.005669。
 
 ## 规则统计
 
@@ -51,9 +51,9 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surg
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingLite)    | 26878   | [9](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BlackList/BlackList_Repeat.list)   |   0.03% |
-|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Advertising)    | 57695   | [22](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BlackList/BlackList_Repeat.list)   |   0.04% |
-|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingTest)    | 63835   | [27](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BlackList/BlackList_Repeat.list)   |   0.04% |
+|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingLite)    | 31266   | [9](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BlackList/BlackList_Repeat.list)   |   0.03% |
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Advertising)    | 64807   | [22](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BlackList/BlackList_Repeat.list)   |   0.03% |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingTest)    | 63841   | [27](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BlackList/BlackList_Repeat.list)   |   0.04% |
 |  [Epic](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Epic)    | 2   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BlackList/BlackList_Repeat.list)   |   50.0% |
 |  [WildRift](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/WildRift)    | 3   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BlackList/BlackList_Repeat.list)   |   66.67% |
 |  [Garena](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Garena)    | 15   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BlackList/BlackList_Repeat.list)   |   6.67% |

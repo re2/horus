@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2021-02-02 15:42:10.536313。
+最后检查时间：2021-02-02 17:44:23.443542。
 
 ## 规则统计
 
@@ -51,9 +51,9 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingLite)    | 26878   | [7](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/China/China_Repeat.list)   |   0.03% |
-|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising)    | 57695   | [14](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/China/China_Repeat.list)   |   0.02% |
-|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingTest)    | 63835   | [11](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/China/China_Repeat.list)   |   0.02% |
+|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingLite)    | 31266   | [7](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/China/China_Repeat.list)   |   0.02% |
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising)    | 64807   | [14](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/China/China_Repeat.list)   |   0.02% |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingTest)    | 63841   | [11](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/China/China_Repeat.list)   |   0.02% |
 |  [Privacy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Privacy)    | 2839   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/China/China_Repeat.list)   |   0.04% |
 |  [Blizzard](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Blizzard)    | 38   | [3](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/China/China_Repeat.list)   |   7.89% |
 |  [Steam](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Steam)    | 32   | [8](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/China/China_Repeat.list)   |   25.0% |
