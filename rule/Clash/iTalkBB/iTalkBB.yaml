@@ -1,0 +1,9 @@
+# NAME: iTalkBB
+# AUTHOR: blackmatrix7
+# GITHUB: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2021-02-02 14:25:42.645199
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
+payload:
+  - DOMAIN-SUFFIX,italkbb.com
+  - DOMAIN-SUFFIX,italkbbtv.com

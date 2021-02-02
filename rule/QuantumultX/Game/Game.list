@@ -1,0 +1,30 @@
+# NAME: Game
+# AUTHOR: blackmatrix7
+# GITHUB: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2021-02-02 14:25:38.187739
+# HOST-SUFFIX: 20
+# HOST: 1
+# HOST-KEYWORD: 1
+# TOTAL: 22
+HOST,cdp.cloud.unity3d.com,Game
+HOST-SUFFIX,battle.net,Game
+HOST-SUFFIX,battlenet.com,Game
+HOST-SUFFIX,blizzard.com,Game
+HOST-SUFFIX,fanatical.com,Game
+HOST-SUFFIX,helpshift.com,Game
+HOST-SUFFIX,humblebundle.com,Game
+HOST-SUFFIX,playstation.com,Game
+HOST-SUFFIX,playstation.net,Game
+HOST-SUFFIX,playstationnetwork.com,Game
+HOST-SUFFIX,sony.com,Game
+HOST-SUFFIX,sonyentertainmentnetwork.com,Game
+HOST-SUFFIX,steam-chat.com,Game
+HOST-SUFFIX,steamcdn-a.akamaihd.net,Game
+HOST-SUFFIX,steamcommunity.com,Game
+HOST-SUFFIX,steamcontent.com,Game
+HOST-SUFFIX,steamgames.com,Game
+HOST-SUFFIX,steampowered.com,Game
+HOST-SUFFIX,steamstat.us,Game
+HOST-SUFFIX,steamstatic.com,Game
+HOST-SUFFIX,steamusercontent.com,Game
+HOST-KEYWORD,epicgames,Game
