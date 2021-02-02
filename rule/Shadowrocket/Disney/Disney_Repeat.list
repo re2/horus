@@ -1,7 +1,7 @@
 # NAME: Disney 规则重复情况
-# AUTHOR: blackmatrix7
-# GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-02 09:35:43
+# AUTHOR: 
+# GITHUB: 
+# UPDATED: 2021-02-02 13:15:39.705332
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # Disney 与 AdvertisingLite 共 1 条规则重复
 DOMAIN-SUFFIX,conviva.com
@@ -11,7 +11,7 @@ DOMAIN-SUFFIX,conviva.com
 # Disney 与 AdvertisingTest 共 2 条规则重复
 DOMAIN-SUFFIX,braze.com
 DOMAIN-SUFFIX,conviva.com
-# Disney 与 Proxy 共 85 条规则重复
+# Disney 与 Proxy 共 84 条规则重复
 DOMAIN-SUFFIX,abc-studios.com
 DOMAIN-SUFFIX,abc.com
 DOMAIN-SUFFIX,adobedtm.com
@@ -96,7 +96,6 @@ DOMAIN-SUFFIX,thestationbymaker.com
 DOMAIN-SUFFIX,thisispolaris.com
 DOMAIN-SUFFIX,watchdisneyfe.com
 DOMAIN-SUFFIX,watchespn.com
-USER-AGENT,Disney+*
 # Disney 与 Global 共 8 条规则重复
 DOMAIN-SUFFIX,abc.com
 DOMAIN-SUFFIX,adobedtm.com

@@ -1,136 +1,108 @@
 # NAME: Global 规则重复情况
-# AUTHOR: blackmatrix7
-# GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-02 09:35:43
+# AUTHOR: 
+# GITHUB: 
+# UPDATED: 2021-02-02 13:15:39.664313
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
-# Global 与 China 共 36 条规则重复
-DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,bjango.com
-DOMAIN-SUFFIX,conoha.jp
+# Global 与 AdvertisingLite 共 11 条规则重复
+DOMAIN-SUFFIX,2o7.net
+DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,crashlytics.com
-DOMAIN-SUFFIX,culturedcode.com
-DOMAIN-SUFFIX,digicert.com
-DOMAIN-SUFFIX,dytt8.net
-DOMAIN-SUFFIX,getpricetag.com
-DOMAIN-SUFFIX,hotmail.com
-DOMAIN-SUFFIX,ip.sb
-DOMAIN-SUFFIX,licdn.com
-DOMAIN-SUFFIX,linkedin.com
-DOMAIN-SUFFIX,live.com
-DOMAIN-SUFFIX,live.net
-DOMAIN-SUFFIX,microsofttranslator.com
+DOMAIN-SUFFIX,demdex.net
+DOMAIN-SUFFIX,localnetwork.uop
+DOMAIN-SUFFIX,optimizely.com
+DOMAIN-SUFFIX,panoramio.com
+DOMAIN-SUFFIX,pubnub.com
+DOMAIN-SUFFIX,sharethis.com
+DOMAIN-SUFFIX,socdm.com
+DOMAIN-SUFFIX,urbanairship.com
+# Global 与 Advertising 共 28 条规则重复
+DOMAIN-SUFFIX,2mdn.net
+DOMAIN-SUFFIX,2o7.net
+DOMAIN-SUFFIX,amplitude.com
+DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,bkrtx.com
+DOMAIN-SUFFIX,boomtrain.com
+DOMAIN-SUFFIX,crashlytics.com
+DOMAIN-SUFFIX,demdex.net
+DOMAIN-SUFFIX,dnvod.tv
+DOMAIN-SUFFIX,linksalpha.com
+DOMAIN-SUFFIX,localnetwork.uop
 DOMAIN-SUFFIX,msedge.net
-DOMAIN-SUFFIX,nssurge.com
-DOMAIN-SUFFIX,onenote.com
-DOMAIN-SUFFIX,outlook.com
-DOMAIN-SUFFIX,overcast.fm
-DOMAIN-SUFFIX,paypal.com
-DOMAIN-SUFFIX,paypalobjects.com
-DOMAIN-SUFFIX,playstation.com
-DOMAIN-SUFFIX,playstation.net
-DOMAIN-SUFFIX,playstationnetwork.com
-DOMAIN-SUFFIX,sciencemag.org
-DOMAIN-SUFFIX,sony.com
-DOMAIN-SUFFIX,sonyentertainmentnetwork.com
-DOMAIN-SUFFIX,symcd.com
-DOMAIN-SUFFIX,trello.com
-DOMAIN-SUFFIX,unity3d.com
-DOMAIN-SUFFIX,windows.com
-DOMAIN-SUFFIX,windows.net
-DOMAIN-SUFFIX,workflowy.com
-DOMAIN-SUFFIX,xboxlive.com
-USER-AGENT,PayPal*
-# Global 与 ChinaTest 共 39 条规则重复
-DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,bjango.com
-DOMAIN-SUFFIX,conoha.jp
+DOMAIN-SUFFIX,nsstatic.net
+DOMAIN-SUFFIX,nytlog.com
+DOMAIN-SUFFIX,optimizely.com
+DOMAIN-SUFFIX,panoramio.com
+DOMAIN-SUFFIX,prfct.co
+DOMAIN-SUFFIX,pubnub.com
+DOMAIN-SUFFIX,pushwoosh.com
+DOMAIN-SUFFIX,servebom.com
+DOMAIN-SUFFIX,sharethis.com
+DOMAIN-SUFFIX,socdm.com
+DOMAIN-SUFFIX,technorati.com
+DOMAIN-SUFFIX,traffichaus.com
+DOMAIN-SUFFIX,ubertags.com
+DOMAIN-SUFFIX,urbanairship.com
+DOMAIN-SUFFIX,xiti.com
+DOMAIN-SUFFIX,yandex.ru
+# Global 与 AdvertisingTest 共 31 条规则重复
+DOMAIN-SUFFIX,2mdn.net
+DOMAIN-SUFFIX,2o7.net
+DOMAIN-SUFFIX,amplitude.com
+DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,bkrtx.com
+DOMAIN-SUFFIX,boomtrain.com
 DOMAIN-SUFFIX,crashlytics.com
-DOMAIN-SUFFIX,culturedcode.com
-DOMAIN-SUFFIX,digicert.com
-DOMAIN-SUFFIX,dytt8.net
-DOMAIN-SUFFIX,edgekey.net
-DOMAIN-SUFFIX,getpricetag.com
-DOMAIN-SUFFIX,hotmail.com
-DOMAIN-SUFFIX,ip.sb
-DOMAIN-SUFFIX,joox.com
-DOMAIN-SUFFIX,licdn.com
-DOMAIN-SUFFIX,linkedin.com
-DOMAIN-SUFFIX,live.com
-DOMAIN-SUFFIX,live.net
-DOMAIN-SUFFIX,manhuaren.com
-DOMAIN-SUFFIX,microsofttranslator.com
-DOMAIN-SUFFIX,msedge.net
-DOMAIN-SUFFIX,nssurge.com
-DOMAIN-SUFFIX,onenote.com
-DOMAIN-SUFFIX,outlook.com
-DOMAIN-SUFFIX,overcast.fm
-DOMAIN-SUFFIX,paypal.com
-DOMAIN-SUFFIX,paypalobjects.com
-DOMAIN-SUFFIX,playstation.com
-DOMAIN-SUFFIX,playstation.net
-DOMAIN-SUFFIX,playstationnetwork.com
-DOMAIN-SUFFIX,sciencemag.org
-DOMAIN-SUFFIX,sony.com
-DOMAIN-SUFFIX,sonyentertainmentnetwork.com
-DOMAIN-SUFFIX,symcd.com
-DOMAIN-SUFFIX,trello.com
-DOMAIN-SUFFIX,unity3d.com
-DOMAIN-SUFFIX,windows.com
-DOMAIN-SUFFIX,windows.net
-DOMAIN-SUFFIX,workflowy.com
-DOMAIN-SUFFIX,xboxlive.com
-USER-AGENT,PayPal*
-# Global 与 Apple 共 3 条规则重复
-DOMAIN-SUFFIX,appsto.re
-DOMAIN-SUFFIX,crashlytics.com
-PROCESS-NAME,lookupviewservice
-# Global 与 AppStore 共 2 条规则重复
-DOMAIN,apps.apple.com
-DOMAIN,itunes.apple.com
-# Global 与 TestFlight 共 1 条规则重复
-DOMAIN,testflight.apple.com
-# Global 与 AppleBlock 共 6 条规则重复
-DOMAIN,api-glb-sea.smoot.apple.com
-DOMAIN,books.itunes.apple.com
-DOMAIN,hls.itunes.apple.com
-DOMAIN,lookup-api.apple.com
-DOMAIN-SUFFIX,appsto.re
-PROCESS-NAME,lookupviewservice
-# Global 与 AppleTV 共 1 条规则重复
-DOMAIN,hls.itunes.apple.com
-# Global 与 Github 共 4 条规则重复
-DOMAIN-KEYWORD,github
-DOMAIN-SUFFIX,github.com
-DOMAIN-SUFFIX,github.io
-DOMAIN-SUFFIX,githubusercontent.com
-# Global 与 OneDrive 共 4 条规则重复
-DOMAIN-SUFFIX,1drv.com
-DOMAIN-SUFFIX,livefilestore.com
-DOMAIN-SUFFIX,onedrive.com
-DOMAIN-SUFFIX,storage.msn.com
-# Global 与 Microsoft 共 21 条规则重复
-DOMAIN-SUFFIX,1drv.com
-DOMAIN-SUFFIX,aka.ms
-DOMAIN-SUFFIX,aspnetcdn.com
-DOMAIN-SUFFIX,azureedge.net
-DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,edgesuite.net
+DOMAIN-SUFFIX,crittercism.com
+DOMAIN-SUFFIX,demdex.net
+DOMAIN-SUFFIX,dnvod.tv
 DOMAIN-SUFFIX,fabric.io
-DOMAIN-SUFFIX,gfx.ms
-DOMAIN-SUFFIX,hotmail.com
-DOMAIN-SUFFIX,live.com
-DOMAIN-SUFFIX,live.net
-DOMAIN-SUFFIX,livefilestore.com
-DOMAIN-SUFFIX,msedge.net
-DOMAIN-SUFFIX,onedrive.com
-DOMAIN-SUFFIX,onenote.com
-DOMAIN-SUFFIX,outlook.com
-DOMAIN-SUFFIX,sfx.ms
-DOMAIN-SUFFIX,skype.com
-DOMAIN-SUFFIX,windows.com
-DOMAIN-SUFFIX,windows.net
+DOMAIN-SUFFIX,fullstory.com
+DOMAIN-SUFFIX,geni.us
+DOMAIN-SUFFIX,lightboxcdn.com
+DOMAIN-SUFFIX,linksalpha.com
+DOMAIN-SUFFIX,localnetwork.uop
+DOMAIN-SUFFIX,nsstatic.net
+DOMAIN-SUFFIX,nytlog.com
+DOMAIN-SUFFIX,optimizely.com
+DOMAIN-SUFFIX,panoramio.com
+DOMAIN-SUFFIX,prfct.co
+DOMAIN-SUFFIX,pubnub.com
+DOMAIN-SUFFIX,pushwoosh.com
+DOMAIN-SUFFIX,servebom.com
+DOMAIN-SUFFIX,sharethis.com
+DOMAIN-SUFFIX,socdm.com
+DOMAIN-SUFFIX,technorati.com
+DOMAIN-SUFFIX,traffichaus.com
+DOMAIN-SUFFIX,ubertags.com
+DOMAIN-SUFFIX,urbanairship.com
+DOMAIN-SUFFIX,xiti.com
+# Global 与 Steam 共 1 条规则重复
+DOMAIN-SUFFIX,steamcommunity.com
+# Global 与 PlayStation 共 4 条规则重复
+DOMAIN-SUFFIX,playstation.com
+DOMAIN-SUFFIX,playstation.net
+DOMAIN-SUFFIX,playstationnetwork.com
+DOMAIN-SUFFIX,sonyentertainmentnetwork.com
+# Global 与 Epic 共 1 条规则重复
+DOMAIN-SUFFIX,helpshift.com
+# Global 与 Gog 共 1 条规则重复
+DOMAIN-SUFFIX,gog.com
+# Global 与 Nintendo 共 4 条规则重复
+DOMAIN-SUFFIX,nintendo.com
+DOMAIN-SUFFIX,nintendo.net
+DOMAIN-SUFFIX,pokemon.com
+DOMAIN-SUFFIX,supermariorun.com
+# Global 与 Xbox 共 1 条规则重复
 DOMAIN-SUFFIX,xboxlive.com
-# Global 与 YouTube 共 10 条规则重复
+# Global 与 Game 共 7 条规则重复
+DOMAIN-SUFFIX,helpshift.com
+DOMAIN-SUFFIX,playstation.com
+DOMAIN-SUFFIX,playstation.net
+DOMAIN-SUFFIX,playstationnetwork.com
+DOMAIN-SUFFIX,sony.com
+DOMAIN-SUFFIX,sonyentertainmentnetwork.com
+DOMAIN-SUFFIX,steamcommunity.com
+# Global 与 YouTube 共 8 条规则重复
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,youtu.be
@@ -138,9 +110,7 @@ DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
 USER-AGENT,YouTube*
-USER-AGENT,YouTubeMusic*
 USER-AGENT,com.google.ios.youtube*
-USER-AGENT,com.google.ios.youtubemusic*
 # Global 与 Google 共 59 条规则重复
 DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,google
@@ -204,122 +174,58 @@ IP-CIDR,74.125.0.0/16
 # Global 与 YouTubeMusic 共 2 条规则重复
 USER-AGENT,YouTubeMusic*
 USER-AGENT,com.google.ios.youtubemusic*
-# Global 与 AdvertisingLite 共 11 条规则重复
-DOMAIN-SUFFIX,2o7.net
-DOMAIN-SUFFIX,app-measurement.com
-DOMAIN-SUFFIX,crashlytics.com
-DOMAIN-SUFFIX,demdex.net
-DOMAIN-SUFFIX,localnetwork.uop
-DOMAIN-SUFFIX,optimizely.com
-DOMAIN-SUFFIX,panoramio.com
-DOMAIN-SUFFIX,pubnub.com
-DOMAIN-SUFFIX,sharethis.com
-DOMAIN-SUFFIX,socdm.com
-DOMAIN-SUFFIX,urbanairship.com
-# Global 与 Advertising 共 29 条规则重复
-DOMAIN,az416426.vo.msecnd.net
-DOMAIN-SUFFIX,2mdn.net
-DOMAIN-SUFFIX,2o7.net
-DOMAIN-SUFFIX,amplitude.com
-DOMAIN-SUFFIX,app-measurement.com
-DOMAIN-SUFFIX,bkrtx.com
-DOMAIN-SUFFIX,boomtrain.com
-DOMAIN-SUFFIX,crashlytics.com
-DOMAIN-SUFFIX,demdex.net
-DOMAIN-SUFFIX,dnvod.tv
-DOMAIN-SUFFIX,linksalpha.com
-DOMAIN-SUFFIX,localnetwork.uop
-DOMAIN-SUFFIX,msedge.net
-DOMAIN-SUFFIX,nsstatic.net
-DOMAIN-SUFFIX,nytlog.com
-DOMAIN-SUFFIX,optimizely.com
-DOMAIN-SUFFIX,panoramio.com
-DOMAIN-SUFFIX,prfct.co
-DOMAIN-SUFFIX,pubnub.com
-DOMAIN-SUFFIX,pushwoosh.com
-DOMAIN-SUFFIX,servebom.com
-DOMAIN-SUFFIX,sharethis.com
-DOMAIN-SUFFIX,socdm.com
-DOMAIN-SUFFIX,technorati.com
-DOMAIN-SUFFIX,traffichaus.com
-DOMAIN-SUFFIX,ubertags.com
-DOMAIN-SUFFIX,urbanairship.com
-DOMAIN-SUFFIX,xiti.com
-DOMAIN-SUFFIX,yandex.ru
-# Global 与 AdvertisingTest 共 33 条规则重复
-DOMAIN-SUFFIX,2mdn.net
-DOMAIN-SUFFIX,2o7.net
-DOMAIN-SUFFIX,amplitude.com
-DOMAIN-SUFFIX,app-measurement.com
-DOMAIN-SUFFIX,bkrtx.com
-DOMAIN-SUFFIX,boomtrain.com
-DOMAIN-SUFFIX,crashlytics.com
-DOMAIN-SUFFIX,crittercism.com
-DOMAIN-SUFFIX,demdex.net
-DOMAIN-SUFFIX,dnvod.tv
+# Global 与 Github 共 4 条规则重复
+DOMAIN-KEYWORD,github
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubusercontent.com
+# Global 与 OneDrive 共 4 条规则重复
+DOMAIN-SUFFIX,1drv.com
+DOMAIN-SUFFIX,livefilestore.com
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,storage.msn.com
+# Global 与 Microsoft 共 20 条规则重复
+DOMAIN-SUFFIX,aka.ms
+DOMAIN-SUFFIX,aspnetcdn.com
+DOMAIN-SUFFIX,azureedge.net
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,edgesuite.net
 DOMAIN-SUFFIX,fabric.io
-DOMAIN-SUFFIX,fullstory.com
-DOMAIN-SUFFIX,geni.us
-DOMAIN-SUFFIX,lightboxcdn.com
-DOMAIN-SUFFIX,linksalpha.com
-DOMAIN-SUFFIX,localnetwork.uop
+DOMAIN-SUFFIX,gfx.ms
+DOMAIN-SUFFIX,hotmail.com
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,live.net
+DOMAIN-SUFFIX,livefilestore.com
 DOMAIN-SUFFIX,msedge.net
-DOMAIN-SUFFIX,nsstatic.net
-DOMAIN-SUFFIX,nytlog.com
-DOMAIN-SUFFIX,optimizely.com
-DOMAIN-SUFFIX,panoramio.com
-DOMAIN-SUFFIX,prfct.co
-DOMAIN-SUFFIX,pubnub.com
-DOMAIN-SUFFIX,pushwoosh.com
-DOMAIN-SUFFIX,servebom.com
-DOMAIN-SUFFIX,sharethis.com
-DOMAIN-SUFFIX,socdm.com
-DOMAIN-SUFFIX,technorati.com
-DOMAIN-SUFFIX,traffichaus.com
-DOMAIN-SUFFIX,ubertags.com
-DOMAIN-SUFFIX,urbanairship.com
-DOMAIN-SUFFIX,xiti.com
-DOMAIN-SUFFIX,yandex.ru
-# Global 与 Game 共 9 条规则重复
-DOMAIN-SUFFIX,discord.gg
-DOMAIN-SUFFIX,discordapp.com
-DOMAIN-SUFFIX,discordapp.net
-DOMAIN-SUFFIX,helpshift.com
-DOMAIN-SUFFIX,playstation.com
-DOMAIN-SUFFIX,playstation.net
-DOMAIN-SUFFIX,playstationnetwork.com
-DOMAIN-SUFFIX,sonyentertainmentnetwork.com
-DOMAIN-SUFFIX,steamcommunity.com
-# Global 与 Steam 共 1 条规则重复
-DOMAIN-SUFFIX,steamcommunity.com
-# Global 与 PlayStation 共 4 条规则重复
-DOMAIN-SUFFIX,playstation.com
-DOMAIN-SUFFIX,playstation.net
-DOMAIN-SUFFIX,playstationnetwork.com
-DOMAIN-SUFFIX,sonyentertainmentnetwork.com
-# Global 与 Epic 共 1 条规则重复
-DOMAIN-SUFFIX,helpshift.com
-# Global 与 Gog 共 1 条规则重复
-DOMAIN-SUFFIX,gog.com
-# Global 与 Nintendo 共 4 条规则重复
-DOMAIN-SUFFIX,nintendo.com
-DOMAIN-SUFFIX,nintendo.net
-DOMAIN-SUFFIX,pokemon.com
-DOMAIN-SUFFIX,supermariorun.com
-# Global 与 Xbox 共 1 条规则重复
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,onenote.com
+DOMAIN-SUFFIX,outlook.com
+DOMAIN-SUFFIX,sfx.ms
+DOMAIN-SUFFIX,skype.com
+DOMAIN-SUFFIX,windows.com
+DOMAIN-SUFFIX,windows.net
 DOMAIN-SUFFIX,xboxlive.com
-# Global 与 Proxy 共 1256 条规则重复
+# Global 与 AppStore 共 2 条规则重复
+DOMAIN,apps.apple.com
+DOMAIN,itunes.apple.com
+# Global 与 TestFlight 共 1 条规则重复
+DOMAIN,testflight.apple.com
+# Global 与 AppleProxy 共 9 条规则重复
+DOMAIN,api-glb-sea.smoot.apple.com
+DOMAIN,books.itunes.apple.com
+DOMAIN,hls.itunes.apple.com
+DOMAIN,itunes.apple.com
+DOMAIN,lookup-api.apple.com
+DOMAIN,testflight.apple.com
+DOMAIN-SUFFIX,appsto.re
+DOMAIN-SUFFIX,digicert.com
+PROCESS-NAME,lookupviewservice
+# Global 与 Apple 共 2 条规则重复
+DOMAIN-SUFFIX,appsto.re
+DOMAIN-SUFFIX,crashlytics.com
+# Global 与 Proxy 共 1085 条规则重复
 DOMAIN,ds-linear-abematv.akamaized.net
-DOMAIN,ds-vod-abematv.akamaized.net
-DOMAIN,hamifans.emome.net
-DOMAIN-KEYWORD,-spotify-com
-DOMAIN-KEYWORD,.blogspot.
-DOMAIN-KEYWORD,.facebook.
-DOMAIN-KEYWORD,.pinterest.
-DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,appledaily
-DOMAIN-KEYWORD,avoddashs
-DOMAIN-KEYWORD,bbcfmt
 DOMAIN-KEYWORD,beetalk
 DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,dropbox
@@ -328,17 +234,11 @@ DOMAIN-KEYWORD,fbcdn
 DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,instagram
-DOMAIN-KEYWORD,jav
-DOMAIN-KEYWORD,pinterest
 DOMAIN-KEYWORD,porn
-DOMAIN-KEYWORD,spotify.com
 DOMAIN-KEYWORD,telegram
-DOMAIN-KEYWORD,twimg
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,uk-live
-DOMAIN-KEYWORD,voddazn
 DOMAIN-KEYWORD,whatsapp
-DOMAIN-KEYWORD,wikileaks
 DOMAIN-SUFFIX,0rz.tw
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,1drv.ms
@@ -349,11 +249,8 @@ DOMAIN-SUFFIX,4bluestones.biz
 DOMAIN-SUFFIX,4everproxy.com
 DOMAIN-SUFFIX,4shared.com
 DOMAIN-SUFFIX,4sqi.net
-DOMAIN-SUFFIX,520cc.cc
-DOMAIN-SUFFIX,5itv.tv
 DOMAIN-SUFFIX,881903.com
 DOMAIN-SUFFIX,9bis.net
-DOMAIN-SUFFIX,9cache.com
 DOMAIN-SUFFIX,9gag.com
 DOMAIN-SUFFIX,9to5mac.com
 DOMAIN-SUFFIX,abc.com
@@ -367,10 +264,8 @@ DOMAIN-SUFFIX,accountkit.com
 DOMAIN-SUFFIX,adblockplus.org
 DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,adobedtm.com
-DOMAIN-SUFFIX,advertisercommunity.com
 DOMAIN-SUFFIX,aerisapi.com
 DOMAIN-SUFFIX,aiv-cdn.net
-DOMAIN-SUFFIX,aiv-delivery.net
 DOMAIN-SUFFIX,aka.ms
 DOMAIN-SUFFIX,akamai.net
 DOMAIN-SUFFIX,akamaihd.net
@@ -400,7 +295,6 @@ DOMAIN-SUFFIX,apartments.com
 DOMAIN-SUFFIX,apigee.com
 DOMAIN-SUFFIX,apk-dl.com
 DOMAIN-SUFFIX,apkcombo.com
-DOMAIN-SUFFIX,apkfind.com
 DOMAIN-SUFFIX,apkmirror.com
 DOMAIN-SUFFIX,apkmonk.com
 DOMAIN-SUFFIX,apkpure.com
@@ -420,7 +314,6 @@ DOMAIN-SUFFIX,archives.gov
 DOMAIN-SUFFIX,armorgames.com
 DOMAIN-SUFFIX,arte.tv
 DOMAIN-SUFFIX,artstation.com
-DOMAIN-SUFFIX,arukas.io
 DOMAIN-SUFFIX,ask.com
 DOMAIN-SUFFIX,aspnetcdn.com
 DOMAIN-SUFFIX,async.be
@@ -460,7 +353,6 @@ DOMAIN-SUFFIX,bitcointalk.org
 DOMAIN-SUFFIX,bitfinex.com
 DOMAIN-SUFFIX,bitmex.com
 DOMAIN-SUFFIX,bitshare.com
-DOMAIN-SUFFIX,bjango.com
 DOMAIN-SUFFIX,bkrtx.com
 DOMAIN-SUFFIX,blog.com
 DOMAIN-SUFFIX,blog.jp
@@ -486,14 +378,10 @@ DOMAIN-SUFFIX,box.com
 DOMAIN-SUFFIX,box.net
 DOMAIN-SUFFIX,boxun.com
 DOMAIN-SUFFIX,brave.com
-DOMAIN-SUFFIX,broadcast.co.nz
 DOMAIN-SUFFIX,businessinsider.com
-DOMAIN-SUFFIX,buzzfeed.com
 DOMAIN-SUFFIX,bwh1.net
-DOMAIN-SUFFIX,c4assets.com
 DOMAIN-SUFFIX,cachefly.net
 DOMAIN-SUFFIX,camfrog.com
-DOMAIN-SUFFIX,capitalg.com
 DOMAIN-SUFFIX,castbox.fm
 DOMAIN-SUFFIX,cbc.ca
 DOMAIN-SUFFIX,cccat.io
@@ -507,11 +395,8 @@ DOMAIN-SUFFIX,centauro.com.br
 DOMAIN-SUFFIX,certificate-transparency.org
 DOMAIN-SUFFIX,cfos.de
 DOMAIN-SUFFIX,change.org
-DOMAIN-SUFFIX,channel4.com
-DOMAIN-SUFFIX,channel5.com
 DOMAIN-SUFFIX,channelnewsasia.com
 DOMAIN-SUFFIX,chinatimes.com
-DOMAIN-SUFFIX,chocotv.com.tw
 DOMAIN-SUFFIX,chrome.com
 DOMAIN-SUFFIX,chromecast.com
 DOMAIN-SUFFIX,chromeexperiments.com
@@ -524,7 +409,6 @@ DOMAIN-SUFFIX,cl.ly
 DOMAIN-SUFFIX,clarionproject.org
 DOMAIN-SUFFIX,clearsurance.com
 DOMAIN-SUFFIX,cloudcone.com
-DOMAIN-SUFFIX,cloudcone.com.cn
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,cloudmagic.com
@@ -559,7 +443,6 @@ DOMAIN-SUFFIX,daolan.net
 DOMAIN-SUFFIX,dartlang.org
 DOMAIN-SUFFIX,data-vocabulary.org
 DOMAIN-SUFFIX,daum.net
-DOMAIN-SUFFIX,daumcdn.net
 DOMAIN-SUFFIX,dayone.me
 DOMAIN-SUFFIX,dazn-api.com
 DOMAIN-SUFFIX,dazn.com
@@ -568,7 +451,6 @@ DOMAIN-SUFFIX,dcard.tw
 DOMAIN-SUFFIX,dcmilitary.com
 DOMAIN-SUFFIX,deadline.com
 DOMAIN-SUFFIX,debug.com
-DOMAIN-SUFFIX,deepdiscount.com
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,deezer.com
 DOMAIN-SUFFIX,deja.com
@@ -593,7 +475,6 @@ DOMAIN-SUFFIX,disq.us
 DOMAIN-SUFFIX,disqus.com
 DOMAIN-SUFFIX,disquscdn.com
 DOMAIN-SUFFIX,dlercloud.com
-DOMAIN-SUFFIX,dmc.nico
 DOMAIN-SUFFIX,dmhy.org
 DOMAIN-SUFFIX,dmm.co.jp
 DOMAIN-SUFFIX,dmm.com
@@ -613,21 +494,15 @@ DOMAIN-SUFFIX,dubox.com
 DOMAIN-SUFFIX,duboxcdn.com
 DOMAIN-SUFFIX,duckduckgo.com
 DOMAIN-SUFFIX,dueapp.com
-DOMAIN-SUFFIX,duolingo.cn
 DOMAIN-SUFFIX,duyaoss.com
 DOMAIN-SUFFIX,dw.com
 DOMAIN-SUFFIX,dynu.com
-DOMAIN-SUFFIX,dytt8.net
-DOMAIN-SUFFIX,dzcdn.net
 DOMAIN-SUFFIX,earthcam.com
 DOMAIN-SUFFIX,easybib.com
-DOMAIN-SUFFIX,ebookservice.tw
 DOMAIN-SUFFIX,economist.com
-DOMAIN-SUFFIX,edditstatic.com
 DOMAIN-SUFFIX,edgecastcdn.net
 DOMAIN-SUFFIX,edgekey.net
 DOMAIN-SUFFIX,edgesuite.net
-DOMAIN-SUFFIX,edu
 DOMAIN-SUFFIX,edx-cdn.org
 DOMAIN-SUFFIX,elpais.com
 DOMAIN-SUFFIX,enanyang.my
@@ -635,7 +510,6 @@ DOMAIN-SUFFIX,encoretvb.com
 DOMAIN-SUFFIX,encyclopedia.com
 DOMAIN-SUFFIX,engadget.com
 DOMAIN-SUFFIX,entrust.net
-DOMAIN-SUFFIX,esoir.be
 DOMAIN-SUFFIX,esurance.com
 DOMAIN-SUFFIX,etherscan.io
 DOMAIN-SUFFIX,eurekavpt.com
@@ -661,14 +535,12 @@ DOMAIN-SUFFIX,fbsbx.com
 DOMAIN-SUFFIX,fbworkmail.com
 DOMAIN-SUFFIX,fc2.com
 DOMAIN-SUFFIX,feedburner.com
-DOMAIN-SUFFIX,feeder.co
 DOMAIN-SUFFIX,feedly.com
 DOMAIN-SUFFIX,feedsportal.com
 DOMAIN-SUFFIX,feedx.net
 DOMAIN-SUFFIX,fiftythree.com
 DOMAIN-SUFFIX,figma.com
 DOMAIN-SUFFIX,firebaseio.com
-DOMAIN-SUFFIX,firech.at
 DOMAIN-SUFFIX,flexibits.com
 DOMAIN-SUFFIX,flickr.com
 DOMAIN-SUFFIX,flickriver.com
@@ -687,10 +559,8 @@ DOMAIN-SUFFIX,freebrowser.org
 DOMAIN-SUFFIX,freeopenproxy.com
 DOMAIN-SUFFIX,freewechat.com
 DOMAIN-SUFFIX,freeweibo.com
-DOMAIN-SUFFIX,friday.tw
 DOMAIN-SUFFIX,ft.com
 DOMAIN-SUFFIX,ftchinese.com
-DOMAIN-SUFFIX,ftimg.net
 DOMAIN-SUFFIX,fullstory.com
 DOMAIN-SUFFIX,funkyimg.com
 DOMAIN-SUFFIX,fxnetworks.com
@@ -752,13 +622,11 @@ DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gvt3.com
 DOMAIN-SUFFIX,gwtproject.org
 DOMAIN-SUFFIX,hackmd.io
-DOMAIN-SUFFIX,happyon.jp
 DOMAIN-SUFFIX,hayabusa.io
 DOMAIN-SUFFIX,hbg.com
 DOMAIN-SUFFIX,hbo.com
 DOMAIN-SUFFIX,hbogo.com
 DOMAIN-SUFFIX,hbogoasia.com
-DOMAIN-SUFFIX,hbogoasia.hk
 DOMAIN-SUFFIX,hbonow.com
 DOMAIN-SUFFIX,helpshift.com
 DOMAIN-SUFFIX,here.com
@@ -775,17 +643,14 @@ DOMAIN-SUFFIX,hkgolden.com
 DOMAIN-SUFFIX,hockeyapp.net
 DOMAIN-SUFFIX,homedepot.com
 DOMAIN-SUFFIX,hootsuite.com
-DOMAIN-SUFFIX,hosting.co.uk
 DOMAIN-SUFFIX,hotmail.com
 DOMAIN-SUFFIX,howtoforge.com
 DOMAIN-SUFFIX,html5rocks.com
 DOMAIN-SUFFIX,hudson.org
 DOMAIN-SUFFIX,huffpost.com
 DOMAIN-SUFFIX,hulu.com
-DOMAIN-SUFFIX,hulu.jp
 DOMAIN-SUFFIX,huluim.com
 DOMAIN-SUFFIX,hulustream.com
-DOMAIN-SUFFIX,hwcdn.net
 DOMAIN-SUFFIX,hyread.com.tw
 DOMAIN-SUFFIX,i-cable.com
 DOMAIN-SUFFIX,iam.soy
@@ -796,7 +661,6 @@ DOMAIN-SUFFIX,icons8.com
 DOMAIN-SUFFIX,ifixit.com
 DOMAIN-SUFFIX,ift.tt
 DOMAIN-SUFFIX,ifttt.com
-DOMAIN-SUFFIX,iherb.com
 DOMAIN-SUFFIX,imageshack.us
 DOMAIN-SUFFIX,img.ly
 DOMAIN-SUFFIX,imgur.com
@@ -804,7 +668,6 @@ DOMAIN-SUFFIX,imore.com
 DOMAIN-SUFFIX,independent.co.uk
 DOMAIN-SUFFIX,ingress.com
 DOMAIN-SUFFIX,initiummall.com
-DOMAIN-SUFFIX,inkbunny.net
 DOMAIN-SUFFIX,inoreader.com
 DOMAIN-SUFFIX,insder.co
 DOMAIN-SUFFIX,insecam.org
@@ -825,8 +688,6 @@ DOMAIN-SUFFIX,istockphoto.com
 DOMAIN-SUFFIX,itasoftware.com
 DOMAIN-SUFFIX,itgonglun.com
 DOMAIN-SUFFIX,itun.es
-DOMAIN-SUFFIX,itv.com
-DOMAIN-SUFFIX,itvstatic.com
 DOMAIN-SUFFIX,ixquick.com
 DOMAIN-SUFFIX,j.mp
 DOMAIN-SUFFIX,japantimes.co.jp
@@ -848,7 +709,6 @@ DOMAIN-SUFFIX,kadokawa.co.jp
 DOMAIN-SUFFIX,kakao.co.kr
 DOMAIN-SUFFIX,kakao.com
 DOMAIN-SUFFIX,kakaocdn.net
-DOMAIN-SUFFIX,kakaocorp.com
 DOMAIN-SUFFIX,kat.cr
 DOMAIN-SUFFIX,kenengba.com
 DOMAIN-SUFFIX,keyhole.com
@@ -856,8 +716,6 @@ DOMAIN-SUFFIX,kfs.io
 DOMAIN-SUFFIX,kik.com
 DOMAIN-SUFFIX,kingkong.com.tw
 DOMAIN-SUFFIX,kkbox.com
-DOMAIN-SUFFIX,kkbox.com.tw
-DOMAIN-SUFFIX,kktv.com.tw
 DOMAIN-SUFFIX,kktv.me
 DOMAIN-SUFFIX,klip.me
 DOMAIN-SUFFIX,knowyourmeme.com
@@ -877,11 +735,9 @@ DOMAIN-SUFFIX,limbopro.xyz
 DOMAIN-SUFFIX,line-apps.com
 DOMAIN-SUFFIX,line-scdn.net
 DOMAIN-SUFFIX,line.me
-DOMAIN-SUFFIX,linetv.tw
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,linksalpha.com
 DOMAIN-SUFFIX,linode.com
-DOMAIN-SUFFIX,listennotes.com
 DOMAIN-SUFFIX,lithium.com
 DOMAIN-SUFFIX,littlehj.com
 DOMAIN-SUFFIX,litv.tv
@@ -891,7 +747,6 @@ DOMAIN-SUFFIX,livefilestore.com
 DOMAIN-SUFFIX,livestream.com
 DOMAIN-SUFFIX,llnwd.net
 DOMAIN-SUFFIX,localnetwork.uop
-DOMAIN-SUFFIX,logimg.jp
 DOMAIN-SUFFIX,logmein.com
 DOMAIN-SUFFIX,m.me
 DOMAIN-SUFFIX,macid.co
@@ -901,7 +756,6 @@ DOMAIN-SUFFIX,madewithcode.com
 DOMAIN-SUFFIX,mail.ru
 DOMAIN-SUFFIX,mailchimp.com
 DOMAIN-SUFFIX,mailfence.com
-DOMAIN-SUFFIX,mangakakalot.com
 DOMAIN-SUFFIX,manhuaren.com
 DOMAIN-SUFFIX,manyvids.com
 DOMAIN-SUFFIX,marc.info
@@ -916,11 +770,8 @@ DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,mega.co.nz
 DOMAIN-SUFFIX,mega.nz
 DOMAIN-SUFFIX,megaupload.com
-DOMAIN-SUFFIX,mergersandinquisitions.com
 DOMAIN-SUFFIX,messenger.com
-DOMAIN-SUFFIX,metapix.net
 DOMAIN-SUFFIX,microsofttranslator.com
-DOMAIN-SUFFIX,mil
 DOMAIN-SUFFIX,mindnode.com
 DOMAIN-SUFFIX,mingpao.com
 DOMAIN-SUFFIX,mixi.jp
@@ -931,7 +782,6 @@ DOMAIN-SUFFIX,moves-export.com
 DOMAIN-SUFFIX,mp3buscador.com
 DOMAIN-SUFFIX,msedge.net
 DOMAIN-SUFFIX,mubi.com
-DOMAIN-SUFFIX,my5.tv
 DOMAIN-SUFFIX,myactimes.com
 DOMAIN-SUFFIX,mycnnews.com
 DOMAIN-SUFFIX,myfontastic.com
@@ -952,16 +802,6 @@ DOMAIN-SUFFIX,neowin.net
 DOMAIN-SUFFIX,netdna-cdn.com
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,netflix.net
-DOMAIN-SUFFIX,netflixdnstest0.com
-DOMAIN-SUFFIX,netflixdnstest1.com
-DOMAIN-SUFFIX,netflixdnstest2.com
-DOMAIN-SUFFIX,netflixdnstest3.com
-DOMAIN-SUFFIX,netflixdnstest4.com
-DOMAIN-SUFFIX,netflixdnstest5.com
-DOMAIN-SUFFIX,netflixdnstest6.com
-DOMAIN-SUFFIX,netflixdnstest7.com
-DOMAIN-SUFFIX,netflixdnstest8.com
-DOMAIN-SUFFIX,netflixdnstest9.com
 DOMAIN-SUFFIX,netmarble.com
 DOMAIN-SUFFIX,newipnow.com
 DOMAIN-SUFFIX,newsblur.com
@@ -974,11 +814,9 @@ DOMAIN-SUFFIX,nflximg.com
 DOMAIN-SUFFIX,nflximg.net
 DOMAIN-SUFFIX,nflxso.net
 DOMAIN-SUFFIX,nflxvideo.net
-DOMAIN-SUFFIX,nhk.or.jp
 DOMAIN-SUFFIX,nianticlabs.com
 DOMAIN-SUFFIX,nicovideo.jp
 DOMAIN-SUFFIX,nih.gov
-DOMAIN-SUFFIX,nii.ac.jp
 DOMAIN-SUFFIX,nikkei.com
 DOMAIN-SUFFIX,nimg.jp
 DOMAIN-SUFFIX,nintendo.com
@@ -1026,7 +864,6 @@ DOMAIN-SUFFIX,osxdaily.com
 DOMAIN-SUFFIX,outlook.com
 DOMAIN-SUFFIX,overcast.fm
 DOMAIN-SUFFIX,ow.ly
-DOMAIN-SUFFIX,p-cdn.us
 DOMAIN-SUFFIX,paddle.com
 DOMAIN-SUFFIX,paddleapi.com
 DOMAIN-SUFFIX,page.link
@@ -1066,7 +903,6 @@ DOMAIN-SUFFIX,playstation.com.hk
 DOMAIN-SUFFIX,playstation.net
 DOMAIN-SUFFIX,playstationnetwork.com
 DOMAIN-SUFFIX,plurk.com
-DOMAIN-SUFFIX,po18.tw
 DOMAIN-SUFFIX,pokemon.com
 DOMAIN-SUFFIX,polymer-project.org
 DOMAIN-SUFFIX,popo.tw
@@ -1082,7 +918,6 @@ DOMAIN-SUFFIX,proxifier.com
 DOMAIN-SUFFIX,pscdn.co
 DOMAIN-SUFFIX,pscp.tv
 DOMAIN-SUFFIX,psiphon3.com
-DOMAIN-SUFFIX,pt.im
 DOMAIN-SUFFIX,pts.org.tw
 DOMAIN-SUFFIX,ptt.cc
 DOMAIN-SUFFIX,pubnub.com
@@ -1134,7 +969,6 @@ DOMAIN-SUFFIX,shadowverse.jp
 DOMAIN-SUFFIX,sharethis.com
 DOMAIN-SUFFIX,shattered.io
 DOMAIN-SUFFIX,shazam.com
-DOMAIN-SUFFIX,shindanmaker.com
 DOMAIN-SUFFIX,shopee.tw
 DOMAIN-SUFFIX,shopeemobile.com
 DOMAIN-SUFFIX,shutterstock.com
@@ -1155,7 +989,6 @@ DOMAIN-SUFFIX,smartmailcloud.com
 DOMAIN-SUFFIX,smh.com.au
 DOMAIN-SUFFIX,snapchat.com
 DOMAIN-SUFFIX,sndcdn.com
-DOMAIN-SUFFIX,socdm.com
 DOMAIN-SUFFIX,sockslist.net
 DOMAIN-SUFFIX,softfamous.com
 DOMAIN-SUFFIX,sony.com
@@ -1164,15 +997,12 @@ DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 DOMAIN-SUFFIX,soundcloud.com
 DOMAIN-SUFFIX,sourceforge.net
 DOMAIN-SUFFIX,sowers.org.hk
-DOMAIN-SUFFIX,sparknotes.com
 DOMAIN-SUFFIX,speedsmart.net
 DOMAIN-SUFFIX,spiegel.de
 DOMAIN-SUFFIX,spike.com
-DOMAIN-SUFFIX,spoti.fi
 DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,squarespace.com
 DOMAIN-SUFFIX,ssa.gov
-DOMAIN-SUFFIX,ssrcloud.org
 DOMAIN-SUFFIX,sstatic.net
 DOMAIN-SUFFIX,st.luluku.pw
 DOMAIN-SUFFIX,stackoverflow.com
@@ -1182,7 +1012,6 @@ DOMAIN-SUFFIX,state.gov
 DOMAIN-SUFFIX,staticflickr.com
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,steemit.com
-DOMAIN-SUFFIX,steemitwallet.com
 DOMAIN-SUFFIX,storify.com
 DOMAIN-SUFFIX,straitstimes.com
 DOMAIN-SUFFIX,streamable.com
@@ -1223,7 +1052,6 @@ DOMAIN-SUFFIX,teddysun.com
 DOMAIN-SUFFIX,telegra.ph
 DOMAIN-SUFFIX,telegram.me
 DOMAIN-SUFFIX,telegram.org
-DOMAIN-SUFFIX,telephony.goog
 DOMAIN-SUFFIX,telesco.pe
 DOMAIN-SUFFIX,tensorflow.org
 DOMAIN-SUFFIX,textnow.me
@@ -1239,7 +1067,6 @@ DOMAIN-SUFFIX,thetvdb.com
 DOMAIN-SUFFIX,theverge.com
 DOMAIN-SUFFIX,thewgo.org
 DOMAIN-SUFFIX,thinkgeek.com
-DOMAIN-SUFFIX,tidal.com
 DOMAIN-SUFFIX,tiltbrush.com
 DOMAIN-SUFFIX,time.com
 DOMAIN-SUFFIX,timeinc.net
@@ -1316,7 +1143,6 @@ DOMAIN-SUFFIX,upmedia.mg
 DOMAIN-SUFFIX,uproxy.org
 DOMAIN-SUFFIX,uptodown.com
 DOMAIN-SUFFIX,upwork.com
-DOMAIN-SUFFIX,urbanairship.com
 DOMAIN-SUFFIX,urbandictionary.com
 DOMAIN-SUFFIX,urchin.com
 DOMAIN-SUFFIX,urlparser.com
@@ -1328,7 +1154,6 @@ DOMAIN-SUFFIX,uspto.gov
 DOMAIN-SUFFIX,ustream.tv
 DOMAIN-SUFFIX,uwants.com
 DOMAIN-SUFFIX,v.gd
-DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,v2fly.org
 DOMAIN-SUFFIX,v2ray.com
 DOMAIN-SUFFIX,van001.com
@@ -1386,7 +1211,6 @@ DOMAIN-SUFFIX,westpoint.edu
 DOMAIN-SUFFIX,whatbrowser.org
 DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,whatsapp.net
-DOMAIN-SUFFIX,whispersystems.org
 DOMAIN-SUFFIX,whoer.net
 DOMAIN-SUFFIX,widevine.com
 DOMAIN-SUFFIX,wikia.com
@@ -1405,7 +1229,6 @@ DOMAIN-SUFFIX,windows.net
 DOMAIN-SUFFIX,winudf.com
 DOMAIN-SUFFIX,wire.com
 DOMAIN-SUFFIX,wn.com
-DOMAIN-SUFFIX,wolframalpha.com
 DOMAIN-SUFFIX,wordpress.com
 DOMAIN-SUFFIX,workflow.is
 DOMAIN-SUFFIX,workflowy.com
@@ -1433,7 +1256,6 @@ DOMAIN-SUFFIX,xuite.net
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,yahoo.com
 DOMAIN-SUFFIX,yahooapis.com
-DOMAIN-SUFFIX,yandex.ru
 DOMAIN-SUFFIX,yasni.co.uk
 DOMAIN-SUFFIX,yastatic.net
 DOMAIN-SUFFIX,ycombinator.com
@@ -1464,107 +1286,29 @@ DOMAIN-SUFFIX,zeronet.io
 DOMAIN-SUFFIX,zeutch.com
 DOMAIN-SUFFIX,zoom.us
 DOMAIN-SUFFIX,zynamics.com
-IP-CIDR,103.102.166.0/24
 IP-CIDR,103.4.96.0/22
-IP-CIDR,104.244.40.0/21
-IP-CIDR,108.175.32.0/20
-IP-CIDR,108.177.8.0/21
 IP-CIDR,125.209.208.0/20
 IP-CIDR,129.134.0.0/17
 IP-CIDR,147.92.128.0/17
 IP-CIDR,149.154.160.0/20
 IP-CIDR,157.240.0.0/17
-IP-CIDR,169.45.248.118/32
-IP-CIDR,172.217.0.0/16
 IP-CIDR,173.194.0.0/16
 IP-CIDR,173.252.64.0/18
 IP-CIDR,179.60.192.0/22
-IP-CIDR,185.15.56.0/22
 IP-CIDR,185.60.216.0/22
-IP-CIDR,192.133.76.0/22
-IP-CIDR,192.173.64.0/18
-IP-CIDR,198.35.26.0/23
-IP-CIDR,198.38.96.0/19
-IP-CIDR,198.45.48.0/20
-IP-CIDR,199.16.156.0/22
-IP-CIDR,199.59.148.0/22
-IP-CIDR,199.96.56.0/21
-IP-CIDR,202.160.128.0/22
 IP-CIDR,204.15.20.0/22
-IP-CIDR,208.80.152.0/22
-IP-CIDR,209.237.192.0/19
-IP-CIDR,209.85.128.0/17
-IP-CIDR,216.239.32.0/19
-IP-CIDR,216.58.192.0/19
-IP-CIDR,23.246.0.0/18
-IP-CIDR,3.123.36.126/32
 IP-CIDR,31.13.24.0/21
 IP-CIDR,31.13.64.0/18
-IP-CIDR,35.157.215.84/32
-IP-CIDR,35.157.217.255/32
-IP-CIDR,35.190.247.0/24
-IP-CIDR,37.77.184.0/21
-IP-CIDR,45.57.0.0/17
 IP-CIDR,45.64.40.0/22
-IP-CIDR,54.162.243.80/32
-IP-CIDR,54.173.34.141/32
-IP-CIDR,54.235.23.242/32
-IP-CIDR,64.120.128.0/17
-IP-CIDR,64.233.160.0/19
-IP-CIDR,66.102.0.0/20
-IP-CIDR,66.197.128.0/17
 IP-CIDR,66.220.144.0/20
-IP-CIDR,66.249.80.0/20
-IP-CIDR,69.195.160.0/19
 IP-CIDR,69.63.176.0/20
-IP-CIDR,72.14.192.0/18
 IP-CIDR,74.119.76.0/22
 IP-CIDR,74.125.0.0/16
-IP-CIDR,91.198.174.0/24
 IP-CIDR6,2001:67c:4e8::/48
 IP-CIDR6,2001:b28:f23d::/48
 IP-CIDR6,2001:b28:f23f::/48
-PROCESS-NAME,lookupviewservice
-URL-REGEX,http:\/\/img\.sina\.com\/usweibo\/
-USER-AGENT,AbemaTV*
-USER-AGENT,All4*
-USER-AGENT,Anime*
-USER-AGENT,Argo*
-USER-AGENT,BBCiPlayer*
-USER-AGENT,DAZN*
-USER-AGENT,Deezer*
-USER-AGENT,Disney+*
-USER-AGENT,FOX%20NOW*
-USER-AGENT,HBO%20GO%20PROD%20HKG*
-USER-AGENT,HBO%20NOW*
-USER-AGENT,HWTVMobile*
-USER-AGENT,ITV_Player*
-USER-AGENT,InstantVideo.US*
-USER-AGENT,JOOX*
-USER-AGENT,KKTV*
-USER-AGENT,LINE%20TV*
-USER-AGENT,My5*
-USER-AGENT,Niconico*
-USER-AGENT,PBS*
-USER-AGENT,Pandora*
 USER-AGENT,PayPal*
-USER-AGENT,Prime%20Video*
 USER-AGENT,Roam*
-USER-AGENT,SoundCloud*
-USER-AGENT,Spotify*
-USER-AGENT,TIDAL*
-USER-AGENT,TaiwanGood*
-USER-AGENT,TwDramas
-USER-AGENT,Viu*
-USER-AGENT,ViuTV*
-USER-AGENT,WeMusic*
-USER-AGENT,YouTube*
-USER-AGENT,YouTubeMusic*
-USER-AGENT,com.google.ios.youtube*
-USER-AGENT,com.google.ios.youtubemusic*
-USER-AGENT,com.kktv.ios.kktv*
-USER-AGENT,encoreTVB*
-USER-AGENT,mytv*
 # Global 与 GlobalMedia 共 165 条规则重复
 DOMAIN,edge.api.brightcove.com
 DOMAIN,kktv-theater.kk.stream
@@ -2422,7 +2166,9 @@ DOMAIN-SUFFIX,telesco.pe
 IP-CIDR,149.154.160.0/20
 IP-CIDR6,2001:67c:4e8::/48
 IP-CIDR6,2001:b28:f23f::/48
-# Global 与 KakaoTalk 共 4 条规则重复
+# Global 与 KakaoTalk 共 6 条规则重复
+DOMAIN-SUFFIX,daum.net
+DOMAIN-SUFFIX,daumcdn.net
 DOMAIN-SUFFIX,kakao.co.kr
 DOMAIN-SUFFIX,kakao.com
 DOMAIN-SUFFIX,kakaocdn.net
@@ -2716,13 +2462,6 @@ DOMAIN-SUFFIX,kkbox.com
 DOMAIN-SUFFIX,kkbox.com.tw
 DOMAIN-SUFFIX,kktv.com.tw
 DOMAIN-SUFFIX,kktv.me
-# Global 与 Kakao 共 6 条规则重复
-DOMAIN-SUFFIX,daum.net
-DOMAIN-SUFFIX,daumcdn.net
-DOMAIN-SUFFIX,kakao.co.kr
-DOMAIN-SUFFIX,kakao.com
-DOMAIN-SUFFIX,kakaocdn.net
-DOMAIN-SUFFIX,kakaocorp.com
 # Global 与 LiTV 共 1 条规则重复
 DOMAIN-SUFFIX,litv.tv
 # Global 与 LineTV 共 4 条规则重复
@@ -2784,3 +2523,47 @@ DOMAIN-SUFFIX,theverge.com
 DOMAIN-SUFFIX,vox-cdn.com
 # Global 与 friDay 共 1 条规则重复
 DOMAIN-SUFFIX,friday.tw
+# Global 与 China 共 36 条规则重复
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bjango.com
+DOMAIN-SUFFIX,conoha.jp
+DOMAIN-SUFFIX,crashlytics.com
+DOMAIN-SUFFIX,culturedcode.com
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,dytt8.net
+DOMAIN-SUFFIX,getpricetag.com
+DOMAIN-SUFFIX,hotmail.com
+DOMAIN-SUFFIX,ip.sb
+DOMAIN-SUFFIX,licdn.com
+DOMAIN-SUFFIX,linkedin.com
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,live.net
+DOMAIN-SUFFIX,microsofttranslator.com
+DOMAIN-SUFFIX,msedge.net
+DOMAIN-SUFFIX,nssurge.com
+DOMAIN-SUFFIX,onenote.com
+DOMAIN-SUFFIX,outlook.com
+DOMAIN-SUFFIX,overcast.fm
+DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,paypalobjects.com
+DOMAIN-SUFFIX,playstation.com
+DOMAIN-SUFFIX,playstation.net
+DOMAIN-SUFFIX,playstationnetwork.com
+DOMAIN-SUFFIX,sciencemag.org
+DOMAIN-SUFFIX,sony.com
+DOMAIN-SUFFIX,sonyentertainmentnetwork.com
+DOMAIN-SUFFIX,symcd.com
+DOMAIN-SUFFIX,trello.com
+DOMAIN-SUFFIX,unity3d.com
+DOMAIN-SUFFIX,windows.com
+DOMAIN-SUFFIX,windows.net
+DOMAIN-SUFFIX,workflowy.com
+DOMAIN-SUFFIX,xboxlive.com
+USER-AGENT,PayPal*
+# Global 与 ChinaTest 共 6 条规则重复
+DOMAIN,apps.apple.com
+DOMAIN,itunes.apple.com
+DOMAIN,ocsp.apple.com
+DOMAIN-SUFFIX,dytt8.net
+DOMAIN-SUFFIX,joox.com
+DOMAIN-SUFFIX,manhuaren.com

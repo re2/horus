@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2021-02-02 09:36:10。
+最后检查时间：2021-02-02 13:16:10.404737。
 
 ## 规则统计
 
@@ -47,8 +47,8 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clas
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
 |  [Baidu](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Baidu)    | 265   | [7](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/TaiheMusic/TaiheMusic_Repeat.list)   |   2.64% |
-|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/ChinaTest)    | 71474   | [4](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/TaiheMusic/TaiheMusic_Repeat.list)   |   0.01% |
-|  [ChinaMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/ChinaMedia)    | 264   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/TaiheMusic/TaiheMusic_Repeat.list)   |   0.38% |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/ChinaTest)    | 71423   | [4](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/TaiheMusic/TaiheMusic_Repeat.list)   |   0.01% |
+|  [ChinaMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/ChinaMedia)    | 112   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/TaiheMusic/TaiheMusic_Repeat.list)   |   0.89% |
 ### 特别说明
 程序在实际运算时，会根据DOMAIN、DOMAIN-SUFFIX、IP-CIDR、IP-CIDR6间的包含关系进行去重，而出于运行效率考虑，重复规则只统计纯文本匹配，所以可能与实际效果有所出入，仅供参考。
 

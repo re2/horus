@@ -1,38 +1,8 @@
 # NAME: Steam 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-02 09:35:39
+# UPDATED: 2021-02-02 13:15:36.131239
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
-# Steam 与 China 共 8 条规则重复
-HOST-SUFFIX,steam-chat.com
-HOST-SUFFIX,steamcdn-a.akamaihd.net
-HOST-SUFFIX,steamcontent.com
-HOST-SUFFIX,steamgames.com
-HOST-SUFFIX,steampowered.com
-HOST-SUFFIX,steamstat.us
-HOST-SUFFIX,steamstatic.com
-HOST-SUFFIX,steamusercontent.com
-# Steam 与 ChinaTest 共 8 条规则重复
-HOST-SUFFIX,steam-chat.com
-HOST-SUFFIX,steamcdn-a.akamaihd.net
-HOST-SUFFIX,steamcontent.com
-HOST-SUFFIX,steamgames.com
-HOST-SUFFIX,steampowered.com
-HOST-SUFFIX,steamstat.us
-HOST-SUFFIX,steamstatic.com
-HOST-SUFFIX,steamusercontent.com
-# Steam 与 Game 共 11 条规则重复
-HOST-SUFFIX,fanatical.com
-HOST-SUFFIX,humblebundle.com
-HOST-SUFFIX,steam-chat.com
-HOST-SUFFIX,steamcdn-a.akamaihd.net
-HOST-SUFFIX,steamcommunity.com
-HOST-SUFFIX,steamcontent.com
-HOST-SUFFIX,steamgames.com
-HOST-SUFFIX,steampowered.com
-HOST-SUFFIX,steamstat.us
-HOST-SUFFIX,steamstatic.com
-HOST-SUFFIX,steamusercontent.com
 # Steam 与 SteamCN 共 14 条规则重复
 HOST-SUFFIX,csgo.wmsj.cn
 HOST-SUFFIX,dl.steam.ksyna.com
@@ -48,6 +18,18 @@ HOST-SUFFIX,steamstat.us
 HOST-SUFFIX,steamstatic.com
 HOST-SUFFIX,steamusercontent.com
 HOST-SUFFIX,steamuserimages-a.akamaihd.net
+# Steam 与 Game 共 11 条规则重复
+HOST-SUFFIX,fanatical.com
+HOST-SUFFIX,humblebundle.com
+HOST-SUFFIX,steam-chat.com
+HOST-SUFFIX,steamcdn-a.akamaihd.net
+HOST-SUFFIX,steamcommunity.com
+HOST-SUFFIX,steamcontent.com
+HOST-SUFFIX,steamgames.com
+HOST-SUFFIX,steampowered.com
+HOST-SUFFIX,steamstat.us
+HOST-SUFFIX,steamstatic.com
+HOST-SUFFIX,steamusercontent.com
 # Steam 与 Proxy 共 13 条规则重复
 HOST-SUFFIX,fanatical.com
 HOST-SUFFIX,humblebundle.com
@@ -64,3 +46,12 @@ HOST-SUFFIX,underlords.com
 HOST-SUFFIX,valvesoftware.com
 # Steam 与 Global 共 1 条规则重复
 HOST-SUFFIX,steamcommunity.com
+# Steam 与 China 共 8 条规则重复
+HOST-SUFFIX,steam-chat.com
+HOST-SUFFIX,steamcdn-a.akamaihd.net
+HOST-SUFFIX,steamcontent.com
+HOST-SUFFIX,steamgames.com
+HOST-SUFFIX,steampowered.com
+HOST-SUFFIX,steamstat.us
+HOST-SUFFIX,steamstatic.com
+HOST-SUFFIX,steamusercontent.com

@@ -1,15 +1,8 @@
 # NAME: Privacy 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-02 09:35:40
+# UPDATED: 2021-02-02 13:15:37.260168
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
-# Privacy 与 China 共 1 条规则重复
-DOMAIN,safebrowsing.googleapis.com
-# Privacy 与 ChinaTest 共 1 条规则重复
-DOMAIN,safebrowsing.googleapis.com
-# Privacy 与 Google 共 2 条规则重复
-DOMAIN-SUFFIX,google-analytics.com
-DOMAIN-SUFFIX,googletagmanager.com
 # Privacy 与 AdvertisingLite 共 2346 条规则重复
 DOMAIN-SUFFIX,0sbm.consobaby.co.uk
 DOMAIN-SUFFIX,0x1f4b0.com
@@ -2357,12 +2350,7 @@ DOMAIN-SUFFIX,zs.dhl.de
 DOMAIN-SUFFIX,zsi7.destinia.do
 DOMAIN-SUFFIX,zyq2.destinia.sk
 DOMAIN-SUFFIX,zz.bdstatic.com
-# Privacy 与 Advertising 共 2657 条规则重复
-DOMAIN,log-hl-ipv6.snssdk.com
-DOMAIN,log-lq.snssdk.com
-DOMAIN,log-va.tiktokv.com
-DOMAIN,log.byteoversea.com
-DOMAIN,log.tiktokv.com
+# Privacy 与 Advertising 共 2554 条规则重复
 DOMAIN-KEYWORD,log.umeng.com
 DOMAIN-KEYWORD,logs.umeng.com
 DOMAIN-KEYWORD,logs.umengcloud.com
@@ -2612,7 +2600,6 @@ DOMAIN-SUFFIX,analyzer.fc2.com
 DOMAIN-SUFFIX,analyzer2.fc2.com
 DOMAIN-SUFFIX,analyzer51.fc2.com
 DOMAIN-SUFFIX,analyzer52.fc2.com
-DOMAIN-SUFFIX,andoveradvertiser-gb.andoveradvertiser.co.uk
 DOMAIN-SUFFIX,anon-stats.eff.org
 DOMAIN-SUFFIX,anti-bot.baidu.com
 DOMAIN-SUFFIX,aorta.clickagy.com
@@ -2628,7 +2615,6 @@ DOMAIN-SUFFIX,as.mirapodo.de
 DOMAIN-SUFFIX,as.mytoys.de
 DOMAIN-SUFFIX,as.payback.it
 DOMAIN-SUFFIX,as.yomonda.de
-DOMAIN-SUFFIX,asianimage-gb.asianimage.co.uk
 DOMAIN-SUFFIX,astat.nikkei.com
 DOMAIN-SUFFIX,asumi.shinobi.jp
 DOMAIN-SUFFIX,at.pagesjaunes.fr
@@ -2665,11 +2651,8 @@ DOMAIN-SUFFIX,b.myspace.com
 DOMAIN-SUFFIX,bab.frb.io
 DOMAIN-SUFFIX,backstage.funnelenvy.com
 DOMAIN-SUFFIX,bacon.section.io
-DOMAIN-SUFFIX,banburycake-gb.banburycake.co.uk
 DOMAIN-SUFFIX,banstat.nadavi.net
 DOMAIN-SUFFIX,barium.cheezdev.com
-DOMAIN-SUFFIX,barryanddistrictnews-gb.barryanddistrictnews.co.uk
-DOMAIN-SUFFIX,basildonstandard-gb.basildonstandard.co.uk
 DOMAIN-SUFFIX,bat.adforum.com
 DOMAIN-SUFFIX,bat.bing.com
 DOMAIN-SUFFIX,bats.video.yahoo.com
@@ -2718,7 +2701,6 @@ DOMAIN-SUFFIX,besti.ga
 DOMAIN-SUFFIX,bglog.bitauto.com
 DOMAIN-SUFFIX,bhu9.bankia.es
 DOMAIN-SUFFIX,bi.medscape.com
-DOMAIN-SUFFIX,bicesteradvertiser-gb.bicesteradvertiser.net
 DOMAIN-SUFFIX,bidder.mediams.mb.softbank.jp
 DOMAIN-SUFFIX,binarybusiness.de
 DOMAIN-SUFFIX,bisko.mall.tv
@@ -2735,17 +2717,11 @@ DOMAIN-SUFFIX,bnr.alza.cz
 DOMAIN-SUFFIX,bogglecool.club
 DOMAIN-SUFFIX,bonsai.internetbrands.com
 DOMAIN-SUFFIX,boomerang.dell.com
-DOMAIN-SUFFIX,borehamwoodtimes-gb.borehamwoodtimes.co.uk
 DOMAIN-SUFFIX,bosetoo.club
 DOMAIN-SUFFIX,bournemouthecho-gb.bournemouthecho.co.uk
 DOMAIN-SUFFIX,brain.foresee.com
-DOMAIN-SUFFIX,braintreeandwithamtimes-gb.braintreeandwithamtimes.co.uk
 DOMAIN-SUFFIX,bravo.israelweather.co.il
-DOMAIN-SUFFIX,brentwoodlive-gb.brentwoodlive.co.uk
-DOMAIN-SUFFIX,bridgwatermercury-gb.bridgwatermercury.co.uk
-DOMAIN-SUFFIX,bridportnews-gb.bridportnews.co.uk
 DOMAIN-SUFFIX,bright.bncnt.com
-DOMAIN-SUFFIX,bromsgroveadvertiser-gb.bromsgroveadvertiser.co.uk
 DOMAIN-SUFFIX,browser-updater.yandex.net
 DOMAIN-SUFFIX,bt.mediaimpact.de
 DOMAIN-SUFFIX,btn.clickability.com
@@ -2755,8 +2731,6 @@ DOMAIN-SUFFIX,btstats.devtribu.fr
 DOMAIN-SUFFIX,bucksfreepress-gb.bucksfreepress.co.uk
 DOMAIN-SUFFIX,buf.lemonde.fr
 DOMAIN-SUFFIX,bulb.76.my
-DOMAIN-SUFFIX,burnhamandhighbridgeweeklynews-gb.burnhamandhighbridgeweeklynews.co.uk
-DOMAIN-SUFFIX,burytimes-gb.burytimes.co.uk
 DOMAIN-SUFFIX,bvr.ast.snva.jp
 DOMAIN-SUFFIX,bvr.snva.jp
 DOMAIN-SUFFIX,bzclk.baidu.com
@@ -2776,7 +2750,6 @@ DOMAIN-SUFFIX,c4dv.copinesdevoyage.com
 DOMAIN-SUFFIX,cache2.delvenetworks.com
 DOMAIN-SUFFIX,cadreon.s3.amazonaws.com
 DOMAIN-SUFFIX,cahf4eed.mooo.com
-DOMAIN-SUFFIX,campaignseries-gb.campaignseries.co.uk
 DOMAIN-SUFFIX,canvas-ping.conduit-data.com
 DOMAIN-SUFFIX,canvas-usage-v2.conduit-data.com
 DOMAIN-SUFFIX,capture.condenastdigital.com
@@ -2804,13 +2777,9 @@ DOMAIN-SUFFIX,cgicounter.puretec.de
 DOMAIN-SUFFIX,ch0p.darty.com
 DOMAIN-SUFFIX,chanalytics.merchantadvantage.com
 DOMAIN-SUFFIX,chanelventure.club
-DOMAIN-SUFFIX,chardandilminsternews-gb.chardandilminsternews.co.uk
 DOMAIN-SUFFIX,chartaca.com.s3.amazonaws.com
-DOMAIN-SUFFIX,chelmsfordweeklynews-gb.chelmsfordweeklynews.co.uk
 DOMAIN-SUFFIX,chkpt.zdnet.com
-DOMAIN-SUFFIX,chorleycitizen-gb.chorleycitizen.co.uk
 DOMAIN-SUFFIX,cl.expedia.com
-DOMAIN-SUFFIX,clactonandfrintongazette-gb.clactonandfrintongazette.co.uk
 DOMAIN-SUFFIX,clancy.spiceworks.com
 DOMAIN-SUFFIX,clarium.global.ssl.fastly.net
 DOMAIN-SUFFIX,clck.yandex.com
@@ -2933,7 +2902,6 @@ DOMAIN-SUFFIX,cookietracker.cloudapp.net
 DOMAIN-SUFFIX,cookiex.ngd.yahoo.com
 DOMAIN-SUFFIX,coolertracks.emailroi.com
 DOMAIN-SUFFIX,core.unit-sense.net
-DOMAIN-SUFFIX,cotswoldjournal-gb.cotswoldjournal.co.uk
 DOMAIN-SUFFIX,count.asnetworks.de
 DOMAIN-SUFFIX,count.carrierzone.com
 DOMAIN-SUFFIX,count.kandian.com
@@ -2955,7 +2923,6 @@ DOMAIN-SUFFIX,counter.blogoscoop.net
 DOMAIN-SUFFIX,counter.bloke.com
 DOMAIN-SUFFIX,counter.cam-content.com
 DOMAIN-SUFFIX,counter.cnw.cz
-DOMAIN-SUFFIX,counter.digits.com
 DOMAIN-SUFFIX,counter.drom.ru
 DOMAIN-SUFFIX,counter.entertainmentwise.com
 DOMAIN-SUFFIX,counter.hackers.lv
@@ -2997,7 +2964,6 @@ DOMAIN-SUFFIX,cpgo.avatacar.com
 DOMAIN-SUFFIX,cpt.itv.com
 DOMAIN-SUFFIX,cpx.golem.de
 DOMAIN-SUFFIX,cpxl.golem.de
-DOMAIN-SUFFIX,cravenherald-gb.cravenherald.co.uk
 DOMAIN-SUFFIX,creatives.sunmedia.tv
 DOMAIN-SUFFIX,creator.zmags.com
 DOMAIN-SUFFIX,crm-analytics.imweb.ru
@@ -3023,12 +2989,9 @@ DOMAIN-SUFFIX,d.ghostery.com
 DOMAIN-SUFFIX,d.haberler.com
 DOMAIN-SUFFIX,d.nativendo.de
 DOMAIN-SUFFIX,d.omsnative.de
-DOMAIN-SUFFIX,d.skk.moe
 DOMAIN-SUFFIX,d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com
 DOMAIN-SUFFIX,da.netease.com
 DOMAIN-SUFFIX,da.virginmedia.com
-DOMAIN-SUFFIX,dailyecho-gb.dailyecho.co.uk
-DOMAIN-SUFFIX,darlingtonandstocktontimes-gb.darlingtonandstocktontimes.co.uk
 DOMAIN-SUFFIX,data.alexa.com
 DOMAIN-SUFFIX,data.circulate.com
 DOMAIN-SUFFIX,data.econa.com
@@ -3080,14 +3043,11 @@ DOMAIN-SUFFIX,dmtracking.1688.com
 DOMAIN-SUFFIX,dmtracking2.alibaba.com
 DOMAIN-SUFFIX,doa1.immobilier-neuf.com
 DOMAIN-SUFFIX,docileyellow.club
-DOMAIN-SUFFIX,dorsetecho-gb.dorsetecho.co.uk
 DOMAIN-SUFFIX,dot-stat.radikal.ru
 DOMAIN-SUFFIX,dp.shoprunner.com
 DOMAIN-SUFFIX,dpm.bluray-disc.de
-DOMAIN-SUFFIX,droitwichadvertiser-gb.droitwichadvertiser.co.uk
 DOMAIN-SUFFIX,dsg.interia.pl
 DOMAIN-SUFFIX,dt.nrjmobile.fr
-DOMAIN-SUFFIX,dudleynews-gb.dudleynews.co.uk
 DOMAIN-SUFFIX,dumpster.cam4.com
 DOMAIN-SUFFIX,dv.chemie.de
 DOMAIN-SUFFIX,dv59b.montecarlomeeting.com
@@ -3144,8 +3104,6 @@ DOMAIN-SUFFIX,ea.vente-unique.ch
 DOMAIN-SUFFIX,ea.vente-unique.com
 DOMAIN-SUFFIX,ea.vente-unique.lu
 DOMAIN-SUFFIX,ea.warnerbros.fr
-DOMAIN-SUFFIX,ealingtimes-gb.ealingtimes.co.uk
-DOMAIN-SUFFIX,echo-news-gb.echo-news.co.uk
 DOMAIN-SUFFIX,eclick.baidu.com
 DOMAIN-SUFFIX,ecomm.events
 DOMAIN-SUFFIX,edge.sqweb.com
@@ -3163,7 +3121,6 @@ DOMAIN-SUFFIX,emarketing.rmauctions.com
 DOMAIN-SUFFIX,emng.libero.it
 DOMAIN-SUFFIX,encoderfarmstatsnew.servicebus.windows.net
 DOMAIN-SUFFIX,encoding.ovh
-DOMAIN-SUFFIX,enfieldindependent-gb.enfieldindependent.co.uk
 DOMAIN-SUFFIX,engage-cdn.schibsted.media
 DOMAIN-SUFFIX,engagefront.meteomedia.com
 DOMAIN-SUFFIX,engagefront.theweathernetwork.com
@@ -3174,7 +3131,6 @@ DOMAIN-SUFFIX,ens.tagblatt.ch
 DOMAIN-SUFFIX,entryhit.wp.pl
 DOMAIN-SUFFIX,ep00.epimg.net
 DOMAIN-SUFFIX,epl.paypal-communication.com
-DOMAIN-SUFFIX,eppingforestguardian-gb.eppingforestguardian.co.uk
 DOMAIN-SUFFIX,epro.sogou.com
 DOMAIN-SUFFIX,eproof.drudgereport.com
 DOMAIN-SUFFIX,error.videonow.ru
@@ -3247,7 +3203,6 @@ DOMAIN-SUFFIX,events.tubecup.org
 DOMAIN-SUFFIX,events.turbosquid.com
 DOMAIN-SUFFIX,events.whisk.com
 DOMAIN-SUFFIX,events.yourcx.io
-DOMAIN-SUFFIX,eveshamjournal-gb.eveshamjournal.co.uk
 DOMAIN-SUFFIX,evisit.exeter.ac.uk
 DOMAIN-SUFFIX,evnt.iol.it
 DOMAIN-SUFFIX,exd4.destinia.com.au
@@ -3257,7 +3212,6 @@ DOMAIN-SUFFIX,expdb2.msn.com
 DOMAIN-SUFFIX,f.staticlp.com
 DOMAIN-SUFFIX,f1tbit.com
 DOMAIN-SUFFIX,f7ds.liberation.fr
-DOMAIN-SUFFIX,falmouthpacket-gb.falmouthpacket.co.uk
 DOMAIN-SUFFIX,fast.forbes.com
 DOMAIN-SUFFIX,fathom.pixeldrain.com
 DOMAIN-SUFFIX,fathom.status.im
@@ -3276,7 +3230,6 @@ DOMAIN-SUFFIX,fourier.taobao.com
 DOMAIN-SUFFIX,fourmtagservices.appspot.com
 DOMAIN-SUFFIX,fp.measure.office.com
 DOMAIN-SUFFIX,fpa-events.arstechnica.com
-DOMAIN-SUFFIX,freepressseries-gb.freepressseries.co.uk
 DOMAIN-SUFFIX,fresh.techdirt.com
 DOMAIN-SUFFIX,fsm.lapresse.ca
 DOMAIN-SUFFIX,fsz1.francoisesaget.com
@@ -3327,8 +3280,6 @@ DOMAIN-SUFFIX,ganon.yahoo.com
 DOMAIN-SUFFIX,gateway.foresee.com
 DOMAIN-SUFFIX,gay-hotvideo.net
 DOMAIN-SUFFIX,gazette-news-gb.gazette-news.co.uk
-DOMAIN-SUFFIX,gazetteherald-gb.gazetteherald.co.uk
-DOMAIN-SUFFIX,gazetteseries-gb.gazetteseries.co.uk
 DOMAIN-SUFFIX,gc.newsweek.com
 DOMAIN-SUFFIX,gcpdata.telegraph.co.uk
 DOMAIN-SUFFIX,gdm1.toner.fr
@@ -3387,30 +3338,21 @@ DOMAIN-SUFFIX,green-griffin-860.appspot.com
 DOMAIN-SUFFIX,greenocktelegraph-gb.greenocktelegraph.co.uk
 DOMAIN-SUFFIX,gsp1.baidu.com
 DOMAIN-SUFFIX,gtrk.s3.amazonaws.com
-DOMAIN-SUFFIX,guardian-series-gb.guardian-series.co.uk
 DOMAIN-SUFFIX,guq9.vente-unique.it
 DOMAIN-SUFFIX,gx.idg.se
 DOMAIN-SUFFIX,h.cliphunter.com
 DOMAIN-SUFFIX,h.imedia.cz
-DOMAIN-SUFFIX,halesowennews-gb.halesowennews.co.uk
 DOMAIN-SUFFIX,halospring.club
-DOMAIN-SUFFIX,halsteadgazette-gb.halsteadgazette.co.uk
-DOMAIN-SUFFIX,hampshirechronicle-gb.hampshirechronicle.co.uk
 DOMAIN-SUFFIX,haostat.qihoo.com
 DOMAIN-SUFFIX,happen.spkt.io
-DOMAIN-SUFFIX,harrowtimes-gb.harrowtimes.co.uk
 DOMAIN-SUFFIX,harvester.eu.square-enix.com
 DOMAIN-SUFFIX,harvester.ext.square-enix-europe.com
 DOMAIN-SUFFIX,harvester.hbpl.co.uk
-DOMAIN-SUFFIX,harwichandmanningtreestandard-gb.harwichandmanningtreestandard.co.uk
 DOMAIN-SUFFIX,heartbeat.flickr.com
 DOMAIN-SUFFIX,hello.staticstuff.net
 DOMAIN-SUFFIX,heraldscotland-gb.heraldscotland.com
-DOMAIN-SUFFIX,heraldseries-gb.heraldseries.co.uk
-DOMAIN-SUFFIX,herefordtimes-gb.herefordtimes.com
 DOMAIN-SUFFIX,hermes.theglobeandmail.com
 DOMAIN-SUFFIX,hide.ovh
-DOMAIN-SUFFIX,hillingdontimes-gb.hillingdontimes.co.uk
 DOMAIN-SUFFIX,hit.interia.pl
 DOMAIN-SUFFIX,hit.meta.ua
 DOMAIN-SUFFIX,hit.mybestpro.com
@@ -3441,7 +3383,6 @@ DOMAIN-SUFFIX,icu.getstorybox.com
 DOMAIN-SUFFIX,idt.id-news.net
 DOMAIN-SUFFIX,iedc.fitbit.com
 DOMAIN-SUFFIX,igrid.org
-DOMAIN-SUFFIX,ilkleygazette-gb.ilkleygazette.co.uk
 DOMAIN-SUFFIX,im.aol.de
 DOMAIN-SUFFIX,imgstat.baidu.com
 DOMAIN-SUFFIX,imgtrack.domainmarket.com
@@ -3487,11 +3428,9 @@ DOMAIN-SUFFIX,kbn.korben.info
 DOMAIN-SUFFIX,keighleynews-gb.keighleynews.co.uk
 DOMAIN-SUFFIX,keyword.daumdn.com
 DOMAIN-SUFFIX,keywords.complex.com
-DOMAIN-SUFFIX,kidderminstershuttle-gb.kidderminstershuttle.co.uk
 DOMAIN-SUFFIX,kiks.auto.ru
 DOMAIN-SUFFIX,kinesisproxy.hearstlabs.com
 DOMAIN-SUFFIX,kitchen.juicer.cc
-DOMAIN-SUFFIX,knutsfordguardian-gb.knutsfordguardian.co.uk
 DOMAIN-SUFFIX,kropka.onet.pl
 DOMAIN-SUFFIX,ktracker.kumparan.com
 DOMAIN-SUFFIX,kungfupan.club
@@ -3500,13 +3439,10 @@ DOMAIN-SUFFIX,l.m.naver.com
 DOMAIN-SUFFIX,l.ooyala.com
 DOMAIN-SUFFIX,l.player.ooyala.com
 DOMAIN-SUFFIX,laas.americanexpress.com
-DOMAIN-SUFFIX,lancashiretelegraph-gb.lancashiretelegraph.co.uk
 DOMAIN-SUFFIX,laurel.macrovision.com
 DOMAIN-SUFFIX,laurel.rovicorp.com
 DOMAIN-SUFFIX,lcs.livedoor.net
 DOMAIN-SUFFIX,leadtracking.plumvoice.com
-DOMAIN-SUFFIX,ledburyreporter-gb.ledburyreporter.co.uk
-DOMAIN-SUFFIX,leighjournal-gb.leighjournal.co.uk
 DOMAIN-SUFFIX,lem.nouvelobs.com
 DOMAIN-SUFFIX,leono.club
 DOMAIN-SUFFIX,lg.tr.pandora.tv
@@ -3602,15 +3538,12 @@ DOMAIN-SUFFIX,loxodo-analytics.ext.nile.works
 DOMAIN-SUFFIX,lslmetrics.djlmgdigital.com
 DOMAIN-SUFFIX,lt.tritondigital.com
 DOMAIN-SUFFIX,lucid.mjhassoc.com
-DOMAIN-SUFFIX,ludlowadvertiser-gb.ludlowadvertiser.co.uk
 DOMAIN-SUFFIX,lunametrics.wpengine.netdna-cdn.com
 DOMAIN-SUFFIX,m.trb.com
 DOMAIN-SUFFIX,ma.redhat.com
 DOMAIN-SUFFIX,ma.register.it
 DOMAIN-SUFFIX,magnify360-cdn.s3.amazonaws.com
 DOMAIN-SUFFIX,makedosupport.club
-DOMAIN-SUFFIX,maldonandburnhamstandard-gb.maldonandburnhamstandard.co.uk
-DOMAIN-SUFFIX,malverngazette-gb.malverngazette.co.uk
 DOMAIN-SUFFIX,mandatebright.club
 DOMAIN-SUFFIX,mar.vip.com
 DOMAIN-SUFFIX,mark.isbank.com.tr
@@ -3631,7 +3564,6 @@ DOMAIN-SUFFIX,measure.refinery89.com
 DOMAIN-SUFFIX,mediametrics.mpsa.com
 DOMAIN-SUFFIX,mediator.mail.ru
 DOMAIN-SUFFIX,mercadolibre.com/tracks
-DOMAIN-SUFFIX,messengernewspapers-gb.messengernewspapers.co.uk
 DOMAIN-SUFFIX,met.vgwort.de
 DOMAIN-SUFFIX,metric.inetcore.com
 DOMAIN-SUFFIX,metric.nwsource.com
@@ -3660,7 +3592,6 @@ DOMAIN-SUFFIX,metrixlablw.customers.luna.net
 DOMAIN-SUFFIX,mfio.cf
 DOMAIN-SUFFIX,mi-de-ner-nis3.info
 DOMAIN-SUFFIX,migrati.xyz
-DOMAIN-SUFFIX,milfordmercury-gb.milfordmercury.co.uk
 DOMAIN-SUFFIX,mine.nahnoji.cz
 DOMAIN-SUFFIX,minerad.com
 DOMAIN-SUFFIX,mj23.eulerian.com
@@ -3724,7 +3655,6 @@ DOMAIN-SUFFIX,neocounter.neoworx-blog-tools.net
 DOMAIN-SUFFIX,net.haier.com
 DOMAIN-SUFFIX,netc.sfr.fr
 DOMAIN-SUFFIX,never.ovh
-DOMAIN-SUFFIX,newsshopper-gb.newsshopper.co.uk
 DOMAIN-SUFFIX,nexioniect.com
 DOMAIN-SUFFIX,nexttime.ovh
 DOMAIN-SUFFIX,nil.naver.com
@@ -3734,7 +3664,6 @@ DOMAIN-SUFFIX,nmtracking.netflix.com
 DOMAIN-SUFFIX,noa0.compteczam.fr
 DOMAIN-SUFFIX,noflake-aggregator-http.narvar.com
 DOMAIN-SUFFIX,nol.yahoo.com
-DOMAIN-SUFFIX,northwichguardian-gb.northwichguardian.co.uk
 DOMAIN-SUFFIX,nova.dice.net
 DOMAIN-SUFFIX,nrg.red-by-sfr.fr
 DOMAIN-SUFFIX,ns.rvmkitt.com
@@ -3767,7 +3696,6 @@ DOMAIN-SUFFIX,origin.chron.com
 DOMAIN-SUFFIX,orionis.techradar.com
 DOMAIN-SUFFIX,osd.oxygem.it
 DOMAIN-SUFFIX,outal.origo.hu
-DOMAIN-SUFFIX,oxfordmail-gb.oxfordmail.co.uk
 DOMAIN-SUFFIX,oxifwsabgd.nzz.ch
 DOMAIN-SUFFIX,p-log.ykimg.com
 DOMAIN-SUFFIX,p.adbrn.com
@@ -3799,7 +3727,6 @@ DOMAIN-SUFFIX,pclick.internal.yahoo.com
 DOMAIN-SUFFIX,pclick.yahoo.com
 DOMAIN-SUFFIX,pdc.dmleonyc.com
 DOMAIN-SUFFIX,pebed.dm.gg
-DOMAIN-SUFFIX,penarthtimes-gb.penarthtimes.co.uk
 DOMAIN-SUFFIX,perf.dugout.com
 DOMAIN-SUFFIX,performanceplay.co.kr
 DOMAIN-SUFFIX,performances.bestofmedia.com
@@ -3862,7 +3789,6 @@ DOMAIN-SUFFIX,pixel.prosieben.de
 DOMAIN-SUFFIX,pixel.roymorgan.com
 DOMAIN-SUFFIX,pixel.s3xified.com
 DOMAIN-SUFFIX,pixel.safe-installation.com
-DOMAIN-SUFFIX,pixel.smartmedia.tj
 DOMAIN-SUFFIX,pixel.solvemedia.com
 DOMAIN-SUFFIX,pixel.spotify.com
 DOMAIN-SUFFIX,pixel.sprinklr.com
@@ -3891,7 +3817,6 @@ DOMAIN-SUFFIX,prd-collector-anon.ex.co
 DOMAIN-SUFFIX,prd-collector-anon.playbuzz.com
 DOMAIN-SUFFIX,prd-collector-auth.playbuzz.com
 DOMAIN-SUFFIX,presentationtracking.netflix.com
-DOMAIN-SUFFIX,prestwichandwhitefieldguide-gb.prestwichandwhitefieldguide.co.uk
 DOMAIN-SUFFIX,prism.pandora.tv
 DOMAIN-SUFFIX,proac.nationwide.com
 DOMAIN-SUFFIX,proactive.base.de
@@ -3935,7 +3860,6 @@ DOMAIN-SUFFIX,r.my.com
 DOMAIN-SUFFIX,radar.imgsmail.ru
 DOMAIN-SUFFIX,ramp.purch.com
 DOMAIN-SUFFIX,rand.com.ru
-DOMAIN-SUFFIX,ranking.apis.sankei-digital.co.jp
 DOMAIN-SUFFIX,rat.rakuten.co.jp
 DOMAIN-SUFFIX,rbc.magna.ru
 DOMAIN-SUFFIX,rc.vtex.com.br
@@ -3950,9 +3874,7 @@ DOMAIN-SUFFIX,reauthenticator.com
 DOMAIN-SUFFIX,rec.udn.com
 DOMAIN-SUFFIX,reco.hardsextube.com
 DOMAIN-SUFFIX,recommendation.24.com
-DOMAIN-SUFFIX,redditchadvertiser-gb.redditchadvertiser.co.uk
 DOMAIN-SUFFIX,redeye.williamhill.com
-DOMAIN-SUFFIX,redhillandreigatelife-gb.redhillandreigatelife.co.uk
 DOMAIN-SUFFIX,ref.dealerinspire.com
 DOMAIN-SUFFIX,refer.ccbill.com
 DOMAIN-SUFFIX,referer.pixplug.in
@@ -3978,11 +3900,9 @@ DOMAIN-SUFFIX,retargeting.vistaprint.com
 DOMAIN-SUFFIX,retrack.q-divisioncdn.de
 DOMAIN-SUFFIX,revsci.tvguide.com
 DOMAIN-SUFFIX,rich-agent.s3.amazonaws.com
-DOMAIN-SUFFIX,richmondandtwickenhamtimes-gb.richmondandtwickenhamtimes.co.uk
 DOMAIN-SUFFIX,rl.heise.de
 DOMAIN-SUFFIX,rlinks.one.in
 DOMAIN-SUFFIX,rok.com.com
-DOMAIN-SUFFIX,romseyadvertiser-gb.romseyadvertiser.co.uk
 DOMAIN-SUFFIX,rps-p2.rockpapershotgun.com
 DOMAIN-SUFFIX,rps-uk.rockpapershotgun.com
 DOMAIN-SUFFIX,rs.mail.ru
@@ -4001,7 +3921,6 @@ DOMAIN-SUFFIX,rum.kobo.com
 DOMAIN-SUFFIX,rum.marquardmedia.hu
 DOMAIN-SUFFIX,rum.minutemediaservices.com
 DOMAIN-SUFFIX,rum.nccgroup-webperf.com
-DOMAIN-SUFFIX,runcornandwidnesworld-gb.runcornandwidnesworld.co.uk
 DOMAIN-SUFFIX,rvkcpqz.com
 DOMAIN-SUFFIX,rvv.emol.com
 DOMAIN-SUFFIX,s.360.cn
@@ -4021,7 +3940,6 @@ DOMAIN-SUFFIX,sa135.kiro7.com
 DOMAIN-SUFFIX,sa135.macworld.co.uk
 DOMAIN-SUFFIX,sa135.wsbtv.com
 DOMAIN-SUFFIX,sal.isanook.com
-DOMAIN-SUFFIX,salisburyjournal-gb.salisburyjournal.co.uk
 DOMAIN-SUFFIX,sana.newsinc.com.s3.amazonaws.com
 DOMAIN-SUFFIX,santuforward.club
 DOMAIN-SUFFIX,sat.sanoma.fi
@@ -4070,7 +3988,6 @@ DOMAIN-SUFFIX,smetrics.delta.com
 DOMAIN-SUFFIX,smrt.as
 DOMAIN-SUFFIX,snowplow.swm.digital
 DOMAIN-SUFFIX,snr4.canalplus.com
-DOMAIN-SUFFIX,somersetcountygazette-gb.somersetcountygazette.co.uk
 DOMAIN-SUFFIX,somniture.theglobeandmail.com
 DOMAIN-SUFFIX,soodatmish.com
 DOMAIN-SUFFIX,sourcepoint-mms.aetv.com
@@ -4078,10 +3995,6 @@ DOMAIN-SUFFIX,sourcepoint-mms.history.com
 DOMAIN-SUFFIX,sourcepoint-mms.mylifetime.com
 DOMAIN-SUFFIX,sourcepoint.dexerto.com
 DOMAIN-SUFFIX,sourcepoint.vice.com
-DOMAIN-SUFFIX,southendstandard-gb.southendstandard.co.uk
-DOMAIN-SUFFIX,southwalesargus-gb.southwalesargus.co.uk
-DOMAIN-SUFFIX,southwalesguardian-gb.southwalesguardian.co.uk
-DOMAIN-SUFFIX,southwestfarmer-gb.southwestfarmer.co.uk
 DOMAIN-SUFFIX,sp-mms.weather.com
 DOMAIN-SUFFIX,sp.app.com
 DOMAIN-SUFFIX,sp.argusleader.com
@@ -4209,7 +4122,6 @@ DOMAIN-SUFFIX,st.cdnco.us
 DOMAIN-SUFFIX,st.linkfire.com
 DOMAIN-SUFFIX,st.tmgrup.com.tr
 DOMAIN-SUFFIX,stadig.ifeng.com
-DOMAIN-SUFFIX,stalbansreview-gb.stalbansreview.co.uk
 DOMAIN-SUFFIX,stan.xing.com
 DOMAIN-SUFFIX,stat.1688.com
 DOMAIN-SUFFIX,stat.acca.it
@@ -4396,7 +4308,6 @@ DOMAIN-SUFFIX,statystyki.panelek.com
 DOMAIN-SUFFIX,stbt.coupons.com
 DOMAIN-SUFFIX,stg-data-collector.playbuzz.com
 DOMAIN-SUFFIX,sthelensstar-gb.sthelensstar.co.uk
-DOMAIN-SUFFIX,stourbridgenews-gb.stourbridgenews.co.uk
 DOMAIN-SUFFIX,str1kee.com
 DOMAIN-SUFFIX,sts.eccmp.com
 DOMAIN-SUFFIX,subpixel.4players.de
@@ -4404,7 +4315,6 @@ DOMAIN-SUFFIX,sugar.gameforge.com
 DOMAIN-SUFFIX,sugs.m.sm.cn
 DOMAIN-SUFFIX,supertraders.club
 DOMAIN-SUFFIX,supertraders.info
-DOMAIN-SUFFIX,surreycomet-gb.surreycomet.co.uk
 DOMAIN-SUFFIX,survey.interquest.com
 DOMAIN-SUFFIX,surveys.cnet.com
 DOMAIN-SUFFIX,swindonadvertiser-gb.swindonadvertiser.co.uk
@@ -4537,18 +4447,9 @@ DOMAIN-SUFFIX,tesla.oscaro.com
 DOMAIN-SUFFIX,testcddc.atclouddev.net
 DOMAIN-SUFFIX,tf.360.cn
 DOMAIN-SUFFIX,theargus-gb.theargus.co.uk
-DOMAIN-SUFFIX,theboltonnews-gb.theboltonnews.co.uk
 DOMAIN-SUFFIX,thenational-gb.thenational.scot
-DOMAIN-SUFFIX,thenorthernecho-gb.thenorthernecho.co.uk
-DOMAIN-SUFFIX,thescottishfarmer-gb.thescottishfarmer.co.uk
-DOMAIN-SUFFIX,thetelegraphandargus-gb.thetelegraphandargus.co.uk
-DOMAIN-SUFFIX,thetottenhamindependent-gb.thetottenhamindependent.co.uk
 DOMAIN-SUFFIX,thetradedesk-tags.s3.amazonaws.com
-DOMAIN-SUFFIX,thewestmorlandgazette-gb.thewestmorlandgazette.co.uk
-DOMAIN-SUFFIX,thisisthewestcountry-gb.thisisthewestcountry.co.uk
-DOMAIN-SUFFIX,thurrockgazette-gb.thurrockgazette.co.uk
 DOMAIN-SUFFIX,tim.nextinpact.com
-DOMAIN-SUFFIX,times-series-gb.times-series.co.uk
 DOMAIN-SUFFIX,timeslogtn.timesnow.tv
 DOMAIN-SUFFIX,timestrends.indiatimes.com
 DOMAIN-SUFFIX,timestrends.timesnow.tv
@@ -4933,10 +4834,7 @@ DOMAIN-SUFFIX,wa.gmx.fr
 DOMAIN-SUFFIX,wa.metro.co.uk
 DOMAIN-SUFFIX,wa.ui-portal.de
 DOMAIN-SUFFIX,wal.wolfram.com
-DOMAIN-SUFFIX,wandsworthguardian-gb.wandsworthguardian.co.uk
 DOMAIN-SUFFIX,warp.prnewswire.co.uk
-DOMAIN-SUFFIX,warringtonguardian-gb.warringtonguardian.co.uk
-DOMAIN-SUFFIX,watfordobserver-gb.watfordobserver.co.uk
 DOMAIN-SUFFIX,watson.live.com
 DOMAIN-SUFFIX,wbdds.allocine.fr
 DOMAIN-SUFFIX,wblt.oui.sncf
@@ -4963,16 +4861,9 @@ DOMAIN-SUFFIX,webstats.thaindian.com
 DOMAIN-SUFFIX,webstats.thesoul-publishing.com
 DOMAIN-SUFFIX,webtracker.apicasystem.com
 DOMAIN-SUFFIX,webts.adac.de
-DOMAIN-SUFFIX,westerntelegraph-gb.westerntelegraph.co.uk
-DOMAIN-SUFFIX,wharfedaleobserver-gb.wharfedaleobserver.co.uk
-DOMAIN-SUFFIX,wiltsglosstandard-gb.wiltsglosstandard.co.uk
 DOMAIN-SUFFIX,wiltshiretimes-gb.wiltshiretimes.co.uk
-DOMAIN-SUFFIX,wimbledonguardian-gb.wimbledonguardian.co.uk
 DOMAIN-SUFFIX,win.staticstuff.net
-DOMAIN-SUFFIX,winsfordguardian-gb.winsfordguardian.co.uk
-DOMAIN-SUFFIX,wirralglobe-gb.wirralglobe.co.uk
 DOMAIN-SUFFIX,wisteria-js.excite.co.jp
-DOMAIN-SUFFIX,witneygazette-gb.witneygazette.co.uk
 DOMAIN-SUFFIX,wkctj.baidu.com
 DOMAIN-SUFFIX,wla.vivaldi.com
 DOMAIN-SUFFIX,worcesternews-gb.worcesternews.co.uk
@@ -4995,7 +4886,6 @@ DOMAIN-SUFFIX,xr.shinobi.jp
 DOMAIN-SUFFIX,xtrack.capetown.gov.za
 DOMAIN-SUFFIX,xy33.smallable.com
 DOMAIN-SUFFIX,yast.rutube.ru
-DOMAIN-SUFFIX,yeovilexpress-gb.yeovilexpress.co.uk
 DOMAIN-SUFFIX,yh6u.dealeusedevoyages.com
 DOMAIN-SUFFIX,yjtag.yahoo.co.jp
 DOMAIN-SUFFIX,ymprove.web.de
@@ -5015,15 +4905,7 @@ DOMAIN-SUFFIX,zs.dhl.de
 DOMAIN-SUFFIX,zsi7.destinia.do
 DOMAIN-SUFFIX,zyq2.destinia.sk
 DOMAIN-SUFFIX,zz.bdstatic.com
-# Privacy 与 AdvertisingTest 共 2589 条规则重复
-DOMAIN,log-hl-ipv6.snssdk.com
-DOMAIN,log-lq.snssdk.com
-DOMAIN,log-va.tiktokv.com
-DOMAIN,log.byteoversea.com
-DOMAIN,log.tiktokv.com
-DOMAIN-KEYWORD,log.umeng.com
-DOMAIN-KEYWORD,logs.umeng.com
-DOMAIN-KEYWORD,logs.umengcloud.com
+# Privacy 与 AdvertisingTest 共 2563 条规则重复
 DOMAIN-SUFFIX,0sbm.consobaby.co.uk
 DOMAIN-SUFFIX,0x1f4b0.com
 DOMAIN-SUFFIX,1l-hit.mail.ru
@@ -5169,7 +5051,6 @@ DOMAIN-SUFFIX,analytics.ladmedia.fr
 DOMAIN-SUFFIX,analytics.linktr.ee
 DOMAIN-SUFFIX,analytics.live.com
 DOMAIN-SUFFIX,analytics.liveact.cri-mw.jp
-DOMAIN-SUFFIX,analytics.livehindustan.com
 DOMAIN-SUFFIX,analytics.livestream.com
 DOMAIN-SUFFIX,analytics.mailmunch.co
 DOMAIN-SUFFIX,analytics.matchbin.com
@@ -5349,7 +5230,6 @@ DOMAIN-SUFFIX,beacon.statful.com
 DOMAIN-SUFFIX,beacon.thred.woven.com
 DOMAIN-SUFFIX,beacon.toyota.co.jp
 DOMAIN-SUFFIX,beacon.viewlift.com
-DOMAIN-SUFFIX,beacon.watch.impress.co.jp
 DOMAIN-SUFFIX,beacon.wikia-services.com
 DOMAIN-SUFFIX,beacon.www.theguardian.com
 DOMAIN-SUFFIX,beacons.mediamelon.com
@@ -5656,7 +5536,6 @@ DOMAIN-SUFFIX,cyrstalventure.club
 DOMAIN-SUFFIX,d.ghostery.com
 DOMAIN-SUFFIX,d.haberler.com
 DOMAIN-SUFFIX,d.omsnative.de
-DOMAIN-SUFFIX,d.skk.moe
 DOMAIN-SUFFIX,d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com
 DOMAIN-SUFFIX,da.netease.com
 DOMAIN-SUFFIX,da.virginmedia.com
@@ -5820,11 +5699,6 @@ DOMAIN-SUFFIX,et.unclejeans.com
 DOMAIN-SUFFIX,etacontent.com
 DOMAIN-SUFFIX,etui.fs.ml.com
 DOMAIN-SUFFIX,eu.groupondata.com
-DOMAIN-SUFFIX,eu1l.dotabuff.com
-DOMAIN-SUFFIX,eu1l.overbuff.com
-DOMAIN-SUFFIX,eu1l.speedrun.com
-DOMAIN-SUFFIX,eu1l.trackdota.com
-DOMAIN-SUFFIX,eu1l.valorbuff.com
 DOMAIN-SUFFIX,eulerian.belambra.be
 DOMAIN-SUFFIX,eulerian.belambra.fr
 DOMAIN-SUFFIX,eulerian.brandalley.fr
@@ -6104,9 +5978,7 @@ DOMAIN-SUFFIX,itracking.fccinteractive.com
 DOMAIN-SUFFIX,jac.yahoosandbox.com
 DOMAIN-SUFFIX,javascriptcounter.appspot.com
 DOMAIN-SUFFIX,jelly.mdhv.io
-DOMAIN-SUFFIX,jen.jiji.com
 DOMAIN-SUFFIX,jppolid-track.trackprod.integration.jppol.dk
-DOMAIN-SUFFIX,k.kolplay.com
 DOMAIN-SUFFIX,k.rueducommerce.fr
 DOMAIN-SUFFIX,k.streamrail.com
 DOMAIN-SUFFIX,kalstats.kaltura.com
@@ -6189,6 +6061,7 @@ DOMAIN-SUFFIX,log.snapdeal.com
 DOMAIN-SUFFIX,log.suchen.de
 DOMAIN-SUFFIX,log.superweb.ws
 DOMAIN-SUFFIX,log.sv.pandora.tv
+DOMAIN-SUFFIX,log.tagtic.cn
 DOMAIN-SUFFIX,log.ttbc-hcm.gov.vn
 DOMAIN-SUFFIX,log.webnovel.com
 DOMAIN-SUFFIX,log.wilmaa.com
@@ -6256,7 +6129,6 @@ DOMAIN-SUFFIX,measure.ameblo.jp
 DOMAIN-SUFFIX,measure.refinery89.com
 DOMAIN-SUFFIX,mediametrics.mpsa.com
 DOMAIN-SUFFIX,mediator.mail.ru
-DOMAIN-SUFFIX,mercadolibre.com/tracks
 DOMAIN-SUFFIX,messengernewspapers-gb.messengernewspapers.co.uk
 DOMAIN-SUFFIX,met.vgwort.de
 DOMAIN-SUFFIX,metric.inetcore.com
@@ -6396,7 +6268,6 @@ DOMAIN-SUFFIX,oxifwsabgd.nzz.ch
 DOMAIN-SUFFIX,p-log.ykimg.com
 DOMAIN-SUFFIX,p.eyebuydirect-cmr.net
 DOMAIN-SUFFIX,p.gazeta.pl
-DOMAIN-SUFFIX,p.kolplay.com
 DOMAIN-SUFFIX,p.milliyet.com.tr
 DOMAIN-SUFFIX,p.pagesjaunes.fr
 DOMAIN-SUFFIX,p.travelsmarter.net
@@ -6412,7 +6283,6 @@ DOMAIN-SUFFIX,pap.zalando.de
 DOMAIN-SUFFIX,partner.cynapse.com
 DOMAIN-SUFFIX,partners.badongo.com
 DOMAIN-SUFFIX,partners.mysavings.com
-DOMAIN-SUFFIX,pass.1688.com
 DOMAIN-SUFFIX,pb.i.sogou.com
 DOMAIN-SUFFIX,pb.m.naver.com
 DOMAIN-SUFFIX,pbox.photobox.de
@@ -6505,7 +6375,6 @@ DOMAIN-SUFFIX,polobook.club
 DOMAIN-SUFFIX,pos.baidu.com
 DOMAIN-SUFFIX,powercount.jswelt.de
 DOMAIN-SUFFIX,powersearch.us.com
-DOMAIN-SUFFIX,pr.ameba.jp
 DOMAIN-SUFFIX,pr.blogflux.com
 DOMAIN-SUFFIX,prd-collector-anon.ex.co
 DOMAIN-SUFFIX,prd-collector-anon.playbuzz.com
@@ -6628,7 +6497,6 @@ DOMAIN-SUFFIX,s.edeka.de
 DOMAIN-SUFFIX,s.infogram.com
 DOMAIN-SUFFIX,s.renren.com
 DOMAIN-SUFFIX,s.srvsynd.com
-DOMAIN-SUFFIX,s24cloud.net/log
 DOMAIN-SUFFIX,s3-tracking.synthasite.net.s3.amazonaws.com
 DOMAIN-SUFFIX,sa.bbc.co.uk
 DOMAIN-SUFFIX,sa.sky.it
@@ -6693,7 +6561,6 @@ DOMAIN-SUFFIX,soodatmish.com
 DOMAIN-SUFFIX,sourcepoint-mms.aetv.com
 DOMAIN-SUFFIX,sourcepoint-mms.history.com
 DOMAIN-SUFFIX,sourcepoint-mms.mylifetime.com
-DOMAIN-SUFFIX,sourcepoint.dexerto.com
 DOMAIN-SUFFIX,sourcepoint.vice.com
 DOMAIN-SUFFIX,southendstandard-gb.southendstandard.co.uk
 DOMAIN-SUFFIX,southwalesargus-gb.southwalesargus.co.uk
@@ -7110,7 +6977,6 @@ DOMAIN-SUFFIX,target.smi2.net
 DOMAIN-SUFFIX,target.ukr.net
 DOMAIN-SUFFIX,targeting.voxus.tv
 DOMAIN-SUFFIX,tbe.tom.ru
-DOMAIN-SUFFIX,tbskip.taobao.com
 DOMAIN-SUFFIX,tc.airfrance.com
 DOMAIN-SUFFIX,tc.hometogo.net
 DOMAIN-SUFFIX,tce.alicdn.com
@@ -7143,7 +7009,6 @@ DOMAIN-SUFFIX,testcddc.atclouddev.net
 DOMAIN-SUFFIX,tf.360.cn
 DOMAIN-SUFFIX,theargus-gb.theargus.co.uk
 DOMAIN-SUFFIX,theboltonnews-gb.theboltonnews.co.uk
-DOMAIN-SUFFIX,thenational-gb.thenational.scot
 DOMAIN-SUFFIX,thenorthernecho-gb.thenorthernecho.co.uk
 DOMAIN-SUFFIX,thescottishfarmer-gb.thescottishfarmer.co.uk
 DOMAIN-SUFFIX,thetelegraphandargus-gb.thetelegraphandargus.co.uk
@@ -7592,7 +7457,6 @@ DOMAIN-SUFFIX,ymprove.web.de
 DOMAIN-SUFFIX,ynuf.alibaba.com
 DOMAIN-SUFFIX,yoc.younited-credit.com
 DOMAIN-SUFFIX,yourlocalguardian-gb.yourlocalguardian.co.uk
-DOMAIN-SUFFIX,yupptv.com/yupptvreports/stats.php
 DOMAIN-SUFFIX,z0uolej1qnxzub1.info
 DOMAIN-SUFFIX,zam.nextinpact.com
 DOMAIN-SUFFIX,zdlogs.sphereup.com
@@ -7605,8 +7469,15 @@ DOMAIN-SUFFIX,zs.dhl.de
 DOMAIN-SUFFIX,zsi7.destinia.do
 DOMAIN-SUFFIX,zyq2.destinia.sk
 DOMAIN-SUFFIX,zz.bdstatic.com
+# Privacy 与 Google 共 2 条规则重复
+DOMAIN-SUFFIX,google-analytics.com
+DOMAIN-SUFFIX,googletagmanager.com
 # Privacy 与 Proxy 共 2 条规则重复
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,googletagmanager.com
 # Privacy 与 DAZN 共 1 条规则重复
 DOMAIN-SUFFIX,logx.optimizely.com
+# Privacy 与 China 共 1 条规则重复
+DOMAIN,safebrowsing.googleapis.com
+# Privacy 与 ChinaTest 共 1 条规则重复
+DOMAIN,safebrowsing.googleapis.com

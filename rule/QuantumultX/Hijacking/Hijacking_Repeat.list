@@ -1,66 +1,8 @@
 # NAME: Hijacking 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-02 09:35:39
+# UPDATED: 2021-02-02 13:15:36.119218
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
-# Hijacking 与 ChinaTest 共 55 条规则重复
-HOST-SUFFIX,186078.com
-HOST-SUFFIX,abbyychina.com
-HOST-SUFFIX,adsame.com
-HOST-SUFFIX,bartender.cc
-HOST-SUFFIX,betterzip.net
-HOST-SUFFIX,betterzipcn.com
-HOST-SUFFIX,beyondcompare.cc
-HOST-SUFFIX,bianxianmao.com
-HOST-SUFFIX,bryonypie.com
-HOST-SUFFIX,cjmakeding.com
-HOST-SUFFIX,codesoftchina.com
-HOST-SUFFIX,coreldrawchina.com
-HOST-SUFFIX,crossoverchina.com
-HOST-SUFFIX,cudaojia.com
-HOST-SUFFIX,dongmansoft.com
-HOST-SUFFIX,easyrecoverychina.com
-HOST-SUFFIX,ediuschina.com
-HOST-SUFFIX,fan-yong.com
-HOST-SUFFIX,flstudiochina.com
-HOST-SUFFIX,formysql.com
-HOST-SUFFIX,gouwubang.com
-HOST-SUFFIX,guitarpro.cc
-HOST-SUFFIX,imindmap.cc
-HOST-SUFFIX,jiubuhua.com
-HOST-SUFFIX,jsncke.com
-HOST-SUFFIX,keyshot.cc
-HOST-SUFFIX,kuaizip.com
-HOST-SUFFIX,lvehaisen.com
-HOST-SUFFIX,mairuan.com
-HOST-SUFFIX,makeding.com
-HOST-SUFFIX,mindmanager.cc
-HOST-SUFFIX,mindmapper.cc
-HOST-SUFFIX,mycleanmymac.com
-HOST-SUFFIX,newapi.com
-HOST-SUFFIX,nicelabel.cc
-HOST-SUFFIX,ntfsformac.cc
-HOST-SUFFIX,overturechina.com
-HOST-SUFFIX,pdfexpert.cc
-HOST-SUFFIX,photozoomchina.com
-HOST-SUFFIX,qichexin.com
-HOST-SUFFIX,shankejingling.com
-HOST-SUFFIX,topitme.com
-HOST-SUFFIX,tuipenguin.com
-HOST-SUFFIX,tuitiger.com
-HOST-SUFFIX,wsgblw.com
-HOST-SUFFIX,wx16999.com
-HOST-SUFFIX,xchmai.com
-HOST-SUFFIX,xitongqingli.com
-HOST-SUFFIX,xmindchina.net
-HOST-SUFFIX,xshellcn.com
-HOST-SUFFIX,yjqiqi.com
-HOST-SUFFIX,yuanchengxiezuo.com
-HOST-SUFFIX,yukhj.com
-HOST-SUFFIX,zbrushcn.com
-HOST-SUFFIX,zhzzx.com
-# Hijacking 与 Alibaba 共 1 条规则重复
-HOST-SUFFIX,yukhj.com
 # Hijacking 与 AdvertisingLite 共 200 条规则重复
 HOST-SUFFIX,17gouwuba.com
 HOST-SUFFIX,186078.com
@@ -475,7 +417,7 @@ IP-CIDR,47.89.59.182/32
 IP-CIDR,61.160.200.223/32
 IP-CIDR,61.160.200.242/32
 IP-CIDR,61.160.200.252/32
-# Hijacking 与 AdvertisingTest 共 212 条规则重复
+# Hijacking 与 AdvertisingTest 共 202 条规则重复
 HOST-SUFFIX,17gouwuba.com
 HOST-SUFFIX,186078.com
 HOST-SUFFIX,189zj.cn
@@ -520,11 +462,9 @@ HOST-SUFFIX,cszlks.com
 HOST-SUFFIX,cudaojia.com
 HOST-SUFFIX,dafapromo.com
 HOST-SUFFIX,daitdai.com
-HOST-SUFFIX,dongmansoft.com
 HOST-SUFFIX,dsaeerf.com
 HOST-SUFFIX,dugesheying.com
 HOST-SUFFIX,dv8c1t.cn
-HOST-SUFFIX,earmasterchina.cn
 HOST-SUFFIX,easyrecoverychina.com
 HOST-SUFFIX,echatu.com
 HOST-SUFFIX,ediuschina.com
@@ -541,7 +481,6 @@ HOST-SUFFIX,gclick.cn
 HOST-SUFFIX,goufanli100.com
 HOST-SUFFIX,goupaoerdai.com
 HOST-SUFFIX,gouwubang.com
-HOST-SUFFIX,gscxs.cn
 HOST-SUFFIX,guitarpro.cc
 HOST-SUFFIX,gzxnlk.com
 HOST-SUFFIX,haoshengtoys.com
@@ -567,7 +506,6 @@ HOST-SUFFIX,kualianyingxiao.cn
 HOST-SUFFIX,kumihua.com
 HOST-SUFFIX,logoshejishi.com
 HOST-SUFFIX,ltheanine.cn
-HOST-SUFFIX,luping.net.cn
 HOST-SUFFIX,lvehaisen.com
 HOST-SUFFIX,mackeeper.com
 HOST-SUFFIX,maipinshangmao.com
@@ -579,7 +517,6 @@ HOST-SUFFIX,mairuanwang.com
 HOST-SUFFIX,makeding.com
 HOST-SUFFIX,mathtype.cn
 HOST-SUFFIX,mindmanager.cc
-HOST-SUFFIX,mindmanager.cn
 HOST-SUFFIX,mindmapper.cc
 HOST-SUFFIX,minisplat.cn
 HOST-SUFFIX,mkitgfs.com
@@ -625,7 +562,6 @@ HOST-SUFFIX,tuia.cn
 HOST-SUFFIX,tuipenguin.com
 HOST-SUFFIX,tuitiger.com
 HOST-SUFFIX,ultraiso.net
-HOST-SUFFIX,urlaw.cn
 HOST-SUFFIX,urlet.cn
 HOST-SUFFIX,vegaschina.cn
 HOST-SUFFIX,websd8.com
@@ -633,7 +569,6 @@ HOST-SUFFIX,wsgblw.com
 HOST-SUFFIX,wx16999.com
 HOST-SUFFIX,xchmai.com
 HOST-SUFFIX,xiaohuau.xyz
-HOST-SUFFIX,xitongqingli.com
 HOST-SUFFIX,xmindchina.net
 HOST-SUFFIX,xshellcn.com
 HOST-SUFFIX,ygyzx.cn
@@ -654,12 +589,10 @@ HOST-SUFFIX,zunmi.cn
 HOST-SUFFIX,zzd6.com
 IP-CIDR,103.49.209.27/32
 IP-CIDR,106.75.231.48/32
-IP-CIDR,114.119.160.0/21
 IP-CIDR,114.247.28.96/32
 IP-CIDR,115.182.16.79/32
 IP-CIDR,118.144.88.126/32
 IP-CIDR,119.4.249.166/32
-IP-CIDR,120.240.95.37/32
 IP-CIDR,120.76.189.132/32
 IP-CIDR,122.229.29.89/32
 IP-CIDR,122.229.8.47/32
@@ -671,7 +604,6 @@ IP-CIDR,175.6.223.15/32
 IP-CIDR,180.166.52.24/32
 IP-CIDR,183.59.53.237/32
 IP-CIDR,211.161.101.106/32
-IP-CIDR,211.161.101.110/32
 IP-CIDR,218.93.127.37/32
 IP-CIDR,220.115.251.25/32
 IP-CIDR,220.196.52.141/32
@@ -688,3 +620,61 @@ IP-CIDR,47.89.59.182/32
 IP-CIDR,61.160.200.223/32
 IP-CIDR,61.160.200.242/32
 IP-CIDR,61.160.200.252/32
+# Hijacking 与 ChinaTest 共 55 条规则重复
+HOST-SUFFIX,186078.com
+HOST-SUFFIX,abbyychina.com
+HOST-SUFFIX,adsame.com
+HOST-SUFFIX,bartender.cc
+HOST-SUFFIX,betterzip.net
+HOST-SUFFIX,betterzipcn.com
+HOST-SUFFIX,beyondcompare.cc
+HOST-SUFFIX,bianxianmao.com
+HOST-SUFFIX,bryonypie.com
+HOST-SUFFIX,cjmakeding.com
+HOST-SUFFIX,codesoftchina.com
+HOST-SUFFIX,coreldrawchina.com
+HOST-SUFFIX,crossoverchina.com
+HOST-SUFFIX,cudaojia.com
+HOST-SUFFIX,dongmansoft.com
+HOST-SUFFIX,easyrecoverychina.com
+HOST-SUFFIX,ediuschina.com
+HOST-SUFFIX,fan-yong.com
+HOST-SUFFIX,flstudiochina.com
+HOST-SUFFIX,formysql.com
+HOST-SUFFIX,gouwubang.com
+HOST-SUFFIX,guitarpro.cc
+HOST-SUFFIX,imindmap.cc
+HOST-SUFFIX,jiubuhua.com
+HOST-SUFFIX,jsncke.com
+HOST-SUFFIX,keyshot.cc
+HOST-SUFFIX,kuaizip.com
+HOST-SUFFIX,lvehaisen.com
+HOST-SUFFIX,mairuan.com
+HOST-SUFFIX,makeding.com
+HOST-SUFFIX,mindmanager.cc
+HOST-SUFFIX,mindmapper.cc
+HOST-SUFFIX,mycleanmymac.com
+HOST-SUFFIX,newapi.com
+HOST-SUFFIX,nicelabel.cc
+HOST-SUFFIX,ntfsformac.cc
+HOST-SUFFIX,overturechina.com
+HOST-SUFFIX,pdfexpert.cc
+HOST-SUFFIX,photozoomchina.com
+HOST-SUFFIX,qichexin.com
+HOST-SUFFIX,shankejingling.com
+HOST-SUFFIX,topitme.com
+HOST-SUFFIX,tuipenguin.com
+HOST-SUFFIX,tuitiger.com
+HOST-SUFFIX,wsgblw.com
+HOST-SUFFIX,wx16999.com
+HOST-SUFFIX,xchmai.com
+HOST-SUFFIX,xitongqingli.com
+HOST-SUFFIX,xmindchina.net
+HOST-SUFFIX,xshellcn.com
+HOST-SUFFIX,yjqiqi.com
+HOST-SUFFIX,yuanchengxiezuo.com
+HOST-SUFFIX,yukhj.com
+HOST-SUFFIX,zbrushcn.com
+HOST-SUFFIX,zhzzx.com
+# Hijacking 与 Alibaba 共 1 条规则重复
+HOST-SUFFIX,yukhj.com

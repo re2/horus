@@ -1,87 +1,86 @@
 # NAME: BlackList 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-02 09:35:39
+# UPDATED: 2021-02-02 13:15:36.254522
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
-# BlackList 与 China 共 22 条规则重复
-HOST-SUFFIX,apache.org
-HOST-SUFFIX,api.termius.com
-HOST-SUFFIX,bing.com
-HOST-SUFFIX,bing.net
-HOST-SUFFIX,culturedcode.com
-HOST-SUFFIX,getpricetag.com
-HOST-SUFFIX,ip.sb
-HOST-SUFFIX,licdn.com
-HOST-SUFFIX,linkedin.com
-HOST-SUFFIX,microsofttranslator.com
+# BlackList 与 AdvertisingLite 共 9 条规则重复
+HOST-SUFFIX,2o7.net
+HOST-SUFFIX,app-measurement.com
+HOST-SUFFIX,demdex.net
+HOST-SUFFIX,flurry.com
+HOST-SUFFIX,localnetwork.uop
+HOST-SUFFIX,optimizely.com
+HOST-SUFFIX,panoramio.com
+HOST-SUFFIX,pubnub.com
+HOST-SUFFIX,sharethis.com
+# BlackList 与 Advertising 共 22 条规则重复
+HOST-SUFFIX,2mdn.net
+HOST-SUFFIX,2o7.net
+HOST-SUFFIX,app-measurement.com
+HOST-SUFFIX,bkrtx.com
+HOST-SUFFIX,boomtrain.com
+HOST-SUFFIX,demdex.net
+HOST-SUFFIX,dnvod.tv
+HOST-SUFFIX,flurry.com
+HOST-SUFFIX,localnetwork.uop
 HOST-SUFFIX,msedge.net
-HOST-SUFFIX,nssurge.com
-HOST-SUFFIX,office365.com
-HOST-SUFFIX,onenote.com
-HOST-SUFFIX,overcast.fm
-HOST-SUFFIX,sciencemag.org
-HOST-SUFFIX,symcd.com
-HOST-SUFFIX,teamviewer.com
-HOST-SUFFIX,trello.com
-HOST-SUFFIX,unity3d.com
-HOST-SUFFIX,workflowy.com
-HOST-SUFFIX,xteko.com
-# BlackList 与 ChinaTest 共 24 条规则重复
-HOST-SUFFIX,apache.org
-HOST-SUFFIX,api.termius.com
-HOST-SUFFIX,bing.com
-HOST-SUFFIX,bing.net
-HOST-SUFFIX,culturedcode.com
-HOST-SUFFIX,edgekey.net
-HOST-SUFFIX,getpricetag.com
-HOST-SUFFIX,ip.sb
-HOST-SUFFIX,licdn.com
-HOST-SUFFIX,linkedin.com
-HOST-SUFFIX,manhuaren.com
-HOST-SUFFIX,microsofttranslator.com
-HOST-SUFFIX,msedge.net
-HOST-SUFFIX,nssurge.com
-HOST-SUFFIX,office365.com
-HOST-SUFFIX,onenote.com
-HOST-SUFFIX,overcast.fm
-HOST-SUFFIX,sciencemag.org
-HOST-SUFFIX,symcd.com
-HOST-SUFFIX,teamviewer.com
-HOST-SUFFIX,trello.com
-HOST-SUFFIX,unity3d.com
-HOST-SUFFIX,workflowy.com
-HOST-SUFFIX,xteko.com
-# BlackList 与 Apple 共 1 条规则重复
-HOST-SUFFIX,appsto.re
-# BlackList 与 TestFlight 共 1 条规则重复
-HOST,testflight.apple.com
-# BlackList 与 AppleBlock 共 5 条规则重复
-HOST,api-glb-sea.smoot.apple.com
-HOST,books.itunes.apple.com
-HOST,hls.itunes.apple.com
-HOST,lookup-api.apple.com
-HOST-SUFFIX,appsto.re
-# BlackList 与 AppleTV 共 1 条规则重复
-HOST,hls.itunes.apple.com
-# BlackList 与 Github 共 2 条规则重复
-HOST-KEYWORD,github
-HOST-SUFFIX,githubusercontent.com
-# BlackList 与 OneDrive 共 1 条规则重复
-HOST-SUFFIX,livefilestore.com
-# BlackList 与 Microsoft 共 13 条规则重复
-HOST-SUFFIX,aspnetcdn.com
-HOST-SUFFIX,azure.com
-HOST-SUFFIX,azureedge.net
-HOST-SUFFIX,bing.com
-HOST-SUFFIX,bing.net
-HOST-SUFFIX,edgesuite.net
+HOST-SUFFIX,nsstatic.net
+HOST-SUFFIX,optimizely.com
+HOST-SUFFIX,panoramio.com
+HOST-SUFFIX,prfct.co
+HOST-SUFFIX,pubnub.com
+HOST-SUFFIX,pushwoosh.com
+HOST-SUFFIX,servebom.com
+HOST-SUFFIX,sharethis.com
+HOST-SUFFIX,technorati.com
+HOST-SUFFIX,traffichaus.com
+HOST-SUFFIX,ubertags.com
+HOST-SUFFIX,xiti.com
+# BlackList 与 AdvertisingTest 共 27 条规则重复
+HOST-SUFFIX,2mdn.net
+HOST-SUFFIX,2o7.net
+HOST-SUFFIX,app-measurement.com
+HOST-SUFFIX,bkrtx.com
+HOST-SUFFIX,boomtrain.com
+HOST-SUFFIX,clien.net
+HOST-SUFFIX,crittercism.com
+HOST-SUFFIX,demdex.net
+HOST-SUFFIX,dnvod.tv
 HOST-SUFFIX,fabric.io
-HOST-SUFFIX,gfx.ms
-HOST-SUFFIX,livefilestore.com
-HOST-SUFFIX,msedge.net
-HOST-SUFFIX,office365.com
-HOST-SUFFIX,onenote.com
-HOST-SUFFIX,sfx.ms
+HOST-SUFFIX,flurry.com
+HOST-SUFFIX,fullstory.com
+HOST-SUFFIX,geni.us
+HOST-SUFFIX,lightboxcdn.com
+HOST-SUFFIX,localnetwork.uop
+HOST-SUFFIX,nsstatic.net
+HOST-SUFFIX,optimizely.com
+HOST-SUFFIX,panoramio.com
+HOST-SUFFIX,prfct.co
+HOST-SUFFIX,pubnub.com
+HOST-SUFFIX,pushwoosh.com
+HOST-SUFFIX,servebom.com
+HOST-SUFFIX,sharethis.com
+HOST-SUFFIX,technorati.com
+HOST-SUFFIX,traffichaus.com
+HOST-SUFFIX,ubertags.com
+HOST-SUFFIX,xiti.com
+# BlackList 与 Epic 共 1 条规则重复
+HOST-SUFFIX,helpshift.com
+# BlackList 与 WildRift 共 2 条规则重复
+HOST-SUFFIX,riotcdn.net
+HOST-SUFFIX,riotgames.com
+# BlackList 与 Garena 共 1 条规则重复
+HOST-SUFFIX,garena.com
+# BlackList 与 Nintendo 共 4 条规则重复
+HOST-SUFFIX,nintendo.com
+HOST-SUFFIX,nintendo.net
+HOST-SUFFIX,pokemon.com
+HOST-SUFFIX,supermariorun.com
+# BlackList 与 Riot 共 2 条规则重复
+HOST-SUFFIX,riotcdn.net
+HOST-SUFFIX,riotgames.com
+# BlackList 与 Game 共 1 条规则重复
+HOST-SUFFIX,helpshift.com
 # BlackList 与 YouTube 共 3 条规则重复
 HOST-SUFFIX,ggpht.com
 HOST-SUFFIX,youtu.be
@@ -128,87 +127,37 @@ HOST-SUFFIX,youtu.be
 HOST-SUFFIX,ytimg.com
 IP-CIDR,173.194.0.0/16
 IP-CIDR,74.125.0.0/16
-# BlackList 与 AdvertisingLite 共 9 条规则重复
-HOST-SUFFIX,2o7.net
-HOST-SUFFIX,app-measurement.com
-HOST-SUFFIX,demdex.net
-HOST-SUFFIX,flurry.com
-HOST-SUFFIX,localnetwork.uop
-HOST-SUFFIX,optimizely.com
-HOST-SUFFIX,panoramio.com
-HOST-SUFFIX,pubnub.com
-HOST-SUFFIX,sharethis.com
-# BlackList 与 Advertising 共 22 条规则重复
-HOST-SUFFIX,2mdn.net
-HOST-SUFFIX,2o7.net
-HOST-SUFFIX,app-measurement.com
-HOST-SUFFIX,bkrtx.com
-HOST-SUFFIX,boomtrain.com
-HOST-SUFFIX,demdex.net
-HOST-SUFFIX,dnvod.tv
-HOST-SUFFIX,flurry.com
-HOST-SUFFIX,localnetwork.uop
-HOST-SUFFIX,msedge.net
-HOST-SUFFIX,nsstatic.net
-HOST-SUFFIX,optimizely.com
-HOST-SUFFIX,panoramio.com
-HOST-SUFFIX,prfct.co
-HOST-SUFFIX,pubnub.com
-HOST-SUFFIX,pushwoosh.com
-HOST-SUFFIX,servebom.com
-HOST-SUFFIX,sharethis.com
-HOST-SUFFIX,technorati.com
-HOST-SUFFIX,traffichaus.com
-HOST-SUFFIX,ubertags.com
-HOST-SUFFIX,xiti.com
-# BlackList 与 AdvertisingTest 共 28 条规则重复
-HOST-SUFFIX,2mdn.net
-HOST-SUFFIX,2o7.net
-HOST-SUFFIX,app-measurement.com
-HOST-SUFFIX,bkrtx.com
-HOST-SUFFIX,boomtrain.com
-HOST-SUFFIX,clien.net
-HOST-SUFFIX,crittercism.com
-HOST-SUFFIX,demdex.net
-HOST-SUFFIX,dnvod.tv
+# BlackList 与 Github 共 2 条规则重复
+HOST-KEYWORD,github
+HOST-SUFFIX,githubusercontent.com
+# BlackList 与 OneDrive 共 1 条规则重复
+HOST-SUFFIX,livefilestore.com
+# BlackList 与 Microsoft 共 13 条规则重复
+HOST-SUFFIX,aspnetcdn.com
+HOST-SUFFIX,azure.com
+HOST-SUFFIX,azureedge.net
+HOST-SUFFIX,bing.com
+HOST-SUFFIX,bing.net
+HOST-SUFFIX,edgesuite.net
 HOST-SUFFIX,fabric.io
-HOST-SUFFIX,flurry.com
-HOST-SUFFIX,fullstory.com
-HOST-SUFFIX,geni.us
-HOST-SUFFIX,lightboxcdn.com
-HOST-SUFFIX,localnetwork.uop
+HOST-SUFFIX,gfx.ms
+HOST-SUFFIX,livefilestore.com
 HOST-SUFFIX,msedge.net
-HOST-SUFFIX,nsstatic.net
-HOST-SUFFIX,optimizely.com
-HOST-SUFFIX,panoramio.com
-HOST-SUFFIX,prfct.co
-HOST-SUFFIX,pubnub.com
-HOST-SUFFIX,pushwoosh.com
-HOST-SUFFIX,servebom.com
-HOST-SUFFIX,sharethis.com
-HOST-SUFFIX,technorati.com
-HOST-SUFFIX,traffichaus.com
-HOST-SUFFIX,ubertags.com
-HOST-SUFFIX,xiti.com
-# BlackList 与 Game 共 3 条规则重复
-HOST-SUFFIX,helpshift.com
-HOST-SUFFIX,riotcdn.net
-HOST-SUFFIX,riotgames.com
-# BlackList 与 Epic 共 1 条规则重复
-HOST-SUFFIX,helpshift.com
-# BlackList 与 WildRift 共 2 条规则重复
-HOST-SUFFIX,riotcdn.net
-HOST-SUFFIX,riotgames.com
-# BlackList 与 Garena 共 1 条规则重复
-HOST-SUFFIX,garena.com
-# BlackList 与 Nintendo 共 4 条规则重复
-HOST-SUFFIX,nintendo.com
-HOST-SUFFIX,nintendo.net
-HOST-SUFFIX,pokemon.com
-HOST-SUFFIX,supermariorun.com
-# BlackList 与 Riot 共 2 条规则重复
-HOST-SUFFIX,riotcdn.net
-HOST-SUFFIX,riotgames.com
+HOST-SUFFIX,office365.com
+HOST-SUFFIX,onenote.com
+HOST-SUFFIX,sfx.ms
+# BlackList 与 TestFlight 共 1 条规则重复
+HOST,testflight.apple.com
+# BlackList 与 AppleProxy 共 7 条规则重复
+HOST,api-glb-sea.smoot.apple.com
+HOST,books.itunes.apple.com
+HOST,hls.itunes.apple.com
+HOST,lookup-api.apple.com
+HOST,testflight.apple.com
+HOST-SUFFIX,apple-dns.net
+HOST-SUFFIX,appsto.re
+# BlackList 与 Apple 共 1 条规则重复
+HOST-SUFFIX,appsto.re
 # BlackList 与 Proxy 共 758 条规则重复
 HOST-KEYWORD,appledaily
 HOST-KEYWORD,beetalk
@@ -1805,16 +1754,6 @@ HOST-SUFFIX,cnn.com
 HOST-SUFFIX,i-cable.com
 # BlackList 与 Fox 共 1 条规则重复
 HOST-SUFFIX,fxnetworks.com
-# BlackList 与 Kakao 共 9 条规则重复
-HOST-SUFFIX,kakao.co.kr
-HOST-SUFFIX,kakao.com
-HOST-SUFFIX,kakaocdn.net
-IP-CIDR,1.201.0.0/24
-IP-CIDR,103.246.56.0/22
-IP-CIDR,103.27.148.0/22
-IP-CIDR,110.76.140.0/22
-IP-CIDR,113.61.104.0/22
-IP-CIDR,27.0.236.0/22
 # BlackList 与 LineTV 共 2 条规则重复
 HOST-SUFFIX,line-cdn.net
 HOST-SUFFIX,line-scdn.net
@@ -1839,3 +1778,29 @@ HOST-SUFFIX,viu.tv
 # BlackList 与 Voxmedia 共 2 条规则重复
 HOST-SUFFIX,theverge.com
 HOST-SUFFIX,vox-cdn.com
+# BlackList 与 China 共 22 条规则重复
+HOST-SUFFIX,apache.org
+HOST-SUFFIX,api.termius.com
+HOST-SUFFIX,bing.com
+HOST-SUFFIX,bing.net
+HOST-SUFFIX,culturedcode.com
+HOST-SUFFIX,getpricetag.com
+HOST-SUFFIX,ip.sb
+HOST-SUFFIX,licdn.com
+HOST-SUFFIX,linkedin.com
+HOST-SUFFIX,microsofttranslator.com
+HOST-SUFFIX,msedge.net
+HOST-SUFFIX,nssurge.com
+HOST-SUFFIX,office365.com
+HOST-SUFFIX,onenote.com
+HOST-SUFFIX,overcast.fm
+HOST-SUFFIX,sciencemag.org
+HOST-SUFFIX,symcd.com
+HOST-SUFFIX,teamviewer.com
+HOST-SUFFIX,trello.com
+HOST-SUFFIX,unity3d.com
+HOST-SUFFIX,workflowy.com
+HOST-SUFFIX,xteko.com
+# BlackList 与 ChinaTest 共 2 条规则重复
+HOST-SUFFIX,manhuaren.com
+HOST-SUFFIX,xteko.com

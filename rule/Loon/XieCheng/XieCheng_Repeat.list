@@ -1,11 +1,13 @@
 # NAME: XieCheng 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-02 09:35:40
+# UPDATED: 2021-02-02 13:15:38.251008
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
+# XieCheng 与 Proxy 共 1 条规则重复
+DOMAIN-SUFFIX,trip.com
 # XieCheng 与 China 共 1 条规则重复
 DOMAIN-SUFFIX,ctrip.com
-# XieCheng 与 ChinaTest 共 24 条规则重复
+# XieCheng 与 ChinaTest 共 25 条规则重复
 DOMAIN-SUFFIX,c-ctrip.com
 DOMAIN-SUFFIX,colinker.com
 DOMAIN-SUFFIX,ctrip.co.id
@@ -18,6 +20,7 @@ DOMAIN-SUFFIX,ctrip.sg
 DOMAIN-SUFFIX,ctripbiz.com
 DOMAIN-SUFFIX,ctripbuy.hk
 DOMAIN-SUFFIX,ctripteam.com
+DOMAIN-SUFFIX,doticloud.com
 DOMAIN-SUFFIX,easytrip.com
 DOMAIN-SUFFIX,hhtravel.com
 DOMAIN-SUFFIX,hhtravel.com.tw
@@ -30,5 +33,3 @@ DOMAIN-SUFFIX,toursbms.com
 DOMAIN-SUFFIX,trip.com
 DOMAIN-SUFFIX,tripcdn.com
 DOMAIN-SUFFIX,vipdlt.com
-# XieCheng 与 Proxy 共 1 条规则重复
-DOMAIN-SUFFIX,trip.com

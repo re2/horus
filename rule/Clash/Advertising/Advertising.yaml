@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-02 09:35:35
-# DOMAIN-SUFFIX: 42882
-# DOMAIN: 15230
-# DOMAIN-KEYWORD: 60
-# IP-CIDR: 240
-# TOTAL: 58412
+# UPDATED: 2021-02-02 13:15:31.754305
+# DOMAIN-SUFFIX: 42782
+# DOMAIN: 876
+# DOMAIN-KEYWORD: 61
+# IP-CIDR: 239
+# TOTAL: 43958
 payload:
   - DOMAIN-KEYWORD,adashx
   - DOMAIN-KEYWORD,admarvel
@@ -45,6 +45,7 @@ payload:
   - DOMAIN-KEYWORD,inmobi
   - DOMAIN-KEYWORD,lianmeng
   - DOMAIN-KEYWORD,log.umeng.com
+  - DOMAIN-KEYWORD,logger
   - DOMAIN-KEYWORD,logs.umeng.com
   - DOMAIN-KEYWORD,logs.umengcloud.com
   - DOMAIN-KEYWORD,mobaders
@@ -70,7 +71,6 @@ payload:
   - DOMAIN-KEYWORD,zjtoolbar
   - IP-CIDR,1.3.0.10/32
   - IP-CIDR,10.72.25.0/24
-  - IP-CIDR,101.124.19.122/32
   - IP-CIDR,101.201.29.182/32
   - IP-CIDR,101.227.200.0/24
   - IP-CIDR,101.227.97.240/32
