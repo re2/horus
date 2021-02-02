@@ -1,7 +1,7 @@
 # NAME: 12306 规则重复情况
 # AUTHOR: 
 # GITHUB: 
-# UPDATED: 2021-02-02 13:15:40.048600
+# UPDATED: 2021-02-02 13:28:03.292771
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # 12306 与 China 共 1 条规则重复
 DOMAIN-SUFFIX,12306.cn

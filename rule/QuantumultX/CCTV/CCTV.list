@@ -1,7 +1,7 @@
 # NAME: CCTV
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-02 13:15:29.292263
+# UPDATED: 2021-02-02 13:27:53.890667
 # HOST-SUFFIX: 42
 # TOTAL: 42
 HOST-SUFFIX,cctv.cn,CCTV
