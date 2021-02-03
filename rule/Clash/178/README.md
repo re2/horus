@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2021-02-04 00:07:44.958498。
+最后检查时间：2021-02-04 02:28:51.447272。
 
 ## 规则统计
 
@@ -46,9 +46,9 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clas
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/AdvertisingLite)    | 31049   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/178/178_Repeat.list)   |   0.0% |
-|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Advertising)    | 64512   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/178/178_Repeat.list)   |   0.0% |
-|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/AdvertisingTest)    | 80152   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/178/178_Repeat.list)   |   0.0% |
+|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/AdvertisingLite)    | 31054   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/178/178_Repeat.list)   |   0.0% |
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Advertising)    | 64615   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/178/178_Repeat.list)   |   0.0% |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/AdvertisingTest)    | 80158   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/178/178_Repeat.list)   |   0.0% |
 |  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/China)    | 661   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/178/178_Repeat.list)   |   0.15% |
 |  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/ChinaTest)    | 71528   | [11](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/178/178_Repeat.list)   |   0.02% |
 ### 特别说明

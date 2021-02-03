@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2021-02-04 00:07:26.828009。
+最后检查时间：2021-02-04 02:28:30.390348。
 
 ## 规则统计
 
@@ -46,8 +46,8 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surg
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Advertising)    | 64823   | [23](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/UC/UC_Repeat.list)   |   0.04% |
-|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingTest)    | 80463   | [23](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/UC/UC_Repeat.list)   |   0.03% |
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Advertising)    | 64926   | [23](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/UC/UC_Repeat.list)   |   0.04% |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingTest)    | 80469   | [23](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/UC/UC_Repeat.list)   |   0.03% |
 |  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaTest)    | 71562   | [5](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/UC/UC_Repeat.list)   |   0.01% |
 |  [Alibaba](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Alibaba)    | 1222   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/UC/UC_Repeat.list)   |   0.08% |
 ### 特别说明

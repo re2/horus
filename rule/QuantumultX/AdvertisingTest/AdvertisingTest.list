@@ -1,13 +1,13 @@
 # NAME: 
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-04 00:07:09.375684
+# UPDATED: 2021-02-04 02:28:10.085650
 # HOST-KEYWORD: 60
-# HOST-SUFFIX: 64335
-# HOST: 15517
+# HOST-SUFFIX: 64339
+# HOST: 15519
 # IP-CIDR: 240
 # USER-AGENT: 1
-# TOTAL: 80153
+# TOTAL: 80159
 HOST,0.up.qingdaonews.com,AdvertisingTest
 HOST,0001.2waky.com,AdvertisingTest
 HOST,000lk3v.wcomhost.com,AdvertisingTest
@@ -9021,6 +9021,7 @@ HOST,mebel.by.ru.fqwerz.cn,AdvertisingTest
 HOST,med-dopomoga.com,AdvertisingTest
 HOST,medcorehealthgroup.com,AdvertisingTest
 HOST,medeirosadvocacia.com,AdvertisingTest
+HOST,medesindustrial.com,AdvertisingTest
 HOST,medfetal.org,AdvertisingTest
 HOST,media-0.vpptechnologies.com,AdvertisingTest
 HOST,media-1.vpptechnologies.com,AdvertisingTest
@@ -14218,6 +14219,7 @@ HOST,vaingloryhack.net,AdvertisingTest
 HOST,vaishaligarden.com,AdvertisingTest
 HOST,vaishalimotors.com,AdvertisingTest
 HOST,vajazzlingkit.com,AdvertisingTest
+HOST,valasearch.com,AdvertisingTest
 HOST,validate.id.appiestores.com,AdvertisingTest
 HOST,validcheats.com,AdvertisingTest
 HOST,valo.atm.youku.com,AdvertisingTest
@@ -24863,6 +24865,7 @@ HOST-SUFFIX,analytics.yopify.com.herokudns.com,AdvertisingTest
 HOST-SUFFIX,analytics.zeekit.co,AdvertisingTest
 HOST-SUFFIX,analytics.zendesk.com,AdvertisingTest
 HOST-SUFFIX,analytics.zg-api.com,AdvertisingTest
+HOST-SUFFIX,analytics.zhihu.com,Privacy
 HOST-SUFFIX,analytics.ziftsolutions.com,AdvertisingTest
 HOST-SUFFIX,analytics00.meride.tv,AdvertisingTest
 HOST-SUFFIX,analytics2.socialblade.com,AdvertisingTest
@@ -33796,6 +33799,7 @@ HOST-SUFFIX,d.mingyihui.net,AdvertisingTest
 HOST-SUFFIX,d.omsnative.de,AdvertisingTest
 HOST-SUFFIX,d.rcmd.jp,AdvertisingTest
 HOST-SUFFIX,d.ruiwen.com,AdvertisingTest
+HOST-SUFFIX,d.skk.moe,AdvertisingTest
 HOST-SUFFIX,d.thelocal.com,AdvertisingTest
 HOST-SUFFIX,d.tonghua5.com,AdvertisingTest
 HOST-SUFFIX,d.toutiao.com,AdvertisingTest
@@ -62207,6 +62211,7 @@ HOST-SUFFIX,retargeting.biz,AdvertisingTest
 HOST-SUFFIX,retargeting.vistaprint.com,AdvertisingTest
 HOST-SUFFIX,retargetly.com,AdvertisingTest
 HOST-SUFFIX,retargettracker.com,AdvertisingTest
+HOST-SUFFIX,retcode.taobao.com,Privacy
 HOST-SUFFIX,retcyy.com,AdvertisingTest
 HOST-SUFFIX,retentionscience.com,AdvertisingTest
 HOST-SUFFIX,reterafu.torplanet.ru,AdvertisingTest
@@ -79253,6 +79258,7 @@ HOST-SUFFIX,zhidian3g.cn,AdvertisingTest
 HOST-SUFFIX,zhifenjie.com,AdvertisingTest
 HOST-SUFFIX,zhifinwgpwakue.com,AdvertisingTest
 HOST-SUFFIX,zhihei.com,AdvertisingTest
+HOST-SUFFIX,zhihu-web-analytics.zhihu.com,Privacy
 HOST-SUFFIX,zhihu.xmcimg.com,AdvertisingTest
 HOST-SUFFIX,zhilingshidai.com,AdvertisingTest
 HOST-SUFFIX,zhimaad.cn,AdvertisingTest

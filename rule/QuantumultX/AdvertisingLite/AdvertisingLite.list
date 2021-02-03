@@ -1,13 +1,13 @@
 # NAME: 
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-04 00:07:09.253865
+# UPDATED: 2021-02-04 02:28:09.934810
 # HOST-KEYWORD: 27
 # HOST-SUFFIX: 15241
-# HOST: 15589
+# HOST: 15594
 # IP-CIDR: 192
 # USER-AGENT: 1
-# TOTAL: 31050
+# TOTAL: 31055
 HOST,0.up.qingdaonews.com,AdvertisingLite
 HOST,00-gov.cn,AdvertisingLite
 HOST,0024aadd.com,AdvertisingLite
@@ -682,6 +682,7 @@ HOST,999d.com,AdvertisingLite
 HOST,999fitness.com,AdvertisingLite
 HOST,99a9339abed56.com,AdvertisingLite
 HOST,99counters.com,AdvertisingLite
+HOST,99stats.com,AdvertisingLite
 HOST,9a24a1b3dcd5f4.com,AdvertisingLite
 HOST,9ads.mobi,AdvertisingLite
 HOST,9c40a04e9732e6a6.com,AdvertisingLite
@@ -6069,6 +6070,7 @@ HOST,galaxiemedia.fr,AdvertisingLite
 HOST,galeriaseroticas.xpg.com.br,AdvertisingLite
 HOST,galkama.info,AdvertisingLite
 HOST,galleyn.com,AdvertisingLite
+HOST,gallupnet.fi,AdvertisingLite
 HOST,galumbor.com,AdvertisingLite
 HOST,gambling-affiliation.com,AdvertisingLite
 HOST,game-advertising-online.com,AdvertisingLite
@@ -6439,6 +6441,7 @@ HOST,grykuutktgaun.com,AdvertisingLite
 HOST,gscontxt.net,AdvertisingLite
 HOST,gsecondscreen.com,AdvertisingLite
 HOST,gsimedia.net,AdvertisingLite
+HOST,gsjgkpnq.com,AdvertisingLite
 HOST,gsmtop.net,AdvertisingLite
 HOST,gsniper2.com,AdvertisingLite
 HOST,gsspat.jp,AdvertisingLite
@@ -11013,6 +11016,7 @@ HOST,qpb.sohu.com,AdvertisingLite
 HOST,qpljfpwdpk.com,AdvertisingLite
 HOST,qq167.com,AdvertisingLite
 HOST,qq4g.cn,AdvertisingLite
+HOST,qqatxipoki.com,AdvertisingLite
 HOST,qqdwz.com,AdvertisingLite
 HOST,qqwlfm.cn,AdvertisingLite
 HOST,qqwx.zhangguangzong.com,AdvertisingLite
@@ -15300,6 +15304,7 @@ HOST,yifuls.com,AdvertisingLite
 HOST,yihubaiying.com,AdvertisingLite
 HOST,yimingxiang.com.cn,AdvertisingLite
 HOST,yingshidaquan.cc,AdvertisingLite
+HOST,yiopqbbmugak.com,AdvertisingLite
 HOST,yiqiv.com,AdvertisingLite
 HOST,yiwad.com,AdvertisingLite
 HOST,yjfhadfc.com,AdvertisingLite

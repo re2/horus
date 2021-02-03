@@ -9,7 +9,7 @@
 
 白名单分流规则中含有URL-REGEX类型，此类的规则对于HTTPS请求需要MITM使用才能生效。程序已默认根据正则推导一份MITM的模块/复写/插件在当前分流规则的目录中，便于参考搭配使用。
 
-最后检查时间：2021-02-04 00:07:37.352567。
+最后检查时间：2021-02-04 02:28:42.575755。
 
 ## 规则统计
 
@@ -51,8 +51,8 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingLite)    | 31352   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/WhiteList/白名单_Repeat.list)   |   0.0% |
-|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising)    | 64823   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/WhiteList/白名单_Repeat.list)   |   0.0% |
+|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingLite)    | 31357   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/WhiteList/白名单_Repeat.list)   |   0.0% |
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising)    | 64926   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/WhiteList/白名单_Repeat.list)   |   0.0% |
 |  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/China)    | 693   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/WhiteList/白名单_Repeat.list)   |   0.14% |
 |  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaTest)    | 71562   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/WhiteList/白名单_Repeat.list)   |   0.0% |
 ### 特别说明

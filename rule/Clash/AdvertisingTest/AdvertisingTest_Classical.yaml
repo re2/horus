@@ -1,12 +1,12 @@
 # NAME: 
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-04 00:07:12.435141
+# UPDATED: 2021-02-04 02:28:13.739026
 # DOMAIN-KEYWORD: 60
-# DOMAIN-SUFFIX: 64335
-# DOMAIN: 15517
+# DOMAIN-SUFFIX: 64339
+# DOMAIN: 15519
 # IP-CIDR: 240
-# TOTAL: 80152
+# TOTAL: 80158
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,0001.2waky.com
@@ -9021,6 +9021,7 @@ payload:
   - DOMAIN,med-dopomoga.com
   - DOMAIN,medcorehealthgroup.com
   - DOMAIN,medeirosadvocacia.com
+  - DOMAIN,medesindustrial.com
   - DOMAIN,medfetal.org
   - DOMAIN,media-0.vpptechnologies.com
   - DOMAIN,media-1.vpptechnologies.com
@@ -14218,6 +14219,7 @@ payload:
   - DOMAIN,vaishaligarden.com
   - DOMAIN,vaishalimotors.com
   - DOMAIN,vajazzlingkit.com
+  - DOMAIN,valasearch.com
   - DOMAIN,validate.id.appiestores.com
   - DOMAIN,validcheats.com
   - DOMAIN,valo.atm.youku.com
@@ -24863,6 +24865,7 @@ payload:
   - DOMAIN-SUFFIX,analytics.zeekit.co
   - DOMAIN-SUFFIX,analytics.zendesk.com
   - DOMAIN-SUFFIX,analytics.zg-api.com
+  - DOMAIN-SUFFIX,analytics.zhihu.com
   - DOMAIN-SUFFIX,analytics.ziftsolutions.com
   - DOMAIN-SUFFIX,analytics00.meride.tv
   - DOMAIN-SUFFIX,analytics2.socialblade.com
@@ -33796,6 +33799,7 @@ payload:
   - DOMAIN-SUFFIX,d.omsnative.de
   - DOMAIN-SUFFIX,d.rcmd.jp
   - DOMAIN-SUFFIX,d.ruiwen.com
+  - DOMAIN-SUFFIX,d.skk.moe
   - DOMAIN-SUFFIX,d.thelocal.com
   - DOMAIN-SUFFIX,d.tonghua5.com
   - DOMAIN-SUFFIX,d.toutiao.com
@@ -62207,6 +62211,7 @@ payload:
   - DOMAIN-SUFFIX,retargeting.vistaprint.com
   - DOMAIN-SUFFIX,retargetly.com
   - DOMAIN-SUFFIX,retargettracker.com
+  - DOMAIN-SUFFIX,retcode.taobao.com
   - DOMAIN-SUFFIX,retcyy.com
   - DOMAIN-SUFFIX,retentionscience.com
   - DOMAIN-SUFFIX,reterafu.torplanet.ru
@@ -79253,6 +79258,7 @@ payload:
   - DOMAIN-SUFFIX,zhifenjie.com
   - DOMAIN-SUFFIX,zhifinwgpwakue.com
   - DOMAIN-SUFFIX,zhihei.com
+  - DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com
   - DOMAIN-SUFFIX,zhihu.xmcimg.com
   - DOMAIN-SUFFIX,zhilingshidai.com
   - DOMAIN-SUFFIX,zhimaad.cn

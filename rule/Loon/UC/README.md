@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2021-02-04 00:07:40.719028。
+最后检查时间：2021-02-04 02:28:46.494182。
 
 ## 规则统计
 
@@ -46,8 +46,8 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising)    | 64823   | [23](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/UC/UC_Repeat.list)   |   0.04% |
-|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingTest)    | 80463   | [23](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/UC/UC_Repeat.list)   |   0.03% |
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising)    | 64926   | [23](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/UC/UC_Repeat.list)   |   0.04% |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingTest)    | 80469   | [23](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/UC/UC_Repeat.list)   |   0.03% |
 |  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaTest)    | 71562   | [5](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/UC/UC_Repeat.list)   |   0.01% |
 |  [Alibaba](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Alibaba)    | 1222   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/UC/UC_Repeat.list)   |   0.08% |
 ### 特别说明

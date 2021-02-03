@@ -1,7 +1,7 @@
 # NAME:  规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-04 00:07:16.918158
+# UPDATED: 2021-02-04 02:28:18.887545
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 #  与 AdvertisingLite 共 634 条规则重复
 HOST,2mdn.net
@@ -638,6 +638,64 @@ HOST-SUFFIX,zjhim.com
 HOST-SUFFIX,zjlanbi.com
 HOST-SUFFIX,zlongad.com
 HOST-SUFFIX,ztvx8.com
+#  与 Hijacking 共 55 条规则重复
+HOST-SUFFIX,186078.com
+HOST-SUFFIX,abbyychina.com
+HOST-SUFFIX,adsame.com
+HOST-SUFFIX,bartender.cc
+HOST-SUFFIX,betterzip.net
+HOST-SUFFIX,betterzipcn.com
+HOST-SUFFIX,beyondcompare.cc
+HOST-SUFFIX,bianxianmao.com
+HOST-SUFFIX,bryonypie.com
+HOST-SUFFIX,cjmakeding.com
+HOST-SUFFIX,codesoftchina.com
+HOST-SUFFIX,coreldrawchina.com
+HOST-SUFFIX,crossoverchina.com
+HOST-SUFFIX,cudaojia.com
+HOST-SUFFIX,dongmansoft.com
+HOST-SUFFIX,easyrecoverychina.com
+HOST-SUFFIX,ediuschina.com
+HOST-SUFFIX,fan-yong.com
+HOST-SUFFIX,flstudiochina.com
+HOST-SUFFIX,formysql.com
+HOST-SUFFIX,gouwubang.com
+HOST-SUFFIX,guitarpro.cc
+HOST-SUFFIX,imindmap.cc
+HOST-SUFFIX,jiubuhua.com
+HOST-SUFFIX,jsncke.com
+HOST-SUFFIX,keyshot.cc
+HOST-SUFFIX,kuaizip.com
+HOST-SUFFIX,lvehaisen.com
+HOST-SUFFIX,mairuan.com
+HOST-SUFFIX,makeding.com
+HOST-SUFFIX,mindmanager.cc
+HOST-SUFFIX,mindmapper.cc
+HOST-SUFFIX,mycleanmymac.com
+HOST-SUFFIX,newapi.com
+HOST-SUFFIX,nicelabel.cc
+HOST-SUFFIX,ntfsformac.cc
+HOST-SUFFIX,overturechina.com
+HOST-SUFFIX,pdfexpert.cc
+HOST-SUFFIX,photozoomchina.com
+HOST-SUFFIX,qichexin.com
+HOST-SUFFIX,shankejingling.com
+HOST-SUFFIX,topitme.com
+HOST-SUFFIX,tuipenguin.com
+HOST-SUFFIX,tuitiger.com
+HOST-SUFFIX,wsgblw.com
+HOST-SUFFIX,wx16999.com
+HOST-SUFFIX,xchmai.com
+HOST-SUFFIX,xitongqingli.com
+HOST-SUFFIX,xmindchina.net
+HOST-SUFFIX,xshellcn.com
+HOST-SUFFIX,yjqiqi.com
+HOST-SUFFIX,yuanchengxiezuo.com
+HOST-SUFFIX,yukhj.com
+HOST-SUFFIX,zbrushcn.com
+HOST-SUFFIX,zhzzx.com
+#  与 Privacy 共 1 条规则重复
+HOST,safebrowsing.googleapis.com
 #  与 Advertising 共 1142 条规则重复
 HOST,clickserve.dartsearch.net
 HOST-SUFFIX,000dn.com
@@ -2947,64 +3005,6 @@ HOST-SUFFIX,zyiis.net
 HOST-SUFFIX,zzcmjn.com
 HOST-SUFFIX,zzpzero.com
 HOST-SUFFIX,zzyanhushi.com
-#  与 Hijacking 共 55 条规则重复
-HOST-SUFFIX,186078.com
-HOST-SUFFIX,abbyychina.com
-HOST-SUFFIX,adsame.com
-HOST-SUFFIX,bartender.cc
-HOST-SUFFIX,betterzip.net
-HOST-SUFFIX,betterzipcn.com
-HOST-SUFFIX,beyondcompare.cc
-HOST-SUFFIX,bianxianmao.com
-HOST-SUFFIX,bryonypie.com
-HOST-SUFFIX,cjmakeding.com
-HOST-SUFFIX,codesoftchina.com
-HOST-SUFFIX,coreldrawchina.com
-HOST-SUFFIX,crossoverchina.com
-HOST-SUFFIX,cudaojia.com
-HOST-SUFFIX,dongmansoft.com
-HOST-SUFFIX,easyrecoverychina.com
-HOST-SUFFIX,ediuschina.com
-HOST-SUFFIX,fan-yong.com
-HOST-SUFFIX,flstudiochina.com
-HOST-SUFFIX,formysql.com
-HOST-SUFFIX,gouwubang.com
-HOST-SUFFIX,guitarpro.cc
-HOST-SUFFIX,imindmap.cc
-HOST-SUFFIX,jiubuhua.com
-HOST-SUFFIX,jsncke.com
-HOST-SUFFIX,keyshot.cc
-HOST-SUFFIX,kuaizip.com
-HOST-SUFFIX,lvehaisen.com
-HOST-SUFFIX,mairuan.com
-HOST-SUFFIX,makeding.com
-HOST-SUFFIX,mindmanager.cc
-HOST-SUFFIX,mindmapper.cc
-HOST-SUFFIX,mycleanmymac.com
-HOST-SUFFIX,newapi.com
-HOST-SUFFIX,nicelabel.cc
-HOST-SUFFIX,ntfsformac.cc
-HOST-SUFFIX,overturechina.com
-HOST-SUFFIX,pdfexpert.cc
-HOST-SUFFIX,photozoomchina.com
-HOST-SUFFIX,qichexin.com
-HOST-SUFFIX,shankejingling.com
-HOST-SUFFIX,topitme.com
-HOST-SUFFIX,tuipenguin.com
-HOST-SUFFIX,tuitiger.com
-HOST-SUFFIX,wsgblw.com
-HOST-SUFFIX,wx16999.com
-HOST-SUFFIX,xchmai.com
-HOST-SUFFIX,xitongqingli.com
-HOST-SUFFIX,xmindchina.net
-HOST-SUFFIX,xshellcn.com
-HOST-SUFFIX,yjqiqi.com
-HOST-SUFFIX,yuanchengxiezuo.com
-HOST-SUFFIX,yukhj.com
-HOST-SUFFIX,zbrushcn.com
-HOST-SUFFIX,zhzzx.com
-#  与 Privacy 共 1 条规则重复
-HOST,safebrowsing.googleapis.com
 #  与 Blizzard 共 4 条规则重复
 HOST-SUFFIX,battle.net
 HOST-SUFFIX,battlenet.com

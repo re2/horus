@@ -1,7 +1,7 @@
 # NAME:  规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-04 00:07:16.914563
+# UPDATED: 2021-02-04 02:28:18.883355
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 #  与 AdvertisingLite 共 7 条规则重复
 HOST-SUFFIX,crashlytics.com
@@ -11,6 +11,8 @@ HOST-SUFFIX,mob.com
 HOST-SUFFIX,umeng.com
 HOST-SUFFIX,umengcloud.com
 HOST-SUFFIX,xdrig.com
+#  与 Privacy 共 1 条规则重复
+HOST,safebrowsing.googleapis.com
 #  与 Advertising 共 14 条规则重复
 HOST-SUFFIX,360in.com
 HOST-SUFFIX,71.am
@@ -41,8 +43,6 @@ HOST-SUFFIX,umeng.com
 HOST-SUFFIX,umengcloud.com
 HOST-SUFFIX,xdrig.com
 HOST-SUFFIX,zmzfile.com
-#  与 Privacy 共 1 条规则重复
-HOST,safebrowsing.googleapis.com
 #  与 Blizzard 共 3 条规则重复
 HOST-SUFFIX,battle.net
 HOST-SUFFIX,battlenet.com

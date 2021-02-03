@@ -1,7 +1,7 @@
 # NAME:  规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-04 00:07:19.039067
+# UPDATED: 2021-02-04 02:28:21.358463
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 payload:
 #  与 AdvertisingLite 共 7 条规则重复
@@ -12,6 +12,8 @@ payload:
   - DOMAIN-SUFFIX,umeng.com
   - DOMAIN-SUFFIX,umengcloud.com
   - DOMAIN-SUFFIX,xdrig.com
+#  与 Privacy 共 1 条规则重复
+  - DOMAIN,safebrowsing.googleapis.com
 #  与 Advertising 共 14 条规则重复
   - DOMAIN-SUFFIX,360in.com
   - DOMAIN-SUFFIX,71.am
@@ -42,8 +44,6 @@ payload:
   - DOMAIN-SUFFIX,umengcloud.com
   - DOMAIN-SUFFIX,xdrig.com
   - DOMAIN-SUFFIX,zmzfile.com
-#  与 Privacy 共 1 条规则重复
-  - DOMAIN,safebrowsing.googleapis.com
 #  与 Blizzard 共 3 条规则重复
   - DOMAIN-SUFFIX,battle.net
   - DOMAIN-SUFFIX,battlenet.com

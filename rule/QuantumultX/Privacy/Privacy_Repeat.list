@@ -1,7 +1,7 @@
 # NAME:  规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-04 00:07:16.476580
+# UPDATED: 2021-02-04 02:28:18.293587
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 #  与 AdvertisingLite 共 2346 条规则重复
 HOST-SUFFIX,0sbm.consobaby.co.uk
@@ -2350,7 +2350,7 @@ HOST-SUFFIX,zs.dhl.de
 HOST-SUFFIX,zsi7.destinia.do
 HOST-SUFFIX,zyq2.destinia.sk
 HOST-SUFFIX,zz.bdstatic.com
-#  与 Advertising 共 2559 条规则重复
+#  与 Advertising 共 2660 条规则重复
 HOST,log-hl-ipv6.snssdk.com
 HOST,log-lq.snssdk.com
 HOST,log-va.tiktokv.com
@@ -2596,6 +2596,7 @@ HOST-SUFFIX,analytics.yola.net
 HOST-SUFFIX,analytics.yolacdn.net
 HOST-SUFFIX,analytics.yomedia.vn
 HOST-SUFFIX,analytics.zg-api.com
+HOST-SUFFIX,analytics.zhihu.com
 HOST-SUFFIX,analytics.ziftsolutions.com
 HOST-SUFFIX,analytics00.meride.tv
 HOST-SUFFIX,analytics2.socialblade.com
@@ -2605,6 +2606,7 @@ HOST-SUFFIX,analyzer.fc2.com
 HOST-SUFFIX,analyzer2.fc2.com
 HOST-SUFFIX,analyzer51.fc2.com
 HOST-SUFFIX,analyzer52.fc2.com
+HOST-SUFFIX,andoveradvertiser-gb.andoveradvertiser.co.uk
 HOST-SUFFIX,anon-stats.eff.org
 HOST-SUFFIX,anti-bot.baidu.com
 HOST-SUFFIX,aorta.clickagy.com
@@ -2620,6 +2622,7 @@ HOST-SUFFIX,as.mirapodo.de
 HOST-SUFFIX,as.mytoys.de
 HOST-SUFFIX,as.payback.it
 HOST-SUFFIX,as.yomonda.de
+HOST-SUFFIX,asianimage-gb.asianimage.co.uk
 HOST-SUFFIX,astat.nikkei.com
 HOST-SUFFIX,asumi.shinobi.jp
 HOST-SUFFIX,at.pagesjaunes.fr
@@ -2656,8 +2659,11 @@ HOST-SUFFIX,b.myspace.com
 HOST-SUFFIX,bab.frb.io
 HOST-SUFFIX,backstage.funnelenvy.com
 HOST-SUFFIX,bacon.section.io
+HOST-SUFFIX,banburycake-gb.banburycake.co.uk
 HOST-SUFFIX,banstat.nadavi.net
 HOST-SUFFIX,barium.cheezdev.com
+HOST-SUFFIX,barryanddistrictnews-gb.barryanddistrictnews.co.uk
+HOST-SUFFIX,basildonstandard-gb.basildonstandard.co.uk
 HOST-SUFFIX,bat.adforum.com
 HOST-SUFFIX,bat.bing.com
 HOST-SUFFIX,bats.video.yahoo.com
@@ -2706,6 +2712,7 @@ HOST-SUFFIX,besti.ga
 HOST-SUFFIX,bglog.bitauto.com
 HOST-SUFFIX,bhu9.bankia.es
 HOST-SUFFIX,bi.medscape.com
+HOST-SUFFIX,bicesteradvertiser-gb.bicesteradvertiser.net
 HOST-SUFFIX,bidder.mediams.mb.softbank.jp
 HOST-SUFFIX,binarybusiness.de
 HOST-SUFFIX,bisko.mall.tv
@@ -2722,11 +2729,17 @@ HOST-SUFFIX,bnr.alza.cz
 HOST-SUFFIX,bogglecool.club
 HOST-SUFFIX,bonsai.internetbrands.com
 HOST-SUFFIX,boomerang.dell.com
+HOST-SUFFIX,borehamwoodtimes-gb.borehamwoodtimes.co.uk
 HOST-SUFFIX,bosetoo.club
 HOST-SUFFIX,bournemouthecho-gb.bournemouthecho.co.uk
 HOST-SUFFIX,brain.foresee.com
+HOST-SUFFIX,braintreeandwithamtimes-gb.braintreeandwithamtimes.co.uk
 HOST-SUFFIX,bravo.israelweather.co.il
+HOST-SUFFIX,brentwoodlive-gb.brentwoodlive.co.uk
+HOST-SUFFIX,bridgwatermercury-gb.bridgwatermercury.co.uk
+HOST-SUFFIX,bridportnews-gb.bridportnews.co.uk
 HOST-SUFFIX,bright.bncnt.com
+HOST-SUFFIX,bromsgroveadvertiser-gb.bromsgroveadvertiser.co.uk
 HOST-SUFFIX,browser-updater.yandex.net
 HOST-SUFFIX,bt.mediaimpact.de
 HOST-SUFFIX,btn.clickability.com
@@ -2736,6 +2749,8 @@ HOST-SUFFIX,btstats.devtribu.fr
 HOST-SUFFIX,bucksfreepress-gb.bucksfreepress.co.uk
 HOST-SUFFIX,buf.lemonde.fr
 HOST-SUFFIX,bulb.76.my
+HOST-SUFFIX,burnhamandhighbridgeweeklynews-gb.burnhamandhighbridgeweeklynews.co.uk
+HOST-SUFFIX,burytimes-gb.burytimes.co.uk
 HOST-SUFFIX,bvr.ast.snva.jp
 HOST-SUFFIX,bvr.snva.jp
 HOST-SUFFIX,bzclk.baidu.com
@@ -2755,6 +2770,7 @@ HOST-SUFFIX,c4dv.copinesdevoyage.com
 HOST-SUFFIX,cache2.delvenetworks.com
 HOST-SUFFIX,cadreon.s3.amazonaws.com
 HOST-SUFFIX,cahf4eed.mooo.com
+HOST-SUFFIX,campaignseries-gb.campaignseries.co.uk
 HOST-SUFFIX,canvas-ping.conduit-data.com
 HOST-SUFFIX,canvas-usage-v2.conduit-data.com
 HOST-SUFFIX,capture.condenastdigital.com
@@ -2782,9 +2798,13 @@ HOST-SUFFIX,cgicounter.puretec.de
 HOST-SUFFIX,ch0p.darty.com
 HOST-SUFFIX,chanalytics.merchantadvantage.com
 HOST-SUFFIX,chanelventure.club
+HOST-SUFFIX,chardandilminsternews-gb.chardandilminsternews.co.uk
 HOST-SUFFIX,chartaca.com.s3.amazonaws.com
+HOST-SUFFIX,chelmsfordweeklynews-gb.chelmsfordweeklynews.co.uk
 HOST-SUFFIX,chkpt.zdnet.com
+HOST-SUFFIX,chorleycitizen-gb.chorleycitizen.co.uk
 HOST-SUFFIX,cl.expedia.com
+HOST-SUFFIX,clactonandfrintongazette-gb.clactonandfrintongazette.co.uk
 HOST-SUFFIX,clancy.spiceworks.com
 HOST-SUFFIX,clarium.global.ssl.fastly.net
 HOST-SUFFIX,clck.yandex.com
@@ -2907,6 +2927,7 @@ HOST-SUFFIX,cookietracker.cloudapp.net
 HOST-SUFFIX,cookiex.ngd.yahoo.com
 HOST-SUFFIX,coolertracks.emailroi.com
 HOST-SUFFIX,core.unit-sense.net
+HOST-SUFFIX,cotswoldjournal-gb.cotswoldjournal.co.uk
 HOST-SUFFIX,count.asnetworks.de
 HOST-SUFFIX,count.carrierzone.com
 HOST-SUFFIX,count.kandian.com
@@ -2928,6 +2949,7 @@ HOST-SUFFIX,counter.blogoscoop.net
 HOST-SUFFIX,counter.bloke.com
 HOST-SUFFIX,counter.cam-content.com
 HOST-SUFFIX,counter.cnw.cz
+HOST-SUFFIX,counter.digits.com
 HOST-SUFFIX,counter.drom.ru
 HOST-SUFFIX,counter.entertainmentwise.com
 HOST-SUFFIX,counter.hackers.lv
@@ -2969,6 +2991,7 @@ HOST-SUFFIX,cpgo.avatacar.com
 HOST-SUFFIX,cpt.itv.com
 HOST-SUFFIX,cpx.golem.de
 HOST-SUFFIX,cpxl.golem.de
+HOST-SUFFIX,cravenherald-gb.cravenherald.co.uk
 HOST-SUFFIX,creatives.sunmedia.tv
 HOST-SUFFIX,creator.zmags.com
 HOST-SUFFIX,crm-analytics.imweb.ru
@@ -2994,9 +3017,12 @@ HOST-SUFFIX,d.ghostery.com
 HOST-SUFFIX,d.haberler.com
 HOST-SUFFIX,d.nativendo.de
 HOST-SUFFIX,d.omsnative.de
+HOST-SUFFIX,d.skk.moe
 HOST-SUFFIX,d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com
 HOST-SUFFIX,da.netease.com
 HOST-SUFFIX,da.virginmedia.com
+HOST-SUFFIX,dailyecho-gb.dailyecho.co.uk
+HOST-SUFFIX,darlingtonandstocktontimes-gb.darlingtonandstocktontimes.co.uk
 HOST-SUFFIX,data.alexa.com
 HOST-SUFFIX,data.circulate.com
 HOST-SUFFIX,data.econa.com
@@ -3048,11 +3074,14 @@ HOST-SUFFIX,dmtracking.1688.com
 HOST-SUFFIX,dmtracking2.alibaba.com
 HOST-SUFFIX,doa1.immobilier-neuf.com
 HOST-SUFFIX,docileyellow.club
+HOST-SUFFIX,dorsetecho-gb.dorsetecho.co.uk
 HOST-SUFFIX,dot-stat.radikal.ru
 HOST-SUFFIX,dp.shoprunner.com
 HOST-SUFFIX,dpm.bluray-disc.de
+HOST-SUFFIX,droitwichadvertiser-gb.droitwichadvertiser.co.uk
 HOST-SUFFIX,dsg.interia.pl
 HOST-SUFFIX,dt.nrjmobile.fr
+HOST-SUFFIX,dudleynews-gb.dudleynews.co.uk
 HOST-SUFFIX,dumpster.cam4.com
 HOST-SUFFIX,dv.chemie.de
 HOST-SUFFIX,dv59b.montecarlomeeting.com
@@ -3109,6 +3138,8 @@ HOST-SUFFIX,ea.vente-unique.ch
 HOST-SUFFIX,ea.vente-unique.com
 HOST-SUFFIX,ea.vente-unique.lu
 HOST-SUFFIX,ea.warnerbros.fr
+HOST-SUFFIX,ealingtimes-gb.ealingtimes.co.uk
+HOST-SUFFIX,echo-news-gb.echo-news.co.uk
 HOST-SUFFIX,eclick.baidu.com
 HOST-SUFFIX,ecomm.events
 HOST-SUFFIX,edge.sqweb.com
@@ -3126,6 +3157,7 @@ HOST-SUFFIX,emarketing.rmauctions.com
 HOST-SUFFIX,emng.libero.it
 HOST-SUFFIX,encoderfarmstatsnew.servicebus.windows.net
 HOST-SUFFIX,encoding.ovh
+HOST-SUFFIX,enfieldindependent-gb.enfieldindependent.co.uk
 HOST-SUFFIX,engage-cdn.schibsted.media
 HOST-SUFFIX,engagefront.meteomedia.com
 HOST-SUFFIX,engagefront.theweathernetwork.com
@@ -3136,6 +3168,7 @@ HOST-SUFFIX,ens.tagblatt.ch
 HOST-SUFFIX,entryhit.wp.pl
 HOST-SUFFIX,ep00.epimg.net
 HOST-SUFFIX,epl.paypal-communication.com
+HOST-SUFFIX,eppingforestguardian-gb.eppingforestguardian.co.uk
 HOST-SUFFIX,epro.sogou.com
 HOST-SUFFIX,eproof.drudgereport.com
 HOST-SUFFIX,error.videonow.ru
@@ -3208,6 +3241,7 @@ HOST-SUFFIX,events.tubecup.org
 HOST-SUFFIX,events.turbosquid.com
 HOST-SUFFIX,events.whisk.com
 HOST-SUFFIX,events.yourcx.io
+HOST-SUFFIX,eveshamjournal-gb.eveshamjournal.co.uk
 HOST-SUFFIX,evisit.exeter.ac.uk
 HOST-SUFFIX,evnt.iol.it
 HOST-SUFFIX,exd4.destinia.com.au
@@ -3217,6 +3251,7 @@ HOST-SUFFIX,expdb2.msn.com
 HOST-SUFFIX,f.staticlp.com
 HOST-SUFFIX,f1tbit.com
 HOST-SUFFIX,f7ds.liberation.fr
+HOST-SUFFIX,falmouthpacket-gb.falmouthpacket.co.uk
 HOST-SUFFIX,fast.forbes.com
 HOST-SUFFIX,fathom.pixeldrain.com
 HOST-SUFFIX,fathom.status.im
@@ -3235,6 +3270,7 @@ HOST-SUFFIX,fourier.taobao.com
 HOST-SUFFIX,fourmtagservices.appspot.com
 HOST-SUFFIX,fp.measure.office.com
 HOST-SUFFIX,fpa-events.arstechnica.com
+HOST-SUFFIX,freepressseries-gb.freepressseries.co.uk
 HOST-SUFFIX,fresh.techdirt.com
 HOST-SUFFIX,fsm.lapresse.ca
 HOST-SUFFIX,fsz1.francoisesaget.com
@@ -3285,6 +3321,8 @@ HOST-SUFFIX,ganon.yahoo.com
 HOST-SUFFIX,gateway.foresee.com
 HOST-SUFFIX,gay-hotvideo.net
 HOST-SUFFIX,gazette-news-gb.gazette-news.co.uk
+HOST-SUFFIX,gazetteherald-gb.gazetteherald.co.uk
+HOST-SUFFIX,gazetteseries-gb.gazetteseries.co.uk
 HOST-SUFFIX,gc.newsweek.com
 HOST-SUFFIX,gcpdata.telegraph.co.uk
 HOST-SUFFIX,gdm1.toner.fr
@@ -3343,21 +3381,30 @@ HOST-SUFFIX,green-griffin-860.appspot.com
 HOST-SUFFIX,greenocktelegraph-gb.greenocktelegraph.co.uk
 HOST-SUFFIX,gsp1.baidu.com
 HOST-SUFFIX,gtrk.s3.amazonaws.com
+HOST-SUFFIX,guardian-series-gb.guardian-series.co.uk
 HOST-SUFFIX,guq9.vente-unique.it
 HOST-SUFFIX,gx.idg.se
 HOST-SUFFIX,h.cliphunter.com
 HOST-SUFFIX,h.imedia.cz
+HOST-SUFFIX,halesowennews-gb.halesowennews.co.uk
 HOST-SUFFIX,halospring.club
+HOST-SUFFIX,halsteadgazette-gb.halsteadgazette.co.uk
+HOST-SUFFIX,hampshirechronicle-gb.hampshirechronicle.co.uk
 HOST-SUFFIX,haostat.qihoo.com
 HOST-SUFFIX,happen.spkt.io
+HOST-SUFFIX,harrowtimes-gb.harrowtimes.co.uk
 HOST-SUFFIX,harvester.eu.square-enix.com
 HOST-SUFFIX,harvester.ext.square-enix-europe.com
 HOST-SUFFIX,harvester.hbpl.co.uk
+HOST-SUFFIX,harwichandmanningtreestandard-gb.harwichandmanningtreestandard.co.uk
 HOST-SUFFIX,heartbeat.flickr.com
 HOST-SUFFIX,hello.staticstuff.net
 HOST-SUFFIX,heraldscotland-gb.heraldscotland.com
+HOST-SUFFIX,heraldseries-gb.heraldseries.co.uk
+HOST-SUFFIX,herefordtimes-gb.herefordtimes.com
 HOST-SUFFIX,hermes.theglobeandmail.com
 HOST-SUFFIX,hide.ovh
+HOST-SUFFIX,hillingdontimes-gb.hillingdontimes.co.uk
 HOST-SUFFIX,hit.interia.pl
 HOST-SUFFIX,hit.meta.ua
 HOST-SUFFIX,hit.mybestpro.com
@@ -3388,6 +3435,7 @@ HOST-SUFFIX,icu.getstorybox.com
 HOST-SUFFIX,idt.id-news.net
 HOST-SUFFIX,iedc.fitbit.com
 HOST-SUFFIX,igrid.org
+HOST-SUFFIX,ilkleygazette-gb.ilkleygazette.co.uk
 HOST-SUFFIX,im.aol.de
 HOST-SUFFIX,imgstat.baidu.com
 HOST-SUFFIX,imgtrack.domainmarket.com
@@ -3433,9 +3481,11 @@ HOST-SUFFIX,kbn.korben.info
 HOST-SUFFIX,keighleynews-gb.keighleynews.co.uk
 HOST-SUFFIX,keyword.daumdn.com
 HOST-SUFFIX,keywords.complex.com
+HOST-SUFFIX,kidderminstershuttle-gb.kidderminstershuttle.co.uk
 HOST-SUFFIX,kiks.auto.ru
 HOST-SUFFIX,kinesisproxy.hearstlabs.com
 HOST-SUFFIX,kitchen.juicer.cc
+HOST-SUFFIX,knutsfordguardian-gb.knutsfordguardian.co.uk
 HOST-SUFFIX,kropka.onet.pl
 HOST-SUFFIX,ktracker.kumparan.com
 HOST-SUFFIX,kungfupan.club
@@ -3444,10 +3494,13 @@ HOST-SUFFIX,l.m.naver.com
 HOST-SUFFIX,l.ooyala.com
 HOST-SUFFIX,l.player.ooyala.com
 HOST-SUFFIX,laas.americanexpress.com
+HOST-SUFFIX,lancashiretelegraph-gb.lancashiretelegraph.co.uk
 HOST-SUFFIX,laurel.macrovision.com
 HOST-SUFFIX,laurel.rovicorp.com
 HOST-SUFFIX,lcs.livedoor.net
 HOST-SUFFIX,leadtracking.plumvoice.com
+HOST-SUFFIX,ledburyreporter-gb.ledburyreporter.co.uk
+HOST-SUFFIX,leighjournal-gb.leighjournal.co.uk
 HOST-SUFFIX,lem.nouvelobs.com
 HOST-SUFFIX,leono.club
 HOST-SUFFIX,lg.tr.pandora.tv
@@ -3543,12 +3596,15 @@ HOST-SUFFIX,loxodo-analytics.ext.nile.works
 HOST-SUFFIX,lslmetrics.djlmgdigital.com
 HOST-SUFFIX,lt.tritondigital.com
 HOST-SUFFIX,lucid.mjhassoc.com
+HOST-SUFFIX,ludlowadvertiser-gb.ludlowadvertiser.co.uk
 HOST-SUFFIX,lunametrics.wpengine.netdna-cdn.com
 HOST-SUFFIX,m.trb.com
 HOST-SUFFIX,ma.redhat.com
 HOST-SUFFIX,ma.register.it
 HOST-SUFFIX,magnify360-cdn.s3.amazonaws.com
 HOST-SUFFIX,makedosupport.club
+HOST-SUFFIX,maldonandburnhamstandard-gb.maldonandburnhamstandard.co.uk
+HOST-SUFFIX,malverngazette-gb.malverngazette.co.uk
 HOST-SUFFIX,mandatebright.club
 HOST-SUFFIX,mar.vip.com
 HOST-SUFFIX,mark.isbank.com.tr
@@ -3569,6 +3625,7 @@ HOST-SUFFIX,measure.refinery89.com
 HOST-SUFFIX,mediametrics.mpsa.com
 HOST-SUFFIX,mediator.mail.ru
 HOST-SUFFIX,mercadolibre.com/tracks
+HOST-SUFFIX,messengernewspapers-gb.messengernewspapers.co.uk
 HOST-SUFFIX,met.vgwort.de
 HOST-SUFFIX,metric.inetcore.com
 HOST-SUFFIX,metric.nwsource.com
@@ -3597,6 +3654,7 @@ HOST-SUFFIX,metrixlablw.customers.luna.net
 HOST-SUFFIX,mfio.cf
 HOST-SUFFIX,mi-de-ner-nis3.info
 HOST-SUFFIX,migrati.xyz
+HOST-SUFFIX,milfordmercury-gb.milfordmercury.co.uk
 HOST-SUFFIX,mine.nahnoji.cz
 HOST-SUFFIX,minerad.com
 HOST-SUFFIX,mj23.eulerian.com
@@ -3660,6 +3718,7 @@ HOST-SUFFIX,neocounter.neoworx-blog-tools.net
 HOST-SUFFIX,net.haier.com
 HOST-SUFFIX,netc.sfr.fr
 HOST-SUFFIX,never.ovh
+HOST-SUFFIX,newsshopper-gb.newsshopper.co.uk
 HOST-SUFFIX,nexioniect.com
 HOST-SUFFIX,nexttime.ovh
 HOST-SUFFIX,nil.naver.com
@@ -3669,6 +3728,7 @@ HOST-SUFFIX,nmtracking.netflix.com
 HOST-SUFFIX,noa0.compteczam.fr
 HOST-SUFFIX,noflake-aggregator-http.narvar.com
 HOST-SUFFIX,nol.yahoo.com
+HOST-SUFFIX,northwichguardian-gb.northwichguardian.co.uk
 HOST-SUFFIX,nova.dice.net
 HOST-SUFFIX,nrg.red-by-sfr.fr
 HOST-SUFFIX,ns.rvmkitt.com
@@ -3701,6 +3761,7 @@ HOST-SUFFIX,origin.chron.com
 HOST-SUFFIX,orionis.techradar.com
 HOST-SUFFIX,osd.oxygem.it
 HOST-SUFFIX,outal.origo.hu
+HOST-SUFFIX,oxfordmail-gb.oxfordmail.co.uk
 HOST-SUFFIX,oxifwsabgd.nzz.ch
 HOST-SUFFIX,p-log.ykimg.com
 HOST-SUFFIX,p.adbrn.com
@@ -3732,6 +3793,7 @@ HOST-SUFFIX,pclick.internal.yahoo.com
 HOST-SUFFIX,pclick.yahoo.com
 HOST-SUFFIX,pdc.dmleonyc.com
 HOST-SUFFIX,pebed.dm.gg
+HOST-SUFFIX,penarthtimes-gb.penarthtimes.co.uk
 HOST-SUFFIX,perf.dugout.com
 HOST-SUFFIX,performanceplay.co.kr
 HOST-SUFFIX,performances.bestofmedia.com
@@ -3794,6 +3856,7 @@ HOST-SUFFIX,pixel.prosieben.de
 HOST-SUFFIX,pixel.roymorgan.com
 HOST-SUFFIX,pixel.s3xified.com
 HOST-SUFFIX,pixel.safe-installation.com
+HOST-SUFFIX,pixel.smartmedia.tj
 HOST-SUFFIX,pixel.solvemedia.com
 HOST-SUFFIX,pixel.spotify.com
 HOST-SUFFIX,pixel.sprinklr.com
@@ -3822,6 +3885,7 @@ HOST-SUFFIX,prd-collector-anon.ex.co
 HOST-SUFFIX,prd-collector-anon.playbuzz.com
 HOST-SUFFIX,prd-collector-auth.playbuzz.com
 HOST-SUFFIX,presentationtracking.netflix.com
+HOST-SUFFIX,prestwichandwhitefieldguide-gb.prestwichandwhitefieldguide.co.uk
 HOST-SUFFIX,prism.pandora.tv
 HOST-SUFFIX,proac.nationwide.com
 HOST-SUFFIX,proactive.base.de
@@ -3865,6 +3929,7 @@ HOST-SUFFIX,r.my.com
 HOST-SUFFIX,radar.imgsmail.ru
 HOST-SUFFIX,ramp.purch.com
 HOST-SUFFIX,rand.com.ru
+HOST-SUFFIX,ranking.apis.sankei-digital.co.jp
 HOST-SUFFIX,rat.rakuten.co.jp
 HOST-SUFFIX,rbc.magna.ru
 HOST-SUFFIX,rc.vtex.com.br
@@ -3879,7 +3944,9 @@ HOST-SUFFIX,reauthenticator.com
 HOST-SUFFIX,rec.udn.com
 HOST-SUFFIX,reco.hardsextube.com
 HOST-SUFFIX,recommendation.24.com
+HOST-SUFFIX,redditchadvertiser-gb.redditchadvertiser.co.uk
 HOST-SUFFIX,redeye.williamhill.com
+HOST-SUFFIX,redhillandreigatelife-gb.redhillandreigatelife.co.uk
 HOST-SUFFIX,ref.dealerinspire.com
 HOST-SUFFIX,refer.ccbill.com
 HOST-SUFFIX,referer.pixplug.in
@@ -3902,12 +3969,15 @@ HOST-SUFFIX,res.rbl.ms
 HOST-SUFFIX,responder.wt.heise.de
 HOST-SUFFIX,response.pure360.com
 HOST-SUFFIX,retargeting.vistaprint.com
+HOST-SUFFIX,retcode.taobao.com
 HOST-SUFFIX,retrack.q-divisioncdn.de
 HOST-SUFFIX,revsci.tvguide.com
 HOST-SUFFIX,rich-agent.s3.amazonaws.com
+HOST-SUFFIX,richmondandtwickenhamtimes-gb.richmondandtwickenhamtimes.co.uk
 HOST-SUFFIX,rl.heise.de
 HOST-SUFFIX,rlinks.one.in
 HOST-SUFFIX,rok.com.com
+HOST-SUFFIX,romseyadvertiser-gb.romseyadvertiser.co.uk
 HOST-SUFFIX,rps-p2.rockpapershotgun.com
 HOST-SUFFIX,rps-uk.rockpapershotgun.com
 HOST-SUFFIX,rs.mail.ru
@@ -3926,6 +3996,7 @@ HOST-SUFFIX,rum.kobo.com
 HOST-SUFFIX,rum.marquardmedia.hu
 HOST-SUFFIX,rum.minutemediaservices.com
 HOST-SUFFIX,rum.nccgroup-webperf.com
+HOST-SUFFIX,runcornandwidnesworld-gb.runcornandwidnesworld.co.uk
 HOST-SUFFIX,rvkcpqz.com
 HOST-SUFFIX,rvv.emol.com
 HOST-SUFFIX,s.360.cn
@@ -3945,6 +4016,7 @@ HOST-SUFFIX,sa135.kiro7.com
 HOST-SUFFIX,sa135.macworld.co.uk
 HOST-SUFFIX,sa135.wsbtv.com
 HOST-SUFFIX,sal.isanook.com
+HOST-SUFFIX,salisburyjournal-gb.salisburyjournal.co.uk
 HOST-SUFFIX,sana.newsinc.com.s3.amazonaws.com
 HOST-SUFFIX,santuforward.club
 HOST-SUFFIX,sat.sanoma.fi
@@ -3993,6 +4065,7 @@ HOST-SUFFIX,smetrics.delta.com
 HOST-SUFFIX,smrt.as
 HOST-SUFFIX,snowplow.swm.digital
 HOST-SUFFIX,snr4.canalplus.com
+HOST-SUFFIX,somersetcountygazette-gb.somersetcountygazette.co.uk
 HOST-SUFFIX,somniture.theglobeandmail.com
 HOST-SUFFIX,soodatmish.com
 HOST-SUFFIX,sourcepoint-mms.aetv.com
@@ -4000,6 +4073,10 @@ HOST-SUFFIX,sourcepoint-mms.history.com
 HOST-SUFFIX,sourcepoint-mms.mylifetime.com
 HOST-SUFFIX,sourcepoint.dexerto.com
 HOST-SUFFIX,sourcepoint.vice.com
+HOST-SUFFIX,southendstandard-gb.southendstandard.co.uk
+HOST-SUFFIX,southwalesargus-gb.southwalesargus.co.uk
+HOST-SUFFIX,southwalesguardian-gb.southwalesguardian.co.uk
+HOST-SUFFIX,southwestfarmer-gb.southwestfarmer.co.uk
 HOST-SUFFIX,sp-mms.weather.com
 HOST-SUFFIX,sp.app.com
 HOST-SUFFIX,sp.argusleader.com
@@ -4127,6 +4204,7 @@ HOST-SUFFIX,st.cdnco.us
 HOST-SUFFIX,st.linkfire.com
 HOST-SUFFIX,st.tmgrup.com.tr
 HOST-SUFFIX,stadig.ifeng.com
+HOST-SUFFIX,stalbansreview-gb.stalbansreview.co.uk
 HOST-SUFFIX,stan.xing.com
 HOST-SUFFIX,stat.1688.com
 HOST-SUFFIX,stat.acca.it
@@ -4313,6 +4391,7 @@ HOST-SUFFIX,statystyki.panelek.com
 HOST-SUFFIX,stbt.coupons.com
 HOST-SUFFIX,stg-data-collector.playbuzz.com
 HOST-SUFFIX,sthelensstar-gb.sthelensstar.co.uk
+HOST-SUFFIX,stourbridgenews-gb.stourbridgenews.co.uk
 HOST-SUFFIX,str1kee.com
 HOST-SUFFIX,sts.eccmp.com
 HOST-SUFFIX,subpixel.4players.de
@@ -4320,6 +4399,7 @@ HOST-SUFFIX,sugar.gameforge.com
 HOST-SUFFIX,sugs.m.sm.cn
 HOST-SUFFIX,supertraders.club
 HOST-SUFFIX,supertraders.info
+HOST-SUFFIX,surreycomet-gb.surreycomet.co.uk
 HOST-SUFFIX,survey.interquest.com
 HOST-SUFFIX,surveys.cnet.com
 HOST-SUFFIX,swindonadvertiser-gb.swindonadvertiser.co.uk
@@ -4452,9 +4532,18 @@ HOST-SUFFIX,tesla.oscaro.com
 HOST-SUFFIX,testcddc.atclouddev.net
 HOST-SUFFIX,tf.360.cn
 HOST-SUFFIX,theargus-gb.theargus.co.uk
+HOST-SUFFIX,theboltonnews-gb.theboltonnews.co.uk
 HOST-SUFFIX,thenational-gb.thenational.scot
+HOST-SUFFIX,thenorthernecho-gb.thenorthernecho.co.uk
+HOST-SUFFIX,thescottishfarmer-gb.thescottishfarmer.co.uk
+HOST-SUFFIX,thetelegraphandargus-gb.thetelegraphandargus.co.uk
+HOST-SUFFIX,thetottenhamindependent-gb.thetottenhamindependent.co.uk
 HOST-SUFFIX,thetradedesk-tags.s3.amazonaws.com
+HOST-SUFFIX,thewestmorlandgazette-gb.thewestmorlandgazette.co.uk
+HOST-SUFFIX,thisisthewestcountry-gb.thisisthewestcountry.co.uk
+HOST-SUFFIX,thurrockgazette-gb.thurrockgazette.co.uk
 HOST-SUFFIX,tim.nextinpact.com
+HOST-SUFFIX,times-series-gb.times-series.co.uk
 HOST-SUFFIX,timeslogtn.timesnow.tv
 HOST-SUFFIX,timestrends.indiatimes.com
 HOST-SUFFIX,timestrends.timesnow.tv
@@ -4839,7 +4928,10 @@ HOST-SUFFIX,wa.gmx.fr
 HOST-SUFFIX,wa.metro.co.uk
 HOST-SUFFIX,wa.ui-portal.de
 HOST-SUFFIX,wal.wolfram.com
+HOST-SUFFIX,wandsworthguardian-gb.wandsworthguardian.co.uk
 HOST-SUFFIX,warp.prnewswire.co.uk
+HOST-SUFFIX,warringtonguardian-gb.warringtonguardian.co.uk
+HOST-SUFFIX,watfordobserver-gb.watfordobserver.co.uk
 HOST-SUFFIX,watson.live.com
 HOST-SUFFIX,wbdds.allocine.fr
 HOST-SUFFIX,wblt.oui.sncf
@@ -4866,9 +4958,16 @@ HOST-SUFFIX,webstats.thaindian.com
 HOST-SUFFIX,webstats.thesoul-publishing.com
 HOST-SUFFIX,webtracker.apicasystem.com
 HOST-SUFFIX,webts.adac.de
+HOST-SUFFIX,westerntelegraph-gb.westerntelegraph.co.uk
+HOST-SUFFIX,wharfedaleobserver-gb.wharfedaleobserver.co.uk
+HOST-SUFFIX,wiltsglosstandard-gb.wiltsglosstandard.co.uk
 HOST-SUFFIX,wiltshiretimes-gb.wiltshiretimes.co.uk
+HOST-SUFFIX,wimbledonguardian-gb.wimbledonguardian.co.uk
 HOST-SUFFIX,win.staticstuff.net
+HOST-SUFFIX,winsfordguardian-gb.winsfordguardian.co.uk
+HOST-SUFFIX,wirralglobe-gb.wirralglobe.co.uk
 HOST-SUFFIX,wisteria-js.excite.co.jp
+HOST-SUFFIX,witneygazette-gb.witneygazette.co.uk
 HOST-SUFFIX,wkctj.baidu.com
 HOST-SUFFIX,wla.vivaldi.com
 HOST-SUFFIX,worcesternews-gb.worcesternews.co.uk
@@ -4891,6 +4990,7 @@ HOST-SUFFIX,xr.shinobi.jp
 HOST-SUFFIX,xtrack.capetown.gov.za
 HOST-SUFFIX,xy33.smallable.com
 HOST-SUFFIX,yast.rutube.ru
+HOST-SUFFIX,yeovilexpress-gb.yeovilexpress.co.uk
 HOST-SUFFIX,yh6u.dealeusedevoyages.com
 HOST-SUFFIX,yjtag.yahoo.co.jp
 HOST-SUFFIX,ymprove.web.de
@@ -4902,6 +5002,7 @@ HOST-SUFFIX,z0uolej1qnxzub1.info
 HOST-SUFFIX,zam.nextinpact.com
 HOST-SUFFIX,zdlogs.sphereup.com
 HOST-SUFFIX,zeus.slader.com
+HOST-SUFFIX,zhihu-web-analytics.zhihu.com
 HOST-SUFFIX,zion.api.cnn.io
 HOST-SUFFIX,zminer.zaloapp.com
 HOST-SUFFIX,znq9.destinia.mx
@@ -4910,7 +5011,7 @@ HOST-SUFFIX,zs.dhl.de
 HOST-SUFFIX,zsi7.destinia.do
 HOST-SUFFIX,zyq2.destinia.sk
 HOST-SUFFIX,zz.bdstatic.com
-#  与 AdvertisingTest 共 2588 条规则重复
+#  与 AdvertisingTest 共 2592 条规则重复
 HOST,log-hl-ipv6.snssdk.com
 HOST,log-lq.snssdk.com
 HOST,log-va.tiktokv.com
@@ -5150,6 +5251,7 @@ HOST-SUFFIX,analytics.yahoo.com
 HOST-SUFFIX,analytics.yola.net
 HOST-SUFFIX,analytics.yolacdn.net
 HOST-SUFFIX,analytics.zg-api.com
+HOST-SUFFIX,analytics.zhihu.com
 HOST-SUFFIX,analytics.ziftsolutions.com
 HOST-SUFFIX,analytics00.meride.tv
 HOST-SUFFIX,analytics2.socialblade.com
@@ -5551,6 +5653,7 @@ HOST-SUFFIX,cyrstalventure.club
 HOST-SUFFIX,d.ghostery.com
 HOST-SUFFIX,d.haberler.com
 HOST-SUFFIX,d.omsnative.de
+HOST-SUFFIX,d.skk.moe
 HOST-SUFFIX,d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com
 HOST-SUFFIX,da.netease.com
 HOST-SUFFIX,da.virginmedia.com
@@ -6487,6 +6590,7 @@ HOST-SUFFIX,res.rbl.ms
 HOST-SUFFIX,responder.wt.heise.de
 HOST-SUFFIX,response.pure360.com
 HOST-SUFFIX,retargeting.vistaprint.com
+HOST-SUFFIX,retcode.taobao.com
 HOST-SUFFIX,retrack.q-divisioncdn.de
 HOST-SUFFIX,revsci.tvguide.com
 HOST-SUFFIX,rich-agent.s3.amazonaws.com
@@ -7491,6 +7595,7 @@ HOST-SUFFIX,z0uolej1qnxzub1.info
 HOST-SUFFIX,zam.nextinpact.com
 HOST-SUFFIX,zdlogs.sphereup.com
 HOST-SUFFIX,zeus.slader.com
+HOST-SUFFIX,zhihu-web-analytics.zhihu.com
 HOST-SUFFIX,zion.api.cnn.io
 HOST-SUFFIX,zminer.zaloapp.com
 HOST-SUFFIX,znq9.destinia.mx

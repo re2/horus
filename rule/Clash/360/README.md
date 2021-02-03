@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2021-02-04 00:07:44.440349。
+最后检查时间：2021-02-04 02:28:50.843703。
 
 ## 规则统计
 
@@ -46,9 +46,9 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clas
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/AdvertisingLite)    | 31049   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/360/奇虎360_Repeat.list)   |   0.01% |
-|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Advertising)    | 64512   | [4](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/360/奇虎360_Repeat.list)   |   0.01% |
-|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/AdvertisingTest)    | 80152   | [4](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/360/奇虎360_Repeat.list)   |   0.0% |
+|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/AdvertisingLite)    | 31054   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/360/奇虎360_Repeat.list)   |   0.01% |
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Advertising)    | 64615   | [4](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/360/奇虎360_Repeat.list)   |   0.01% |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/AdvertisingTest)    | 80158   | [4](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/360/奇虎360_Repeat.list)   |   0.0% |
 |  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/China)    | 661   | [7](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/360/奇虎360_Repeat.list)   |   1.06% |
 |  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/ChinaTest)    | 71528   | [76](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/360/奇虎360_Repeat.list)   |   0.11% |
 |  [LuDaShi](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/LuDaShi)    | 17   | [3](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/360/奇虎360_Repeat.list)   |   17.65% |

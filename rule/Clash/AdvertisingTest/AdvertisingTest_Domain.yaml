@@ -1,12 +1,12 @@
 # NAME: 
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-04 00:07:12.355465
+# UPDATED: 2021-02-04 02:28:13.649490
 # DOMAIN-KEYWORD: 60
-# DOMAIN-SUFFIX: 64335
-# DOMAIN: 15517
+# DOMAIN-SUFFIX: 64339
+# DOMAIN: 15519
 # IP-CIDR: 240
-# TOTAL: 80152
+# TOTAL: 80158
 payload:
   - '0.up.qingdaonews.com'
   - '0001.2waky.com'
@@ -9021,6 +9021,7 @@ payload:
   - 'med-dopomoga.com'
   - 'medcorehealthgroup.com'
   - 'medeirosadvocacia.com'
+  - 'medesindustrial.com'
   - 'medfetal.org'
   - 'media-0.vpptechnologies.com'
   - 'media-1.vpptechnologies.com'
@@ -14218,6 +14219,7 @@ payload:
   - 'vaishaligarden.com'
   - 'vaishalimotors.com'
   - 'vajazzlingkit.com'
+  - 'valasearch.com'
   - 'validate.id.appiestores.com'
   - 'validcheats.com'
   - 'valo.atm.youku.com'
@@ -24863,6 +24865,7 @@ payload:
   - '.analytics.zeekit.co'
   - '.analytics.zendesk.com'
   - '.analytics.zg-api.com'
+  - '.analytics.zhihu.com'
   - '.analytics.ziftsolutions.com'
   - '.analytics00.meride.tv'
   - '.analytics2.socialblade.com'
@@ -33796,6 +33799,7 @@ payload:
   - '.d.omsnative.de'
   - '.d.rcmd.jp'
   - '.d.ruiwen.com'
+  - '.d.skk.moe'
   - '.d.thelocal.com'
   - '.d.tonghua5.com'
   - '.d.toutiao.com'
@@ -62207,6 +62211,7 @@ payload:
   - '.retargeting.vistaprint.com'
   - '.retargetly.com'
   - '.retargettracker.com'
+  - '.retcode.taobao.com'
   - '.retcyy.com'
   - '.retentionscience.com'
   - '.reterafu.torplanet.ru'
@@ -79253,6 +79258,7 @@ payload:
   - '.zhifenjie.com'
   - '.zhifinwgpwakue.com'
   - '.zhihei.com'
+  - '.zhihu-web-analytics.zhihu.com'
   - '.zhihu.xmcimg.com'
   - '.zhilingshidai.com'
   - '.zhimaad.cn'

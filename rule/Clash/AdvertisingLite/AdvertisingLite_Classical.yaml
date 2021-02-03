@@ -1,12 +1,12 @@
 # NAME: 
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-04 00:07:12.174059
+# UPDATED: 2021-02-04 02:28:13.421789
 # DOMAIN-KEYWORD: 27
 # DOMAIN-SUFFIX: 15241
-# DOMAIN: 15589
+# DOMAIN: 15594
 # IP-CIDR: 192
-# TOTAL: 31049
+# TOTAL: 31054
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,00-gov.cn
@@ -682,6 +682,7 @@ payload:
   - DOMAIN,999fitness.com
   - DOMAIN,99a9339abed56.com
   - DOMAIN,99counters.com
+  - DOMAIN,99stats.com
   - DOMAIN,9a24a1b3dcd5f4.com
   - DOMAIN,9ads.mobi
   - DOMAIN,9c40a04e9732e6a6.com
@@ -6069,6 +6070,7 @@ payload:
   - DOMAIN,galeriaseroticas.xpg.com.br
   - DOMAIN,galkama.info
   - DOMAIN,galleyn.com
+  - DOMAIN,gallupnet.fi
   - DOMAIN,galumbor.com
   - DOMAIN,gambling-affiliation.com
   - DOMAIN,game-advertising-online.com
@@ -6439,6 +6441,7 @@ payload:
   - DOMAIN,gscontxt.net
   - DOMAIN,gsecondscreen.com
   - DOMAIN,gsimedia.net
+  - DOMAIN,gsjgkpnq.com
   - DOMAIN,gsmtop.net
   - DOMAIN,gsniper2.com
   - DOMAIN,gsspat.jp
@@ -11013,6 +11016,7 @@ payload:
   - DOMAIN,qpljfpwdpk.com
   - DOMAIN,qq167.com
   - DOMAIN,qq4g.cn
+  - DOMAIN,qqatxipoki.com
   - DOMAIN,qqdwz.com
   - DOMAIN,qqwlfm.cn
   - DOMAIN,qqwx.zhangguangzong.com
@@ -15300,6 +15304,7 @@ payload:
   - DOMAIN,yihubaiying.com
   - DOMAIN,yimingxiang.com.cn
   - DOMAIN,yingshidaquan.cc
+  - DOMAIN,yiopqbbmugak.com
   - DOMAIN,yiqiv.com
   - DOMAIN,yiwad.com
   - DOMAIN,yjfhadfc.com

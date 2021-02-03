@@ -1,12 +1,12 @@
 # NAME: 
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-04 00:07:12.145770
+# UPDATED: 2021-02-04 02:28:13.389074
 # DOMAIN-KEYWORD: 27
 # DOMAIN-SUFFIX: 15241
-# DOMAIN: 15589
+# DOMAIN: 15594
 # IP-CIDR: 192
-# TOTAL: 31049
+# TOTAL: 31054
 payload:
   - '0.up.qingdaonews.com'
   - '00-gov.cn'
@@ -682,6 +682,7 @@ payload:
   - '999fitness.com'
   - '99a9339abed56.com'
   - '99counters.com'
+  - '99stats.com'
   - '9a24a1b3dcd5f4.com'
   - '9ads.mobi'
   - '9c40a04e9732e6a6.com'
@@ -6069,6 +6070,7 @@ payload:
   - 'galeriaseroticas.xpg.com.br'
   - 'galkama.info'
   - 'galleyn.com'
+  - 'gallupnet.fi'
   - 'galumbor.com'
   - 'gambling-affiliation.com'
   - 'game-advertising-online.com'
@@ -6439,6 +6441,7 @@ payload:
   - 'gscontxt.net'
   - 'gsecondscreen.com'
   - 'gsimedia.net'
+  - 'gsjgkpnq.com'
   - 'gsmtop.net'
   - 'gsniper2.com'
   - 'gsspat.jp'
@@ -11013,6 +11016,7 @@ payload:
   - 'qpljfpwdpk.com'
   - 'qq167.com'
   - 'qq4g.cn'
+  - 'qqatxipoki.com'
   - 'qqdwz.com'
   - 'qqwlfm.cn'
   - 'qqwx.zhangguangzong.com'
@@ -15300,6 +15304,7 @@ payload:
   - 'yihubaiying.com'
   - 'yimingxiang.com.cn'
   - 'yingshidaquan.cc'
+  - 'yiopqbbmugak.com'
   - 'yiqiv.com'
   - 'yiwad.com'
   - 'yjfhadfc.com'
