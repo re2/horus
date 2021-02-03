@@ -1,13 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-03 15:22:05.983380
+# UPDATED: 2021-02-03 15:45:48.509594
 # HOST-KEYWORD: 60
 # HOST-SUFFIX: 64335
-# HOST: 15512
+# HOST: 15514
 # IP-CIDR: 240
 # USER-AGENT: 1
-# TOTAL: 80148
+# TOTAL: 80150
 HOST,0.up.qingdaonews.com,Advertising
 HOST,0001.2waky.com,Advertising
 HOST,000lk3v.wcomhost.com,Advertising
@@ -3661,6 +3661,7 @@ HOST,claraleitao.net,Advertising
 HOST,clarewenhamcounselling.com,Advertising
 HOST,clash.ofclans.com,Advertising
 HOST,clashgenerator.com,Advertising
+HOST,clashgiveaway.com,Advertising
 HOST,clashmobile.com,Advertising
 HOST,clashofclanhacks.com,Advertising
 HOST,clashofclans-hacks.com,Advertising
@@ -14731,6 +14732,7 @@ HOST,wlt.kd2244.com,Advertising
 HOST,wlzohrpjbuq.com,Advertising
 HOST,wms-tools.com,Advertising
 HOST,wnb-net.j8inn1zektoe.com,Advertising
+HOST,woahizouty.com,Advertising
 HOST,wolfskindlc.goblogz.net,Advertising
 HOST,womenslabour.org,Advertising
 HOST,womenzz.com,Advertising

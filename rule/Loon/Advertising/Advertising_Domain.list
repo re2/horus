@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-03 15:22:07.052308
+# UPDATED: 2021-02-03 15:45:50.001530
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 60
 # DOMAIN-SUFFIX: 42789
-# DOMAIN: 21414
+# DOMAIN: 21417
 # IP-CIDR: 240
 # USER-AGENT: 1
 # URL-REGEX: 310
-# TOTAL: 64814
+# TOTAL: 64817
 0.nextyourcontent.com
 0.up.qingdaonews.com
 0001.2waky.com
@@ -5507,6 +5507,7 @@ claraleitao.net
 clarewenhamcounselling.com
 clash.ofclans.com
 clashgenerator.com
+clashgiveaway.com
 clashmobile.com
 clashofclanhacks.com
 clashofclans-hacks.com
@@ -6653,6 +6654,7 @@ delivery.zidtech.com
 delivery1.lavanetwork.net
 dell.inq.com
 dell.touchcommerce.com
+deloitteca.com
 delta-boa.com
 delta.icubeswire.com
 delta.rspcdn.com
@@ -20429,6 +20431,7 @@ wm-panel.com
 wmademo3.clickability.com
 wms-tools.com
 wnb-net.j8inn1zektoe.com
+woahizouty.com
 wolfskindlc.goblogz.net
 womenchop.com
 womenslabour.org

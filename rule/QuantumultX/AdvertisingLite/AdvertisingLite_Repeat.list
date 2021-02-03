@@ -1,7 +1,7 @@
 # NAME: AdvertisingLite 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-03 15:22:12.066894
+# UPDATED: 2021-02-03 15:45:57.036293
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # AdvertisingLite 与 Advertising 共 16172 条规则重复
 HOST,0.up.qingdaonews.com
@@ -35421,8 +35421,6 @@ HOST-SUFFIX,uczzd.net
 # AdvertisingLite 与 SuiShiChuanMei 共 2 条规则重复
 HOST-SUFFIX,mipujia.com
 HOST-SUFFIX,quyaoya.com
-# AdvertisingLite 与 VideoCrack 共 1 条规则重复
-HOST-SUFFIX,api.cdnbye.com
 # AdvertisingLite 与 YiChe 共 1 条规则重复
 HOST-SUFFIX,yccdn.com
 # AdvertisingLite 与 ZhiYunZhong 共 1 条规则重复

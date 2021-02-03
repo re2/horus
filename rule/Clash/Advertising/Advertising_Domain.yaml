@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-03 15:22:08.458127
+# UPDATED: 2021-02-03 15:45:51.982503
 # DOMAIN-KEYWORD: 60
 # DOMAIN-SUFFIX: 42789
-# DOMAIN: 21414
+# DOMAIN: 21417
 # IP-CIDR: 240
-# TOTAL: 64503
+# TOTAL: 64506
 payload:
   - '0.nextyourcontent.com'
   - '0.up.qingdaonews.com'
@@ -5505,6 +5505,7 @@ payload:
   - 'clarewenhamcounselling.com'
   - 'clash.ofclans.com'
   - 'clashgenerator.com'
+  - 'clashgiveaway.com'
   - 'clashmobile.com'
   - 'clashofclanhacks.com'
   - 'clashofclans-hacks.com'
@@ -6651,6 +6652,7 @@ payload:
   - 'delivery1.lavanetwork.net'
   - 'dell.inq.com'
   - 'dell.touchcommerce.com'
+  - 'deloitteca.com'
   - 'delta-boa.com'
   - 'delta.icubeswire.com'
   - 'delta.rspcdn.com'
@@ -20427,6 +20429,7 @@ payload:
   - 'wmademo3.clickability.com'
   - 'wms-tools.com'
   - 'wnb-net.j8inn1zektoe.com'
+  - 'woahizouty.com'
   - 'wolfskindlc.goblogz.net'
   - 'womenchop.com'
   - 'womenslabour.org'

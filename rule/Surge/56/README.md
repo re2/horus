@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2021-02-03 15:22:18.843572。
+最后检查时间：2021-02-03 15:46:06.591574。
 
 ## 规则统计
 
@@ -48,7 +48,6 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surg
 | ---- | ---- | ---- | ------ |
 |  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/China)    | 693   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/56/56_Repeat.list)   |   0.14% |
 |  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaTest)    | 71645   | [5](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/56/56_Repeat.list)   |   0.01% |
-|  [SohuSogo](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/SohuSogo)    | 10   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/56/56_Repeat.list)   |   10.0% |
 |  [ChinaMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaMedia)    | 228   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/56/56_Repeat.list)   |   0.88% |
 ### 特别说明
 程序在实际运算时，会根据DOMAIN、DOMAIN-SUFFIX、IP-CIDR、IP-CIDR6间的包含关系进行去重，而出于运行效率考虑，重复规则只统计纯文本匹配，所以可能与实际效果有所出入，仅供参考。

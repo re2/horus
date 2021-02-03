@@ -1,7 +1,7 @@
 # NAME: AppleDaily
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-03 15:22:06.271863
+# UPDATED: 2021-02-03 15:45:48.913883
 # HOST-SUFFIX: 13
 # TOTAL: 13
 HOST-SUFFIX,appledaily.com,AppleDaily

@@ -1,7 +1,7 @@
 # NAME: AdvertisingTest 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-03 15:22:12.116891
+# UPDATED: 2021-02-03 15:45:57.098370
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # AdvertisingTest 与 AdvertisingLite 共 15802 条规则重复
 HOST,0.up.qingdaonews.com
@@ -15806,7 +15806,7 @@ IP-CIDR,69.28.57.245/32
 IP-CIDR,74.117.182.77/32
 IP-CIDR,78.140.131.214/32
 USER-AGENT,AVOS*
-# AdvertisingTest 与 Advertising 共 58398 条规则重复
+# AdvertisingTest 与 Advertising 共 58400 条规则重复
 HOST,0.up.qingdaonews.com
 HOST,0001.2waky.com
 HOST,000lk3v.wcomhost.com
@@ -19460,6 +19460,7 @@ HOST,claraleitao.net
 HOST,clarewenhamcounselling.com
 HOST,clash.ofclans.com
 HOST,clashgenerator.com
+HOST,clashgiveaway.com
 HOST,clashmobile.com
 HOST,clashofclanhacks.com
 HOST,clashofclans-hacks.com
@@ -30529,6 +30530,7 @@ HOST,wlt.kd2244.com
 HOST,wlzohrpjbuq.com
 HOST,wms-tools.com
 HOST,wnb-net.j8inn1zektoe.com
+HOST,woahizouty.com
 HOST,wolfskindlc.goblogz.net
 HOST,womenslabour.org
 HOST,womenzz.com
@@ -78867,8 +78869,6 @@ HOST-SUFFIX,ucweb.com
 HOST-SUFFIX,uflowx.com
 HOST-SUFFIX,xiaomengquan.cn
 HOST-SUFFIX,xmq123.cn
-# AdvertisingTest 与 VideoCrack 共 1 条规则重复
-HOST-SUFFIX,api.cdnbye.com
 # AdvertisingTest 与 WiFiMaster 共 4 条规则重复
 HOST-SUFFIX,51y5.net
 HOST-SUFFIX,lianwangtech.com

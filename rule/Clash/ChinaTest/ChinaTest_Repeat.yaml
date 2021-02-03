@@ -1,7 +1,7 @@
 # NAME: ChinaTest 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-03 15:22:14.420061
+# UPDATED: 2021-02-03 15:46:00.282654
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 payload:
 # ChinaTest 与 AdvertisingLite 共 634 条规则重复
@@ -4575,15 +4575,6 @@ payload:
   - IP-CIDR6,2a0b:b581::/48
   - IP-CIDR6,2a0b:b582::/48
   - IP-CIDR6,2a0b:b583::/48
-# ChinaTest 与 SohuSogo 共 8 条规则重复
-  - DOMAIN-SUFFIX,go2map.com
-  - DOMAIN-SUFFIX,sogo.com
-  - DOMAIN-SUFFIX,sogou.com
-  - DOMAIN-SUFFIX,sogoucdn.com
-  - DOMAIN-SUFFIX,sohu-inc.com
-  - DOMAIN-SUFFIX,sohu.com
-  - DOMAIN-SUFFIX,sohucs.com
-  - DOMAIN-SUFFIX,v-56.com
 # ChinaTest 与 CCTV 共 6 条规则重复
   - DOMAIN-SUFFIX,cctv.com
   - DOMAIN-SUFFIX,cctvpic.com
@@ -6172,12 +6163,6 @@ payload:
   - DOMAIN-SUFFIX,vancl.com
   - DOMAIN-SUFFIX,vanclimg.com
   - DOMAIN-SUFFIX,vcimg.com
-# ChinaTest 与 VideoCrack 共 5 条规则重复
-  - DOMAIN-SUFFIX,355pan.com
-  - DOMAIN-SUFFIX,8lhx.com
-  - DOMAIN-SUFFIX,baiwanzy.com
-  - DOMAIN-SUFFIX,laqddc.com
-  - DOMAIN-SUFFIX,taijutv.com
 # ChinaTest 与 Vivo 共 3 条规则重复
   - DOMAIN-SUFFIX,bbk.com
   - DOMAIN-SUFFIX,vivo.com

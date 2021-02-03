@@ -1,12 +1,12 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-03 15:22:08.571051
+# UPDATED: 2021-02-03 15:45:52.142524
 # DOMAIN-KEYWORD: 60
 # DOMAIN-SUFFIX: 64335
-# DOMAIN: 15512
+# DOMAIN: 15514
 # IP-CIDR: 240
-# TOTAL: 80147
+# TOTAL: 80149
 payload:
   - '0.up.qingdaonews.com'
   - '0001.2waky.com'
@@ -3661,6 +3661,7 @@ payload:
   - 'clarewenhamcounselling.com'
   - 'clash.ofclans.com'
   - 'clashgenerator.com'
+  - 'clashgiveaway.com'
   - 'clashmobile.com'
   - 'clashofclanhacks.com'
   - 'clashofclans-hacks.com'
@@ -14731,6 +14732,7 @@ payload:
   - 'wlzohrpjbuq.com'
   - 'wms-tools.com'
   - 'wnb-net.j8inn1zektoe.com'
+  - 'woahizouty.com'
   - 'wolfskindlc.goblogz.net'
   - 'womenslabour.org'
   - 'womenzz.com'
