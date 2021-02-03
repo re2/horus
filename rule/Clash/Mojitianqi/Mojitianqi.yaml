@@ -1,0 +1,14 @@
+# NAME: 
+# AUTHOR: blackmatrix7
+# GITHUB: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2021-02-03 23:56:06.595668
+# DOMAIN-SUFFIX: 7
+# TOTAL: 7
+payload:
+  - DOMAIN-SUFFIX,airnut.com
+  - DOMAIN-SUFFIX,moji.com
+  - DOMAIN-SUFFIX,mojicb.com
+  - DOMAIN-SUFFIX,mojichina.com
+  - DOMAIN-SUFFIX,mojitest.com
+  - DOMAIN-SUFFIX,moweather.com
+  - DOMAIN-SUFFIX,xiaomo.cn

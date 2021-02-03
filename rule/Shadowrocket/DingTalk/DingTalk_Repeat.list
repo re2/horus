@@ -1,0 +1,17 @@
+# NAME:  规则重复情况
+# AUTHOR: 
+# GITHUB: 
+# UPDATED: 2021-02-03 23:56:15.144656
+# DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
+#  与 China 共 1 条规则重复
+DOMAIN-SUFFIX,dingtalk.com
+#  与 ChinaTest 共 7 条规则重复
+DOMAIN-SUFFIX,ddurl.to
+DOMAIN-SUFFIX,dingding.xin
+DOMAIN-SUFFIX,dingtalk.com
+DOMAIN-SUFFIX,dingtalk.net
+DOMAIN-SUFFIX,dingtalkapps.com
+DOMAIN-SUFFIX,laiwang.com
+DOMAIN-SUFFIX,lwurl.to
+#  与 Alibaba 共 1 条规则重复
+DOMAIN-SUFFIX,dingtalk.com

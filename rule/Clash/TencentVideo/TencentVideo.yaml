@@ -1,0 +1,9 @@
+# NAME: 
+# AUTHOR: blackmatrix7
+# GITHUB: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2021-02-03 23:56:06.153234
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
+payload:
+  - DOMAIN-SUFFIX,v.smtcdns.com
+  - DOMAIN-SUFFIX,vv.video.qq.com

@@ -1,0 +1,87 @@
+# NAME:  规则重复情况
+# AUTHOR: 
+# GITHUB: 
+# UPDATED: 2021-02-03 23:56:14.359899
+# DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
+#  与 Advertising 共 1 条规则重复
+DOMAIN-SUFFIX,cdp.cloud.unity3d.com
+#  与 AdvertisingTest 共 1 条规则重复
+DOMAIN-SUFFIX,cdp.cloud.unity3d.com
+#  与 Game 共 38 条规则重复
+DOMAIN-SUFFIX,battle.net
+DOMAIN-SUFFIX,battlenet.com
+DOMAIN-SUFFIX,battlenet.com.cn
+DOMAIN-SUFFIX,blizzard.cn
+DOMAIN-SUFFIX,blizzard.com
+DOMAIN-SUFFIX,blizzard.nefficient.co.kr
+DOMAIN-SUFFIX,blizzardgearstore.com
+DOMAIN-SUFFIX,blizzcon-a.akamaihd.net
+DOMAIN-SUFFIX,blz-contentstack.com
+DOMAIN-SUFFIX,blz.nosdn.127.net
+DOMAIN-SUFFIX,blzddist1-a.akamaihd.net
+DOMAIN-SUFFIX,blzddistkr1-a.akamaihd.net
+DOMAIN-SUFFIX,blzmedia-a.akamaihd.net
+DOMAIN-SUFFIX,blznav.akamaized.net
+DOMAIN-SUFFIX,blzstatic.cn
+DOMAIN-SUFFIX,bnet.163.com
+DOMAIN-SUFFIX,bnetcmsus-a.akamaihd.net
+DOMAIN-SUFFIX,bnetproduct-a.akamaihd.net
+DOMAIN-SUFFIX,bnetshopus.akamaized.net
+DOMAIN-SUFFIX,cdp.cloud.unity3d.com
+DOMAIN-SUFFIX,di.res.netease.com
+DOMAIN-SUFFIX,diablo3.com
+DOMAIN-SUFFIX,diablo3.nosdn.127.net
+DOMAIN-SUFFIX,diabloimmortal.com
+DOMAIN-SUFFIX,firesidegatherings.com
+DOMAIN-SUFFIX,hearthstone.nosdn.127.net
+DOMAIN-SUFFIX,heroes.nos.netease.com
+DOMAIN-SUFFIX,heroesofthestorm.com
+DOMAIN-SUFFIX,overwatch.nosdn.127.net
+DOMAIN-SUFFIX,playhearthstone.com
+DOMAIN-SUFFIX,playoverwatch.com
+DOMAIN-SUFFIX,playwarcraft3.com
+DOMAIN-SUFFIX,sc2.nosdn.127.net
+DOMAIN-SUFFIX,starcraft.com
+DOMAIN-SUFFIX,starcraft2.com
+DOMAIN-SUFFIX,worldofwarcraft.com
+DOMAIN-SUFFIX,wow.nosdn.127.net
+DOMAIN-SUFFIX,wowchina.com
+#  与 Proxy 共 14 条规则重复
+DOMAIN-SUFFIX,battle.net
+DOMAIN-SUFFIX,blizzard.com
+DOMAIN-SUFFIX,blizzardgearstore.com
+DOMAIN-SUFFIX,blz-contentstack.com
+DOMAIN-SUFFIX,diablo3.com
+DOMAIN-SUFFIX,diabloimmortal.com
+DOMAIN-SUFFIX,firesidegatherings.com
+DOMAIN-SUFFIX,heroesofthestorm.com
+DOMAIN-SUFFIX,playhearthstone.com
+DOMAIN-SUFFIX,playoverwatch.com
+DOMAIN-SUFFIX,playwarcraft3.com
+DOMAIN-SUFFIX,starcraft.com
+DOMAIN-SUFFIX,starcraft2.com
+DOMAIN-SUFFIX,worldofwarcraft.com
+#  与 Global 共 14 条规则重复
+DOMAIN-SUFFIX,battle.net
+DOMAIN-SUFFIX,blizzard.com
+DOMAIN-SUFFIX,blizzardgearstore.com
+DOMAIN-SUFFIX,blz-contentstack.com
+DOMAIN-SUFFIX,diablo3.com
+DOMAIN-SUFFIX,diabloimmortal.com
+DOMAIN-SUFFIX,firesidegatherings.com
+DOMAIN-SUFFIX,heroesofthestorm.com
+DOMAIN-SUFFIX,playhearthstone.com
+DOMAIN-SUFFIX,playoverwatch.com
+DOMAIN-SUFFIX,playwarcraft3.com
+DOMAIN-SUFFIX,starcraft.com
+DOMAIN-SUFFIX,starcraft2.com
+DOMAIN-SUFFIX,worldofwarcraft.com
+#  与 China 共 3 条规则重复
+DOMAIN-SUFFIX,battle.net
+DOMAIN-SUFFIX,battlenet.com
+DOMAIN-SUFFIX,blizzard.com
+#  与 ChinaTest 共 4 条规则重复
+DOMAIN-SUFFIX,battle.net
+DOMAIN-SUFFIX,battlenet.com
+DOMAIN-SUFFIX,blizzard.com
+DOMAIN-SUFFIX,wowchina.com

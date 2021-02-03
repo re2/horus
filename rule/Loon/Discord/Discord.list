@@ -1,0 +1,12 @@
+# NAME: 
+# AUTHOR: blackmatrix7
+# GITHUB: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2021-02-03 23:56:03.385519
+# DOMAIN-SUFFIX: 6
+# TOTAL: 6
+DOMAIN-SUFFIX,discord.co
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discord.gg
+DOMAIN-SUFFIX,discord.media
+DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discordapp.net

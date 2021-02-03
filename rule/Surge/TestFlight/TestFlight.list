@@ -1,0 +1,10 @@
+# NAME: 
+# AUTHOR: blackmatrix7
+# GITHUB: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2021-02-03 23:55:59.330354
+# DOMAIN: 2
+# DOMAIN-KEYWORD: 1
+# TOTAL: 3
+DOMAIN,beta.apple.com
+DOMAIN,testflight.apple.com
+DOMAIN-KEYWORD,testflight

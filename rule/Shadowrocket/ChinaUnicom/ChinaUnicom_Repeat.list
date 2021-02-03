@@ -1,0 +1,15 @@
+# NAME:  规则重复情况
+# AUTHOR: 
+# GITHUB: 
+# UPDATED: 2021-02-03 23:56:15.106918
+# DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
+#  与 China 共 1 条规则重复
+DOMAIN-SUFFIX,10010.com
+#  与 ChinaTest 共 7 条规则重复
+DOMAIN-SUFFIX,10010.com
+DOMAIN-SUFFIX,chinaunicom.com
+DOMAIN-SUFFIX,chinaunicom.com.hk
+DOMAIN-SUFFIX,chinaunicomglobal.com
+DOMAIN-SUFFIX,gd165.com
+DOMAIN-SUFFIX,mucfc.com
+DOMAIN-SUFFIX,mychinaunicom.com

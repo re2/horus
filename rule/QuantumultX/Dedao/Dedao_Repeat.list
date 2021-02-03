@@ -1,0 +1,14 @@
+# NAME:  规则重复情况
+# AUTHOR: blackmatrix7
+# GITHUB: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2021-02-03 23:56:11.120300
+# DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
+#  与 China 共 1 条规则重复
+HOST-SUFFIX,luojilab.com
+#  与 ChinaTest 共 6 条规则重复
+HOST-SUFFIX,biji.com
+HOST-SUFFIX,ddmogo.com
+HOST-SUFFIX,igetget.com
+HOST-SUFFIX,luojilab.com
+HOST-SUFFIX,mogoo.com
+HOST-SUFFIX,saolife.com

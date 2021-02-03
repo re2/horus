@@ -1,0 +1,9 @@
+# NAME: 
+# AUTHOR: blackmatrix7
+# GITHUB: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2021-02-03 23:56:02.244174
+# HOST-SUFFIX: 3
+# TOTAL: 3
+HOST-SUFFIX,acplay.net,Dandanplay
+HOST-SUFFIX,dandanplay.com,Dandanplay
+HOST-SUFFIX,dandanplayer.com,Dandanplay

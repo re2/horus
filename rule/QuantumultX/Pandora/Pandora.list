@@ -1,0 +1,10 @@
+# NAME: 
+# AUTHOR: blackmatrix7
+# GITHUB: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2021-02-03 23:56:01.799876
+# USER-AGENT: 1
+# HOST-SUFFIX: 2
+# TOTAL: 3
+HOST-SUFFIX,p-cdn.us,Pandora
+HOST-SUFFIX,pandora.com,Pandora
+USER-AGENT,Pandora*,Pandora
