@@ -1,7 +1,7 @@
 # NAME: ChinaMedia 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-03 10:19:55.669070
+# UPDATED: 2021-02-03 15:22:14.442099
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 payload:
 # ChinaMedia 与 AdvertisingLite 共 22 条规则重复
@@ -326,6 +326,10 @@ payload:
   - IP-CIDR,39.105.63.80/32
   - IP-CIDR,45.254.48.1/32
   - IP-CIDR,47.100.127.239/32
+# ChinaMedia 与 Youku 共 3 条规则重复
+  - DOMAIN-SUFFIX,soku.com
+  - DOMAIN-SUFFIX,ykimg.com
+  - DOMAIN-SUFFIX,youku.com
 # ChinaMedia 与 TencentVideo 共 1 条规则重复
   - DOMAIN-SUFFIX,v.smtcdns.com
 # ChinaMedia 与 iQIYI 共 8 条规则重复
@@ -386,7 +390,3 @@ payload:
   - DOMAIN-SUFFIX,zmzapi.com
   - DOMAIN-SUFFIX,zmzapi.net
   - DOMAIN-SUFFIX,zmzfile.com
-# ChinaMedia 与 YoukuTudou 共 3 条规则重复
-  - DOMAIN-SUFFIX,soku.com
-  - DOMAIN-SUFFIX,ykimg.com
-  - DOMAIN-SUFFIX,youku.com

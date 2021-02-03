@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2021-02-03 10:20:08.996967。
+最后检查时间：2021-02-03 15:22:24.684858。
 
 ## 规则统计
 
@@ -47,7 +47,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Quan
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
 |  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/China)    | 693   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/58TongCheng/58TongCheng_Repeat.list)   |   0.14% |
-|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/ChinaTest)    | 71672   | [22](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/58TongCheng/58TongCheng_Repeat.list)   |   0.03% |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/ChinaTest)    | 71645   | [22](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/58TongCheng/58TongCheng_Repeat.list)   |   0.03% |
 |  [Anjuke](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Anjuke)    | 8   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/58TongCheng/58TongCheng_Repeat.list)   |   25.0% |
 |  [SouFang](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/SouFang)    | 11   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/58TongCheng/58TongCheng_Repeat.list)   |   18.18% |
 |  [ZhuanZhuan](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/ZhuanZhuan)    | 4   | [4](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/58TongCheng/58TongCheng_Repeat.list)   |   100.0% |

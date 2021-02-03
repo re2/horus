@@ -1,7 +1,7 @@
 # NAME: Advertising 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-03 10:19:51.460559
+# UPDATED: 2021-02-03 15:22:11.150014
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # Advertising 与 AdvertisingLite 共 16474 条规则重复
 DOMAIN,0.up.qingdaonews.com
@@ -16478,7 +16478,7 @@ URL-REGEX,^https?:\/\/xyst\.yuanfudao\.com\/iphone\/splashesV\d
 URL-REGEX,^https?:\/\/xyz\.cnki\.net\/resourcev7\/api\/manualpush\/SlidsList$
 URL-REGEX,^https?:\/\/yxyapi\d\.drcuiyutao\.com\/yxy-api-gateway\/api\/json\/advert\/
 USER-AGENT,AVOS*
-# Advertising 与 AdvertisingTest 共 58704 条规则重复
+# Advertising 与 AdvertisingTest 共 58708 条规则重复
 DOMAIN,0.up.qingdaonews.com
 DOMAIN,0001.2waky.com
 DOMAIN,000lk3v.wcomhost.com
@@ -16550,6 +16550,7 @@ DOMAIN,13932685557.cn
 DOMAIN,1407031110.bzhualin.com
 DOMAIN,140proof.com
 DOMAIN,14119276be0852.com
+DOMAIN,1431f15e2fe8ba0f1f2.com
 DOMAIN,1464124271.rsc.cdn77.org
 DOMAIN,14713804a.l2m.net
 DOMAIN,1492tapasbar.com
@@ -19541,6 +19542,7 @@ DOMAIN,canyoustreamit.com
 DOMAIN,capacitatec.net
 DOMAIN,caprofatcatering.com
 DOMAIN,capstoneresidencesug.com
+DOMAIN,captaindemand.net
 DOMAIN,captec.actonsoftware.com
 DOMAIN,car-accident-birmingham.com
 DOMAIN,caradisegno.com
@@ -25955,6 +25957,7 @@ DOMAIN,montrealgazette.stats.com
 DOMAIN,moody.actonsoftware.com
 DOMAIN,moolahmedia.com
 DOMAIN,moomosio.000webhostapp.com
+DOMAIN,moonetizer.com
 DOMAIN,moran10.karoo.net
 DOMAIN,morehacks.net
 DOMAIN,morenewmedia.com
@@ -27757,6 +27760,7 @@ DOMAIN,rcscaxhjmm.com
 DOMAIN,rcumwyqkv.com
 DOMAIN,rcv.ixd.dmm.com
 DOMAIN,rd-direct.com
+DOMAIN,rd.moonetizer.com
 DOMAIN,rdl.sourcesite360.com
 DOMAIN,re-acc.000webhostapp.com
 DOMAIN,re-fb.000webhostapp.com

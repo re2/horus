@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-03 10:19:47.991658
+# UPDATED: 2021-02-03 15:22:08.458127
 # DOMAIN-KEYWORD: 60
 # DOMAIN-SUFFIX: 42789
-# DOMAIN: 21410
+# DOMAIN: 21414
 # IP-CIDR: 240
-# TOTAL: 64499
+# TOTAL: 64503
 payload:
   - '0.nextyourcontent.com'
   - '0.up.qingdaonews.com'
@@ -115,6 +115,7 @@ payload:
   - '1407031110.bzhualin.com'
   - '140proof.com'
   - '14119276be0852.com'
+  - '1431f15e2fe8ba0f1f2.com'
   - '1464124271.rsc.cdn77.org'
   - '14713804a.l2m.net'
   - '1492tapasbar.com'
@@ -4778,6 +4779,7 @@ payload:
   - 'caprofitx.com'
   - 'capstoneresidencesug.com'
   - 'captainbicycle.com'
+  - 'captaindemand.net'
   - 'captec.actonsoftware.com'
   - 'car-accident-birmingham.com'
   - 'caradisegno.com'
@@ -13056,6 +13058,7 @@ payload:
   - 'moody.actonsoftware.com'
   - 'moolahmedia.com'
   - 'moomosio.000webhostapp.com'
+  - 'moonetizer.com'
   - 'moran10.karoo.net'
   - 'mordi.fun'
   - 'morefreecamsecrets.com'
@@ -15567,6 +15570,7 @@ payload:
   - 'rcv.a-i-ad.com'
   - 'rcv.ixd.dmm.com'
   - 'rd-direct.com'
+  - 'rd.moonetizer.com'
   - 'rdl.sourcesite360.com'
   - 'rdsa2012.com'
   - 'rdsrv.com'

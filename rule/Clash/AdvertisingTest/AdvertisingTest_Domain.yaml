@@ -1,12 +1,12 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-03 10:19:48.137373
+# UPDATED: 2021-02-03 15:22:08.571051
 # DOMAIN-KEYWORD: 60
 # DOMAIN-SUFFIX: 64335
-# DOMAIN: 15508
+# DOMAIN: 15512
 # IP-CIDR: 240
-# TOTAL: 80143
+# TOTAL: 80147
 payload:
   - '0.up.qingdaonews.com'
   - '0001.2waky.com'
@@ -79,6 +79,7 @@ payload:
   - '1407031110.bzhualin.com'
   - '140proof.com'
   - '14119276be0852.com'
+  - '1431f15e2fe8ba0f1f2.com'
   - '1464124271.rsc.cdn77.org'
   - '14713804a.l2m.net'
   - '1492tapasbar.com'
@@ -3070,6 +3071,7 @@ payload:
   - 'capacitatec.net'
   - 'caprofatcatering.com'
   - 'capstoneresidencesug.com'
+  - 'captaindemand.net'
   - 'captec.actonsoftware.com'
   - 'car-accident-birmingham.com'
   - 'caradisegno.com'
@@ -9484,6 +9486,7 @@ payload:
   - 'moody.actonsoftware.com'
   - 'moolahmedia.com'
   - 'moomosio.000webhostapp.com'
+  - 'moonetizer.com'
   - 'moran10.karoo.net'
   - 'morehacks.net'
   - 'morenewmedia.com'
@@ -11287,6 +11290,7 @@ payload:
   - 'rcumwyqkv.com'
   - 'rcv.ixd.dmm.com'
   - 'rd-direct.com'
+  - 'rd.moonetizer.com'
   - 'rdl.sourcesite360.com'
   - 're-acc.000webhostapp.com'
   - 're-fb.000webhostapp.com'

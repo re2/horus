@@ -1,7 +1,7 @@
 # NAME: China 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-03 10:19:54.434796
+# UPDATED: 2021-02-03 15:22:13.469771
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # China 与 AdvertisingLite 共 7 条规则重复
 DOMAIN-SUFFIX,crashlytics.com
@@ -1395,6 +1395,12 @@ DOMAIN-SUFFIX,youdao.com
 DOMAIN-SUFFIX,163yun.com
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,NeteaseMusic*
+# China 与 Youku 共 5 条规则重复
+DOMAIN-SUFFIX,soku.com
+DOMAIN-SUFFIX,tudou.com
+DOMAIN-SUFFIX,ykimg.com
+DOMAIN-SUFFIX,youku.com
+USER-AGENT,%E4%BC%98%E9%85%B7*
 # China 与 iQIYI 共 7 条规则重复
 DOMAIN-SUFFIX,71.am
 DOMAIN-SUFFIX,71.am.com
@@ -1628,9 +1634,3 @@ DOMAIN-SUFFIX,xiaoka.tv
 DOMAIN-SUFFIX,yixia.com
 # China 与 YiZhiBo 共 1 条规则重复
 DOMAIN-SUFFIX,yizhibo.com
-# China 与 YoukuTudou 共 5 条规则重复
-DOMAIN-SUFFIX,soku.com
-DOMAIN-SUFFIX,tudou.com
-DOMAIN-SUFFIX,ykimg.com
-DOMAIN-SUFFIX,youku.com
-USER-AGENT,%E4%BC%98%E9%85%B7*

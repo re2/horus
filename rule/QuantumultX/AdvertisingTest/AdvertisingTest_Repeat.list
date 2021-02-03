@@ -1,7 +1,7 @@
 # NAME: AdvertisingTest 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-03 10:19:52.687615
+# UPDATED: 2021-02-03 15:22:12.116891
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # AdvertisingTest 与 AdvertisingLite 共 15802 条规则重复
 HOST,0.up.qingdaonews.com
@@ -15806,7 +15806,7 @@ IP-CIDR,69.28.57.245/32
 IP-CIDR,74.117.182.77/32
 IP-CIDR,78.140.131.214/32
 USER-AGENT,AVOS*
-# AdvertisingTest 与 Advertising 共 58394 条规则重复
+# AdvertisingTest 与 Advertising 共 58398 条规则重复
 HOST,0.up.qingdaonews.com
 HOST,0001.2waky.com
 HOST,000lk3v.wcomhost.com
@@ -15878,6 +15878,7 @@ HOST,13932685557.cn
 HOST,1407031110.bzhualin.com
 HOST,140proof.com
 HOST,14119276be0852.com
+HOST,1431f15e2fe8ba0f1f2.com
 HOST,1464124271.rsc.cdn77.org
 HOST,14713804a.l2m.net
 HOST,1492tapasbar.com
@@ -18869,6 +18870,7 @@ HOST,canyoustreamit.com
 HOST,capacitatec.net
 HOST,caprofatcatering.com
 HOST,capstoneresidencesug.com
+HOST,captaindemand.net
 HOST,captec.actonsoftware.com
 HOST,car-accident-birmingham.com
 HOST,caradisegno.com
@@ -25283,6 +25285,7 @@ HOST,montrealgazette.stats.com
 HOST,moody.actonsoftware.com
 HOST,moolahmedia.com
 HOST,moomosio.000webhostapp.com
+HOST,moonetizer.com
 HOST,moran10.karoo.net
 HOST,morehacks.net
 HOST,morenewmedia.com
@@ -27085,6 +27088,7 @@ HOST,rcscaxhjmm.com
 HOST,rcumwyqkv.com
 HOST,rcv.ixd.dmm.com
 HOST,rd-direct.com
+HOST,rd.moonetizer.com
 HOST,rdl.sourcesite360.com
 HOST,re-acc.000webhostapp.com
 HOST,re-fb.000webhostapp.com

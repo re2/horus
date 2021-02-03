@@ -1,12 +1,12 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-03 10:19:48.221993
+# UPDATED: 2021-02-03 15:22:08.637968
 # DOMAIN-KEYWORD: 60
 # DOMAIN-SUFFIX: 64335
-# DOMAIN: 15508
+# DOMAIN: 15512
 # IP-CIDR: 240
-# TOTAL: 80143
+# TOTAL: 80147
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,0001.2waky.com
@@ -79,6 +79,7 @@ payload:
   - DOMAIN,1407031110.bzhualin.com
   - DOMAIN,140proof.com
   - DOMAIN,14119276be0852.com
+  - DOMAIN,1431f15e2fe8ba0f1f2.com
   - DOMAIN,1464124271.rsc.cdn77.org
   - DOMAIN,14713804a.l2m.net
   - DOMAIN,1492tapasbar.com
@@ -3070,6 +3071,7 @@ payload:
   - DOMAIN,capacitatec.net
   - DOMAIN,caprofatcatering.com
   - DOMAIN,capstoneresidencesug.com
+  - DOMAIN,captaindemand.net
   - DOMAIN,captec.actonsoftware.com
   - DOMAIN,car-accident-birmingham.com
   - DOMAIN,caradisegno.com
@@ -9484,6 +9486,7 @@ payload:
   - DOMAIN,moody.actonsoftware.com
   - DOMAIN,moolahmedia.com
   - DOMAIN,moomosio.000webhostapp.com
+  - DOMAIN,moonetizer.com
   - DOMAIN,moran10.karoo.net
   - DOMAIN,morehacks.net
   - DOMAIN,morenewmedia.com
@@ -11287,6 +11290,7 @@ payload:
   - DOMAIN,rcumwyqkv.com
   - DOMAIN,rcv.ixd.dmm.com
   - DOMAIN,rd-direct.com
+  - DOMAIN,rd.moonetizer.com
   - DOMAIN,rdl.sourcesite360.com
   - DOMAIN,re-acc.000webhostapp.com
   - DOMAIN,re-fb.000webhostapp.com

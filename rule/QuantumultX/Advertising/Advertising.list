@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-03 10:19:44.750099
+# UPDATED: 2021-02-03 15:22:05.921745
 # HOST-KEYWORD: 60
 # HOST-SUFFIX: 42789
-# HOST: 21410
+# HOST: 21414
 # IP-CIDR: 240
 # USER-AGENT: 1
-# TOTAL: 64500
+# TOTAL: 64504
 HOST,0.nextyourcontent.com,Advertising
 HOST,0.up.qingdaonews.com,Advertising
 HOST,0001.2waky.com,Advertising
@@ -115,6 +115,7 @@ HOST,13yg.cn,Advertising
 HOST,1407031110.bzhualin.com,Advertising
 HOST,140proof.com,Advertising
 HOST,14119276be0852.com,Advertising
+HOST,1431f15e2fe8ba0f1f2.com,Advertising
 HOST,1464124271.rsc.cdn77.org,Advertising
 HOST,14713804a.l2m.net,Advertising
 HOST,1492tapasbar.com,Advertising
@@ -4778,6 +4779,7 @@ HOST,caprofatcatering.com,Advertising
 HOST,caprofitx.com,Advertising
 HOST,capstoneresidencesug.com,Advertising
 HOST,captainbicycle.com,Advertising
+HOST,captaindemand.net,Advertising
 HOST,captec.actonsoftware.com,Advertising
 HOST,car-accident-birmingham.com,Advertising
 HOST,caradisegno.com,Advertising
@@ -13056,6 +13058,7 @@ HOST,moodoo.com.cn,Advertising
 HOST,moody.actonsoftware.com,Advertising
 HOST,moolahmedia.com,Advertising
 HOST,moomosio.000webhostapp.com,Advertising
+HOST,moonetizer.com,Advertising
 HOST,moran10.karoo.net,Advertising
 HOST,mordi.fun,Advertising
 HOST,morefreecamsecrets.com,Advertising
@@ -15567,6 +15570,7 @@ HOST,rcumwyqkv.com,Advertising
 HOST,rcv.a-i-ad.com,Advertising
 HOST,rcv.ixd.dmm.com,Advertising
 HOST,rd-direct.com,Advertising
+HOST,rd.moonetizer.com,Advertising
 HOST,rdl.sourcesite360.com,Advertising
 HOST,rdsa2012.com,Advertising
 HOST,rdsrv.com,Advertising

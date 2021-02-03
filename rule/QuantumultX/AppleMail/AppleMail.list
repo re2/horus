@@ -1,7 +1,7 @@
 # NAME: AppleMail
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-03 10:19:44.959491
+# UPDATED: 2021-02-03 15:22:06.091768
 # HOST-SUFFIX: 2
 # TOTAL: 2
 HOST-SUFFIX,mail.icloud.com.cn,AppleMail
