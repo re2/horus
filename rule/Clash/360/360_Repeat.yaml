@@ -1,7 +1,7 @@
 # NAME: 360 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-03 16:57:12.247212
+# UPDATED: 2021-02-03 17:32:09.823485
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 payload:
 # 360 与 AdvertisingLite 共 2 条规则重复
@@ -25,7 +25,7 @@ payload:
   - DOMAIN-SUFFIX,qhres.com
   - DOMAIN-SUFFIX,qihucdn.com
   - DOMAIN-SUFFIX,so.com
-# 360 与 ChinaTest 共 66 条规则重复
+# 360 与 ChinaTest 共 76 条规则重复
   - DOMAIN-SUFFIX,1360.com
   - DOMAIN-SUFFIX,360-g.net
   - DOMAIN-SUFFIX,360-game.net
@@ -40,6 +40,7 @@ payload:
   - DOMAIN-SUFFIX,360doc35.net
   - DOMAIN-SUFFIX,360gtm.com
   - DOMAIN-SUFFIX,360huzhubao.com
+  - DOMAIN-SUFFIX,360jie.com
   - DOMAIN-SUFFIX,360jinrong.net
   - DOMAIN-SUFFIX,360kan.com
   - DOMAIN-SUFFIX,360kuai.com
@@ -47,6 +48,7 @@ payload:
   - DOMAIN-SUFFIX,360qhcdn.com
   - DOMAIN-SUFFIX,360safe.com
   - DOMAIN-SUFFIX,360shouji.com
+  - DOMAIN-SUFFIX,360taojin.com
   - DOMAIN-SUFFIX,360totalsecurity.com
   - DOMAIN-SUFFIX,360tpcdn.com
   - DOMAIN-SUFFIX,360webcache.com
@@ -60,7 +62,9 @@ payload:
   - DOMAIN-SUFFIX,haosou.net
   - DOMAIN-SUFFIX,i360mall.com
   - DOMAIN-SUFFIX,ioage.com
+  - DOMAIN-SUFFIX,ludashi.com
   - DOMAIN-SUFFIX,nicaifu.com
+  - DOMAIN-SUFFIX,nzwgs.com
   - DOMAIN-SUFFIX,qh-cdn.com
   - DOMAIN-SUFFIX,qh-lb.com
   - DOMAIN-SUFFIX,qhcdn.com
@@ -70,6 +74,8 @@ payload:
   - DOMAIN-SUFFIX,qhimgs2.com
   - DOMAIN-SUFFIX,qhimgs3.com
   - DOMAIN-SUFFIX,qhimgs4.com
+  - DOMAIN-SUFFIX,qhimgs5.com
+  - DOMAIN-SUFFIX,qhimgs6.com
   - DOMAIN-SUFFIX,qhmsg.com
   - DOMAIN-SUFFIX,qhres.com
   - DOMAIN-SUFFIX,qhsetup.com
@@ -86,50 +92,17 @@ payload:
   - DOMAIN-SUFFIX,so.com
   - DOMAIN-SUFFIX,sou.com
   - DOMAIN-SUFFIX,syscan360.org
+  - DOMAIN-SUFFIX,useso.com
   - DOMAIN-SUFFIX,vcloudgtm.com
   - DOMAIN-SUFFIX,woxihuan.com
+  - DOMAIN-SUFFIX,xiaoluyouxuan.com
+  - DOMAIN-SUFFIX,xiaoluzhidian.com
   - DOMAIN-SUFFIX,xihuan.me
   - DOMAIN-SUFFIX,xjietiao.com
   - DOMAIN-SUFFIX,yiwanzhushou.com
+  - DOMAIN-SUFFIX,youhua.com
   - DOMAIN-SUFFIX,yunpan.com
-# 360 与 Qihoo360 共 40 条规则重复
-  - DOMAIN-SUFFIX,360-jr.com
-  - DOMAIN-SUFFIX,360.cn
-  - DOMAIN-SUFFIX,360.com
-  - DOMAIN-SUFFIX,360chou.com
-  - DOMAIN-SUFFIX,360daikuan.com
-  - DOMAIN-SUFFIX,360doc.com
-  - DOMAIN-SUFFIX,360huzhubao.com
-  - DOMAIN-SUFFIX,360jinrong.net
-  - DOMAIN-SUFFIX,360kan.com
-  - DOMAIN-SUFFIX,360kuai.com
-  - DOMAIN-SUFFIX,360os.com
-  - DOMAIN-SUFFIX,360safe.com
-  - DOMAIN-SUFFIX,360shouji.com
-  - DOMAIN-SUFFIX,360totalsecurity.com
-  - DOMAIN-SUFFIX,360tpcdn.com
-  - DOMAIN-SUFFIX,360webcache.com
-  - DOMAIN-SUFFIX,anquanke.com
-  - DOMAIN-SUFFIX,dhrest.com
-  - DOMAIN-SUFFIX,haoso.com
-  - DOMAIN-SUFFIX,haosou.com
-  - DOMAIN-SUFFIX,haosou.com.cn
-  - DOMAIN-SUFFIX,haosou.net
-  - DOMAIN-SUFFIX,i360mall.com
-  - DOMAIN-SUFFIX,nicaifu.com
-  - DOMAIN-SUFFIX,qhimg.com
-  - DOMAIN-SUFFIX,qhimgs0.com
-  - DOMAIN-SUFFIX,qhimgs1.com
-  - DOMAIN-SUFFIX,qhimgs2.com
-  - DOMAIN-SUFFIX,qhimgs3.com
-  - DOMAIN-SUFFIX,qhimgs4.com
-  - DOMAIN-SUFFIX,qhmsg.com
-  - DOMAIN-SUFFIX,qhres.com
-  - DOMAIN-SUFFIX,qhstatic.com
-  - DOMAIN-SUFFIX,qhupdate.com
-  - DOMAIN-SUFFIX,qihoo.com
-  - DOMAIN-SUFFIX,qihucdn.com
-  - DOMAIN-SUFFIX,qikucdn.com
-  - DOMAIN-SUFFIX,so.com
-  - DOMAIN-SUFFIX,sou.com
-  - DOMAIN-SUFFIX,xjietiao.com
+# 360 与 LuDaShi 共 3 条规则重复
+  - DOMAIN-SUFFIX,ludashi.com
+  - DOMAIN-SUFFIX,xiaoluyouxuan.com
+  - DOMAIN-SUFFIX,youhua.com

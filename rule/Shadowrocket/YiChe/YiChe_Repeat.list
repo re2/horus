@@ -1,7 +1,7 @@
 # NAME: YiChe 规则重复情况
 # AUTHOR: 
 # GITHUB: 
-# UPDATED: 2021-02-03 16:57:14.129370
+# UPDATED: 2021-02-03 17:32:11.540467
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # YiChe 与 AdvertisingLite 共 1 条规则重复
 DOMAIN-SUFFIX,yccdn.com

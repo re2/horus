@@ -1,7 +1,7 @@
 # NAME: GlobalMedia 规则重复情况
 # AUTHOR: 
 # GITHUB: 
-# UPDATED: 2021-02-03 16:57:13.195879
+# UPDATED: 2021-02-03 17:32:10.696457
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # GlobalMedia 与 AdvertisingLite 共 3 条规则重复
 DOMAIN-SUFFIX,conviva.com

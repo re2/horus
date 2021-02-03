@@ -1,7 +1,7 @@
 # NAME: China 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-03 16:57:09.722518
+# UPDATED: 2021-02-03 17:32:07.414883
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # China 与 AdvertisingLite 共 7 条规则重复
 HOST-SUFFIX,crashlytics.com
@@ -1567,14 +1567,6 @@ HOST-SUFFIX,qbox.me
 HOST-SUFFIX,qiniu.com
 HOST-SUFFIX,qiniucdn.com
 HOST-SUFFIX,qiniudn.com
-# China 与 Qihoo360 共 7 条规则重复
-HOST-SUFFIX,360.cn
-HOST-SUFFIX,360.com
-HOST-SUFFIX,haosou.com
-HOST-SUFFIX,qhimg.com
-HOST-SUFFIX,qhres.com
-HOST-SUFFIX,qihucdn.com
-HOST-SUFFIX,so.com
 # China 与 RuanMei 共 1 条规则重复
 HOST-SUFFIX,ithome.com
 # China 与 SFExpress 共 1 条规则重复

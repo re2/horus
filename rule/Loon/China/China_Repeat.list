@@ -1,7 +1,7 @@
 # NAME: China 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-03 16:57:10.989596
+# UPDATED: 2021-02-03 17:32:08.628164
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # China 与 AdvertisingLite 共 7 条规则重复
 DOMAIN-SUFFIX,crashlytics.com
@@ -1567,14 +1567,6 @@ DOMAIN-SUFFIX,qbox.me
 DOMAIN-SUFFIX,qiniu.com
 DOMAIN-SUFFIX,qiniucdn.com
 DOMAIN-SUFFIX,qiniudn.com
-# China 与 Qihoo360 共 7 条规则重复
-DOMAIN-SUFFIX,360.cn
-DOMAIN-SUFFIX,360.com
-DOMAIN-SUFFIX,haosou.com
-DOMAIN-SUFFIX,qhimg.com
-DOMAIN-SUFFIX,qhres.com
-DOMAIN-SUFFIX,qihucdn.com
-DOMAIN-SUFFIX,so.com
 # China 与 RuanMei 共 1 条规则重复
 DOMAIN-SUFFIX,ithome.com
 # China 与 SFExpress 共 1 条规则重复
