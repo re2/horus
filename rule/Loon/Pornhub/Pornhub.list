@@ -1,7 +1,7 @@
 # NAME: Pornhub
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-03 15:45:50.467700
+# UPDATED: 2021-02-03 16:22:58.736537
 # DOMAIN-SUFFIX: 5
 # TOTAL: 5
 DOMAIN-SUFFIX,phncdn.com

@@ -1,7 +1,7 @@
 # NAME: Wikipedia
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-03 15:45:46.979162
+# UPDATED: 2021-02-03 16:22:55.767838
 # DOMAIN-SUFFIX: 12
 # TOTAL: 12
 DOMAIN-SUFFIX,mediawiki.org

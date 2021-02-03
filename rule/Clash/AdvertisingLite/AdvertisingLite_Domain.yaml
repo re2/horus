@@ -1,12 +1,12 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-03 15:45:51.891759
+# UPDATED: 2021-02-03 16:22:59.943402
 # DOMAIN-KEYWORD: 27
 # DOMAIN-SUFFIX: 15241
-# DOMAIN: 15574
+# DOMAIN: 15576
 # IP-CIDR: 192
-# TOTAL: 31034
+# TOTAL: 31036
 payload:
   - '0.up.qingdaonews.com'
   - '00-gov.cn'
@@ -11054,6 +11054,7 @@ payload:
   - 'quotidiennokoue.com'
   - 'qutyan8848.com'
   - 'quxveblgxgsi.com'
+  - 'qvnlejvkkicf.com'
   - 'qw.baidu.com'
   - 'qwe.jzpxyd.com'
   - 'qwerfdx.com'
@@ -15456,6 +15457,7 @@ payload:
   - 'zeropark.com'
   - 'zeroredirect1.com'
   - 'zesep.com'
+  - 'zestzqhrwsvwcq.com'
   - 'zetamm.com'
   - 'zfacts.com'
   - 'zfds1.tianya999.com'

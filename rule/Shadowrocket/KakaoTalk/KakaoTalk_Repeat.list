@@ -1,7 +1,7 @@
 # NAME: KakaoTalk 规则重复情况
 # AUTHOR: 
 # GITHUB: 
-# UPDATED: 2021-02-03 15:46:01.251022
+# UPDATED: 2021-02-03 16:23:07.955781
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # KakaoTalk 与 Proxy 共 10 条规则重复
 DOMAIN-SUFFIX,daum.net
