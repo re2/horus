@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2021-02-03 16:23:24.294170。
+最后检查时间：2021-02-03 16:57:32.746910。
 
 ## 规则统计
 
@@ -48,8 +48,8 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising)    | 64817   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/DAZN/DAZN_Repeat.list)   |   0.0% |
-|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingTest)    | 80460   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/DAZN/DAZN_Repeat.list)   |   0.0% |
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising)    | 92251   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/DAZN/DAZN_Repeat.list)   |   0.0% |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingTest)    | 104221   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/DAZN/DAZN_Repeat.list)   |   0.0% |
 |  [Privacy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Privacy)    | 2839   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/DAZN/DAZN_Repeat.list)   |   0.04% |
 |  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Proxy)    | 28098   | [5](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/DAZN/DAZN_Repeat.list)   |   0.02% |
 |  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Global)    | 28250   | [7](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/DAZN/DAZN_Repeat.list)   |   0.02% |

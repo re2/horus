@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2021-02-03 16:23:11.762181。
+最后检查时间：2021-02-03 16:57:17.725959。
 
 ## 规则统计
 
@@ -46,9 +46,9 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surg
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingLite)    | 31339   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/360/360_Repeat.list)   |   0.01% |
-|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Advertising)    | 64817   | [4](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/360/360_Repeat.list)   |   0.01% |
-|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingTest)    | 80460   | [4](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/360/360_Repeat.list)   |   0.0% |
+|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingLite)    | 39411   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/360/360_Repeat.list)   |   0.01% |
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Advertising)    | 92251   | [4](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/360/360_Repeat.list)   |   0.0% |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingTest)    | 104221   | [4](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/360/360_Repeat.list)   |   0.0% |
 |  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/China)    | 693   | [7](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/360/360_Repeat.list)   |   1.01% |
 |  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaTest)    | 71645   | [66](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/360/360_Repeat.list)   |   0.09% |
 |  [Qihoo360](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Qihoo360)    | 50   | [40](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/360/360_Repeat.list)   |   80.0% |

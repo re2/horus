@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2021-02-03 16:23:13.674319。
+最后检查时间：2021-02-03 16:57:20.056081。
 
 ## 规则统计
 
@@ -46,9 +46,9 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surg
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingLite)    | 31339   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/JiGuangTuiSong/JiGuangTuiSong_Repeat.list)   |   0.01% |
-|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Advertising)    | 64817   | [16](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/JiGuangTuiSong/JiGuangTuiSong_Repeat.list)   |   0.02% |
-|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingTest)    | 80460   | [16](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/JiGuangTuiSong/JiGuangTuiSong_Repeat.list)   |   0.02% |
+|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingLite)    | 39411   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/JiGuangTuiSong/JiGuangTuiSong_Repeat.list)   |   0.01% |
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Advertising)    | 92251   | [16](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/JiGuangTuiSong/JiGuangTuiSong_Repeat.list)   |   0.02% |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingTest)    | 104221   | [16](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/JiGuangTuiSong/JiGuangTuiSong_Repeat.list)   |   0.02% |
 |  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaTest)    | 71645   | [6](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/JiGuangTuiSong/JiGuangTuiSong_Repeat.list)   |   0.01% |
 ### 特别说明
 程序在实际运算时，会根据DOMAIN、DOMAIN-SUFFIX、IP-CIDR、IP-CIDR6间的包含关系进行去重，而出于运行效率考虑，重复规则只统计纯文本匹配，所以可能与实际效果有所出入，仅供参考。

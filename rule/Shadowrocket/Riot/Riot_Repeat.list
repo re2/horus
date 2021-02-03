@@ -1,7 +1,7 @@
 # NAME: Riot 规则重复情况
 # AUTHOR: 
 # GITHUB: 
-# UPDATED: 2021-02-03 16:23:07.834657
+# UPDATED: 2021-02-03 16:57:13.078495
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 # Riot 与 WildRift 共 3 条规则重复
 DOMAIN-SUFFIX,pvp.net
