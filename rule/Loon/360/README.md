@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2021-02-03 02:35:55.711946。
+最后检查时间：2021-02-03 10:04:24.198742。
 
 ## 规则统计
 
@@ -46,9 +46,9 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingLite)    | 31190   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/360/360_Repeat.list)   |   0.01% |
-|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising)    | 64744   | [4](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/360/360_Repeat.list)   |   0.01% |
-|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingTest)    | 80366   | [4](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/360/360_Repeat.list)   |   0.0% |
+|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingLite)    | 31332   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/360/360_Repeat.list)   |   0.01% |
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising)    | 64810   | [4](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/360/360_Repeat.list)   |   0.01% |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingTest)    | 80454   | [4](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/360/360_Repeat.list)   |   0.0% |
 |  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/China)    | 693   | [7](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/360/360_Repeat.list)   |   1.01% |
 |  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaTest)    | 71672   | [66](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/360/360_Repeat.list)   |   0.09% |
 |  [Qihoo360](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Qihoo360)    | 50   | [40](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/360/360_Repeat.list)   |   80.0% |

@@ -1,10 +1,10 @@
 # NAME: AdvertisingLite 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-03 02:35:35.530731
+# UPDATED: 2021-02-03 10:04:02.544281
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 payload:
-# AdvertisingLite 与 Advertising 共 16109 条规则重复
+# AdvertisingLite 与 Advertising 共 16171 条规则重复
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,0d847862199.com
   - DOMAIN,0koryu0.easter.ne.jp
@@ -14,12 +14,16 @@ payload:
   - DOMAIN,12648afd00d93.com
   - DOMAIN,13yg.cn
   - DOMAIN,14119276be0852.com
+  - DOMAIN,14b41d7ec7766122d.com
   - DOMAIN,1543b1db8a0825760.com
   - DOMAIN,15yomodels.com
   - DOMAIN,16e2ae8f200d975b.com
   - DOMAIN,17b1dbd9f3ae7db27cf.com
   - DOMAIN,1b969cef84d93b43.com
   - DOMAIN,1e122c580cf.com
+  - DOMAIN,1el-1el-fie.com
+  - DOMAIN,1elllwrite.com
+  - DOMAIN,1jvd7f7w.top
   - DOMAIN,1loop.com
   - DOMAIN,1q2w3.live
   - DOMAIN,2.up.qingdaonews.com
@@ -372,12 +376,14 @@ payload:
   - DOMAIN,ditds.xyz
   - DOMAIN,divine.lunarbreeze.com
   - DOMAIN,dkmdklhu.com
+  - DOMAIN,dl.downf468.com
   - DOMAIN,dl.microsword.net
   - DOMAIN,dntrax.com
   - DOMAIN,dofeb.frenchgerlemanelectric.com
   - DOMAIN,dogwuyrspt.com
   - DOMAIN,doktester.orgfree.com
   - DOMAIN,dougmlee.com
+  - DOMAIN,dowages.com
   - DOMAIN,down.feiyang163.com
   - DOMAIN,down.mykings.pw
   - DOMAIN,down.unadnet.com.cn
@@ -389,16 +395,39 @@ payload:
   - DOMAIN,download.grandcloud.cn
   - DOMAIN,download.ttrili.com
   - DOMAIN,download207.mediafire.com
+  - DOMAIN,downloads-whatsapp.com
+  - DOMAIN,downloatransfer.com
+  - DOMAIN,downlossinen.info
   - DOMAIN,dp-medien.eu
+  - DOMAIN,dqdwvmpez.com
+  - DOMAIN,dqfpksnabgagc.com
+  - DOMAIN,dqiokxyebdc.com
+  - DOMAIN,dqmfeimedqswbr.com
+  - DOMAIN,dqolgbehhzvo.com
+  - DOMAIN,dqyczunj.com
   - DOMAIN,dradvice.in
+  - DOMAIN,drjctivspweild.com
+  - DOMAIN,drjwmuwmnll.com
+  - DOMAIN,drnxs.com
+  - DOMAIN,droqnswhcfk.com
+  - DOMAIN,drpmtzjanjqjpj.com
+  - DOMAIN,drwfixovzqdcs.com
   - DOMAIN,dss0.bdstatic.com
+  - DOMAIN,dsyxresmht.com
+  - DOMAIN,dtgwjxeymdlri.com
+  - DOMAIN,dtuhvgjyrp.com
   - DOMAIN,dufue2m4sondk.cloudfront.net
+  - DOMAIN,dugqbllwslqrlj.com
   - DOMAIN,dump1.no-ip.biz
   - DOMAIN,dvnafl0qtqz9k.cloudfront.net
   - DOMAIN,dyn.primecdn.net
   - DOMAIN,dzmxze7hxwn6b.cloudfront.net
   - DOMAIN,e.131pu.cn
+  - DOMAIN,e.16qijf.cn
+  - DOMAIN,e.17w3a.cn
+  - DOMAIN,e.1i94f.cn
   - DOMAIN,e.1q89b.cn
+  - DOMAIN,e.1r8th.cn
   - DOMAIN,e.21lxb.cn
   - DOMAIN,e.2j75d.cn
   - DOMAIN,e.2n5kmg.cn
@@ -408,6 +437,7 @@ payload:
   - DOMAIN,e9mlrvy1.com
   - DOMAIN,earthcontrolsys.com
   - DOMAIN,edf.fr.kfskz.com
+  - DOMAIN,ee.1s8pj.cn
   - DOMAIN,ee.32z8d.cn
   - DOMAIN,eeps.me
   - DOMAIN,ekod.info
@@ -575,6 +605,7 @@ payload:
   - DOMAIN,josip-stadler.org
   - DOMAIN,js.hdzog.com
   - DOMAIN,js.jrjimg.cn
+  - DOMAIN,js2.vgetv1.xyz
   - DOMAIN,juiceads.net
   - DOMAIN,junbi-tracker.com
   - DOMAIN,jx.cn
@@ -635,9 +666,15 @@ payload:
   - DOMAIN,lzpv4rsmat.com
   - DOMAIN,m-vali.cp31.ott.cibntv.net
   - DOMAIN,m.1234567.com.cn
+  - DOMAIN,m.16qijf.cn
+  - DOMAIN,m.175pu.cn
   - DOMAIN,m.17w3a.cn
+  - DOMAIN,m.181mob.com
   - DOMAIN,m.198nc.cn
   - DOMAIN,m.1i94f.cn
+  - DOMAIN,m.1j5wc.cn
+  - DOMAIN,m.1p04f.cn
+  - DOMAIN,m.1q89b.cn
   - DOMAIN,m.1qp9k.cn
   - DOMAIN,m.1r8th.cn
   - DOMAIN,m.1s8pj.cn
@@ -679,9 +716,11 @@ payload:
   - DOMAIN,miracema.rj.gov.br
   - DOMAIN,mirandolasrl.it
   - DOMAIN,mktmobi.com
+  - DOMAIN,mldys.14yzc.cn
   - DOMAIN,mmg.aty.sohu.com
   - DOMAIN,mmile.com
   - DOMAIN,mms.hori-gz.com
+  - DOMAIN,mo.drzd9.cn
   - DOMAIN,mobileraffles.com
   - DOMAIN,montmti.top
   - DOMAIN,montpti.top
@@ -759,8 +798,20 @@ payload:
   - DOMAIN,opus.analytics.yahoo.com
   - DOMAIN,orbowlada.strefa.pl
   - DOMAIN,org-dot-com.com
+  - DOMAIN,oslzqjnh.com
   - DOMAIN,ospserver.net
+  - DOMAIN,osrto.com
+  - DOMAIN,ossdqciz.com
+  - DOMAIN,ostyfayab.com
+  - DOMAIN,othere.info
+  - DOMAIN,otmonog.info
+  - DOMAIN,otqzpgagsstvth.com
+  - DOMAIN,otrfmbluvrde.com
+  - DOMAIN,otruzjgxof.com
+  - DOMAIN,otylkaaotesanek.cz
+  - DOMAIN,ougesqknoehod.com
   - DOMAIN,ouptoobe.net
+  - DOMAIN,ourbanners.net
   - DOMAIN,outils.f5biz.com
   - DOMAIN,outporn.com
   - DOMAIN,ovtopli.ru
@@ -955,6 +1006,7 @@ payload:
   - DOMAIN,srv2trking.com
   - DOMAIN,srvpub.com
   - DOMAIN,ssa.1337x.to
+  - DOMAIN,ssl2.dottexpress.com
   - DOMAIN,sspicy.ru
   - DOMAIN,stat.lianmeng.360.cn
   - DOMAIN,stat.tf.360.cn
@@ -979,6 +1031,7 @@ payload:
   - DOMAIN,symkashop.ru
   - DOMAIN,syncedvision.com
   - DOMAIN,szinhaz.hu
+  - DOMAIN,t.douyaobuy.com
   - DOMAIN,t.zisu.cn.com
   - DOMAIN,t1.a.market.xiaomi.com
   - DOMAIN,t2.a.market.xiaomi.com
@@ -991,7 +1044,10 @@ payload:
   - DOMAIN,tataget.ru
   - DOMAIN,tatami-solutions.com
   - DOMAIN,tavuks.com
+  - DOMAIN,tbnyxepibups.com
   - DOMAIN,tbs.imtt.qq.com
+  - DOMAIN,tbupszmmzn.com
+  - DOMAIN,tbxvgojzcbxpoc.com
   - DOMAIN,tchmemnasaxpt.com
   - DOMAIN,tcrwharen.homepage.t-online.de
   - DOMAIN,teameda.comcastbiz.net
@@ -1028,11 +1084,13 @@ payload:
   - DOMAIN,traff1.com
   - DOMAIN,traffic-c.com
   - DOMAIN,trafficgrowth.com
+  - DOMAIN,tranite.info
   - DOMAIN,treventuresonline.com
   - DOMAIN,triangleservicesltd.com
   - DOMAIN,tripedrated.xyz
   - DOMAIN,troytempest.com
   - DOMAIN,tscl.com.bd
+  - DOMAIN,tt.douyaobuy.com
   - DOMAIN,tu.cvnad.com
   - DOMAIN,tubemoviez.com
   - DOMAIN,tvas-b.pw
@@ -1063,6 +1121,7 @@ payload:
   - DOMAIN,utrfixbusce.com
   - DOMAIN,v.37uta.cn
   - DOMAIN,v.aty.sohu.com
+  - DOMAIN,v.originz.cn
   - DOMAIN,v.tf.360.cn
   - DOMAIN,v2.gdt.qq.com
   - DOMAIN,vasfxpribls.com
@@ -1141,6 +1200,7 @@ payload:
   - DOMAIN,www.doctor-alex.com
   - DOMAIN,www.donneuropa.it
   - DOMAIN,www.downloaddirect.com
+  - DOMAIN,www.drteachme.com
   - DOMAIN,www.eivamos.com
   - DOMAIN,www.emrlogistics.com
   - DOMAIN,www.enchantier.com
@@ -1289,6 +1349,8 @@ payload:
   - DOMAIN,zengenti.com
   - DOMAIN,zeroredirect1.com
   - DOMAIN,zkic.com
+  - DOMAIN,zlhscyahjbaq.com
+  - DOMAIN,zlxfpawyyoq.com
   - DOMAIN,zoomdirect.com.au
   - DOMAIN,zous.szm.sk
   - DOMAIN,zrosbqwecw.com
@@ -16114,7 +16176,7 @@ payload:
   - IP-CIDR,69.28.57.245/32
   - IP-CIDR,74.117.182.77/32
   - IP-CIDR,78.140.131.214/32
-# AdvertisingLite 与 AdvertisingTest 共 15740 条规则重复
+# AdvertisingLite 与 AdvertisingTest 共 15801 条规则重复
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,0d847862199.com
   - DOMAIN,0koryu0.easter.ne.jp
@@ -16123,10 +16185,14 @@ payload:
   - DOMAIN,109-204-26-16.netconnexion.managedbroadband.co.uk
   - DOMAIN,12648afd00d93.com
   - DOMAIN,14119276be0852.com
+  - DOMAIN,14b41d7ec7766122d.com
   - DOMAIN,1543b1db8a0825760.com
   - DOMAIN,16e2ae8f200d975b.com
   - DOMAIN,17b1dbd9f3ae7db27cf.com
   - DOMAIN,1e122c580cf.com
+  - DOMAIN,1el-1el-fie.com
+  - DOMAIN,1elllwrite.com
+  - DOMAIN,1jvd7f7w.top
   - DOMAIN,1q2w3.live
   - DOMAIN,2.up.qingdaonews.com
   - DOMAIN,21b507a044d841b.com
@@ -16393,11 +16459,13 @@ payload:
   - DOMAIN,discvr.net
   - DOMAIN,divine.lunarbreeze.com
   - DOMAIN,dkmdklhu.com
+  - DOMAIN,dl.downf468.com
   - DOMAIN,dl.microsword.net
   - DOMAIN,dofeb.frenchgerlemanelectric.com
   - DOMAIN,dogwuyrspt.com
   - DOMAIN,doktester.orgfree.com
   - DOMAIN,dougmlee.com
+  - DOMAIN,dowages.com
   - DOMAIN,down.feiyang163.com
   - DOMAIN,down.mykings.pw
   - DOMAIN,down.unadnet.com.cn
@@ -16408,15 +16476,38 @@ payload:
   - DOMAIN,download.grandcloud.cn
   - DOMAIN,download.ttrili.com
   - DOMAIN,download207.mediafire.com
+  - DOMAIN,downloads-whatsapp.com
+  - DOMAIN,downloatransfer.com
+  - DOMAIN,downlossinen.info
   - DOMAIN,dp-medien.eu
+  - DOMAIN,dqdwvmpez.com
+  - DOMAIN,dqfpksnabgagc.com
+  - DOMAIN,dqiokxyebdc.com
+  - DOMAIN,dqmfeimedqswbr.com
+  - DOMAIN,dqolgbehhzvo.com
+  - DOMAIN,dqyczunj.com
+  - DOMAIN,drjctivspweild.com
+  - DOMAIN,drjwmuwmnll.com
+  - DOMAIN,drnxs.com
+  - DOMAIN,droqnswhcfk.com
+  - DOMAIN,drpmtzjanjqjpj.com
+  - DOMAIN,drwfixovzqdcs.com
   - DOMAIN,dss0.bdstatic.com
+  - DOMAIN,dsyxresmht.com
+  - DOMAIN,dtgwjxeymdlri.com
+  - DOMAIN,dtuhvgjyrp.com
   - DOMAIN,dufue2m4sondk.cloudfront.net
+  - DOMAIN,dugqbllwslqrlj.com
   - DOMAIN,dump1.no-ip.biz
   - DOMAIN,dvnafl0qtqz9k.cloudfront.net
   - DOMAIN,dyn.primecdn.net
   - DOMAIN,dzmxze7hxwn6b.cloudfront.net
   - DOMAIN,e.131pu.cn
+  - DOMAIN,e.16qijf.cn
+  - DOMAIN,e.17w3a.cn
+  - DOMAIN,e.1i94f.cn
   - DOMAIN,e.1q89b.cn
+  - DOMAIN,e.1r8th.cn
   - DOMAIN,e.21lxb.cn
   - DOMAIN,e.2j75d.cn
   - DOMAIN,e.2n5kmg.cn
@@ -16557,6 +16648,7 @@ payload:
   - DOMAIN,josip-stadler.org
   - DOMAIN,js.hdzog.com
   - DOMAIN,js.jrjimg.cn
+  - DOMAIN,js2.vgetv1.xyz
   - DOMAIN,jx.cn
   - DOMAIN,k.h.a.d.free.fr
   - DOMAIN,kadirzerey.com
@@ -16605,9 +16697,15 @@ payload:
   - DOMAIN,lzpv4rsmat.com
   - DOMAIN,m-vali.cp31.ott.cibntv.net
   - DOMAIN,m.1234567.com.cn
+  - DOMAIN,m.16qijf.cn
+  - DOMAIN,m.175pu.cn
   - DOMAIN,m.17w3a.cn
+  - DOMAIN,m.181mob.com
   - DOMAIN,m.198nc.cn
   - DOMAIN,m.1i94f.cn
+  - DOMAIN,m.1j5wc.cn
+  - DOMAIN,m.1p04f.cn
+  - DOMAIN,m.1q89b.cn
   - DOMAIN,m.1qp9k.cn
   - DOMAIN,m.1r8th.cn
   - DOMAIN,m.1sur6d.cn
@@ -16644,9 +16742,11 @@ payload:
   - DOMAIN,ministerio-publi.info
   - DOMAIN,miracema.rj.gov.br
   - DOMAIN,mirandolasrl.it
+  - DOMAIN,mldys.14yzc.cn
   - DOMAIN,mmg.aty.sohu.com
   - DOMAIN,mmile.com
   - DOMAIN,mms.hori-gz.com
+  - DOMAIN,mo.drzd9.cn
   - DOMAIN,montmti.top
   - DOMAIN,montpti.top
   - DOMAIN,morenews3.net
@@ -16705,8 +16805,20 @@ payload:
   - DOMAIN,opus.analytics.yahoo.com
   - DOMAIN,orbowlada.strefa.pl
   - DOMAIN,org-dot-com.com
+  - DOMAIN,oslzqjnh.com
   - DOMAIN,ospserver.net
+  - DOMAIN,osrto.com
+  - DOMAIN,ossdqciz.com
+  - DOMAIN,ostyfayab.com
+  - DOMAIN,othere.info
+  - DOMAIN,otmonog.info
+  - DOMAIN,otqzpgagsstvth.com
+  - DOMAIN,otrfmbluvrde.com
+  - DOMAIN,otruzjgxof.com
+  - DOMAIN,otylkaaotesanek.cz
+  - DOMAIN,ougesqknoehod.com
   - DOMAIN,ouptoobe.net
+  - DOMAIN,ourbanners.net
   - DOMAIN,outils.f5biz.com
   - DOMAIN,outporn.com
   - DOMAIN,p.buluo.qq.com
@@ -16846,6 +16958,7 @@ payload:
   - DOMAIN,sqm.df.telemetry.microsoft.com
   - DOMAIN,sqm.telemetry.microsoft.com
   - DOMAIN,ssa.1337x.to
+  - DOMAIN,ssl2.dottexpress.com
   - DOMAIN,sspicy.ru
   - DOMAIN,stat.lianmeng.360.cn
   - DOMAIN,stat.tf.360.cn
@@ -16864,6 +16977,7 @@ payload:
   - DOMAIN,svetyivanrilski.com
   - DOMAIN,swiftypecdn.com
   - DOMAIN,szinhaz.hu
+  - DOMAIN,t.douyaobuy.com
   - DOMAIN,t.zisu.cn.com
   - DOMAIN,t1.a.market.xiaomi.com
   - DOMAIN,t2.a.market.xiaomi.com
@@ -16874,7 +16988,10 @@ payload:
   - DOMAIN,tamilcm.com
   - DOMAIN,tataget.ru
   - DOMAIN,tavuks.com
+  - DOMAIN,tbnyxepibups.com
   - DOMAIN,tbs.imtt.qq.com
+  - DOMAIN,tbupszmmzn.com
+  - DOMAIN,tbxvgojzcbxpoc.com
   - DOMAIN,tchmemnasaxpt.com
   - DOMAIN,tcrwharen.homepage.t-online.de
   - DOMAIN,teameda.comcastbiz.net
@@ -16905,11 +17022,13 @@ payload:
   - DOMAIN,trader.erosdlz.com
   - DOMAIN,traff1.com
   - DOMAIN,trafficgrowth.com
+  - DOMAIN,tranite.info
   - DOMAIN,treventuresonline.com
   - DOMAIN,triangleservicesltd.com
   - DOMAIN,tripedrated.xyz
   - DOMAIN,troytempest.com
   - DOMAIN,tscl.com.bd
+  - DOMAIN,tt.douyaobuy.com
   - DOMAIN,tu.cvnad.com
   - DOMAIN,tubemoviez.com
   - DOMAIN,tvduznfdgim.com
@@ -16936,6 +17055,7 @@ payload:
   - DOMAIN,utrfixbusce.com
   - DOMAIN,v.37uta.cn
   - DOMAIN,v.aty.sohu.com
+  - DOMAIN,v.originz.cn
   - DOMAIN,v.tf.360.cn
   - DOMAIN,vasfxpribls.com
   - DOMAIN,veehdmymwvvexv.com
@@ -16999,6 +17119,7 @@ payload:
   - DOMAIN,www.doctor-alex.com
   - DOMAIN,www.donneuropa.it
   - DOMAIN,www.downloaddirect.com
+  - DOMAIN,www.drteachme.com
   - DOMAIN,www.eivamos.com
   - DOMAIN,www.emrlogistics.com
   - DOMAIN,www.enchantier.com
@@ -17138,6 +17259,8 @@ payload:
   - DOMAIN,zayhipbcxig.com
   - DOMAIN,zengenti.com
   - DOMAIN,zkic.com
+  - DOMAIN,zlhscyahjbaq.com
+  - DOMAIN,zlxfpawyyoq.com
   - DOMAIN,zoomdirect.com.au
   - DOMAIN,zous.szm.sk
   - DOMAIN,zrosbqwecw.com

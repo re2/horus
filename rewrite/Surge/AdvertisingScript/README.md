@@ -9,7 +9,7 @@
 **整合知乎、BiliBili、什么值得买三个APP去广告，及脚本去除开屏广告复写。**
 
 
-最后检查时间：2021-02-03 02:36:32。
+最后检查时间：2021-02-03 10:05:03。
 
 ## 复写统计
 
@@ -34,11 +34,11 @@
 
 实时版：
 
-https://raw.githubusercontent.com////rewrite/Surge/AdvertisingScript/AdvertisingScript.sgmodule
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Surge/AdvertisingScript/AdvertisingScript.sgmodule
 
 稳定版：
 
-https://raw.githubusercontent.com///release/rewrite/Surge/AdvertisingScript/AdvertisingScript.sgmodule
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/Surge/AdvertisingScript/AdvertisingScript.sgmodule
 
 如果稳定版无法访问 ，可能是尚未从实时版的分支合并，建议您先使用实时版，或等待下次稳定版分支合并。
 
@@ -46,6 +46,10 @@ https://raw.githubusercontent.com///release/rewrite/Surge/AdvertisingScript/Adve
 
 本项目的脚本去广告复写规则的数据来自以下链接，通常已涵盖所有数据来源的复写规则。如果你正在使用这些复写规则，请先删除后再使用本项目的脚本去广告复写规则，以免造成规则重复。
 
+- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/bilibili/bilibili_plus.sgmodule
+- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_remove_ads.lnplugin
+- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/startup/startup.sgmodule
+- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zhihu/zhihu_plus.lnplugin
 
 
 感谢以上复写规则作者的辛勤付出（排名不分先后）。
@@ -114,7 +118,7 @@ https://raw.githubusercontent.com///release/rewrite/Surge/AdvertisingScript/Adve
 4. 在使用复写规则时出现异常
 5. 有其他问题
 
-欢迎通过[issues](https://github.com///issues/new)提交反馈，共同完善本项目的脚本去广告复写规则。
+欢迎通过[issues](https://github.com/blackmatrix7/ios_rule_script/issues/new)提交反馈，共同完善本项目的脚本去广告复写规则。
 
 感谢
 

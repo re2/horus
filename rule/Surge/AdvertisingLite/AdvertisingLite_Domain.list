@@ -1,15 +1,15 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-03 02:35:23.343848
+# UPDATED: 2021-02-03 10:03:50.126068
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 27
 # DOMAIN-SUFFIX: 15241
-# DOMAIN: 15427
+# DOMAIN: 15569
 # IP-CIDR: 192
 # USER-AGENT: 1
 # URL-REGEX: 302
-# TOTAL: 31190
+# TOTAL: 31332
 0.up.qingdaonews.com
 00-gov.cn
 0024aadd.com
@@ -118,6 +118,7 @@
 13vm73vbmp.com
 13yg.cn
 14119276be0852.com
+14b41d7ec7766122d.com
 152media.com
 153105c2f9564.com
 1543b1db8a0825760.com
@@ -129,6 +130,7 @@
 166br.com
 168logger.com
 16e2ae8f200d975b.com
+1717gs.com
 1740f665a91b68.com
 176.chuangmijishu.xyz
 1797wan.com
@@ -152,18 +154,23 @@
 1drj.com
 1e122c580cf.com
 1ea1sley.com
+1el-1el-fie.com
+1elllwrite.com
 1empiredirect.com
 1f58098dd54.com
 1f7de8569ea97f0614.com
 1freecounter.com
 1fwjpdwguvqs.com
+1gkjk1ms15.com
 1han-rit-ten.com
 1hanritten.com
 1haows.cn
+1jvd7f7w.top
 1lo0.net
 1loop.com
 1nimo.com
 1pel.com
+1q2w3.fun
 1q2w3.live
 1rx.io
 1rxntv.io
@@ -2398,6 +2405,7 @@ awin1.com
 awltovhc.com
 awmpartners.com
 awmserve.com
+awrnrkmwtia.com
 aws-ajax.com
 awsclic.com
 awseukpi.whisbi.com
@@ -2433,6 +2441,7 @@ azorbe.com
 aztecash.com
 azvjudwr.info
 b-m.xyz
+b.16vcd.com
 b.19869.com
 b.77shw.com
 b.a0trade.top
@@ -3197,6 +3206,7 @@ c-sta-cn.upltv.com
 c.51xmgys.com
 c.booksir.com.cn
 c.dengbaozx.cn
+c.duomeng.net
 c.future888.net
 c.greystripe.com
 c.hit.ua
@@ -4790,6 +4800,7 @@ dkm6b5q0h53z4.cloudfront.net
 dkmdklhu.com
 dl-rms.com
 dl.browsermine.com
+dl.downf468.com
 dl.heima8.com
 dl.microsword.net
 dl.weshineapp.com
@@ -4872,6 +4883,8 @@ doomail.org
 doomna.com
 dopa.com.cn
 dopor.info
+doqapnez.com
+doqjemtf.com
 doshaido.com
 dosugcz.biz
 dotaki.com
@@ -4888,17 +4901,20 @@ double-check.com
 double.net
 doubleadv.com
 doubleclickbygoogle.com
+doubleclicks.me
 doublegear.com
 doublemax.net
 doublepimp.com
 doublepimpssl.com
 doublerecall.com
 doubooca.com
+doucheng123.com
 doug1izaerwt3.cloudfront.net
 dougmlee.com
 doukekan.cn
 doumaibiji.cn
 doupuer.com
+dowages.com
 down.feiyang163.com
 down.mykings.pw
 down.unadnet.com.cn
@@ -4917,7 +4933,10 @@ download207.mediafire.com
 downloadandsave-a.akamaihd.net
 downloadboutique.com
 downloadgot.com
+downloads-whatsapp.com
 downloadthesefile.com
+downloatransfer.com
+downlossinen.info
 downmn.com
 doyugqaizcecne.com
 dp-medien.eu
@@ -4927,13 +4946,26 @@ dpallyihgtgu.com
 dpbolvw.net
 dpd9yiocsyy6p.cloudfront.net
 dpmsrv.com
+dppeusog.com
 dprtb.com
 dps-reach.com
 dpsq2uzakdgqz.cloudfront.net
+dpsqqaaqbc.com
 dpstack.com
+dpxjvfdtufp.com
 dpypzvjarj.com
 dq95d35.com
+dqburpwaqwehj.com
+dqdwvmpez.com
+dqeqsiwc.com
+dqfpksnabgagc.com
 dqhi3ea93ztgv.cloudfront.net
+dqiokxyebdc.com
+dqmfeimedqswbr.com
+dqnpfsxuq.com
+dqolgbehhzvo.com
+dqvckdfaa.com
+dqyczunj.com
 dr3k6qonw2kee.cloudfront.net
 dr8pk6ovub897.cloudfront.net
 dradvice.in
@@ -4942,24 +4974,41 @@ drbwugautcgh.com
 dreamaquarium.com
 dreamcounter.de
 dreamine.com
+dredkcyex.com
 dreyeli.info
 drf8e429z5jzt.cloudfront.net
 drivenetwork.ru
+drjctivspweild.com
+drjwmuwmnll.com
+drnxs.com
+dropzenad.com
+droqnswhcfk.com
 drotcporkutvz.com
+drovederuifswfe.info
 drowadri.racing
 drowle.com
+drpmtzjanjqjpj.com
+drqlvjwhg.com
+drwfixovzqdcs.com
+drwttspxjdoosq.com
+drwzn.com
 drydrum.com
+drzndwmqrgra.com
 ds-aksb-a.akamaihd.net
 ds-recommender.styria.hr
 ds.haaretz.co.il
 ds02gfqy6io6i.cloudfront.net
 ds88pc0kw6cvc.cloudfront.net
+dsaiwxrneawj.com
+dsf4t5jfds34j.com
 dsfohqgkydgn.com
 dsh7ky7308k4b.cloudfront.net
 dsie7h4lo9wxu.cloudfront.net
 dsmmadvantage.com
+dsmxwgmkj.com
 dsnextgen.com
 dsnr-affiliates.com
+dsnxvnkxyimczk.com
 dsp.brand.sogo.com
 dspack.com.cn
 dsparking.com
@@ -4968,18 +5017,26 @@ dsply.com
 dss0.bdstatic.com
 dstik9906m659.cloudfront.net
 dstillery.com
+dstrack2.info
 dstxhvmgkg.com
 dsultra.com
+dsyxresmht.com
 dt1pxsve3tgas.cloudfront.net
 dt2xr6g2i5.com
 dtakdb1z5gq7e.cloudfront.net
 dtc-v6t.com
+dtcpdvnojquf.com
+dtgwjxeymdlri.com
+dthousepresistc.info
 dti-ranker.com
 dtiserv2.com
 dtlog.szy.cn
 dtmpub.com
+dtprhsosiqckd.com
 dtprofit.com
 dtto8zfzskfoa.cloudfront.net
+dtuhvgjyrp.com
+dtusmzjdycvk.com
 dtxngr.com
 dtzads.com
 du01z5hhojprz.cloudfront.net
@@ -4987,10 +5044,17 @@ du2uh7rq0r0d3.cloudfront.net
 du4rq1xqh3i1k.cloudfront.net
 du8783wkf05yr.cloudfront.net
 dualmarket.info
+duamgurza.com
+duamuprs.com
+dubester.pw
+dubester.site
+dubester.space
 dubshub.com
 dubvacasept.com
 duetads.com
 dufue2m4sondk.cloudfront.net
+dugqbllwslqrlj.com
+dujbubzvrdw.com
 dulrlifipkbac.com
 dump1.no-ip.biz
 dunhilltraveldeals.com
@@ -5056,7 +5120,11 @@ e-viral.com
 e-webtrack.net
 e-zeeinternet.com
 e.131pu.cn
+e.16qijf.cn
+e.17w3a.cn
+e.1i94f.cn
 e.1q89b.cn
+e.1r8th.cn
 e.21lxb.cn
 e.2j75d.cn
 e.2l06k.cn
@@ -5191,6 +5259,7 @@ edt02.net
 edtp.de
 eduace.com.cn
 eduad.baidu.com
+ee.1s8pj.cn
 ee.32z8d.cn
 ee.hx623.cn
 ee.mfufanj.cn
@@ -5731,6 +5800,7 @@ flix360.com
 flixfacts.co.uk
 flixsyndication.net
 fljozww19f.com
+flmyidbnljphko.com
 flockflame.com
 flodonas.com
 flomigo.com
@@ -6919,6 +6989,7 @@ idot.cz
 idownloadgalore.com
 idreammedia.com
 idtargeting.com
+ie.5500w.com
 iee5.com
 ieju.zgtwpscw.cn
 iesnare.com
@@ -7495,6 +7566,7 @@ js.ptengine.cn
 js.static.tebaidu.cn
 js.stroeermediabrands.de
 js.zjsyawqj.cn
+js2.vgetv1.xyz
 jsa.15tianqi.com
 jsapi.html5.qq.com
 jscdndel.com
@@ -7570,6 +7642,7 @@ jyzmsy.com.cn
 jz9ugaqb.com
 jzedpmpcmsk.com
 k-analytix.com
+k.16vcd.com
 k.gsdhome.cn
 k.h.a.d.free.fr
 k.kksgl.top
@@ -7712,6 +7785,7 @@ knkgaslmisue.com
 knowd.com
 knowlead.io
 knowledgevine.net
+koclkigkz.com
 kodcad.kr
 koddi.com
 kodicdn.com
@@ -7834,6 +7908,7 @@ lcwfabt2.com
 lcwfabt3.com
 ld.za9mnx.com
 lddt.de
+ldgjjycp.com
 ldt1duixoe.com
 lduhtrp.net
 ldzqhq.biz
@@ -8280,9 +8355,15 @@ m-t.io
 m-vali.cp31.ott.cibntv.net
 m.1234567.com.cn
 m.168ey.com
+m.16qijf.cn
+m.175pu.cn
 m.17w3a.cn
+m.181mob.com
 m.198nc.cn
 m.1i94f.cn
+m.1j5wc.cn
+m.1p04f.cn
+m.1q89b.cn
 m.1qp9k.cn
 m.1r8th.cn
 m.1s8pj.cn
@@ -8294,6 +8375,7 @@ m.247pb.cn
 m.24ihe.cn
 m.24pga.cn
 m.2j75d.cn
+m.2jm2j.cn
 m.2l06k.cn
 m.2n5kmg.cn
 m.34uvn.cn
@@ -8321,6 +8403,7 @@ m.cfanm.com
 m.cjjcby.cn
 m.ckaim.com
 m.cpgzh.com
+m.dqwhsx.top
 m.ecenf.com
 m.efeir.com
 m.ehwhwz.cn
@@ -8784,6 +8867,7 @@ ml-attr.com
 ml314.com
 mldy.xdaay.cn
 mldy.yxxgab.cn
+mldys.14yzc.cn
 mldys.mqchy.cn
 mlib.browsermine.com
 mlnadvertising.com
@@ -8829,6 +8913,7 @@ mntzrlt.net
 mnzdgidf.com
 mo.baidu.com
 mo.bsxr.com.cn
+mo.drzd9.cn
 mo.grqf.com.cn
 mo.lbmx.com.cn
 mo.oneshouyou.cn
@@ -9804,6 +9889,7 @@ opto-22.com.cn
 optorb.com
 optout.crsspxl.com
 opus.analytics.yahoo.com
+oqxyzvkwso.com
 oracleinfinity.io
 orangeads.fr
 oranges88.com
@@ -9827,38 +9913,66 @@ orts.wixawin.com
 orvzvaqig.com
 os-data.com
 os.tc
+osalsdistiniaatt.info
 osdata.solutions
+osevrgzpsu.com
 oshoa.iptvdeals.com
 oshoo.iptvdeals.com
 osiaffiliate.com
 ositracker.com
+oslzqjnh.com
+osnbddsrm.com
 osny2p7a0k.com
 ospreymedialp.com
 ospserver.net
+osrto.com
+ossdqciz.com
+ostyfayab.com
+osvryhznx.com
+osxau.de
+osynchresiderin.info
 otaserve.net
 otcbuqxriuht.com
 otcxzgcu.com
 other.v.duowan.com
+othere.info
 othernedm.info
 otherprofit.com
 othersonline.com
 otheve.beacon.qq.com
+otiqknmqyibci.com
+otkpegjvpyi.com
+otmonog.info
 otmyoesv.com
 otnolabttmup.com
 otnolatrnup.com
 otoshiana.com
+otoxkqlivsqr.com
+otqzpgagsstvth.com
 otracking.com
+otrfmbluvrde.com
+otruzjgxof.com
 otrwaram.com
 otvetus.com
+otyguqrpv.com
+otylkaaotesanek.cz
 ouboosta.com
 oucywciij.com
+oudccdjvh.com
+ougdqjentmp.com
+ougesqknoehod.com
+ouhdgmzajfaop.com
 ouhegapy.net
+oujlnbyavjhy.com
 oujouniw.com
+ouloutso.net
 oultuwee.net
 ounion.openadx.com
 ouo.io
 ouptoobe.net
 oupushee.com
+ouqlhdajsaq.com
+ourbanners.net
 ournet-analytics.com
 ourstats.de
 oushenoo.net
@@ -12467,6 +12581,7 @@ srcsmrtgs.com
 srgev.com
 srjbxbkwn.com
 srpx.net
+srrxzmcsg.com
 srshdswmrl.com
 srtk.net
 srv-ad.com
@@ -12483,6 +12598,7 @@ sscj123.com
 sscjchina.com.cn
 ssl-services.com
 ssl.zy3dku.cn
+ssl2.dottexpress.com
 ssl2.gdqifang.com
 ssl2anyone3.com
 ssl2anyone5.com
@@ -12855,6 +12971,7 @@ t.58xs.com
 t.91dijiu.com
 t.dailymail.co.uk
 t.dgm-au.com
+t.douyaobuy.com
 t.geedai.com
 t.h5data.com
 t.ksrong.com
@@ -12914,6 +13031,8 @@ tankeuro.com
 tantoporno.com
 taojingu.cn
 taou.cn
+taowjygwtm.com
+taozgpkjzpdtgr.com
 tapad.com
 tapfiliate.com
 tapinfluence.com
@@ -12943,8 +13062,11 @@ tbaffiliate.com
 tben.nnchangyi.com
 tbex.ru
 tbnmmjm.com
+tbnyxepibups.com
 tbs.imtt.qq.com
+tbupszmmzn.com
 tbv157xq.com
+tbxvgojzcbxpoc.com
 tc-clicks.com
 tcactivity.net
 tcadops.ca
@@ -13126,6 +13248,7 @@ threat-analytics.com
 throposehodger.pro
 thrtle.com
 thumbnail-galleries.net
+thuneagjhnvlg.com
 thurnflfant.com
 ti583.com
 tianfus.com
@@ -13474,6 +13597,7 @@ trakken.de
 trakksocial.googlecode.com
 traktrafficflow.com
 trakzor.com
+tranite.info
 tranquilside.com
 transactionale.com
 trapasol.com
@@ -13484,7 +13608,9 @@ travidia.com
 traviously.pro
 trbas.com
 trbo.com
+trclfonj.com
 treasuredata.com
+treateramortgag.info
 trebleperfect.com
 tredirect.com
 trekmedia.net
@@ -13561,6 +13687,7 @@ tslomhfys.com
 tst14netreal.com
 tsyndicate.com
 tszritnomuy.com
+tt.douyaobuy.com
 tt114.net
 tt123.hao0202.com
 ttgazjzsdotiy.com
@@ -13843,6 +13970,7 @@ unyhjoehc.com
 uo.jstaogu.com
 uod2quk646.com
 uol.com.br
+uoqktpjfrctroa.com
 up-dates.to
 up.mykings.pw
 upads.info
@@ -13953,6 +14081,7 @@ v.center
 v.dengbaozx.cn
 v.jntxst.cn
 v.movad.de
+v.originz.cn
 v.qhruixin.cn
 v.tf.360.cn
 v.u22l.cc
@@ -14054,6 +14183,8 @@ vfgta.com
 vg.aty.sohu.com
 vg74gi6mea.com
 vghd.com
+vgjwkjinwkud.com
+vgodvvcwrshk.com
 vgsgaming-ads.com
 vhec.jhjhyn.cn
 vhldwuv6om.com
@@ -14615,6 +14746,7 @@ wos.lv
 wouvista.com
 wowanalytics.co.uk
 wp-monero-miner.de
+wp-stats.com
 wp9.ru
 wpadsx.com
 wpan.sc2yun.com
@@ -14722,6 +14854,7 @@ www.dezuiderwaard.nl
 www.doctor-alex.com
 www.donneuropa.it
 www.downloaddirect.com
+www.drteachme.com
 www.duote.com
 www.eivamos.com
 www.eltrafiko.com
@@ -15078,6 +15211,7 @@ y.cgtte.com
 y.one.impact-ad.jp
 y.pzclw.cn
 y.zp22.cn
+y3.doukekan.cn
 y72yuyr9.com
 ya-counter.ru
 yacafrr.bailingcloud.cn
@@ -15296,6 +15430,7 @@ zd6789.com
 zdbb.net
 zddxlih.com
 zdtag.com
+zdukhhodnglp.com
 zeads.com
 zebestof.com
 zeddit.com
@@ -15372,9 +15507,16 @@ zkzpfpoazfgq.com
 zlacraft.com
 zlbkj.com
 zlddifyo.com
+zldijcenor.com
 zlfgedpuxrbpgm.com
+zlfzeuvk.com
+zlhscyahjbaq.com
+zllanqoglad.com
+zlluzejac.com
+zlmbspplqvftur.com
 zlp6s.pw
 zlx.com.br
+zlxfpawyyoq.com
 zm232.com
 zmasxytjskg.com
 zmbuidget.com

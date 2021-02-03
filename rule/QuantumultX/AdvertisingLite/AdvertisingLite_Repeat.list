@@ -1,9 +1,9 @@
 # NAME: AdvertisingLite 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-03 02:35:33.105889
+# UPDATED: 2021-02-03 10:04:00.116988
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
-# AdvertisingLite 与 Advertising 共 16110 条规则重复
+# AdvertisingLite 与 Advertising 共 16172 条规则重复
 HOST,0.up.qingdaonews.com
 HOST,0d847862199.com
 HOST,0koryu0.easter.ne.jp
@@ -13,12 +13,16 @@ HOST,109-204-26-16.netconnexion.managedbroadband.co.uk
 HOST,12648afd00d93.com
 HOST,13yg.cn
 HOST,14119276be0852.com
+HOST,14b41d7ec7766122d.com
 HOST,1543b1db8a0825760.com
 HOST,15yomodels.com
 HOST,16e2ae8f200d975b.com
 HOST,17b1dbd9f3ae7db27cf.com
 HOST,1b969cef84d93b43.com
 HOST,1e122c580cf.com
+HOST,1el-1el-fie.com
+HOST,1elllwrite.com
+HOST,1jvd7f7w.top
 HOST,1loop.com
 HOST,1q2w3.live
 HOST,2.up.qingdaonews.com
@@ -371,12 +375,14 @@ HOST,discvr.net
 HOST,ditds.xyz
 HOST,divine.lunarbreeze.com
 HOST,dkmdklhu.com
+HOST,dl.downf468.com
 HOST,dl.microsword.net
 HOST,dntrax.com
 HOST,dofeb.frenchgerlemanelectric.com
 HOST,dogwuyrspt.com
 HOST,doktester.orgfree.com
 HOST,dougmlee.com
+HOST,dowages.com
 HOST,down.feiyang163.com
 HOST,down.mykings.pw
 HOST,down.unadnet.com.cn
@@ -388,16 +394,39 @@ HOST,download.56.com
 HOST,download.grandcloud.cn
 HOST,download.ttrili.com
 HOST,download207.mediafire.com
+HOST,downloads-whatsapp.com
+HOST,downloatransfer.com
+HOST,downlossinen.info
 HOST,dp-medien.eu
+HOST,dqdwvmpez.com
+HOST,dqfpksnabgagc.com
+HOST,dqiokxyebdc.com
+HOST,dqmfeimedqswbr.com
+HOST,dqolgbehhzvo.com
+HOST,dqyczunj.com
 HOST,dradvice.in
+HOST,drjctivspweild.com
+HOST,drjwmuwmnll.com
+HOST,drnxs.com
+HOST,droqnswhcfk.com
+HOST,drpmtzjanjqjpj.com
+HOST,drwfixovzqdcs.com
 HOST,dss0.bdstatic.com
+HOST,dsyxresmht.com
+HOST,dtgwjxeymdlri.com
+HOST,dtuhvgjyrp.com
 HOST,dufue2m4sondk.cloudfront.net
+HOST,dugqbllwslqrlj.com
 HOST,dump1.no-ip.biz
 HOST,dvnafl0qtqz9k.cloudfront.net
 HOST,dyn.primecdn.net
 HOST,dzmxze7hxwn6b.cloudfront.net
 HOST,e.131pu.cn
+HOST,e.16qijf.cn
+HOST,e.17w3a.cn
+HOST,e.1i94f.cn
 HOST,e.1q89b.cn
+HOST,e.1r8th.cn
 HOST,e.21lxb.cn
 HOST,e.2j75d.cn
 HOST,e.2n5kmg.cn
@@ -407,6 +436,7 @@ HOST,e.tf.360.cn
 HOST,e9mlrvy1.com
 HOST,earthcontrolsys.com
 HOST,edf.fr.kfskz.com
+HOST,ee.1s8pj.cn
 HOST,ee.32z8d.cn
 HOST,eeps.me
 HOST,ekod.info
@@ -574,6 +604,7 @@ HOST,jmxphjxsxd.com
 HOST,josip-stadler.org
 HOST,js.hdzog.com
 HOST,js.jrjimg.cn
+HOST,js2.vgetv1.xyz
 HOST,juiceads.net
 HOST,junbi-tracker.com
 HOST,jx.cn
@@ -634,9 +665,15 @@ HOST,lyssmgbr.com
 HOST,lzpv4rsmat.com
 HOST,m-vali.cp31.ott.cibntv.net
 HOST,m.1234567.com.cn
+HOST,m.16qijf.cn
+HOST,m.175pu.cn
 HOST,m.17w3a.cn
+HOST,m.181mob.com
 HOST,m.198nc.cn
 HOST,m.1i94f.cn
+HOST,m.1j5wc.cn
+HOST,m.1p04f.cn
+HOST,m.1q89b.cn
 HOST,m.1qp9k.cn
 HOST,m.1r8th.cn
 HOST,m.1s8pj.cn
@@ -678,9 +715,11 @@ HOST,ministerio-publi.info
 HOST,miracema.rj.gov.br
 HOST,mirandolasrl.it
 HOST,mktmobi.com
+HOST,mldys.14yzc.cn
 HOST,mmg.aty.sohu.com
 HOST,mmile.com
 HOST,mms.hori-gz.com
+HOST,mo.drzd9.cn
 HOST,mobileraffles.com
 HOST,montmti.top
 HOST,montpti.top
@@ -758,8 +797,20 @@ HOST,optimization-methods.com
 HOST,opus.analytics.yahoo.com
 HOST,orbowlada.strefa.pl
 HOST,org-dot-com.com
+HOST,oslzqjnh.com
 HOST,ospserver.net
+HOST,osrto.com
+HOST,ossdqciz.com
+HOST,ostyfayab.com
+HOST,othere.info
+HOST,otmonog.info
+HOST,otqzpgagsstvth.com
+HOST,otrfmbluvrde.com
+HOST,otruzjgxof.com
+HOST,otylkaaotesanek.cz
+HOST,ougesqknoehod.com
 HOST,ouptoobe.net
+HOST,ourbanners.net
 HOST,outils.f5biz.com
 HOST,outporn.com
 HOST,ovtopli.ru
@@ -954,6 +1005,7 @@ HOST,srv-ad.com
 HOST,srv2trking.com
 HOST,srvpub.com
 HOST,ssa.1337x.to
+HOST,ssl2.dottexpress.com
 HOST,sspicy.ru
 HOST,stat.lianmeng.360.cn
 HOST,stat.tf.360.cn
@@ -978,6 +1030,7 @@ HOST,swiftypecdn.com
 HOST,symkashop.ru
 HOST,syncedvision.com
 HOST,szinhaz.hu
+HOST,t.douyaobuy.com
 HOST,t.zisu.cn.com
 HOST,t1.a.market.xiaomi.com
 HOST,t2.a.market.xiaomi.com
@@ -990,7 +1043,10 @@ HOST,tamilcm.com
 HOST,tataget.ru
 HOST,tatami-solutions.com
 HOST,tavuks.com
+HOST,tbnyxepibups.com
 HOST,tbs.imtt.qq.com
+HOST,tbupszmmzn.com
+HOST,tbxvgojzcbxpoc.com
 HOST,tchmemnasaxpt.com
 HOST,tcrwharen.homepage.t-online.de
 HOST,teameda.comcastbiz.net
@@ -1027,11 +1083,13 @@ HOST,trader.erosdlz.com
 HOST,traff1.com
 HOST,traffic-c.com
 HOST,trafficgrowth.com
+HOST,tranite.info
 HOST,treventuresonline.com
 HOST,triangleservicesltd.com
 HOST,tripedrated.xyz
 HOST,troytempest.com
 HOST,tscl.com.bd
+HOST,tt.douyaobuy.com
 HOST,tu.cvnad.com
 HOST,tubemoviez.com
 HOST,tvas-b.pw
@@ -1062,6 +1120,7 @@ HOST,users173.lolipop.jp
 HOST,utrfixbusce.com
 HOST,v.37uta.cn
 HOST,v.aty.sohu.com
+HOST,v.originz.cn
 HOST,v.tf.360.cn
 HOST,v2.gdt.qq.com
 HOST,vasfxpribls.com
@@ -1140,6 +1199,7 @@ HOST,www.dezuiderwaard.nl
 HOST,www.doctor-alex.com
 HOST,www.donneuropa.it
 HOST,www.downloaddirect.com
+HOST,www.drteachme.com
 HOST,www.eivamos.com
 HOST,www.emrlogistics.com
 HOST,www.enchantier.com
@@ -1288,6 +1348,8 @@ HOST,zboac.com
 HOST,zengenti.com
 HOST,zeroredirect1.com
 HOST,zkic.com
+HOST,zlhscyahjbaq.com
+HOST,zlxfpawyyoq.com
 HOST,zoomdirect.com.au
 HOST,zous.szm.sk
 HOST,zrosbqwecw.com
@@ -16114,7 +16176,7 @@ IP-CIDR,69.28.57.245/32
 IP-CIDR,74.117.182.77/32
 IP-CIDR,78.140.131.214/32
 USER-AGENT,AVOS*
-# AdvertisingLite 与 AdvertisingTest 共 15741 条规则重复
+# AdvertisingLite 与 AdvertisingTest 共 15802 条规则重复
 HOST,0.up.qingdaonews.com
 HOST,0d847862199.com
 HOST,0koryu0.easter.ne.jp
@@ -16123,10 +16185,14 @@ HOST,1.up.qingdaonews.com
 HOST,109-204-26-16.netconnexion.managedbroadband.co.uk
 HOST,12648afd00d93.com
 HOST,14119276be0852.com
+HOST,14b41d7ec7766122d.com
 HOST,1543b1db8a0825760.com
 HOST,16e2ae8f200d975b.com
 HOST,17b1dbd9f3ae7db27cf.com
 HOST,1e122c580cf.com
+HOST,1el-1el-fie.com
+HOST,1elllwrite.com
+HOST,1jvd7f7w.top
 HOST,1q2w3.live
 HOST,2.up.qingdaonews.com
 HOST,21b507a044d841b.com
@@ -16393,11 +16459,13 @@ HOST,directxex.com
 HOST,discvr.net
 HOST,divine.lunarbreeze.com
 HOST,dkmdklhu.com
+HOST,dl.downf468.com
 HOST,dl.microsword.net
 HOST,dofeb.frenchgerlemanelectric.com
 HOST,dogwuyrspt.com
 HOST,doktester.orgfree.com
 HOST,dougmlee.com
+HOST,dowages.com
 HOST,down.feiyang163.com
 HOST,down.mykings.pw
 HOST,down.unadnet.com.cn
@@ -16408,15 +16476,38 @@ HOST,download.56.com
 HOST,download.grandcloud.cn
 HOST,download.ttrili.com
 HOST,download207.mediafire.com
+HOST,downloads-whatsapp.com
+HOST,downloatransfer.com
+HOST,downlossinen.info
 HOST,dp-medien.eu
+HOST,dqdwvmpez.com
+HOST,dqfpksnabgagc.com
+HOST,dqiokxyebdc.com
+HOST,dqmfeimedqswbr.com
+HOST,dqolgbehhzvo.com
+HOST,dqyczunj.com
+HOST,drjctivspweild.com
+HOST,drjwmuwmnll.com
+HOST,drnxs.com
+HOST,droqnswhcfk.com
+HOST,drpmtzjanjqjpj.com
+HOST,drwfixovzqdcs.com
 HOST,dss0.bdstatic.com
+HOST,dsyxresmht.com
+HOST,dtgwjxeymdlri.com
+HOST,dtuhvgjyrp.com
 HOST,dufue2m4sondk.cloudfront.net
+HOST,dugqbllwslqrlj.com
 HOST,dump1.no-ip.biz
 HOST,dvnafl0qtqz9k.cloudfront.net
 HOST,dyn.primecdn.net
 HOST,dzmxze7hxwn6b.cloudfront.net
 HOST,e.131pu.cn
+HOST,e.16qijf.cn
+HOST,e.17w3a.cn
+HOST,e.1i94f.cn
 HOST,e.1q89b.cn
+HOST,e.1r8th.cn
 HOST,e.21lxb.cn
 HOST,e.2j75d.cn
 HOST,e.2n5kmg.cn
@@ -16557,6 +16648,7 @@ HOST,jmxphjxsxd.com
 HOST,josip-stadler.org
 HOST,js.hdzog.com
 HOST,js.jrjimg.cn
+HOST,js2.vgetv1.xyz
 HOST,jx.cn
 HOST,k.h.a.d.free.fr
 HOST,kadirzerey.com
@@ -16605,9 +16697,15 @@ HOST,lyssmgbr.com
 HOST,lzpv4rsmat.com
 HOST,m-vali.cp31.ott.cibntv.net
 HOST,m.1234567.com.cn
+HOST,m.16qijf.cn
+HOST,m.175pu.cn
 HOST,m.17w3a.cn
+HOST,m.181mob.com
 HOST,m.198nc.cn
 HOST,m.1i94f.cn
+HOST,m.1j5wc.cn
+HOST,m.1p04f.cn
+HOST,m.1q89b.cn
 HOST,m.1qp9k.cn
 HOST,m.1r8th.cn
 HOST,m.1sur6d.cn
@@ -16644,9 +16742,11 @@ HOST,milleniumpapelaria.com.br
 HOST,ministerio-publi.info
 HOST,miracema.rj.gov.br
 HOST,mirandolasrl.it
+HOST,mldys.14yzc.cn
 HOST,mmg.aty.sohu.com
 HOST,mmile.com
 HOST,mms.hori-gz.com
+HOST,mo.drzd9.cn
 HOST,montmti.top
 HOST,montpti.top
 HOST,morenews3.net
@@ -16705,8 +16805,20 @@ HOST,optimization-methods.com
 HOST,opus.analytics.yahoo.com
 HOST,orbowlada.strefa.pl
 HOST,org-dot-com.com
+HOST,oslzqjnh.com
 HOST,ospserver.net
+HOST,osrto.com
+HOST,ossdqciz.com
+HOST,ostyfayab.com
+HOST,othere.info
+HOST,otmonog.info
+HOST,otqzpgagsstvth.com
+HOST,otrfmbluvrde.com
+HOST,otruzjgxof.com
+HOST,otylkaaotesanek.cz
+HOST,ougesqknoehod.com
 HOST,ouptoobe.net
+HOST,ourbanners.net
 HOST,outils.f5biz.com
 HOST,outporn.com
 HOST,p.buluo.qq.com
@@ -16846,6 +16958,7 @@ HOST,spekband.com
 HOST,sqm.df.telemetry.microsoft.com
 HOST,sqm.telemetry.microsoft.com
 HOST,ssa.1337x.to
+HOST,ssl2.dottexpress.com
 HOST,sspicy.ru
 HOST,stat.lianmeng.360.cn
 HOST,stat.tf.360.cn
@@ -16864,6 +16977,7 @@ HOST,sunny99.cholerik.cz
 HOST,svetyivanrilski.com
 HOST,swiftypecdn.com
 HOST,szinhaz.hu
+HOST,t.douyaobuy.com
 HOST,t.zisu.cn.com
 HOST,t1.a.market.xiaomi.com
 HOST,t2.a.market.xiaomi.com
@@ -16874,7 +16988,10 @@ HOST,tabex.sopharma.bg
 HOST,tamilcm.com
 HOST,tataget.ru
 HOST,tavuks.com
+HOST,tbnyxepibups.com
 HOST,tbs.imtt.qq.com
+HOST,tbupszmmzn.com
+HOST,tbxvgojzcbxpoc.com
 HOST,tchmemnasaxpt.com
 HOST,tcrwharen.homepage.t-online.de
 HOST,teameda.comcastbiz.net
@@ -16905,11 +17022,13 @@ HOST,tracking.v.tf.360.cn
 HOST,trader.erosdlz.com
 HOST,traff1.com
 HOST,trafficgrowth.com
+HOST,tranite.info
 HOST,treventuresonline.com
 HOST,triangleservicesltd.com
 HOST,tripedrated.xyz
 HOST,troytempest.com
 HOST,tscl.com.bd
+HOST,tt.douyaobuy.com
 HOST,tu.cvnad.com
 HOST,tubemoviez.com
 HOST,tvduznfdgim.com
@@ -16936,6 +17055,7 @@ HOST,users173.lolipop.jp
 HOST,utrfixbusce.com
 HOST,v.37uta.cn
 HOST,v.aty.sohu.com
+HOST,v.originz.cn
 HOST,v.tf.360.cn
 HOST,vasfxpribls.com
 HOST,veehdmymwvvexv.com
@@ -16999,6 +17119,7 @@ HOST,www.dezuiderwaard.nl
 HOST,www.doctor-alex.com
 HOST,www.donneuropa.it
 HOST,www.downloaddirect.com
+HOST,www.drteachme.com
 HOST,www.eivamos.com
 HOST,www.emrlogistics.com
 HOST,www.enchantier.com
@@ -17138,6 +17259,8 @@ HOST,zaloapp.com
 HOST,zayhipbcxig.com
 HOST,zengenti.com
 HOST,zkic.com
+HOST,zlhscyahjbaq.com
+HOST,zlxfpawyyoq.com
 HOST,zoomdirect.com.au
 HOST,zous.szm.sk
 HOST,zrosbqwecw.com

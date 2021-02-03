@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2021-02-03 02:36:32。
+最后检查时间：2021-02-03 10:05:03。
 
 ## 复写统计
 
@@ -26,11 +26,11 @@
 
 实时版：
 
-https://raw.githubusercontent.com////rewrite/Loon/Advertising/Advertising.plugin
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/Advertising/Advertising.plugin
 
 稳定版：
 
-https://raw.githubusercontent.com///release/rewrite/Loon/Advertising/Advertising.plugin
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/Loon/Advertising/Advertising.plugin
 
 如果稳定版无法访问 ，可能是尚未从实时版的分支合并，建议您先使用实时版，或等待下次稳定版分支合并。
 
@@ -38,6 +38,20 @@ https://raw.githubusercontent.com///release/rewrite/Loon/Advertising/Advertising
 
 本项目的复写去广告复写规则的数据来自以下链接，通常已涵盖所有数据来源的复写规则。如果你正在使用这些复写规则，请先删除后再使用本项目的复写去广告复写规则，以免造成规则重复。
 
+- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/Block/Advertising.conf
+- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Module/Block/Advertising.sgmodule
+- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Shortcuts/reject.txt
+- https://raw.githubusercontent.com/GeQ1an/Rules/master/Loon/Rewrite/Rewrite.list
+- https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Rewrite/Rewrite.list
+- https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Rewrite_lhie1.conf
+- https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Module/RewriteRules.sgmodule
+- https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Loon/Advertising.conf
+- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_remove_ads.sgmodule
+- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Advertising/advertising.qxrewrite
+- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Advertising/advertising.sgmodule
+- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rewrite/Upgrade/Upgrade.qxrewrite
+- https://raw.githubusercontent.com/eHpo1/Rules/master/Loon/Rewrite.conf
+- https://raw.githubusercontent.com/eHpo1/Rules/master/QuantumultX/Rewrite.txt
 
 
 感谢以上复写规则作者的辛勤付出（排名不分先后）。
@@ -106,7 +120,7 @@ https://raw.githubusercontent.com///release/rewrite/Loon/Advertising/Advertising
 4. 在使用复写规则时出现异常
 5. 有其他问题
 
-欢迎通过[issues](https://github.com///issues/new)提交反馈，共同完善本项目的复写去广告复写规则。
+欢迎通过[issues](https://github.com/blackmatrix7/ios_rule_script/issues/new)提交反馈，共同完善本项目的复写去广告复写规则。
 
 感谢
 
