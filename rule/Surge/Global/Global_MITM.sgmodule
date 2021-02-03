@@ -1,8 +1,0 @@
-#!name=Global MITM
-#!desc=最后更新时间 2021-02-03 17:31:57.299164
-#!author=blackmatrix7
-#!github=
-#!mitm=1
-
-[MITM]
-hostname = %APPEND% img.sina.com
