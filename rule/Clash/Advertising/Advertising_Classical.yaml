@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-04 15:32:00.056176
+# UPDATED: 2021-02-05 02:23:29.966989
 # DOMAIN-KEYWORD: 60
 # DOMAIN-SUFFIX: 43008
-# DOMAIN: 21429
+# DOMAIN: 21435
 # IP-CIDR: 240
-# TOTAL: 64737
+# TOTAL: 64743
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.up.qingdaonews.com
@@ -9614,6 +9614,7 @@ payload:
   - DOMAIN,hacklizard.com
   - DOMAIN,hackmeout.net
   - DOMAIN,hackmobilegames.com
+  - DOMAIN,hackmyapp.net
   - DOMAIN,hacknosurvey.org
   - DOMAIN,hackphat.com
   - DOMAIN,hackprivate.com
@@ -9710,6 +9711,7 @@ payload:
   - DOMAIN,hao.6955000.com
   - DOMAIN,hao.rising.cn
   - DOMAIN,hao.xiaomi.com
+  - DOMAIN,happinessiscooking.com
   - DOMAIN,happyfathersdaydaddy.com
   - DOMAIN,happyhome20.fulba.com
   - DOMAIN,happytwentysomethings.com
@@ -11067,6 +11069,7 @@ payload:
   - DOMAIN,junior.apk.net
   - DOMAIN,junjiezyc.com
   - DOMAIN,junsunlighting.com
+  - DOMAIN,juntohru.com
   - DOMAIN,jurassicpark.newzgames.com
   - DOMAIN,juridicoee.sslblindado.com
   - DOMAIN,juruiklan.com
@@ -16999,6 +17002,7 @@ payload:
   - DOMAIN,skinscheck.com
   - DOMAIN,skinschecker.com
   - DOMAIN,skinscores.com
+  - DOMAIN,skinsforce.com
   - DOMAIN,skinshub.net
   - DOMAIN,skinsrate.com
   - DOMAIN,skinsregal.com
@@ -19873,6 +19877,7 @@ payload:
   - DOMAIN,vidyard.actonsoftware.com
   - DOMAIN,vidzsource.net
   - DOMAIN,viequesclassifieds.com
+  - DOMAIN,vietalle.com
   - DOMAIN,vietbuzzad.com
   - DOMAIN,vietdorje.com
   - DOMAIN,vietravel.ezimar.com
@@ -20957,6 +20962,7 @@ payload:
   - DOMAIN,xml.onwardclick.com
   - DOMAIN,xml.plaimedia.com
   - DOMAIN,xml.quiveradnet.com
+  - DOMAIN,xml.rtb2dmg.net
   - DOMAIN,xml.rxfclk3.com
   - DOMAIN,xml.seekandsee.com
   - DOMAIN,xml.vokut.com

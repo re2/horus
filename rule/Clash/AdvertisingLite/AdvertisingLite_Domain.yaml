@@ -1,12 +1,12 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-04 15:31:59.893529
+# UPDATED: 2021-02-05 02:23:29.798360
 # DOMAIN-KEYWORD: 27
 # DOMAIN-SUFFIX: 15241
-# DOMAIN: 15607
+# DOMAIN: 15621
 # IP-CIDR: 192
-# TOTAL: 31067
+# TOTAL: 31081
 payload:
   - '0.up.qingdaonews.com'
   - '00-gov.cn'
@@ -2432,6 +2432,7 @@ payload:
   - 'azadify.com'
   - 'azads.com'
   - 'azalead.com'
+  - 'azcvjaninfa.com'
   - 'azera-s014.com'
   - 'azjmp.com'
   - 'aznapoz.info'
@@ -3510,6 +3511,7 @@ payload:
   - 'choices.truste.com'
   - 'chokertraffic.com'
   - 'choogeet.net'
+  - 'chopstick16.com'
   - 'chordeez.net'
   - 'christiantop1000.com'
   - 'christmalicious.com'
@@ -5284,6 +5286,7 @@ payload:
   - 'eeyy.com'
   - 'ef867a1be4f83922.com'
   - 'efatik.me'
+  - 'efbmfnzwsbnb.com'
   - 'efd3b86a5fbddda.com'
   - 'efugl.iptvdeals.com'
   - 'eg.gitpapa.com'
@@ -6245,6 +6248,7 @@ payload:
   - 'gjh111.cn'
   - 'gjqbidroh.com'
   - 'gklmedia.com'
+  - 'gkpsrxgdbco.com'
   - 'gl-cash.com'
   - 'glailols.com'
   - 'glaimtug.com'
@@ -7153,6 +7157,7 @@ payload:
   - 'indieclick.com'
   - 'individuad.net'
   - 'indlzxgptf.com'
+  - 'indofad.com'
   - 'industrybrains.com'
   - 'ineedhits.com'
   - 'inetinteractive.com'
@@ -7649,6 +7654,7 @@ payload:
   - 'jxdown.com'
   - 'jxqfu.cn'
   - 'jy135.com'
+  - 'jybtpabickzf.com'
   - 'jyhfuqoh.info'
   - 'jynp9m209p.com'
   - 'jyzmsy.com.cn'
@@ -7827,6 +7833,7 @@ payload:
   - 'kpstaticbj.wx.ckjr001.com'
   - 'kpwjczeaajnhsc.com'
   - 'kpyxcbdaftlxt.com'
+  - 'kqbigsdyqtdh.com'
   - 'kqzyfj.com'
   - 'kr3vinsx.com'
   - 'krb.devphp.org.ua'
@@ -7911,6 +7918,7 @@ payload:
   - 'layer-ad.org'
   - 'layerloop.com'
   - 'lb.usemaxserver.de'
+  - 'lcaiwpcktosp.com'
   - 'lcknokgqhwnfkr.com'
   - 'lcllwonupseu.com'
   - 'lcolevwciuwj.com'
@@ -8504,6 +8512,7 @@ payload:
   - 'madsatz.com'
   - 'madsimz.com'
   - 'madsipz.com'
+  - 'madskis.com'
   - 'madskiz.com'
   - 'madsokz.com'
   - 'madsone.com'
@@ -9137,6 +9146,7 @@ payload:
   - 'mvo.chng5.xyz'
   - 'mvo.hn765f.xyz'
   - 'mvtracker.com'
+  - 'mwslcqfoifw.com'
   - 'mwstats.net'
   - 'mxapis.com'
   - 'mxcdn.net'
@@ -10994,6 +11004,7 @@ payload:
   - 'qfwjclpckrdehi.com'
   - 'qfy.innotechx.com'
   - 'qgevavwyafjf.com'
+  - 'qgrazpvofra.com'
   - 'qgwazwmlx.com'
   - 'qhsyg.top'
   - 'qhupdate.com'
@@ -12517,6 +12528,7 @@ payload:
   - 'sp.analytics.yahoo.com'
   - 'sp.knowyourmeme.com'
   - 'sp.qf.56.com'
+  - 'space-link.de'
   - 'spacehits.net'
   - 'spacepools.org'
   - 'spamanalyst.com'
@@ -13871,6 +13883,7 @@ payload:
   - 'tyroo.com'
   - 'tyxo.bg'
   - 'tyxo.com'
+  - 'tyzkooqkqdnh.com'
   - 'u-ad.info'
   - 'u-on.eu'
   - 'u.api.look.360.cn'
@@ -15149,6 +15162,7 @@ payload:
   - 'xiongyin.com'
   - 'xitao3.com'
   - 'xiti.com'
+  - 'xiweywhnx.com'
   - 'xixianad.com'
   - 'xiyouence.com'
   - 'xjijqczj.com'

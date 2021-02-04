@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-04 15:31:56.930944
+# UPDATED: 2021-02-05 02:23:26.277275
 # HOST-KEYWORD: 60
 # HOST-SUFFIX: 43008
-# HOST: 21429
+# HOST: 21435
 # IP-CIDR: 240
 # USER-AGENT: 1
-# TOTAL: 64738
+# TOTAL: 64744
 HOST,0.nextyourcontent.com,Advertising
 HOST,0.up.qingdaonews.com,Advertising
 HOST,0001.2waky.com,Advertising
@@ -9614,6 +9614,7 @@ HOST,hackittoday.com,Advertising
 HOST,hacklizard.com,Advertising
 HOST,hackmeout.net,Advertising
 HOST,hackmobilegames.com,Advertising
+HOST,hackmyapp.net,Advertising
 HOST,hacknosurvey.org,Advertising
 HOST,hackphat.com,Advertising
 HOST,hackprivate.com,Advertising
@@ -9710,6 +9711,7 @@ HOST,hanzele.wpdevcloud.com,Advertising
 HOST,hao.6955000.com,Advertising
 HOST,hao.rising.cn,Advertising
 HOST,hao.xiaomi.com,Advertising
+HOST,happinessiscooking.com,Advertising
 HOST,happyfathersdaydaddy.com,Advertising
 HOST,happyhome20.fulba.com,Advertising
 HOST,happytwentysomethings.com,Advertising
@@ -11067,6 +11069,7 @@ HOST,jungtaesook.com,Advertising
 HOST,junior.apk.net,Advertising
 HOST,junjiezyc.com,Advertising
 HOST,junsunlighting.com,Advertising
+HOST,juntohru.com,Advertising
 HOST,jurassicpark.newzgames.com,Advertising
 HOST,juridicoee.sslblindado.com,Advertising
 HOST,juruiklan.com,Advertising
@@ -16999,6 +17002,7 @@ HOST,skinsbit.com,Advertising
 HOST,skinscheck.com,Advertising
 HOST,skinschecker.com,Advertising
 HOST,skinscores.com,Advertising
+HOST,skinsforce.com,Advertising
 HOST,skinshub.net,Advertising
 HOST,skinsrate.com,Advertising
 HOST,skinsregal.com,Advertising
@@ -19873,6 +19877,7 @@ HOST,vidustal.com,Advertising
 HOST,vidyard.actonsoftware.com,Advertising
 HOST,vidzsource.net,Advertising
 HOST,viequesclassifieds.com,Advertising
+HOST,vietalle.com,Advertising
 HOST,vietbuzzad.com,Advertising
 HOST,vietdorje.com,Advertising
 HOST,vietravel.ezimar.com,Advertising
@@ -20957,6 +20962,7 @@ HOST,xml.nbcsearch.com,Advertising
 HOST,xml.onwardclick.com,Advertising
 HOST,xml.plaimedia.com,Advertising
 HOST,xml.quiveradnet.com,Advertising
+HOST,xml.rtb2dmg.net,Advertising
 HOST,xml.rxfclk3.com,Advertising
 HOST,xml.seekandsee.com,Advertising
 HOST,xml.vokut.com,Advertising

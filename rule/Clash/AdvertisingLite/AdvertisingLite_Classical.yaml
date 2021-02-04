@@ -1,12 +1,12 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-04 15:31:59.923598
+# UPDATED: 2021-02-05 02:23:29.829474
 # DOMAIN-KEYWORD: 27
 # DOMAIN-SUFFIX: 15241
-# DOMAIN: 15607
+# DOMAIN: 15621
 # IP-CIDR: 192
-# TOTAL: 31067
+# TOTAL: 31081
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,00-gov.cn
@@ -2432,6 +2432,7 @@ payload:
   - DOMAIN,azadify.com
   - DOMAIN,azads.com
   - DOMAIN,azalead.com
+  - DOMAIN,azcvjaninfa.com
   - DOMAIN,azera-s014.com
   - DOMAIN,azjmp.com
   - DOMAIN,aznapoz.info
@@ -3510,6 +3511,7 @@ payload:
   - DOMAIN,choices.truste.com
   - DOMAIN,chokertraffic.com
   - DOMAIN,choogeet.net
+  - DOMAIN,chopstick16.com
   - DOMAIN,chordeez.net
   - DOMAIN,christiantop1000.com
   - DOMAIN,christmalicious.com
@@ -5284,6 +5286,7 @@ payload:
   - DOMAIN,eeyy.com
   - DOMAIN,ef867a1be4f83922.com
   - DOMAIN,efatik.me
+  - DOMAIN,efbmfnzwsbnb.com
   - DOMAIN,efd3b86a5fbddda.com
   - DOMAIN,efugl.iptvdeals.com
   - DOMAIN,eg.gitpapa.com
@@ -6245,6 +6248,7 @@ payload:
   - DOMAIN,gjh111.cn
   - DOMAIN,gjqbidroh.com
   - DOMAIN,gklmedia.com
+  - DOMAIN,gkpsrxgdbco.com
   - DOMAIN,gl-cash.com
   - DOMAIN,glailols.com
   - DOMAIN,glaimtug.com
@@ -7153,6 +7157,7 @@ payload:
   - DOMAIN,indieclick.com
   - DOMAIN,individuad.net
   - DOMAIN,indlzxgptf.com
+  - DOMAIN,indofad.com
   - DOMAIN,industrybrains.com
   - DOMAIN,ineedhits.com
   - DOMAIN,inetinteractive.com
@@ -7649,6 +7654,7 @@ payload:
   - DOMAIN,jxdown.com
   - DOMAIN,jxqfu.cn
   - DOMAIN,jy135.com
+  - DOMAIN,jybtpabickzf.com
   - DOMAIN,jyhfuqoh.info
   - DOMAIN,jynp9m209p.com
   - DOMAIN,jyzmsy.com.cn
@@ -7827,6 +7833,7 @@ payload:
   - DOMAIN,kpstaticbj.wx.ckjr001.com
   - DOMAIN,kpwjczeaajnhsc.com
   - DOMAIN,kpyxcbdaftlxt.com
+  - DOMAIN,kqbigsdyqtdh.com
   - DOMAIN,kqzyfj.com
   - DOMAIN,kr3vinsx.com
   - DOMAIN,krb.devphp.org.ua
@@ -7911,6 +7918,7 @@ payload:
   - DOMAIN,layer-ad.org
   - DOMAIN,layerloop.com
   - DOMAIN,lb.usemaxserver.de
+  - DOMAIN,lcaiwpcktosp.com
   - DOMAIN,lcknokgqhwnfkr.com
   - DOMAIN,lcllwonupseu.com
   - DOMAIN,lcolevwciuwj.com
@@ -8504,6 +8512,7 @@ payload:
   - DOMAIN,madsatz.com
   - DOMAIN,madsimz.com
   - DOMAIN,madsipz.com
+  - DOMAIN,madskis.com
   - DOMAIN,madskiz.com
   - DOMAIN,madsokz.com
   - DOMAIN,madsone.com
@@ -9137,6 +9146,7 @@ payload:
   - DOMAIN,mvo.chng5.xyz
   - DOMAIN,mvo.hn765f.xyz
   - DOMAIN,mvtracker.com
+  - DOMAIN,mwslcqfoifw.com
   - DOMAIN,mwstats.net
   - DOMAIN,mxapis.com
   - DOMAIN,mxcdn.net
@@ -10994,6 +11004,7 @@ payload:
   - DOMAIN,qfwjclpckrdehi.com
   - DOMAIN,qfy.innotechx.com
   - DOMAIN,qgevavwyafjf.com
+  - DOMAIN,qgrazpvofra.com
   - DOMAIN,qgwazwmlx.com
   - DOMAIN,qhsyg.top
   - DOMAIN,qhupdate.com
@@ -12517,6 +12528,7 @@ payload:
   - DOMAIN,sp.analytics.yahoo.com
   - DOMAIN,sp.knowyourmeme.com
   - DOMAIN,sp.qf.56.com
+  - DOMAIN,space-link.de
   - DOMAIN,spacehits.net
   - DOMAIN,spacepools.org
   - DOMAIN,spamanalyst.com
@@ -13871,6 +13883,7 @@ payload:
   - DOMAIN,tyroo.com
   - DOMAIN,tyxo.bg
   - DOMAIN,tyxo.com
+  - DOMAIN,tyzkooqkqdnh.com
   - DOMAIN,u-ad.info
   - DOMAIN,u-on.eu
   - DOMAIN,u.api.look.360.cn
@@ -15149,6 +15162,7 @@ payload:
   - DOMAIN,xiongyin.com
   - DOMAIN,xitao3.com
   - DOMAIN,xiti.com
+  - DOMAIN,xiweywhnx.com
   - DOMAIN,xixianad.com
   - DOMAIN,xiyouence.com
   - DOMAIN,xjijqczj.com

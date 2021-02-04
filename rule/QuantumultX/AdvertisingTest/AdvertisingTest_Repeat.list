@@ -1,7 +1,7 @@
 # NAME: AdvertisingTest 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-04 15:32:04.389867
+# UPDATED: 2021-02-05 02:23:34.600197
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 #  与 Hijacking 共 212 条规则重复
 HOST-SUFFIX,17gouwuba.com
@@ -2826,7 +2826,7 @@ HOST-SUFFIX,zs.dhl.de
 HOST-SUFFIX,zsi7.destinia.do
 HOST-SUFFIX,zyq2.destinia.sk
 HOST-SUFFIX,zz.bdstatic.com
-#  与 Advertising 共 58628 条规则重复
+#  与 Advertising 共 58633 条规则重复
 HOST,0.up.qingdaonews.com
 HOST,0001.2waky.com
 HOST,000lk3v.wcomhost.com
@@ -9668,6 +9668,7 @@ HOST,hackittoday.com
 HOST,hacklizard.com
 HOST,hackmeout.net
 HOST,hackmobilegames.com
+HOST,hackmyapp.net
 HOST,hacknosurvey.org
 HOST,hackphat.com
 HOST,hackprivate.com
@@ -9761,6 +9762,7 @@ HOST,hanzele.wpdevcloud.com
 HOST,hao.6955000.com
 HOST,hao.rising.cn
 HOST,hao.xiaomi.com
+HOST,happinessiscooking.com
 HOST,happyfathersdaydaddy.com
 HOST,happyhome20.fulba.com
 HOST,happytwentysomethings.com
@@ -10826,6 +10828,7 @@ HOST,jungtaesook.com
 HOST,junior.apk.net
 HOST,junjiezyc.com
 HOST,junsunlighting.com
+HOST,juntohru.com
 HOST,jurassicpark.newzgames.com
 HOST,juridicoee.sslblindado.com
 HOST,justdance2014.sharezips.net
@@ -15164,6 +15167,7 @@ HOST,skinsbit.com
 HOST,skinscheck.com
 HOST,skinschecker.com
 HOST,skinscores.com
+HOST,skinsforce.com
 HOST,skinshub.net
 HOST,skinsrate.com
 HOST,skinsregal.com
@@ -17978,6 +17982,7 @@ HOST,xml.nbcsearch.com
 HOST,xml.onwardclick.com
 HOST,xml.plaimedia.com
 HOST,xml.quiveradnet.com
+HOST,xml.rtb2dmg.net
 HOST,xml.rxfclk3.com
 HOST,xml.seekandsee.com
 HOST,xml.xap-clicks.com

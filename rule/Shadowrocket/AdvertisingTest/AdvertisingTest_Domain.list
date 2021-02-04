@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: 
 # GITHUB: 
-# UPDATED: 2021-02-04 15:32:01.686949
+# UPDATED: 2021-02-05 02:23:31.720741
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 60
 # DOMAIN-SUFFIX: 64445
-# DOMAIN: 15521
+# DOMAIN: 15526
 # IP-CIDR: 240
 # USER-AGENT: 1
 # URL-REGEX: 310
-# TOTAL: 80577
+# TOTAL: 80582
 0.up.qingdaonews.com
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -6851,6 +6851,7 @@ hackittoday.com
 hacklizard.com
 hackmeout.net
 hackmobilegames.com
+hackmyapp.net
 hacknosurvey.org
 hackphat.com
 hackprivate.com
@@ -6944,6 +6945,7 @@ hanzele.wpdevcloud.com
 hao.6955000.com
 hao.rising.cn
 hao.xiaomi.com
+happinessiscooking.com
 happyfathersdaydaddy.com
 happyhome20.fulba.com
 happytwentysomethings.com
@@ -8009,6 +8011,7 @@ jungtaesook.com
 junior.apk.net
 junjiezyc.com
 junsunlighting.com
+juntohru.com
 jurassicpark.newzgames.com
 juridicoee.sslblindado.com
 justdance2014.sharezips.net
@@ -12347,6 +12350,7 @@ skinsbit.com
 skinscheck.com
 skinschecker.com
 skinscores.com
+skinsforce.com
 skinshub.net
 skinsrate.com
 skinsregal.com
@@ -15161,6 +15165,7 @@ xml.nbcsearch.com
 xml.onwardclick.com
 xml.plaimedia.com
 xml.quiveradnet.com
+xml.rtb2dmg.net
 xml.rxfclk3.com
 xml.seekandsee.com
 xml.xap-clicks.com
