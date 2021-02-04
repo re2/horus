@@ -1,15 +1,15 @@
-# NAME: 
+# NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-04 09:34:55.545535
+# UPDATED: 2021-02-04 15:31:58.202755
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 27
 # DOMAIN-SUFFIX: 15241
-# DOMAIN: 15600
+# DOMAIN: 15607
 # IP-CIDR: 192
 # USER-AGENT: 1
 # URL-REGEX: 302
-# TOTAL: 31363
+# TOTAL: 31370
 0.up.qingdaonews.com
 00-gov.cn
 0024aadd.com
@@ -6022,6 +6022,7 @@ futuristicfifth.com
 fuxoasim.link
 fuz.cc
 fuziontech.net
+fvdwltww.com
 fvenxjtzuaxu.com
 fvhyqudibhqgpn.com
 fvkdatbzswo.bid
@@ -6877,6 +6878,7 @@ hubrus.com
 hubtraffic.com
 hubvisor.io
 hubvotrpjios.com
+huctgggrvw.com
 hudb.pl
 hugeincome.cf
 huidakms.com.cn
@@ -7864,6 +7866,7 @@ kxqvnfcg.xyz
 kxxjainwdsn.com
 kymirasite.pro
 kyrsu.frost-electric-supply.com
+kzhusrcuytpruk.com
 kzkxvrsomub.com
 kzrwzjmlasll.com
 kzsha.com
@@ -8921,6 +8924,7 @@ mn586.com
 mnbvjhg.com
 mncvjhg.com
 mnetads.com
+mnfiiphpwzyncr.com
 mno.link
 mnozqjxzrhko.com
 mntzr11.net
@@ -9519,6 +9523,7 @@ nmcdn.us
 nmldqncelrpht.com
 nmsbaseball.com
 nmywwgnnkmud.com
+nnfgfuhecdfls.com
 nnmmdhpi.com
 noadblock.net
 noadblock.org
@@ -14483,6 +14488,7 @@ wbtrk.net
 wc0x83ghk.homepage.t-online.de
 wc4.net
 wcfbc.net
+wcfelywclbql.com
 wcmcs.net
 wct.click
 wdfl.co
@@ -15231,6 +15237,7 @@ xy.nullrefexcep.com
 xyoss.g.com.cn
 xywdvhd.com
 xyztraffic.com
+xz518.cn
 xzdlleawpx.com
 xzipy.com
 xztyzs.cn

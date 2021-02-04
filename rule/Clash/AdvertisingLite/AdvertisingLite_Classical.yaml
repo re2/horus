@@ -1,12 +1,12 @@
-# NAME: 
+# NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-04 09:34:57.482386
+# UPDATED: 2021-02-04 15:31:59.923598
 # DOMAIN-KEYWORD: 27
 # DOMAIN-SUFFIX: 15241
-# DOMAIN: 15600
+# DOMAIN: 15607
 # IP-CIDR: 192
-# TOTAL: 31060
+# TOTAL: 31067
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,00-gov.cn
@@ -6020,6 +6020,7 @@ payload:
   - DOMAIN,fuxoasim.link
   - DOMAIN,fuz.cc
   - DOMAIN,fuziontech.net
+  - DOMAIN,fvdwltww.com
   - DOMAIN,fvenxjtzuaxu.com
   - DOMAIN,fvhyqudibhqgpn.com
   - DOMAIN,fvkdatbzswo.bid
@@ -6875,6 +6876,7 @@ payload:
   - DOMAIN,hubtraffic.com
   - DOMAIN,hubvisor.io
   - DOMAIN,hubvotrpjios.com
+  - DOMAIN,huctgggrvw.com
   - DOMAIN,hudb.pl
   - DOMAIN,hugeincome.cf
   - DOMAIN,huidakms.com.cn
@@ -7862,6 +7864,7 @@ payload:
   - DOMAIN,kxxjainwdsn.com
   - DOMAIN,kymirasite.pro
   - DOMAIN,kyrsu.frost-electric-supply.com
+  - DOMAIN,kzhusrcuytpruk.com
   - DOMAIN,kzkxvrsomub.com
   - DOMAIN,kzrwzjmlasll.com
   - DOMAIN,kzsha.com
@@ -8919,6 +8922,7 @@ payload:
   - DOMAIN,mnbvjhg.com
   - DOMAIN,mncvjhg.com
   - DOMAIN,mnetads.com
+  - DOMAIN,mnfiiphpwzyncr.com
   - DOMAIN,mno.link
   - DOMAIN,mnozqjxzrhko.com
   - DOMAIN,mntzr11.net
@@ -9517,6 +9521,7 @@ payload:
   - DOMAIN,nmldqncelrpht.com
   - DOMAIN,nmsbaseball.com
   - DOMAIN,nmywwgnnkmud.com
+  - DOMAIN,nnfgfuhecdfls.com
   - DOMAIN,nnmmdhpi.com
   - DOMAIN,noadblock.net
   - DOMAIN,noadblock.org
@@ -14481,6 +14486,7 @@ payload:
   - DOMAIN,wc0x83ghk.homepage.t-online.de
   - DOMAIN,wc4.net
   - DOMAIN,wcfbc.net
+  - DOMAIN,wcfelywclbql.com
   - DOMAIN,wcmcs.net
   - DOMAIN,wct.click
   - DOMAIN,wdfl.co
@@ -15229,6 +15235,7 @@ payload:
   - DOMAIN,xyoss.g.com.cn
   - DOMAIN,xywdvhd.com
   - DOMAIN,xyztraffic.com
+  - DOMAIN,xz518.cn
   - DOMAIN,xzdlleawpx.com
   - DOMAIN,xzipy.com
   - DOMAIN,xztyzs.cn

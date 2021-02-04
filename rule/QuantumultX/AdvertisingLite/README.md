@@ -8,11 +8,11 @@
 
 
 
-最后检查时间：2021-02-04 09:35:15.401679。
+最后检查时间：2021-02-04 15:32:16.173968。
 
 ## 规则统计
 
-总计规则：31061 条。
+总计规则：31068 条。
 
 各类型规则统计：
 
@@ -20,7 +20,7 @@
 | ---- | ---- |
 | HOST-KEYWORD | 27 |
 | HOST-SUFFIX | 15241 |
-| HOST | 15600 |
+| HOST | 15607 |
 | IP-CIDR | 192 |
 | USER-AGENT | 1 |
 ## 配置说明
@@ -50,9 +50,9 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Quan
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [Hijacking](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Hijacking)    | 219   | [200](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AdvertisingLite/去广告精简版_Repeat.list)   |   91.32% |
-|  [Privacy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Privacy)    | 2839   | [2346](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AdvertisingLite/去广告精简版_Repeat.list)   |   82.63% |
-|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Advertising)    | 64620   | [16174](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AdvertisingLite/去广告精简版_Repeat.list)   |   25.03% |
+|  [Hijacking](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Hijacking)    | 219   | [200](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AdvertisingLite/AdvertisingLite_Repeat.list)   |   91.32% |
+|  [Privacy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Privacy)    | 2839   | [2346](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AdvertisingLite/AdvertisingLite_Repeat.list)   |   82.63% |
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Advertising)    | 64738   | [16174](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AdvertisingLite/AdvertisingLite_Repeat.list)   |   24.98% |
 ### 特别说明
 程序在实际运算时，会根据DOMAIN、DOMAIN-SUFFIX、IP-CIDR、IP-CIDR6间的包含关系进行去重，而出于运行效率考虑，重复规则只统计纯文本匹配，所以可能与实际效果有所出入，仅供参考。
 

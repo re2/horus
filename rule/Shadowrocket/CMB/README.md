@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2021-02-04 09:35:43.848403。
+最后检查时间：2021-02-04 15:32:41.679043。
 
 ## 规则统计
 
@@ -46,7 +46,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Shad
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [CNKI](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/CNKI)    | 17   | [17](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/CMB/招商银行_Repeat.list)   |   100.0% |
+|  [CNKI](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/CNKI)    | 17   | [17](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/CMB/CMB_Repeat.list)   |   100.0% |
 ### 特别说明
 程序在实际运算时，会根据DOMAIN、DOMAIN-SUFFIX、IP-CIDR、IP-CIDR6间的包含关系进行去重，而出于运行效率考虑，重复规则只统计纯文本匹配，所以可能与实际效果有所出入，仅供参考。
 

@@ -8,19 +8,19 @@
 
 
 
-最后检查时间：2021-02-04 09:35:15.497165。
+最后检查时间：2021-02-04 15:32:16.261583。
 
 ## 规则统计
 
-总计规则：80242 条。
+总计规则：80267 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
 | HOST-KEYWORD | 60 |
-| HOST-SUFFIX | 64419 |
-| HOST | 15522 |
+| HOST-SUFFIX | 64445 |
+| HOST | 15521 |
 | IP-CIDR | 240 |
 | USER-AGENT | 1 |
 ## 配置说明
@@ -59,13 +59,13 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Quan
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [Hijacking](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Hijacking)    | 219   | [212](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AdvertisingTest/去广告测试版_Repeat.list)   |   96.8% |
-|  [JiGuangTuiSong](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/JiGuangTuiSong)    | 17   | [16](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AdvertisingTest/去广告测试版_Repeat.list)   |   94.12% |
-|  [Privacy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Privacy)    | 2839   | [2592](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AdvertisingTest/去广告测试版_Repeat.list)   |   91.3% |
-|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Advertising)    | 64620   | [58511](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AdvertisingTest/去广告测试版_Repeat.list)   |   90.55% |
-|  [UC](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/UC)    | 38   | [23](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AdvertisingTest/去广告测试版_Repeat.list)   |   60.53% |
-|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AdvertisingLite)    | 31061   | [15803](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AdvertisingTest/去广告测试版_Repeat.list)   |   50.88% |
-|  [Domob](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Domob)    | 26   | [6](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AdvertisingTest/去广告测试版_Repeat.list)   |   23.08% |
+|  [Hijacking](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Hijacking)    | 219   | [212](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AdvertisingTest/AdvertisingTest_Repeat.list)   |   96.8% |
+|  [JiGuangTuiSong](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/JiGuangTuiSong)    | 17   | [16](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AdvertisingTest/AdvertisingTest_Repeat.list)   |   94.12% |
+|  [Privacy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Privacy)    | 2839   | [2592](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AdvertisingTest/AdvertisingTest_Repeat.list)   |   91.3% |
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Advertising)    | 64738   | [58628](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AdvertisingTest/AdvertisingTest_Repeat.list)   |   90.56% |
+|  [UC](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/UC)    | 38   | [23](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AdvertisingTest/AdvertisingTest_Repeat.list)   |   60.53% |
+|  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/AdvertisingLite)    | 31068   | [15802](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AdvertisingTest/AdvertisingTest_Repeat.list)   |   50.86% |
+|  [Domob](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Domob)    | 26   | [6](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AdvertisingTest/AdvertisingTest_Repeat.list)   |   23.08% |
 ### 特别说明
 程序在实际运算时，会根据DOMAIN、DOMAIN-SUFFIX、IP-CIDR、IP-CIDR6间的包含关系进行去重，而出于运行效率考虑，重复规则只统计纯文本匹配，所以可能与实际效果有所出入，仅供参考。
 

@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2021-02-04 09:35:11.357924。
+最后检查时间：2021-02-04 15:32:12.281341。
 
 ## 规则统计
 
@@ -49,7 +49,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surg
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [AsianMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AsianMedia)    | 27   | [7](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/iQIYI/爱奇艺_Repeat.list)   |   25.93% |
+|  [AsianMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AsianMedia)    | 27   | [7](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/iQIYI/iQIYI_Repeat.list)   |   25.93% |
 ### 特别说明
 程序在实际运算时，会根据DOMAIN、DOMAIN-SUFFIX、IP-CIDR、IP-CIDR6间的包含关系进行去重，而出于运行效率考虑，重复规则只统计纯文本匹配，所以可能与实际效果有所出入，仅供参考。
 

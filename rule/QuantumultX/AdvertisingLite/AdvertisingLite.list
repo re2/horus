@@ -1,13 +1,13 @@
-# NAME: 
+# NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-04 09:34:53.969656
+# UPDATED: 2021-02-04 15:31:56.871186
 # HOST-KEYWORD: 27
 # HOST-SUFFIX: 15241
-# HOST: 15600
+# HOST: 15607
 # IP-CIDR: 192
 # USER-AGENT: 1
-# TOTAL: 31061
+# TOTAL: 31068
 HOST,0.up.qingdaonews.com,AdvertisingLite
 HOST,00-gov.cn,AdvertisingLite
 HOST,0024aadd.com,AdvertisingLite
@@ -6020,6 +6020,7 @@ HOST,futuristicfifth.com,AdvertisingLite
 HOST,fuxoasim.link,AdvertisingLite
 HOST,fuz.cc,AdvertisingLite
 HOST,fuziontech.net,AdvertisingLite
+HOST,fvdwltww.com,AdvertisingLite
 HOST,fvenxjtzuaxu.com,AdvertisingLite
 HOST,fvhyqudibhqgpn.com,AdvertisingLite
 HOST,fvkdatbzswo.bid,AdvertisingLite
@@ -6875,6 +6876,7 @@ HOST,hubrus.com,AdvertisingLite
 HOST,hubtraffic.com,AdvertisingLite
 HOST,hubvisor.io,AdvertisingLite
 HOST,hubvotrpjios.com,AdvertisingLite
+HOST,huctgggrvw.com,AdvertisingLite
 HOST,hudb.pl,AdvertisingLite
 HOST,hugeincome.cf,AdvertisingLite
 HOST,huidakms.com.cn,AdvertisingLite
@@ -7862,6 +7864,7 @@ HOST,kxqvnfcg.xyz,AdvertisingLite
 HOST,kxxjainwdsn.com,AdvertisingLite
 HOST,kymirasite.pro,AdvertisingLite
 HOST,kyrsu.frost-electric-supply.com,AdvertisingLite
+HOST,kzhusrcuytpruk.com,AdvertisingLite
 HOST,kzkxvrsomub.com,AdvertisingLite
 HOST,kzrwzjmlasll.com,AdvertisingLite
 HOST,kzsha.com,AdvertisingLite
@@ -8919,6 +8922,7 @@ HOST,mn586.com,AdvertisingLite
 HOST,mnbvjhg.com,AdvertisingLite
 HOST,mncvjhg.com,AdvertisingLite
 HOST,mnetads.com,AdvertisingLite
+HOST,mnfiiphpwzyncr.com,AdvertisingLite
 HOST,mno.link,AdvertisingLite
 HOST,mnozqjxzrhko.com,AdvertisingLite
 HOST,mntzr11.net,AdvertisingLite
@@ -9517,6 +9521,7 @@ HOST,nmcdn.us,AdvertisingLite
 HOST,nmldqncelrpht.com,AdvertisingLite
 HOST,nmsbaseball.com,AdvertisingLite
 HOST,nmywwgnnkmud.com,AdvertisingLite
+HOST,nnfgfuhecdfls.com,AdvertisingLite
 HOST,nnmmdhpi.com,AdvertisingLite
 HOST,noadblock.net,AdvertisingLite
 HOST,noadblock.org,AdvertisingLite
@@ -14481,6 +14486,7 @@ HOST,wbtrk.net,AdvertisingLite
 HOST,wc0x83ghk.homepage.t-online.de,AdvertisingLite
 HOST,wc4.net,AdvertisingLite
 HOST,wcfbc.net,AdvertisingLite
+HOST,wcfelywclbql.com,AdvertisingLite
 HOST,wcmcs.net,AdvertisingLite
 HOST,wct.click,AdvertisingLite
 HOST,wdfl.co,AdvertisingLite
@@ -15229,6 +15235,7 @@ HOST,xy.nullrefexcep.com,AdvertisingLite
 HOST,xyoss.g.com.cn,AdvertisingLite
 HOST,xywdvhd.com,AdvertisingLite
 HOST,xyztraffic.com,AdvertisingLite
+HOST,xz518.cn,AdvertisingLite
 HOST,xzdlleawpx.com,AdvertisingLite
 HOST,xzipy.com,AdvertisingLite
 HOST,xztyzs.cn,AdvertisingLite

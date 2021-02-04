@@ -1,7 +1,7 @@
-# NAME: 
+# NAME: UnionPay
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-04 09:34:57.285132
+# UPDATED: 2021-02-04 15:31:59.751300
 # DOMAIN-SUFFIX: 50
 # TOTAL: 50
 DOMAIN-SUFFIX,95516.com

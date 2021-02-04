@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2021-02-04 09:35:23.940407。
+最后检查时间：2021-02-04 15:32:23.779189。
 
 ## 规则统计
 
@@ -83,18 +83,18 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [Blizzard](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Blizzard)    | 38   | [38](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Game/游戏_Repeat.list)   |   100.0% |
-|  [Steam](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Steam)    | 32   | [32](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Game/游戏_Repeat.list)   |   100.0% |
-|  [Rockstar](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Rockstar)    | 5   | [5](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Game/游戏_Repeat.list)   |   100.0% |
-|  [SteamCN](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/SteamCN)    | 14   | [14](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Game/游戏_Repeat.list)   |   100.0% |
-|  [Supercell](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Supercell)    | 24   | [24](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Game/游戏_Repeat.list)   |   100.0% |
-|  [EA](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/EA)    | 163   | [163](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Game/游戏_Repeat.list)   |   100.0% |
-|  [Garena](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Garena)    | 15   | [15](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Game/游戏_Repeat.list)   |   100.0% |
-|  [Nintendo](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Nintendo)    | 123   | [123](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Game/游戏_Repeat.list)   |   100.0% |
-|  [Riot](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Riot)    | 54   | [54](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Game/游戏_Repeat.list)   |   100.0% |
-|  [UBI](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/UBI)    | 5   | [5](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Game/游戏_Repeat.list)   |   100.0% |
-|  [Xbox](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Xbox)    | 34   | [34](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Game/游戏_Repeat.list)   |   100.0% |
-|  [Sony](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Sony)    | 6   | [5](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Game/游戏_Repeat.list)   |   83.33% |
+|  [Blizzard](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Blizzard)    | 38   | [38](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Game/Game_Repeat.list)   |   100.0% |
+|  [Steam](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Steam)    | 32   | [32](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Game/Game_Repeat.list)   |   100.0% |
+|  [Rockstar](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Rockstar)    | 5   | [5](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Game/Game_Repeat.list)   |   100.0% |
+|  [SteamCN](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/SteamCN)    | 14   | [14](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Game/Game_Repeat.list)   |   100.0% |
+|  [Supercell](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Supercell)    | 24   | [24](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Game/Game_Repeat.list)   |   100.0% |
+|  [EA](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/EA)    | 163   | [163](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Game/Game_Repeat.list)   |   100.0% |
+|  [Garena](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Garena)    | 15   | [15](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Game/Game_Repeat.list)   |   100.0% |
+|  [Nintendo](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Nintendo)    | 123   | [123](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Game/Game_Repeat.list)   |   100.0% |
+|  [Riot](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Riot)    | 54   | [54](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Game/Game_Repeat.list)   |   100.0% |
+|  [UBI](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/UBI)    | 5   | [5](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Game/Game_Repeat.list)   |   100.0% |
+|  [Xbox](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Xbox)    | 34   | [34](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Game/Game_Repeat.list)   |   100.0% |
+|  [Sony](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Sony)    | 6   | [5](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Game/Game_Repeat.list)   |   83.33% |
 ### 特别说明
 程序在实际运算时，会根据DOMAIN、DOMAIN-SUFFIX、IP-CIDR、IP-CIDR6间的包含关系进行去重，而出于运行效率考虑，重复规则只统计纯文本匹配，所以可能与实际效果有所出入，仅供参考。
 

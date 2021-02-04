@@ -1,7 +1,7 @@
-# NAME:  规则重复情况
+# NAME: AdvertisingLite 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-04 09:35:02.509913
+# UPDATED: 2021-02-04 15:32:04.332335
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 #  与 Hijacking 共 200 条规则重复
 HOST-SUFFIX,17gouwuba.com
@@ -3193,7 +3193,6 @@ HOST,loft2126.dedicatedpanel.com
 HOST,log.51wnl-cq.com
 HOST,log.ad.xiaomi.com
 HOST,log.fanxing.kugou.com
-HOST,log.qvb.qcloud.com
 HOST,logrp.hpplay.cn
 HOST,logs.datadoghq.com
 HOST,logsss.com
@@ -7771,6 +7770,7 @@ HOST-SUFFIX,collect.adback.co
 HOST-SUFFIX,collect.igodigital.com
 HOST-SUFFIX,collect.rewardstyle.com
 HOST-SUFFIX,collect.tianya.cn
+HOST-SUFFIX,collect.usefathom.com
 HOST-SUFFIX,collector-api.99designs.com
 HOST-SUFFIX,collector-cdn.github.com
 HOST-SUFFIX,collector-medium.lightstep.com
