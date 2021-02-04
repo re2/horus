@@ -1,13 +1,13 @@
 # NAME: 
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-04 02:28:10.001812
+# UPDATED: 2021-02-04 09:34:54.036477
 # HOST-KEYWORD: 60
 # HOST-SUFFIX: 42889
-# HOST: 21426
+# HOST: 21430
 # IP-CIDR: 240
 # USER-AGENT: 1
-# TOTAL: 64616
+# TOTAL: 64620
 HOST,0.nextyourcontent.com,Advertising
 HOST,0.up.qingdaonews.com,Advertising
 HOST,0001.2waky.com,Advertising
@@ -6177,6 +6177,7 @@ HOST,crackserialcodes.com,Advertising
 HOST,cracksor.com,Advertising
 HOST,crackspider.us,Advertising
 HOST,cracksplanet.com,Advertising
+HOST,cracksplay.com,Advertising
 HOST,crackssite.com,Advertising
 HOST,cracktheworld.com,Advertising
 HOST,crackygame.com,Advertising
@@ -11717,6 +11718,7 @@ HOST,link-trade.net,Advertising
 HOST,link.huffingtonpost.com,Advertising
 HOST,link.ixs1.net,Advertising
 HOST,link4ads.com,Advertising
+HOST,link4link.com,Advertising
 HOST,link4win.net,Advertising
 HOST,linkbucks.com,Advertising
 HOST,linkcounter.com,Advertising
@@ -12308,6 +12310,7 @@ HOST,masterautomacao.com,Advertising
 HOST,masterhax.com,Advertising
 HOST,masteriklan.net,Advertising
 HOST,mastermind.com,Advertising
+HOST,masteroids.com,Advertising
 HOST,masterpeacedesign.com,Advertising
 HOST,masterrconsultas.com,Advertising
 HOST,mastersanitaryware.com,Advertising
@@ -14832,6 +14835,7 @@ HOST,plugin.mediavoice.com,Advertising
 HOST,pluginsjquery.com,Advertising
 HOST,pluginx.perfectgonzo.com,Advertising
 HOST,plus.iwon.com,Advertising
+HOST,plus.link4link.com,Advertising
 HOST,pluto.adcycle.com,Advertising
 HOST,plutusads.com,Advertising
 HOST,pm-international.com,Advertising

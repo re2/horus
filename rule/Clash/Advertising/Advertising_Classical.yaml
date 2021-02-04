@@ -1,12 +1,12 @@
 # NAME: 
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-04 02:28:13.566525
+# UPDATED: 2021-02-04 09:34:57.633445
 # DOMAIN-KEYWORD: 60
 # DOMAIN-SUFFIX: 42889
-# DOMAIN: 21426
+# DOMAIN: 21430
 # IP-CIDR: 240
-# TOTAL: 64615
+# TOTAL: 64619
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.up.qingdaonews.com
@@ -6177,6 +6177,7 @@ payload:
   - DOMAIN,cracksor.com
   - DOMAIN,crackspider.us
   - DOMAIN,cracksplanet.com
+  - DOMAIN,cracksplay.com
   - DOMAIN,crackssite.com
   - DOMAIN,cracktheworld.com
   - DOMAIN,crackygame.com
@@ -11717,6 +11718,7 @@ payload:
   - DOMAIN,link.huffingtonpost.com
   - DOMAIN,link.ixs1.net
   - DOMAIN,link4ads.com
+  - DOMAIN,link4link.com
   - DOMAIN,link4win.net
   - DOMAIN,linkbucks.com
   - DOMAIN,linkcounter.com
@@ -12308,6 +12310,7 @@ payload:
   - DOMAIN,masterhax.com
   - DOMAIN,masteriklan.net
   - DOMAIN,mastermind.com
+  - DOMAIN,masteroids.com
   - DOMAIN,masterpeacedesign.com
   - DOMAIN,masterrconsultas.com
   - DOMAIN,mastersanitaryware.com
@@ -14832,6 +14835,7 @@ payload:
   - DOMAIN,pluginsjquery.com
   - DOMAIN,pluginx.perfectgonzo.com
   - DOMAIN,plus.iwon.com
+  - DOMAIN,plus.link4link.com
   - DOMAIN,pluto.adcycle.com
   - DOMAIN,plutusads.com
   - DOMAIN,pm-international.com

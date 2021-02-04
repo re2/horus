@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2021-02-04 02:28:23.731374。
+最后检查时间：2021-02-04 09:35:08.025545。
 
 ## 规则统计
 
@@ -83,32 +83,18 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surg
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Advertising)    | 64926   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Game/游戏_Repeat.list)   |   0.0% |
-|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingTest)    | 80469   | [1](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Game/游戏_Repeat.list)   |   0.0% |
 |  [Blizzard](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Blizzard)    | 38   | [38](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Game/游戏_Repeat.list)   |   100.0% |
 |  [Steam](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Steam)    | 32   | [32](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Game/游戏_Repeat.list)   |   100.0% |
 |  [Rockstar](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Rockstar)    | 5   | [5](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Game/游戏_Repeat.list)   |   100.0% |
-|  [PlayStation](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/PlayStation)    | 4   | [4](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Game/游戏_Repeat.list)   |   100.0% |
-|  [Epic](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Epic)    | 2   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Game/游戏_Repeat.list)   |   100.0% |
 |  [SteamCN](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/SteamCN)    | 14   | [14](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Game/游戏_Repeat.list)   |   100.0% |
-|  [WildRift](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/WildRift)    | 3   | [3](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Game/游戏_Repeat.list)   |   100.0% |
 |  [Supercell](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Supercell)    | 24   | [24](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Game/游戏_Repeat.list)   |   100.0% |
 |  [EA](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/EA)    | 163   | [163](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Game/游戏_Repeat.list)   |   100.0% |
 |  [Garena](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Garena)    | 15   | [15](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Game/游戏_Repeat.list)   |   100.0% |
-|  [Gog](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Gog)    | 3   | [3](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Game/游戏_Repeat.list)   |   100.0% |
 |  [Nintendo](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Nintendo)    | 123   | [123](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Game/游戏_Repeat.list)   |   100.0% |
-|  [OP](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/OP)    | 2   | [2](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Game/游戏_Repeat.list)   |   100.0% |
-|  [Purikonejp](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Purikonejp)    | 3   | [3](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Game/游戏_Repeat.list)   |   100.0% |
 |  [Riot](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Riot)    | 54   | [54](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Game/游戏_Repeat.list)   |   100.0% |
 |  [UBI](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/UBI)    | 5   | [5](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Game/游戏_Repeat.list)   |   100.0% |
 |  [Xbox](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Xbox)    | 34   | [34](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Game/游戏_Repeat.list)   |   100.0% |
-|  [Microsoft](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Microsoft)    | 101   | [3](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Game/游戏_Repeat.list)   |   2.97% |
-|  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Proxy)    | 28098   | [364](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Game/游戏_Repeat.list)   |   1.3% |
-|  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Global)    | 28251   | [364](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Game/游戏_Repeat.list)   |   1.29% |
-|  [BlackList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/BlackList)    | 773   | [8](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Game/游戏_Repeat.list)   |   1.03% |
 |  [Sony](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Sony)    | 6   | [5](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Game/游戏_Repeat.list)   |   83.33% |
-|  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/China)    | 693   | [18](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Game/游戏_Repeat.list)   |   2.6% |
-|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaTest)    | 71562   | [19](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Game/游戏_Repeat.list)   |   0.03% |
 ### 特别说明
 程序在实际运算时，会根据DOMAIN、DOMAIN-SUFFIX、IP-CIDR、IP-CIDR6间的包含关系进行去重，而出于运行效率考虑，重复规则只统计纯文本匹配，所以可能与实际效果有所出入，仅供参考。
 

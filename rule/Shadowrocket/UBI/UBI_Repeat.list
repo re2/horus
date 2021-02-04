@@ -1,19 +1,5 @@
 # NAME:  规则重复情况
 # AUTHOR: 
 # GITHUB: 
-# UPDATED: 2021-02-04 02:28:22.130961
+# UPDATED: 2021-02-04 09:35:06.408169
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
-#  与 Game 共 5 条规则重复
-DOMAIN-SUFFIX,ubi.com
-DOMAIN-SUFFIX,ubisoft-orbit-savegames.s3.amazonaws.com
-DOMAIN-SUFFIX,ubisoft-uplay-savegames.s3.amazonaws.com
-DOMAIN-SUFFIX,ubisoft.com
-DOMAIN-SUFFIX,uplay.com
-#  与 Proxy 共 3 条规则重复
-DOMAIN-SUFFIX,ubi.com
-DOMAIN-SUFFIX,ubisoft.com
-DOMAIN-SUFFIX,uplay.com
-#  与 Global 共 3 条规则重复
-DOMAIN-SUFFIX,ubi.com
-DOMAIN-SUFFIX,ubisoft.com
-DOMAIN-SUFFIX,uplay.com

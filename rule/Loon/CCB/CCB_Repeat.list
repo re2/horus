@@ -1,15 +1,5 @@
 # NAME:  规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-04 02:28:20.229166
+# UPDATED: 2021-02-04 09:35:04.477821
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
-#  与 China 共 2 条规则重复
-DOMAIN-SUFFIX,ccb.com
-DOMAIN-SUFFIX,ccb.com.cn
-#  与 ChinaTest 共 6 条规则重复
-DOMAIN-SUFFIX,ccb.com
-DOMAIN-SUFFIX,ccb.com.cn
-DOMAIN-SUFFIX,ccbfutures.com
-DOMAIN-SUFFIX,ccbintl.com.hk
-DOMAIN-SUFFIX,ccbleasing.com
-DOMAIN-SUFFIX,ccbseoul.com

@@ -1,12 +1,12 @@
 # NAME: 
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-04 02:28:13.421789
+# UPDATED: 2021-02-04 09:34:57.482386
 # DOMAIN-KEYWORD: 27
 # DOMAIN-SUFFIX: 15241
-# DOMAIN: 15594
+# DOMAIN: 15600
 # IP-CIDR: 192
-# TOTAL: 31054
+# TOTAL: 31060
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,00-gov.cn
@@ -6714,6 +6714,7 @@ payload:
   - DOMAIN,hjklf.com
   - DOMAIN,hkhotpewfxr.com
   - DOMAIN,hkoxlirf.com
+  - DOMAIN,hlads.com
   - DOMAIN,hlitvetlw.com
   - DOMAIN,hljdnserror1.wo.com.cn
   - DOMAIN,hljdnserror2.wo.com.cn
@@ -7908,6 +7909,7 @@ payload:
   - DOMAIN,layerloop.com
   - DOMAIN,lb.usemaxserver.de
   - DOMAIN,lcknokgqhwnfkr.com
+  - DOMAIN,lcllwonupseu.com
   - DOMAIN,lcolevwciuwj.com
   - DOMAIN,lcvfar.com
   - DOMAIN,lcwfab1.com
@@ -10397,6 +10399,7 @@ payload:
   - DOMAIN,plified.pro
   - DOMAIN,plinx.net
   - DOMAIN,plocap.com
+  - DOMAIN,plopx.com
   - DOMAIN,plsdrct2.me
   - DOMAIN,plufdsa.com
   - DOMAIN,plugerr.com
@@ -11433,6 +11436,7 @@ payload:
   - DOMAIN,rktch.com
   - DOMAIN,rktu.com
   - DOMAIN,rlog.video.qq.com
+  - DOMAIN,rlxqaczszvjvp.com
   - DOMAIN,rmbn.net
   - DOMAIN,rmkflouh.com
   - DOMAIN,rmpad.imtt.qq.com
@@ -12625,6 +12629,7 @@ payload:
   - DOMAIN,sspicy.ru
   - DOMAIN,sspmiaoshuo.cn-hangzhou.log.aliyuncs.com
   - DOMAIN,sspsky.com
+  - DOMAIN,sssyabhje.com
   - DOMAIN,st.ipornia.com
   - DOMAIN,stack-sonar.com
   - DOMAIN,stackadapt.com
@@ -15329,6 +15334,7 @@ payload:
   - DOMAIN,ynopkisq.com
   - DOMAIN,ynuf.aliapp.org
   - DOMAIN,ynuf.alipay.com
+  - DOMAIN,ynvwvckgqich.com
   - DOMAIN,ynxerecrbihujf.com
   - DOMAIN,ynyfcz.cn
   - DOMAIN,yobihost.com

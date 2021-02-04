@@ -1,13 +1,13 @@
 # NAME: 
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-04 02:28:09.934810
+# UPDATED: 2021-02-04 09:34:53.969656
 # HOST-KEYWORD: 27
 # HOST-SUFFIX: 15241
-# HOST: 15594
+# HOST: 15600
 # IP-CIDR: 192
 # USER-AGENT: 1
-# TOTAL: 31055
+# TOTAL: 31061
 HOST,0.up.qingdaonews.com,AdvertisingLite
 HOST,00-gov.cn,AdvertisingLite
 HOST,0024aadd.com,AdvertisingLite
@@ -6714,6 +6714,7 @@ HOST,hjgtnhierc.com,AdvertisingLite
 HOST,hjklf.com,AdvertisingLite
 HOST,hkhotpewfxr.com,AdvertisingLite
 HOST,hkoxlirf.com,AdvertisingLite
+HOST,hlads.com,AdvertisingLite
 HOST,hlitvetlw.com,AdvertisingLite
 HOST,hljdnserror1.wo.com.cn,AdvertisingLite
 HOST,hljdnserror2.wo.com.cn,AdvertisingLite
@@ -7908,6 +7909,7 @@ HOST,layer-ad.org,AdvertisingLite
 HOST,layerloop.com,AdvertisingLite
 HOST,lb.usemaxserver.de,AdvertisingLite
 HOST,lcknokgqhwnfkr.com,AdvertisingLite
+HOST,lcllwonupseu.com,AdvertisingLite
 HOST,lcolevwciuwj.com,AdvertisingLite
 HOST,lcvfar.com,AdvertisingLite
 HOST,lcwfab1.com,AdvertisingLite
@@ -10397,6 +10399,7 @@ HOST,plhielbsmvlm.com,AdvertisingLite
 HOST,plified.pro,AdvertisingLite
 HOST,plinx.net,AdvertisingLite
 HOST,plocap.com,AdvertisingLite
+HOST,plopx.com,AdvertisingLite
 HOST,plsdrct2.me,AdvertisingLite
 HOST,plufdsa.com,AdvertisingLite
 HOST,plugerr.com,AdvertisingLite
@@ -11433,6 +11436,7 @@ HOST,rkpecade.com,AdvertisingLite
 HOST,rktch.com,AdvertisingLite
 HOST,rktu.com,AdvertisingLite
 HOST,rlog.video.qq.com,AdvertisingLite
+HOST,rlxqaczszvjvp.com,AdvertisingLite
 HOST,rmbn.net,AdvertisingLite
 HOST,rmkflouh.com,AdvertisingLite
 HOST,rmpad.imtt.qq.com,AdvertisingLite
@@ -12625,6 +12629,7 @@ HOST,sslcheckerapi.com,AdvertisingLite
 HOST,sspicy.ru,AdvertisingLite
 HOST,sspmiaoshuo.cn-hangzhou.log.aliyuncs.com,AdvertisingLite
 HOST,sspsky.com,AdvertisingLite
+HOST,sssyabhje.com,AdvertisingLite
 HOST,st.ipornia.com,AdvertisingLite
 HOST,stack-sonar.com,AdvertisingLite
 HOST,stackadapt.com,AdvertisingLite
@@ -15329,6 +15334,7 @@ HOST,ynelypolkq.com,AdvertisingLite
 HOST,ynopkisq.com,AdvertisingLite
 HOST,ynuf.aliapp.org,AdvertisingLite
 HOST,ynuf.alipay.com,AdvertisingLite
+HOST,ynvwvckgqich.com,AdvertisingLite
 HOST,ynxerecrbihujf.com,AdvertisingLite
 HOST,ynyfcz.cn,AdvertisingLite
 HOST,yobihost.com,AdvertisingLite

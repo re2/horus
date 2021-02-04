@@ -1,26 +1,5 @@
 # NAME:  规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-04 02:28:18.977789
+# UPDATED: 2021-02-04 09:35:03.220856
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
-#  与 AdvertisingLite 共 1 条规则重复
-HOST-SUFFIX,alipaylog.com
-#  与 Advertising 共 1 条规则重复
-HOST-SUFFIX,alipaylog.com
-#  与 AdvertisingTest 共 1 条规则重复
-HOST-SUFFIX,alipaylog.com
-#  与 China 共 2 条规则重复
-HOST-SUFFIX,alipay.com
-HOST-SUFFIX,alipayobjects.com
-#  与 ChinaTest 共 8 条规则重复
-HOST-SUFFIX,alipay
-HOST-SUFFIX,alipay-eco.com
-HOST-SUFFIX,alipay.com
-HOST-SUFFIX,alipay.net
-HOST-SUFFIX,alipaydev.com
-HOST-SUFFIX,alipaydns.com
-HOST-SUFFIX,alipaylog.com
-HOST-SUFFIX,alipayobjects.com
-#  与 Alibaba 共 2 条规则重复
-HOST-SUFFIX,alipay.com
-HOST-SUFFIX,alipayobjects.com

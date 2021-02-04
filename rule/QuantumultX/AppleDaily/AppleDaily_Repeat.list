@@ -1,29 +1,5 @@
 # NAME:  规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-04 02:28:18.677628
+# UPDATED: 2021-02-04 09:35:02.917318
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
-#  与 Proxy 共 10 条规则重复
-HOST-SUFFIX,appledaily.com
-HOST-SUFFIX,appledaily.com.hk
-HOST-SUFFIX,appledaily.com.tw
-HOST-SUFFIX,atnext.com
-HOST-SUFFIX,eracom.com.tw
-HOST-SUFFIX,nextmag.com.tw
-HOST-SUFFIX,nextmedia.com
-HOST-SUFFIX,nextmgz.com
-HOST-SUFFIX,nexttv.com.tw
-HOST-SUFFIX,sharpdaily.tw
-#  与 Global 共 10 条规则重复
-HOST-SUFFIX,appledaily.com
-HOST-SUFFIX,appledaily.com.hk
-HOST-SUFFIX,appledaily.com.tw
-HOST-SUFFIX,atnext.com
-HOST-SUFFIX,eracom.com.tw
-HOST-SUFFIX,nextmag.com.tw
-HOST-SUFFIX,nextmedia.com
-HOST-SUFFIX,nextmgz.com
-HOST-SUFFIX,nexttv.com.tw
-HOST-SUFFIX,sharpdaily.tw
-#  与 BlackList 共 1 条规则重复
-HOST-SUFFIX,nextmedia.com

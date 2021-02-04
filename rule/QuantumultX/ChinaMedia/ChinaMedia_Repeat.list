@@ -1,117 +1,8 @@
 # NAME:  规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-04 02:28:18.913219
+# UPDATED: 2021-02-04 09:35:03.155858
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
-#  与 AdvertisingLite 共 22 条规则重复
-HOST-SUFFIX,1.letvlive.com
-HOST-SUFFIX,2.letvlive.com
-HOST-SUFFIX,ad.api.3g.tudou.com
-HOST-SUFFIX,ads1.lfengmobile.com
-HOST-SUFFIX,afp.pplive.com
-HOST-SUFFIX,api.cupid.qiyi.com
-HOST-SUFFIX,api.push.le.com
-HOST-SUFFIX,app.aplus.pptv.com
-HOST-SUFFIX,as.aplus.pptv.com
-HOST-SUFFIX,asimgs.pplive.cn
-HOST-SUFFIX,de.as.pptv.com
-HOST-SUFFIX,game.pps.tv
-HOST-SUFFIX,jp.as.pptv.com
-HOST-SUFFIX,koowo.com
-HOST-SUFFIX,msg.video.qiyi.com
-HOST-SUFFIX,msg2.video.qiyi.com
-HOST-SUFFIX,pp2.pptv.com
-HOST-SUFFIX,stat.pptv.com
-HOST-SUFFIX,static.g.ppstream.com
-HOST-SUFFIX,static.g.pptv.com
-HOST-SUFFIX,videojj.com
-HOST-SUFFIX,zamplus.com
-#  与 Advertising 共 24 条规则重复
-HOST-SUFFIX,1.letvlive.com
-HOST-SUFFIX,2.letvlive.com
-HOST-SUFFIX,71.am
-HOST-SUFFIX,ad.api.3g.tudou.com
-HOST-SUFFIX,ads1.lfengmobile.com
-HOST-SUFFIX,afp.pplive.com
-HOST-SUFFIX,api.cupid.qiyi.com
-HOST-SUFFIX,api.push.le.com
-HOST-SUFFIX,app.aplus.pptv.com
-HOST-SUFFIX,as.aplus.pptv.com
-HOST-SUFFIX,asimgs.pplive.cn
-HOST-SUFFIX,de.as.pptv.com
-HOST-SUFFIX,game.pps.tv
-HOST-SUFFIX,jp.as.pptv.com
-HOST-SUFFIX,koowo.com
-HOST-SUFFIX,msg.video.qiyi.com
-HOST-SUFFIX,msg2.video.qiyi.com
-HOST-SUFFIX,pp2.pptv.com
-HOST-SUFFIX,stat.pptv.com
-HOST-SUFFIX,static.g.ppstream.com
-HOST-SUFFIX,static.g.pptv.com
-HOST-SUFFIX,videojj.com
-HOST-SUFFIX,zamplus.com
-HOST-SUFFIX,zmzfile.com
-#  与 AdvertisingTest 共 24 条规则重复
-HOST-SUFFIX,1.letvlive.com
-HOST-SUFFIX,2.letvlive.com
-HOST-SUFFIX,71.am
-HOST-SUFFIX,ad.api.3g.tudou.com
-HOST-SUFFIX,ads1.lfengmobile.com
-HOST-SUFFIX,afp.pplive.com
-HOST-SUFFIX,api.cupid.qiyi.com
-HOST-SUFFIX,api.push.le.com
-HOST-SUFFIX,app.aplus.pptv.com
-HOST-SUFFIX,as.aplus.pptv.com
-HOST-SUFFIX,asimgs.pplive.cn
-HOST-SUFFIX,de.as.pptv.com
-HOST-SUFFIX,game.pps.tv
-HOST-SUFFIX,jp.as.pptv.com
-HOST-SUFFIX,koowo.com
-HOST-SUFFIX,msg.video.qiyi.com
-HOST-SUFFIX,msg2.video.qiyi.com
-HOST-SUFFIX,pp2.pptv.com
-HOST-SUFFIX,stat.pptv.com
-HOST-SUFFIX,static.g.ppstream.com
-HOST-SUFFIX,static.g.pptv.com
-HOST-SUFFIX,videojj.com
-HOST-SUFFIX,zamplus.com
-HOST-SUFFIX,zmzfile.com
-#  与 Proxy 共 4 条规则重复
-HOST-SUFFIX,jstucdn.com
-HOST-SUFFIX,zimuzu.tv
-HOST-SUFFIX,zmz2019.com
-HOST-SUFFIX,zmzapi.com
-#  与 Global 共 4 条规则重复
-HOST-SUFFIX,jstucdn.com
-HOST-SUFFIX,zimuzu.tv
-HOST-SUFFIX,zmz2019.com
-HOST-SUFFIX,zmzapi.com
-#  与 AsianMedia 共 23 条规则重复
-HOST-KEYWORD,bilibili
-HOST-KEYWORD,qiyi
-HOST-SUFFIX,71.am.com
-HOST-SUFFIX,acg.tv
-HOST-SUFFIX,acgvideo.com
-HOST-SUFFIX,b23.tv
-HOST-SUFFIX,biliapi.com
-HOST-SUFFIX,biliapi.net
-HOST-SUFFIX,bilibili.com
-HOST-SUFFIX,bilibili.tv
-HOST-SUFFIX,biligame.com
-HOST-SUFFIX,biligame.net
-HOST-SUFFIX,bilivideo.com
-HOST-SUFFIX,hdslb.com
-HOST-SUFFIX,im9.com
-HOST-SUFFIX,qy.net
-IP-CIDR,101.224.0.0/13
-IP-CIDR,119.176.0.0/12
-USER-AGENT,*bili*
-USER-AGENT,MOO*
-USER-AGENT,QIYI*
-USER-AGENT,TencentMidasConnect*
-USER-AGENT,iQiYi*
-#  与 WeTV 共 1 条规则重复
-HOST-SUFFIX,v.smtcdns.com
 #  与 BiliBili 共 62 条规则重复
 HOST-SUFFIX,acg.tv
 HOST-SUFFIX,acgvideo.com
@@ -175,112 +66,6 @@ IP-CIDR,45.43.32.234/32
 USER-AGENT,*bili*
 USER-AGENT,Bilibili*
 USER-AGENT,bili*
-#  与 Baidu 共 1 条规则重复
-HOST-SUFFIX,qianqian.com
-#  与 China 共 38 条规则重复
-HOST-SUFFIX,71.am
-HOST-SUFFIX,71.am.com
-HOST-SUFFIX,acfun.tv
-HOST-SUFFIX,acgvideo.com
-HOST-SUFFIX,aixifan.com
-HOST-SUFFIX,biliapi.com
-HOST-SUFFIX,biliapi.net
-HOST-SUFFIX,bilibili.com
-HOST-SUFFIX,bilibili.tv
-HOST-SUFFIX,bilivideo.com
-HOST-SUFFIX,cctv.com
-HOST-SUFFIX,cctvpic.com
-HOST-SUFFIX,hdslb.com
-HOST-SUFFIX,hitv.com
-HOST-SUFFIX,iqiyi.com
-HOST-SUFFIX,iqiyipic.com
-HOST-SUFFIX,jstucdn.com
-HOST-SUFFIX,kugou.com
-HOST-SUFFIX,letv.com
-HOST-SUFFIX,livechina.com
-HOST-SUFFIX,mgtv.com
-HOST-SUFFIX,sohu.com
-HOST-SUFFIX,soku.com
-HOST-SUFFIX,v-56.com
-HOST-SUFFIX,xiami.com
-HOST-SUFFIX,xiami.net
-HOST-SUFFIX,ykimg.com
-HOST-SUFFIX,youku.com
-HOST-SUFFIX,zimuzu.io
-HOST-SUFFIX,zimuzu.tv
-HOST-SUFFIX,zmz2019.com
-HOST-SUFFIX,zmzapi.com
-HOST-SUFFIX,zmzapi.net
-HOST-SUFFIX,zmzfile.com
-USER-AGENT,%E4%BC%98%E9%85%B7*
-USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
-USER-AGENT,NeteaseMusic*
-USER-AGENT,YYeTs*
-#  与 ChinaTest 共 61 条规则重复
-HOST-SUFFIX,56.com
-HOST-SUFFIX,71.am
-HOST-SUFFIX,71.am.com
-HOST-SUFFIX,acfun.tv
-HOST-SUFFIX,acg.tv
-HOST-SUFFIX,acgvideo.com
-HOST-SUFFIX,aixifan.com
-HOST-SUFFIX,b23.tv
-HOST-SUFFIX,biliapi.com
-HOST-SUFFIX,biliapi.net
-HOST-SUFFIX,bilibili.cc
-HOST-SUFFIX,bilibili.co
-HOST-SUFFIX,bilibili.com
-HOST-SUFFIX,bilibili.tv
-HOST-SUFFIX,bilibiligame.net
-HOST-SUFFIX,biligame.com
-HOST-SUFFIX,biligame.net
-HOST-SUFFIX,bilivideo.com
-HOST-SUFFIX,cctv.com
-HOST-SUFFIX,cctvpic.com
-HOST-SUFFIX,chinalive.com
-HOST-SUFFIX,hdslb.com
-HOST-SUFFIX,hdslb.net
-HOST-SUFFIX,hitv.com
-HOST-SUFFIX,hunantv.com
-HOST-SUFFIX,im9.com
-HOST-SUFFIX,ipanda.com
-HOST-SUFFIX,ipanda.net
-HOST-SUFFIX,iqiyi.com
-HOST-SUFFIX,iqiyipic.com
-HOST-SUFFIX,jstucdn.com
-HOST-SUFFIX,koowo.com
-HOST-SUFFIX,kugou.com
-HOST-SUFFIX,letv.com
-HOST-SUFFIX,livechina.com
-HOST-SUFFIX,mcbbs.net
-HOST-SUFFIX,mgtv.com
-HOST-SUFFIX,miguvideo.com
-HOST-SUFFIX,mincdn.com
-HOST-SUFFIX,qianqian.com
-HOST-SUFFIX,qy.net
-HOST-SUFFIX,smtcdns.net
-HOST-SUFFIX,sohu.com
-HOST-SUFFIX,soku.com
-HOST-SUFFIX,v-56.com
-HOST-SUFFIX,videojj.com
-HOST-SUFFIX,xiami.com
-HOST-SUFFIX,xiami.net
-HOST-SUFFIX,ykimg.com
-HOST-SUFFIX,youku.com
-HOST-SUFFIX,zamplus.com
-HOST-SUFFIX,zimuzu.io
-HOST-SUFFIX,zimuzu.tv
-HOST-SUFFIX,zmz2019.com
-HOST-SUFFIX,zmzapi.com
-HOST-SUFFIX,zmzapi.net
-HOST-SUFFIX,zmzfile.com
-USER-AGENT,%E4%BC%98%E9%85%B7*
-USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
-USER-AGENT,NeteaseMusic*
-USER-AGENT,YYeTs*
-#  与 ChinaIPs 共 2 条规则重复
-IP-CIDR,101.224.0.0/13
-IP-CIDR,119.176.0.0/12
 #  与 CCTV 共 42 条规则重复
 HOST-SUFFIX,cctv.cn
 HOST-SUFFIX,cctv.com
@@ -324,13 +109,42 @@ HOST-SUFFIX,中国广播电视总台.中国
 HOST-SUFFIX,中央广播电视总台.cn
 HOST-SUFFIX,国家广播电视总台.cn
 HOST-SUFFIX,国家广播电视总台.中国
-#  与 Tencent 共 6 条规则重复
-HOST-SUFFIX,smtcdns.net
-USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
-USER-AGENT,QQ%E9%9F%B3%E4%B9%90
+#  与 AcFun 共 5 条规则重复
+HOST-SUFFIX,acfun.cn
+HOST-SUFFIX,acfun.com
+HOST-SUFFIX,acfun.tv
+HOST-SUFFIX,aixifan.com
+USER-AGENT,AcFun*
+#  与 Migu 共 5 条规则重复
+HOST-SUFFIX,cmvideo.cn
+HOST-SUFFIX,migu.cn
+HOST-SUFFIX,miguvideo.com
+USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
+USER-AGENT,MiguVideo*
+#  与 AsianMedia 共 23 条规则重复
+HOST-KEYWORD,bilibili
+HOST-KEYWORD,qiyi
+HOST-SUFFIX,71.am.com
+HOST-SUFFIX,acg.tv
+HOST-SUFFIX,acgvideo.com
+HOST-SUFFIX,b23.tv
+HOST-SUFFIX,biliapi.com
+HOST-SUFFIX,biliapi.net
+HOST-SUFFIX,bilibili.com
+HOST-SUFFIX,bilibili.tv
+HOST-SUFFIX,biligame.com
+HOST-SUFFIX,biligame.net
+HOST-SUFFIX,bilivideo.com
+HOST-SUFFIX,hdslb.com
+HOST-SUFFIX,im9.com
+HOST-SUFFIX,qy.net
+IP-CIDR,101.224.0.0/13
+IP-CIDR,119.176.0.0/12
+USER-AGENT,*bili*
+USER-AGENT,MOO*
+USER-AGENT,QIYI*
 USER-AGENT,TencentMidasConnect*
-USER-AGENT,live4iphone*
-USER-AGENT,qqlive4iphone*
+USER-AGENT,iQiYi*
 #  与 NetEaseMusic 共 13 条规则重复
 HOST-SUFFIX,music.126.net
 HOST-SUFFIX,music.163.com
@@ -345,14 +159,14 @@ IP-CIDR,45.254.48.1/32
 IP-CIDR,47.100.127.239/32
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,NeteaseMusic*
-#  与 Youku 共 5 条规则重复
-HOST-SUFFIX,soku.com
-HOST-SUFFIX,ykimg.com
-HOST-SUFFIX,youku.com
-USER-AGENT,%E4%BC%98%E9%85%B7*
-USER-AGENT,Youku*
-#  与 TencentVideo 共 1 条规则重复
-HOST-SUFFIX,v.smtcdns.com
+#  与 YYeTs 共 7 条规则重复
+HOST-SUFFIX,jstucdn.com
+HOST-SUFFIX,zimuzu.io
+HOST-SUFFIX,zimuzu.tv
+HOST-SUFFIX,zmz2019.com
+HOST-SUFFIX,zmzapi.com
+HOST-SUFFIX,zmzapi.net
+HOST-SUFFIX,zmzfile.com
 #  与 iQIYI 共 12 条规则重复
 HOST-KEYWORD,qiyi
 HOST-SUFFIX,71.am
@@ -366,60 +180,3 @@ USER-AGENT,PPStream*
 USER-AGENT,QIYI*
 USER-AGENT,QYPlayer*
 USER-AGENT,iQiYi*
-#  与 Alibaba 共 5 条规则重复
-HOST-SUFFIX,soku.com
-HOST-SUFFIX,xiami.com
-HOST-SUFFIX,xiami.net
-HOST-SUFFIX,ykimg.com
-HOST-SUFFIX,youku.com
-#  与 56 共 2 条规则重复
-HOST-SUFFIX,56.com
-HOST-SUFFIX,v-56.com
-#  与 AcFun 共 5 条规则重复
-HOST-SUFFIX,acfun.cn
-HOST-SUFFIX,acfun.com
-HOST-SUFFIX,acfun.tv
-HOST-SUFFIX,aixifan.com
-USER-AGENT,AcFun*
-#  与 ChinaMobile 共 3 条规则重复
-HOST-SUFFIX,cmvideo.cn
-HOST-SUFFIX,migu.cn
-HOST-SUFFIX,miguvideo.com
-#  与 HunanTV 共 4 条规则重复
-HOST-SUFFIX,hitv.com
-HOST-SUFFIX,hunantv.com
-HOST-SUFFIX,mgtv.com
-USER-AGENT,MGTV*
-#  与 KugouKuwo 共 4 条规则重复
-HOST-SUFFIX,koowo.com
-HOST-SUFFIX,kugou.com
-HOST-SUFFIX,kuwo.cn
-USER-AGENT,%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*
-#  与 LeTV 共 1 条规则重复
-HOST-SUFFIX,letv.com
-#  与 Migu 共 5 条规则重复
-HOST-SUFFIX,cmvideo.cn
-HOST-SUFFIX,migu.cn
-HOST-SUFFIX,miguvideo.com
-USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
-USER-AGENT,MiguVideo*
-#  与 Sohu 共 3 条规则重复
-HOST-SUFFIX,itc.cn
-HOST-SUFFIX,sohu.com
-HOST-SUFFIX,sohu.com.cn
-#  与 TaiheMusic 共 2 条规则重复
-HOST-SUFFIX,qianqian.com
-USER-AGENT,baiduyinyue
-#  与 XiamiMusic 共 4 条规则重复
-HOST-SUFFIX,xiami.com
-HOST-SUFFIX,xiami.net
-USER-AGENT,walkman*
-USER-AGENT,xiami*
-#  与 YYeTs 共 7 条规则重复
-HOST-SUFFIX,jstucdn.com
-HOST-SUFFIX,zimuzu.io
-HOST-SUFFIX,zimuzu.tv
-HOST-SUFFIX,zmz2019.com
-HOST-SUFFIX,zmzapi.com
-HOST-SUFFIX,zmzapi.net
-HOST-SUFFIX,zmzfile.com

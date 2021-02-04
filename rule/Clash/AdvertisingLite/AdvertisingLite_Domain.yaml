@@ -1,12 +1,12 @@
 # NAME: 
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-04 02:28:13.389074
+# UPDATED: 2021-02-04 09:34:57.453789
 # DOMAIN-KEYWORD: 27
 # DOMAIN-SUFFIX: 15241
-# DOMAIN: 15594
+# DOMAIN: 15600
 # IP-CIDR: 192
-# TOTAL: 31054
+# TOTAL: 31060
 payload:
   - '0.up.qingdaonews.com'
   - '00-gov.cn'
@@ -6714,6 +6714,7 @@ payload:
   - 'hjklf.com'
   - 'hkhotpewfxr.com'
   - 'hkoxlirf.com'
+  - 'hlads.com'
   - 'hlitvetlw.com'
   - 'hljdnserror1.wo.com.cn'
   - 'hljdnserror2.wo.com.cn'
@@ -7908,6 +7909,7 @@ payload:
   - 'layerloop.com'
   - 'lb.usemaxserver.de'
   - 'lcknokgqhwnfkr.com'
+  - 'lcllwonupseu.com'
   - 'lcolevwciuwj.com'
   - 'lcvfar.com'
   - 'lcwfab1.com'
@@ -10397,6 +10399,7 @@ payload:
   - 'plified.pro'
   - 'plinx.net'
   - 'plocap.com'
+  - 'plopx.com'
   - 'plsdrct2.me'
   - 'plufdsa.com'
   - 'plugerr.com'
@@ -11433,6 +11436,7 @@ payload:
   - 'rktch.com'
   - 'rktu.com'
   - 'rlog.video.qq.com'
+  - 'rlxqaczszvjvp.com'
   - 'rmbn.net'
   - 'rmkflouh.com'
   - 'rmpad.imtt.qq.com'
@@ -12625,6 +12629,7 @@ payload:
   - 'sspicy.ru'
   - 'sspmiaoshuo.cn-hangzhou.log.aliyuncs.com'
   - 'sspsky.com'
+  - 'sssyabhje.com'
   - 'st.ipornia.com'
   - 'stack-sonar.com'
   - 'stackadapt.com'
@@ -15329,6 +15334,7 @@ payload:
   - 'ynopkisq.com'
   - 'ynuf.aliapp.org'
   - 'ynuf.alipay.com'
+  - 'ynvwvckgqich.com'
   - 'ynxerecrbihujf.com'
   - 'ynyfcz.cn'
   - 'yobihost.com'

@@ -1,24 +1,5 @@
 # NAME:  规则重复情况
 # AUTHOR: 
 # GITHUB: 
-# UPDATED: 2021-02-04 02:28:22.496456
+# UPDATED: 2021-02-04 09:35:06.791896
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
-#  与 Proxy 共 6 条规则重复
-DOMAIN-SUFFIX,bigbigshop.com
-DOMAIN-SUFFIX,mytvsuper.com
-DOMAIN-SUFFIX,tvb.com
-DOMAIN-SUFFIX,tvbanywhere.com
-DOMAIN-SUFFIX,tvbusa.com
-DOMAIN-SUFFIX,tvbweekly.com
-#  与 Global 共 7 条规则重复
-DOMAIN-SUFFIX,bigbigshop.com
-DOMAIN-SUFFIX,mytvsuper.com
-DOMAIN-SUFFIX,tvb.com
-DOMAIN-SUFFIX,tvbanywhere.com
-DOMAIN-SUFFIX,tvbusa.com
-DOMAIN-SUFFIX,tvbweekly.com
-USER-AGENT,mytv*
-#  与 GlobalMedia 共 3 条规则重复
-DOMAIN-SUFFIX,mytvsuper.com
-DOMAIN-SUFFIX,tvb.com
-USER-AGENT,mytv*
