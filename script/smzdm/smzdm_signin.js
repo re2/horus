@@ -235,7 +235,6 @@ function WebGetCurrentInfo(smzdmCookie){
             magicJS.notify(webCheckinErr);
           }
           else{
-            magicJS.logInfo(webCheckinStr);
             subTitle = webCheckinStr;
 
             // 查询签到后用户数据
