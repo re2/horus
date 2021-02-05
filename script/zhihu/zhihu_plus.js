@@ -88,8 +88,8 @@ let magicJS = MagicJS(scriptName, "INFO");
             let flag = !(
               element['card_type'] === 'slot_event_card' 
               || element.hasOwnProperty('ad') 
-              || element['extra']['type'] === 'drama' 
-              || element['extra']['type'] == 'zvideo'
+              // || element['extra']['type'] === 'drama' 
+              // || element['extra']['type'] == 'zvideo'
             );
             try{
               if (flag === true && 
