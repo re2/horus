@@ -1,7 +1,7 @@
 const scriptName = '知乎助手';
 const blocked_users_key = 'zhihu_blocked_users';
 const current_userinfo_key = 'zhihu_current_userinfo';
-let magicJS = MagicJS(scriptName, "DEBUG");
+let magicJS = MagicJS(scriptName, "INFO");
 
 ;(()=>{
   let body = null;
@@ -50,10 +50,10 @@ let magicJS = MagicJS(scriptName, "DEBUG");
         try{
           let obj = JSON.parse(magicJS.response.body);
           magicJS.logDebug(`用户登录用户信息，接口响应：${magicJS.response.body}`);
-          if (obj.hasOwnProperty('id') && obj.hasOwnProperty('vip_info') && obj['vip_info'].hasOwnProperty('is_vip')){
+          if (obj && obj['id'] && obj.hasOwnProperty('vip_info') && obj['vip_info'].hasOwnProperty('is_vip')){
             user_info = {
               id: obj['id'],
-              is_vip: obj['vip_info']['is_vip']
+              is_vip: obj['vip_info']['is_vip']? obj['vip_info']['is_vip'] !== undefined : false
             };
             magicJS.logDebug(`当前用户id：${obj['id']}，是否为VIP：${obj['vip_info']['is_vip']}`);
           }
