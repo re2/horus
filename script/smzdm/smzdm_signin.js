@@ -236,13 +236,19 @@ function WebGetCurrentInfo(smzdmCookie){
           }
           else{
             magicJS.logInfo(webCheckinStr);
-            subTitle = webCheckinErr;
+            subTitle = webCheckinStr;
 
             // 查询签到后用户数据
             await magicJS.sleep(3000); 
             let [, , afterVIPLevel, afterHasCheckin, afterCheckinNum, afterNotice, , , afterPoint, afterGold, afterSilver] = await WebGetCurrentInfo(smzdmCookie);
             let [, afteruserPointList, , afterExp, ,afterPrestige, ] = await WebGetCurrentInfoNewVersion(smzdmCookie);
             magicJS.logInfo(`昵称：${nickName}\nWeb端签到状态：${afterHasCheckin}\n签到后等级${afterVIPLevel}，积分${afterPoint}，经验${afterExp}，金币${afterGold}，碎银子${afterSilver}，未读消息${afterNotice}`);
+
+            if (beforeHasCheckin && afterHasCheckin){
+              webCheckinStr = 'Web端重复签到';
+            }
+
+            if (!!afterCheckinNum) subTitle += ` 已签${afterCheckinNum}天`;
 
             // 通知内容
             if (afterExp && beforeExp){
