@@ -10,31 +10,54 @@ let clickFavArticleMaxTimes = 7; // 好文收藏次数
 let magicJS = MagicJS(scriptName, "INFO");
 magicJS.unifiedPushUrl = magicJS.read('smzdm_unified_push_url') || magicJS.read('magicjs_unified_push_url');
 
-// Web端登录获取Cookie
-function GetWebCookie() {
-  let match_str = magicJS.request.headers.Cookie.match(/sess=[^\s]*;/);
-  session_id = match_str != null ? match_str[0] : null;
-  // 获取新的session_id
-  if (session_id) {
-    // 获取持久化的session_id
-    old_session_id = magicJS.read(smzdmSessionKey) != null ? magicJS.read(smzdmSessionKey) : '';
-    // 获取新的session_id
-    console.log({ 'old_session_id': old_session_id, 'new_session_id': session_id });
-    // 比较差异
-    if (old_session_id == session_id) {
-      magicJS.logInfo('网页版cookie没有变化，无需更新。');
-    }
-    else {
-      // 持久化cookie
-      magicJS.write(smzdmSessionKey, session_id);
-      magicJS.write(smzdmCookieKey, magicJS.request.headers.Cookie);
-      magicJS.logInfo('写入cookie ' + magicJS.request.headers.Cookie);
-      magicJS.notify(scriptName, '', '🎈获取cookie成功！！');
-    }
-  }
-  else {
-    magicJS.logError('没有读取到有效的Cookie信息。');
-  }
+// 获取点击去购买和点值的链接
+function GetProductList(){
+  return new Promise((resolve, reject) =>{
+    let getGoBuyOptions ={
+      url : 'https://faxian.smzdm.com/',
+      headers : {
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+        'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+        'Cache-Control': 'max-age=0',
+        'Connection': 'keep-alive',
+        'Host': 'www.smzdm.com',
+        'User-Agent':'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36 Edg/84.0.522.52'
+      },
+      body: ''
+    };
+    magicJS.get(getGoBuyOptions, (err, resp, data)=>{
+      if (err){
+        reject(err);
+      }
+      else{
+        // 获取每日去购买的链接
+        let goBuyList = data.match(/https?:\/\/go\.smzdm\.com\/[0-9a-zA-Z]*\/[^"']*_0/ig);
+        if (!!goBuyList){
+          // 去除重复的商品链接
+          let goBuyDict = {};
+          goBuyList.forEach(element => {
+            let productCode = element.match(/https?:\/\/go\.smzdm\.com\/[0-9a-zA-Z]*\/([^"']*_0)/)[1]
+            goBuyDict[productCode] = element;
+          });
+          goBuyList = Object.values(goBuyDict);
+          magicJS.logDebug(`当前获取的每日去购买链接: ${JSON.stringify(goBuyList)}`);
+        }
+        else{
+          goBuyList = []
+        }
+
+        // 获取每日点值的链接
+        let productUrlList = data.match(/https?:\/\/www\.smzdm\.com\/p\/[0-9]*/ig);
+        let likeProductList = []
+        if (!!productUrlList){
+          productUrlList.forEach(element => {
+            likeProductList.push(element.match(/https?:\/\/www\.smzdm\.com\/p\/([0-9]*)/)[1]);
+          });
+        }
+        resolve([goBuyList, likeProductList]);
+      }
+    });
+  })
 }
 
 // 获取点赞和收藏的好文Id
@@ -272,65 +295,6 @@ function LotteryDraw(cookie, activeId='7mV1llk1l9'){
   })
 }
 
-// Web端签到
-function WebSignin(cookie) {
-  return new Promise((resolve, reject) => {
-    let ts = Date.parse(new Date());
-    let options = {
-      url : `https://zhiyou.smzdm.com/user/checkin/jsonp_checkin?callback=jQuery11240${randomStr()}_${ts}&_=${ts+3}`,
-      headers : {
-        'Accept': '*/*',
-        'Accept-Language': 'zh-cn',
-        'Connection': 'keep-alive',
-        'Host': 'zhiyou.smzdm.com',
-        'Referer': 'https://www.smzdm.com/',
-        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Safari/605.1.15',
-        'Cookie': cookie
-      }
-    };
-    magicJS.get(options, (err, resp, data)=>{
-      if (err) {
-        magicJS.logWarning('Web端签到出现异常:' + err);
-        reject('Web端签到异常');
-      }
-      else{
-        try {
-          let checkin_data = /\((.*)\)/.exec(data);
-          if (checkin_data){
-            let checkin_obj = JSON.parse(checkin_data[1]);
-            if (!!checkin_obj && checkin_obj.hasOwnProperty('error_code')){
-              if (checkin_obj.error_code == -1){
-                magicJS.logWarning(`Web端签到出现异常，网络繁忙，接口返回：${data}`);
-                reject( 'Web端网络繁忙');
-              }
-              else if (checkin_obj['error_code'] == 99){
-                magicJS.logWarning('Web端Cookie已过期');
-                resolve([false, 'Web端Cookie已过期']);
-              }
-              else if (checkin_obj['error_code'] == 0){
-                magicJS.logInfo('Web端签到成功');
-                resolve([true, 'Web端签到成功']);
-              }
-              else{
-                magicJS.logWarning(`Web端签到出现异常，接口返回数据不合法：${data}`);
-                reject('Web端返回错误');
-              }
-            }
-          }
-          else{
-            magicJS.logWarning(`Web端签到出现异常，接口返回数据不存在：${data}`);
-            reject('Web端签到异常');
-          }
-        }
-        catch (err){
-          magicJS.logWarning(`Web端签到出现异常，代码执行异常：${err}，接口返回：${data}`);
-          reject('Web端执行异常');
-        }
-      }
-    })
-  })
-}
-
 // 获取用户信息，新版
 function WebGetCurrentInfoNewVersion(smzdmCookie){
   return new Promise(resolve =>{
@@ -441,6 +405,12 @@ function WebGetCurrentInfo(smzdmCookie){
   }
   else{
     try{
+      // 任务完成情况
+      let clickGoBuyTimes = 0;
+      let clickLikePrductTimes = 0;
+      let clickLikeArticleTimes = 0;
+      let clickFavArticleTimes = 0;
+
       // 查询签到前用户数据
       let [nickName, avatar, beforeVIPLevel, beforeHasCheckin, , beforeNotice, , ,beforePoint, beforeGold, beforeSilver] = await WebGetCurrentInfo(smzdmCookie);
       if (!nickName){
@@ -478,7 +448,7 @@ function WebGetCurrentInfo(smzdmCookie){
           if (clickLikeProductList.length > 0){
             for (let i=0;i<clickLikeProductList.length;i++){
               await ClickLikeProduct(smzdmCookie, clickLikeProductList[i]);
-              magicJS.logInfo(`完成第${i+1}次“好价点值”任务，好价Id：\n${clickLikeProductList[i]}`);
+              magicJS.logInfo(`完成第${i+1}次“好价点值”任务，好价Id：${clickLikeProductList[i]}`);
               clickLikePrductTimes += 1;
               await magicJS.sleep(3100);
             }
@@ -491,7 +461,7 @@ function WebGetCurrentInfo(smzdmCookie){
           if (likeArticleList.length > 0){
             for (let i=0;i<likeArticleList.length;i++){
               await ClickLikeArticle(smzdmCookie, likeArticleList[i]);
-              magicJS.logInfo(`完成第${i+1}次“好文点赞”任务，好文Id：\n${likeArticleList[i]}`);
+              magicJS.logInfo(`完成第${i+1}次“好文点赞”任务，好文Id：${likeArticleList[i]}`);
               clickLikeArticleTimes += 1;
               await magicJS.sleep(3100);
             }
@@ -505,14 +475,14 @@ function WebGetCurrentInfo(smzdmCookie){
             // 好文收藏
             for (let i=0;i<favArticleList.length;i++){
               await ClickFavArticle(smzdmCookie, articleList[i]);
-              magicJS.logInfo(`完成第${i+1}次“好文收藏”任务，好文Id：\n${articleList[i]}`);
+              magicJS.logInfo(`完成第${i+1}次“好文收藏”任务，好文Id：${articleList[i]}`);
               clickFavArticleTimes += 1;
               await magicJS.sleep(3100);
             }
             // 取消收藏
             for (let i=0;i<favArticleList.length;i++){
               await ClickFavArticle(smzdmCookie, articleList[i]);
-              magicJS.logInfo(`取消第${i+1}次“好文收藏”任务的好文，好文Id：\n${articleList[i]}`);
+              magicJS.logInfo(`取消第${i+1}次“好文收藏”任务的好文，好文Id：${articleList[i]}`);
               await magicJS.sleep(3100);
             }
           }
@@ -526,12 +496,6 @@ function WebGetCurrentInfo(smzdmCookie){
         let [, , afterVIPLevel, afterHasCheckin, afterCheckinNum, afterNotice, , , afterPoint, afterGold, afterSilver] = await WebGetCurrentInfo(smzdmCookie);
         let [, afteruserPointList, , afterExp, ,afterPrestige, ] = await WebGetCurrentInfoNewVersion(smzdmCookie);
         magicJS.logInfo(`昵称：${nickName}\nWeb端签到状态：${afterHasCheckin}\n签到后等级${afterVIPLevel}，积分${afterPoint}，经验${afterExp}，金币${afterGold}，碎银子${afterSilver}，未读消息${afterNotice}`);
-
-        if (beforeHasCheckin && afterHasCheckin){
-          webCheckinStr = 'Web端重复签到';
-        }
-
-        if (!!afterCheckinNum) subTitle += ` 已签${afterCheckinNum}天`;
 
         // 通知内容
         if (afterExp && beforeExp){
