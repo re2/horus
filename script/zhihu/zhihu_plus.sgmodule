@@ -6,6 +6,9 @@
 # 知乎广告拦截
 RULE-SET,https://raw.githubusercontent.com/codetracer/horus/master/script/zhihu/zhihu_remove_ads.list,REJECT
 
+[URL Rewrite]
+^https?:\/\/118\.89\.204\.198(:\d+)?\/resolv\?host=api\.zhihu\.com - reject
+
 [Map Local]
 # 知乎去除最常访问
 ^https?:\/\/api\.zhihu\.com\/moments\/recent data="https://raw.githubusercontent.com/codetracer/horus/master/blank/blank_dict.json"
