@@ -89,8 +89,10 @@ function WebSignin(cookie) {
               }
             }
           }
-          magicJS.logWarning(`Web端签到出现异常，接口返回数据不合法：${data}`);
-          reject('Web端签到异常');
+          else{
+            magicJS.logWarning(`Web端签到出现异常，接口返回数据不存在：${data}`);
+            reject('Web端签到异常');
+          }
         }
         catch (err){
           magicJS.logWarning(`Web端签到出现异常，代码执行异常：${err}，接口返回：${data}`);
@@ -211,61 +213,60 @@ function WebGetCurrentInfo(smzdmCookie){
 
     if (!!smzdmCookie === false){
       magicJS.logWarning('没有读取到什么值得买有效cookie，请访问zhiyou.smzdm.com进行登录');
-      magicJS.notify('❓没有获取到Web端Cookie，请先进行登录。');
+      magicJS.notify(scriptName, '', '❓没有获取到Web端Cookie，请先进行登录。');
     }
     else{
       try{
         // 查询签到前用户数据
         let [nickName, avatar, beforeVIPLevel, beforeHasCheckin, , beforeNotice, , ,beforePoint, beforeGold, beforeSilver] = await WebGetCurrentInfo(smzdmCookie);
         if (!nickName){
-          magicJS.notify('❌Cookie过期或接口变化，请尝试重新登录');
+          magicJS.notify(scriptName, '', '❌Cookie过期或接口变化，请尝试重新登录');
           magicJS.done();
-          return
         }
+        else{
+          let [, , , beforeExp, , beforePrestige, ] = await WebGetCurrentInfoNewVersion(smzdmCookie);
+          magicJS.logInfo(`昵称：${nickName}\nWeb端签到状态：${beforeHasCheckin}\n签到前等级${beforeVIPLevel}，积分${beforePoint}，经验${beforeExp}，金币${beforeGold}，碎银子${beforeSilver}， 未读消息${beforeNotice}`);
+  
+          // Web端签到及重试
+          let webCheckinRetry = magicJS.retry(WebSignin, 5, 500);
+          let [webCheckinErr,[webCheckinResult, webCheckinStr]] = await magicJS.attempt(webCheckinRetry(smzdmCookie), [false, 'Web端签到异常']);
+          if (webCheckinErr){
+            magicJS.logWarning('Web端签到异常：' + webCheckinErr);
+            magicJS.notify(webCheckinErr);
+          }
+          else{
+            magicJS.logInfo(webCheckinStr);
+            subTitle = webCheckinErr;
 
-        let [, , , beforeExp, , beforePrestige, ] = await WebGetCurrentInfoNewVersion(smzdmCookie);
-        magicJS.logInfo(`昵称：${nickName}\nWeb端签到状态：${beforeHasCheckin}\n签到前等级${beforeVIPLevel}，积分${beforePoint}，经验${beforeExp}，金币${beforeGold}，碎银子${beforeSilver}， 未读消息${beforeNotice}`);
+            // 查询签到后用户数据
+            await magicJS.sleep(3000); 
+            let [, , afterVIPLevel, afterHasCheckin, afterCheckinNum, afterNotice, , , afterPoint, afterGold, afterSilver] = await WebGetCurrentInfo(smzdmCookie);
+            let [, afteruserPointList, , afterExp, ,afterPrestige, ] = await WebGetCurrentInfoNewVersion(smzdmCookie);
+            magicJS.logInfo(`昵称：${nickName}\nWeb端签到状态：${afterHasCheckin}\n签到后等级${afterVIPLevel}，积分${afterPoint}，经验${afterExp}，金币${afterGold}，碎银子${afterSilver}，未读消息${afterNotice}`);
 
-        // Web端签到及重试
-        let webCheckinRetry = magicJS.retry(WebSignin, 5, 500);
-        let [webCheckinErr,[webCheckinResult, webCheckinStr]] = await magicJS.attempt(webCheckinRetry(smzdmCookie), [false, 'Web端签到异常']);
-        if (webCheckinErr){
-          magicJS.logWarning('Web端签到异常：' + webCheckinErr);
-          magicJS.notify(webCheckinErr);
-          magicJS.done();
-          return
+            // 通知内容
+            if (afterExp && beforeExp){
+              let addPoint = afterPoint - beforePoint;
+              let addExp = afterExp - beforeExp;
+              let addGold = afterGold - beforeGold;
+              // let addPrestige = afterPrestige - beforePrestige;
+              let addSilver = afterSilver - beforeSilver;
+              content += !!content? '\n' : '';
+              content += '积分' + afterPoint + (addPoint > 0 ? '(+' + addPoint + ')' : '') +  
+              ' 经验' + afterExp + (addExp > 0 ? '(+' + addExp + ')' : '') + 
+              ' 金币' + afterGold + (addGold > 0 ? '(+' + addGold + ')' : '') + '\n' +
+              '碎银子' + afterSilver + (addSilver > 0 ? '(+' + addSilver + ')' : '') +
+              // ' 威望' + afterPrestige + (addPrestige > 0 ? '(+' + addPrestige + ')' : '') + 
+              ' 未读消息' + afterNotice;
+            }
+            title = `${scriptName} - ${nickName} V${afterVIPLevel}`;
+            magicJS.notify(title, subTitle, content, {'media-url': avatar});
+          }
         }
-
-        magicJS.logInfo(webCheckinStr);
-        
-        // 查询签到后用户数据
-        await magicJS.sleep(3000); 
-        let [, , afterVIPLevel, afterHasCheckin, afterCheckinNum, afterNotice, , , afterPoint, afterGold, afterSilver] = await WebGetCurrentInfo(smzdmCookie);
-        let [, afteruserPointList, , afterExp, ,afterPrestige, ] = await WebGetCurrentInfoNewVersion(smzdmCookie);
-        magicJS.logInfo(`昵称：${nickName}\nWeb端签到状态：${afterHasCheckin}\n签到后等级${afterVIPLevel}，积分${afterPoint}，经验${afterExp}，金币${afterGold}，碎银子${afterSilver}，未读消息${afterNotice}`);
-
-
-        // 通知内容
-        if (afterExp && beforeExp){
-          let addPoint = afterPoint - beforePoint;
-          let addExp = afterExp - beforeExp;
-          let addGold = afterGold - beforeGold;
-          // let addPrestige = afterPrestige - beforePrestige;
-          let addSilver = afterSilver - beforeSilver;
-          content += !!content? '\n' : '';
-          content += '积分' + afterPoint + (addPoint > 0 ? '(+' + addPoint + ')' : '') +  
-          ' 经验' + afterExp + (addExp > 0 ? '(+' + addExp + ')' : '') + 
-          ' 金币' + afterGold + (addGold > 0 ? '(+' + addGold + ')' : '') + '\n' +
-          '碎银子' + afterSilver + (addSilver > 0 ? '(+' + addSilver + ')' : '') +
-          // ' 威望' + afterPrestige + (addPrestige > 0 ? '(+' + addPrestige + ')' : '') + 
-          ' 未读消息' + afterNotice;
-        }
-        title = `${scriptName} - ${nickName} V${afterVIPLevel}`;
-        magicJS.notify(title, subTitle, content, {'media-url': avatar});
       }
       catch(err){
         magicJS.logError(`签到出现异常：${err}`);
-        magicJS.notify('❌签到出现异常，请查阅日志');
+        magicJS.notify(scriptName, '', '❌签到出现异常，请查阅日志');
       }
     }
   }
