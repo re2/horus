@@ -512,6 +512,21 @@ function WebGetCurrentInfo(smzdmCookie){
           // ' 威望' + afterPrestige + (addPrestige > 0 ? '(+' + addPrestige + ')' : '') + 
           ' 未读消息' + afterNotice;
         }
+
+        content += `\n点值 ${clickLikePrductTimes}/${clickLikeProductMaxTimes} 去购买 ${clickGoBuyTimes}/${clickGoBuyMaxTimes}\n点赞 ${clickLikeArticleTimes}/${clickLikeArticleMaxTimes} 收藏 ${clickLikeArticleTimes}/${clickFavArticleTimes}`
+
+        content += !!content? '\n' : '';
+        if (afteruserPointList.length > 0){
+          content += '用户近期经验变动情况(有延迟)：'
+          afteruserPointList.forEach(element => {
+            content += `\n${element['time']} ${element['detail']}`
+          });
+          content += '\n如经验值无变动，请更新Cookie。';
+        }
+        else{
+          content += '没有获取到用户近期的经验变动情况'
+        }
+        
         title = `${scriptName} - ${nickName} V${afterVIPLevel}`;
         magicJS.notify(title, subTitle, content, {'media-url': avatar});
       }
