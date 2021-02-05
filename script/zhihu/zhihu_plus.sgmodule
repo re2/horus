@@ -7,7 +7,7 @@
 RULE-SET,https://raw.githubusercontent.com/codetracer/horus/master/script/zhihu/zhihu_remove_ads.list,REJECT
 
 [URL Rewrite]
-^https?:\/\/118\.89\.204\.198(:\d+)?\/resolv\?host=api\.zhihu\.com - reject
+^https?:\/\/118\.89\.204\.198(:\d+)?\/resolv\?host=.*api\.zhihu\.com - reject
 
 [Map Local]
 # 知乎去除最常访问
