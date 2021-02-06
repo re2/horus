@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-06 02:22:58.611547
+# UPDATED: 2021-02-06 10:24:22.724531
 # DOMAIN-KEYWORD: 60
 # DOMAIN-SUFFIX: 43008
-# DOMAIN: 21444
+# DOMAIN: 21445
 # IP-CIDR: 240
-# TOTAL: 64752
+# TOTAL: 64753
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.up.qingdaonews.com
@@ -19415,6 +19415,7 @@ payload:
   - DOMAIN,uktc.ijento.com
   - DOMAIN,uldeteggoc.com
   - DOMAIN,ulenulen.000webhostapp.com
+  - DOMAIN,ulife17yeter.com
   - DOMAIN,ulogs.bytefence.com
   - DOMAIN,ultimahacks.com
   - DOMAIN,ultimate-brandy.com

@@ -1,7 +1,7 @@
 # NAME: Gog
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-06 02:22:56.078734
+# UPDATED: 2021-02-06 10:24:19.331246
 # HOST-SUFFIX: 3
 # TOTAL: 3
 HOST-SUFFIX,gog-statics.com,Gog
