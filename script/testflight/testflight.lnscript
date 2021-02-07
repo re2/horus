@@ -1,0 +1,3 @@
+http-request ^https?:\/\/testflight\.apple\.com\/v2\/accounts\/.*\/apps\/\d*/builds/\d*/install ,requires-body=true, timeout=10, tag=TestFlight_下载修正,script-path=https://raw.githubusercontent.com/codetracer/horus/master/script/testflight/testflight.js,enabled=true
+
+hostname=testflight.apple.com
