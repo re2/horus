@@ -49,7 +49,7 @@ function sign(cookie, ts, checkVal, activityCode, date){
           if (obj.code === 1 && obj.data.isSign === true){
             resolve('🎉恭喜，签到成功！！')
           }
-          else if (obj.code === 20001 && obj.msg.indexOf('未登录')){
+          else if (obj.code === 20001 && obj.msg.indexOf('未登录') >= 0){
             reject('❌签到失败，未登录或Cookie已过期，请查阅日志！');
           }
           else if (obj.code === 26017 && obj.msg === '重复签到'){
