@@ -1,7 +1,7 @@
 # NAME: 12306
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-07 02:22:02.001508
+# UPDATED: 2021-02-08 02:24:14.005042
 # HOST-SUFFIX: 3
 # TOTAL: 3
 HOST-SUFFIX,12306.cn,12306
