@@ -1,5 +1,5 @@
 const scriptName = 'Fa米家';
-const getCookieRegex = /^https?:\/\/fmapp\.chinafamilymart\.com\.cn\/api\/app\/market\/member\/(signin\/usersign|sign\/current)/;
+const getCookieRegex = /^https?:\/\/fmapp\.chinafamilymart\.com\.cn\/api\/app\/market\/member\/info/;
 const startAdRegex = /^https?:\/\/fmapp\.chinafamilymart\.com\.cn\/api\/app\/market\/start\/ad/;
 const famijiaCookieKey = 'famijia_checkin_cookie';
 const famijiaDeviceIdKey = 'famijia_device_id_cookie';
@@ -197,12 +197,14 @@ function GetMili(cookie, deviceId){
 }
 
 ;(async()=>{
-  if (magicJS.isRequest && getCookieRegex.test(magicJS.request.url)){
+  if (magicJS.isResponse && getCookieRegex.test(magicJS.request.url)){
+    let obj = JSON.parse(magicJS.response.body);
+    let memCode = obj.data.memberCode;
     let cookie = magicJS.request.headers.token;
-    let hisCookie = magicJS.read(famijiaCookieKey);
+    let hisCookie = magicJS.read(famijiaCookieKey, memCode);
     magicJS.write(famijiaDeviceIdKey, magicJS.request.headers.deviceId);
     if (cookie !== hisCookie){
-      magicJS.write(famijiaCookieKey, cookie);
+      magicJS.write(famijiaCookieKey, cookie, memCode);
       magicJS.logInfo(`旧的Cookie：${hisCookie}\n新的Cookie：${cookie}\nCookie不同，写入新的Cookie成功！`);
       magicJS.notify('Cookie写入成功！！');
     }
