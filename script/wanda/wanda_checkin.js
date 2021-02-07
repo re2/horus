@@ -5,7 +5,7 @@ const cookieKey = 'wanda_checkin_cookie';
 const activityCodeKey = 'wanda_activitycode';
 const activityCode = '95791112';
 const wandaKey = 'Wanda1_3B3AA12B0145E1982F282BEDD8A3305B89A9811280C0B8CC3A6A60D81022E4903';
-let magicJS = MagicJS(scriptName, "INFO");
+let magicJS = MagicJS(scriptName, "DEBUG");
 magicJS.unifiedPushUrl = magicJS.read('wanda_unified_push_url') || magicJS.read('magicjs_unified_push_url');
 
 function sign(cookie, ts, checkVal, activityCode, date){
