@@ -5,7 +5,7 @@ const cookieKey = 'wanda_checkin_cookie';
 const activityCodeKey = 'wanda_activitycode';
 const activityCode = '95791112';
 const wandaKey = 'Wanda1_3B3AA12B0145E1982F282BEDD8A3305B89A9811280C0B8CC3A6A60D81022E4903';
-let magicJS = MagicJS(scriptName, "DEBUG");
+let magicJS = MagicJS(scriptName, "INFO");
 magicJS.unifiedPushUrl = magicJS.read('wanda_unified_push_url') || magicJS.read('magicjs_unified_push_url');
 
 function sign(cookie, ts, checkVal, activityCode, date){
@@ -49,14 +49,14 @@ function sign(cookie, ts, checkVal, activityCode, date){
           if (obj.code === 1 && obj.data.isSign === true){
             resolve('🎉恭喜，签到成功！！')
           }
-          else if (obj.code === 20001){
-            resolve('🎉今日已签到过了，不要重复签到哦！！')
+          else if (obj.code === 20001 && obj.msg.indexOf('未登录')){
+            reject('❌签到失败，未登录或Cookie已过期，请查阅日志！');
           }
           else if (obj.code === 26017 && obj.msg === '重复签到'){
             resolve('🎉今日已签到过了，不要重复签到哦！！')
           }
-          else if (obj.code === 20001 && obj.msg.indexOf('未登录')){
-            reject('❌签到失败，未登录或Cookie已过期，请查阅日志！');
+          else if (obj.code === 20001){
+            resolve('🎉今日已签到过了，不要重复签到哦！！')
           }
           else{
             magicJS.logError(`签到失败，响应异常：${data}`);
