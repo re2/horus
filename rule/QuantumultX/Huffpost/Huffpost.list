@@ -1,7 +1,7 @@
 # NAME: Huffpost
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-08 02:24:13.700880
+# UPDATED: 2021-02-09 02:24:08.491271
 # HOST-SUFFIX: 18
 # TOTAL: 18
 HOST-SUFFIX,huffingtonpost.ca,Huffpost
