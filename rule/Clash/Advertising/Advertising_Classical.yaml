@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-09 02:24:11.578573
+# UPDATED: 2021-02-09 17:10:18.109956
 # DOMAIN-KEYWORD: 60
 # DOMAIN-SUFFIX: 43104
-# DOMAIN: 21095
+# DOMAIN: 21107
 # IP-CIDR: 240
-# TOTAL: 64499
+# TOTAL: 64511
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.up.qingdaonews.com
@@ -279,6 +279,7 @@ payload:
   - DOMAIN,4.whereinpiemonte.com
   - DOMAIN,4.whereinsardegna.com
   - DOMAIN,4.whereinsicilia.com
+  - DOMAIN,4.whereintoscana.com
   - DOMAIN,40-sm.000webhostapp.com
   - DOMAIN,4006868488.cn
   - DOMAIN,403.hqhost.net
@@ -3206,7 +3207,6 @@ payload:
   - DOMAIN,appboy-images.com
   - DOMAIN,appcaptcha.com
   - DOMAIN,appcdn.tvpage.com
-  - DOMAIN,appcheatsonline.com
   - DOMAIN,appclick.net
   - DOMAIN,appclick.rqmob.com
   - DOMAIN,appdatum.com
@@ -5966,7 +5966,6 @@ payload:
   - DOMAIN,cope.it
   - DOMAIN,copperchickens.com
   - DOMAIN,copybinaryprofits.com
-  - DOMAIN,copyrightinstitute.org
   - DOMAIN,coquine-dispo.com
   - DOMAIN,corapersianas.com
   - DOMAIN,core-queerclick.netdna-ssl.com
@@ -6801,6 +6800,7 @@ payload:
   - DOMAIN,dispensablestranger.com
   - DOMAIN,display.auditude.com
   - DOMAIN,display.qc.coccoc.com
+  - DOMAIN,displayadsmedia.com
   - DOMAIN,displaypagerank.com
   - DOMAIN,dist.belnk.com
   - DOMAIN,distancephotography.com
@@ -7360,7 +7360,6 @@ payload:
   - DOMAIN,eksenard.com
   - DOMAIN,ekszgamesoft.com
   - DOMAIN,elasticchange.com
-  - DOMAIN,elb-academy.com
   - DOMAIN,elcamellon.com
   - DOMAIN,elderlyscissors.com
   - DOMAIN,elderlytown.com
@@ -8712,6 +8711,7 @@ payload:
   - DOMAIN,gamersgiveaways.com
   - DOMAIN,gamerspro.net
   - DOMAIN,gamerz123.com
+  - DOMAIN,gamerzhack.com
   - DOMAIN,games-extensions24.com
   - DOMAIN,games-forfree.net
   - DOMAIN,games-hacked.com
@@ -9998,6 +9998,7 @@ payload:
   - DOMAIN,humanverify.net
   - DOMAIN,humdrumhat.com
   - DOMAIN,humlieschoolofmusic.com
+  - DOMAIN,humorpool.com
   - DOMAIN,hungaryexpres.com
   - DOMAIN,hungergame.com
   - DOMAIN,hunshop.natureflower.com
@@ -10172,6 +10173,7 @@ payload:
   - DOMAIN,ihavetohave.net
   - DOMAIN,ihearthelp.wpengine.com
   - DOMAIN,ihirehelp.com
+  - DOMAIN,ihsmrakit.com
   - DOMAIN,iiee-auh.org
   - DOMAIN,iiiion.000webhostapp.com
   - DOMAIN,iinsurvey.com
@@ -10337,6 +10339,7 @@ payload:
   - DOMAIN,imperiumfiles.com
   - DOMAIN,impishdesign.com
   - DOMAIN,impit.tradedouble.com
+  - DOMAIN,implant-han.com
   - DOMAIN,implantexpertsindia.com
   - DOMAIN,implicitfacts.com
   - DOMAIN,impliedscripting.com
@@ -10565,6 +10568,7 @@ payload:
   - DOMAIN,iolam.it
   - DOMAIN,ionergize.com
   - DOMAIN,ionk.000webhostapp.com
+  - DOMAIN,ionproxy.com
   - DOMAIN,ios-androidapp.com
   - DOMAIN,ios-game-hacks.com
   - DOMAIN,ios.fyber.com
@@ -10723,7 +10727,6 @@ payload:
   - DOMAIN,janagames.com
   - DOMAIN,janeaustenjoy.com
   - DOMAIN,janedoemain.com
-  - DOMAIN,jankessinger.com
   - DOMAIN,jankland.com
   - DOMAIN,janlschwartz.com
   - DOMAIN,jansiggs.com
@@ -10989,6 +10992,7 @@ payload:
   - DOMAIN,jvmuayuilxn.com
   - DOMAIN,jwpooleinc.com
   - DOMAIN,jx.cn
+  - DOMAIN,jx78.nblia.com
   - DOMAIN,jy.fucfg.com
   - DOMAIN,jyhaijiao.com
   - DOMAIN,jzclick.soso.com
@@ -12662,6 +12666,7 @@ payload:
   - DOMAIN,michaellarner.com
   - DOMAIN,michaelrichan.com
   - DOMAIN,michaelshop.net
+  - DOMAIN,michelebunch.com
   - DOMAIN,micheleharpsart.com
   - DOMAIN,michelletooker.com
   - DOMAIN,michelzappy.com
@@ -14344,6 +14349,7 @@ payload:
   - DOMAIN,pctconsulting.com
   - DOMAIN,pctelechargerjeux.net
   - DOMAIN,pcva5.manifest.auditude.com
+  - DOMAIN,pdf-telecharger.org
   - DOMAIN,pdflinkss.000webhostapp.com
   - DOMAIN,pdfsniper.com
   - DOMAIN,pdns.nudt.edu.cn
@@ -15221,7 +15227,6 @@ payload:
   - DOMAIN,pz0.3dn.mse.sogou.com
   - DOMAIN,q.azcentral.com
   - DOMAIN,q1-tdsge.com
-  - DOMAIN,q96healthybrain.com
   - DOMAIN,qa.stats.webs.com
   - DOMAIN,qaads.colombiaonline.com
   - DOMAIN,qadabra.com
@@ -19848,6 +19853,7 @@ payload:
   - DOMAIN,watchrugbystream.com
   - DOMAIN,watchthesenow.com
   - DOMAIN,waterandleaves.com
+  - DOMAIN,waterboi.com
   - DOMAIN,watergatespakohtao.com
   - DOMAIN,watermanwebs.com
   - DOMAIN,waterviewdistillery.com
@@ -20035,6 +20041,7 @@ payload:
   - DOMAIN,wggmaxxawkxu.com
   - DOMAIN,wgpartner.com
   - DOMAIN,whaleserver.com
+  - DOMAIN,whatdosquirrelseat.net
   - DOMAIN,whatisdataentry.com
   - DOMAIN,whatishotnow.net
   - DOMAIN,whatisthebestecig.com
@@ -20155,6 +20162,7 @@ payload:
   - DOMAIN,woojeoung.com
   - DOMAIN,wooplr.j8inn1zektoe.com
   - DOMAIN,wooptrk.com
+  - DOMAIN,woosungelec.com
   - DOMAIN,worchids.net
   - DOMAIN,wordbankads.com
   - DOMAIN,wordkeyhelper.com
@@ -20491,6 +20499,7 @@ payload:
   - DOMAIN,www35t.glam.com
   - DOMAIN,www39.71sise.com
   - DOMAIN,www4.ad.tomshardware.com
+  - DOMAIN,www4.bannerspace.com
   - DOMAIN,www4.clustrmaps.com
   - DOMAIN,www4.counter.bloke.com
   - DOMAIN,www4.glam.com
@@ -20711,6 +20720,7 @@ payload:
   - DOMAIN,xsell.6waves.com
   - DOMAIN,xslt.alexa.com
   - DOMAIN,xsso.anbtr.com
+  - DOMAIN,xsweb.pxuns.com
   - DOMAIN,xtainment.net
   - DOMAIN,xtrafficplus.com
   - DOMAIN,xtrarobotz.com
@@ -20892,6 +20902,7 @@ payload:
   - DOMAIN,ysbbcrypsc.com
   - DOMAIN,ysi.actonsoftware.com
   - DOMAIN,ysw.kffcww.com
+  - DOMAIN,yt-adblocker.com
   - DOMAIN,ytdhshoutidai.com
   - DOMAIN,ytdownloader.com
   - DOMAIN,ytqihang.com
@@ -21076,6 +21087,7 @@ payload:
   - DOMAIN,zoteromedia.com
   - DOMAIN,zous.szm.sk
   - DOMAIN,zoygroup.com
+  - DOMAIN,zr1.zeroredirect11.com
   - DOMAIN,zr9996bet.com
   - DOMAIN,zrosbqwecw.com
   - DOMAIN,zs.hniuzsjy.cn

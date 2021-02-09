@@ -1,7 +1,7 @@
 # NAME: AdvertisingTest 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-09 02:24:16.484455
+# UPDATED: 2021-02-09 17:10:22.857745
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 #  与 Hijacking 共 212 条规则重复
 HOST-SUFFIX,17gouwuba.com
@@ -2826,7 +2826,7 @@ HOST-SUFFIX,zs.dhl.de
 HOST-SUFFIX,zsi7.destinia.do
 HOST-SUFFIX,zyq2.destinia.sk
 HOST-SUFFIX,zz.bdstatic.com
-#  与 Advertising 共 58424 条规则重复
+#  与 Advertising 共 58431 条规则重复
 HOST,0.up.qingdaonews.com
 HOST,0001.2waky.com
 HOST,000lk3v.wcomhost.com
@@ -3024,6 +3024,7 @@ HOST,4.whereinmolise.com
 HOST,4.whereinpiemonte.com
 HOST,4.whereinsardegna.com
 HOST,4.whereinsicilia.com
+HOST,4.whereintoscana.com
 HOST,40-sm.000webhostapp.com
 HOST,4006868488.cn
 HOST,403.hqhost.net
@@ -4739,7 +4740,6 @@ HOST,apparelopolis.net
 HOST,appatualizar.com
 HOST,appcaptcha.com
 HOST,appcdn.tvpage.com
-HOST,appcheatsonline.com
 HOST,appgasstation.com
 HOST,apphackz.com
 HOST,appieid-verify.com
@@ -6783,7 +6783,6 @@ HOST,coopetrasam.com
 HOST,copaemprendedores.com
 HOST,cope.it
 HOST,copybinaryprofits.com
-HOST,copyrightinstitute.org
 HOST,corapersianas.com
 HOST,core-queerclick.netdna-ssl.com
 HOST,core.queerclick.com
@@ -7821,7 +7820,6 @@ HOST,ejyotish.com
 HOST,ekotastic.net
 HOST,eksenard.com
 HOST,ekszgamesoft.com
-HOST,elb-academy.com
 HOST,elcamellon.com
 HOST,eldirtysw01.inq.com
 HOST,eldirtysw02.inq.com
@@ -8946,6 +8944,7 @@ HOST,gamerscheatbook.com
 HOST,gamersdon.com
 HOST,gamersgiveaways.com
 HOST,gamerspro.net
+HOST,gamerzhack.com
 HOST,games-extensions24.com
 HOST,games-forfree.net
 HOST,games-hacked.com
@@ -9970,6 +9969,7 @@ HOST,humandemand.com
 HOST,humanorightswatch.org
 HOST,humanverify.net
 HOST,humlieschoolofmusic.com
+HOST,humorpool.com
 HOST,hungergame.com
 HOST,hunshop.natureflower.com
 HOST,hunterstyle24.com
@@ -10113,6 +10113,7 @@ HOST,ihacksncodes.com
 HOST,ihavetohave.net
 HOST,ihearthelp.wpengine.com
 HOST,ihirehelp.com
+HOST,ihsmrakit.com
 HOST,iiee-auh.org
 HOST,iiiion.000webhostapp.com
 HOST,iinsurvey.com
@@ -10219,6 +10220,7 @@ HOST,impactmobile.com
 HOST,imperialcheats.com
 HOST,imperiumfiles.com
 HOST,impishdesign.com
+HOST,implant-han.com
 HOST,implantexpertsindia.com
 HOST,implicitfacts.com
 HOST,impliedscripting.com
@@ -10382,6 +10384,7 @@ HOST,inyour.accountkit.com
 HOST,iolam.it
 HOST,ionergize.com
 HOST,ionk.000webhostapp.com
+HOST,ionproxy.com
 HOST,ios-androidapp.com
 HOST,ios-game-hacks.com
 HOST,iosandroidworld.com
@@ -10515,7 +10518,6 @@ HOST,jamthailand.com
 HOST,janagames.com
 HOST,janeaustenjoy.com
 HOST,janedoemain.com
-HOST,jankessinger.com
 HOST,jankland.com
 HOST,janlschwartz.com
 HOST,jansiggs.com
@@ -10746,6 +10748,7 @@ HOST,juxingguandao.com
 HOST,jvmuayuilxn.com
 HOST,jwpooleinc.com
 HOST,jx.cn
+HOST,jx78.nblia.com
 HOST,jy.fucfg.com
 HOST,jyhaijiao.com
 HOST,k-cheats.com
@@ -11972,6 +11975,7 @@ HOST,miarroba.com
 HOST,michaellarner.com
 HOST,michaelrichan.com
 HOST,michaelshop.net
+HOST,michelebunch.com
 HOST,micheleharpsart.com
 HOST,michelletooker.com
 HOST,michelzappy.com
@@ -13230,6 +13234,7 @@ HOST,pcpitstop.com
 HOST,pcsecurityshield.com
 HOST,pctconsulting.com
 HOST,pctelechargerjeux.net
+HOST,pdf-telecharger.org
 HOST,pdflinkss.000webhostapp.com
 HOST,pdfsniper.com
 HOST,pdstexas.net
@@ -13808,7 +13813,6 @@ HOST,pxjttrrk.com
 HOST,pyweidu.com
 HOST,pz0.3dn.mse.sogou.com
 HOST,q1-tdsge.com
-HOST,q96healthybrain.com
 HOST,qa.stats.webs.com
 HOST,qaads.colombiaonline.com
 HOST,qasimtablamaker.com
@@ -17095,6 +17099,7 @@ HOST,watchmovieonlinefull.com
 HOST,watchrugbystream.com
 HOST,watchthesenow.com
 HOST,waterandleaves.com
+HOST,waterboi.com
 HOST,watergatespakohtao.com
 HOST,watermanwebs.com
 HOST,waterviewdistillery.com
@@ -17219,6 +17224,7 @@ HOST,westhavenuniv.edu
 HOST,westsideindro.com
 HOST,wewgaming.com
 HOST,wggmaxxawkxu.com
+HOST,whatdosquirrelseat.net
 HOST,whatisdataentry.com
 HOST,whatisthebestecig.com
 HOST,whatsapphack.com
@@ -17303,6 +17309,7 @@ HOST,woodlawnwt.com
 HOST,woojeoung.com
 HOST,wooplr.j8inn1zektoe.com
 HOST,wooptrk.com
+HOST,woosungelec.com
 HOST,worchids.net
 HOST,wordbankads.com
 HOST,wordpresscom.skimlinks.com

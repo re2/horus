@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-09 02:24:06.041733
+# UPDATED: 2021-02-09 17:10:12.776355
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 60
 # DOMAIN-SUFFIX: 43104
-# DOMAIN: 21095
+# DOMAIN: 21107
 # IP-CIDR: 240
 # USER-AGENT: 1
 # URL-REGEX: 310
-# TOTAL: 64810
+# TOTAL: 64822
 0.nextyourcontent.com
 0.up.qingdaonews.com
 0001.2waky.com
@@ -281,6 +281,7 @@
 4.whereinpiemonte.com
 4.whereinsardegna.com
 4.whereinsicilia.com
+4.whereintoscana.com
 40-sm.000webhostapp.com
 4006868488.cn
 403.hqhost.net
@@ -3208,7 +3209,6 @@ appatualizar.com
 appboy-images.com
 appcaptcha.com
 appcdn.tvpage.com
-appcheatsonline.com
 appclick.net
 appclick.rqmob.com
 appdatum.com
@@ -5968,7 +5968,6 @@ copaemprendedores.com
 cope.it
 copperchickens.com
 copybinaryprofits.com
-copyrightinstitute.org
 coquine-dispo.com
 corapersianas.com
 core-queerclick.netdna-ssl.com
@@ -6803,6 +6802,7 @@ dispatcher.c360dn.com
 dispensablestranger.com
 display.auditude.com
 display.qc.coccoc.com
+displayadsmedia.com
 displaypagerank.com
 dist.belnk.com
 distancephotography.com
@@ -7362,7 +7362,6 @@ ekotastic.net
 eksenard.com
 ekszgamesoft.com
 elasticchange.com
-elb-academy.com
 elcamellon.com
 elderlyscissors.com
 elderlytown.com
@@ -8714,6 +8713,7 @@ gamersdon.com
 gamersgiveaways.com
 gamerspro.net
 gamerz123.com
+gamerzhack.com
 games-extensions24.com
 games-forfree.net
 games-hacked.com
@@ -10000,6 +10000,7 @@ humanorightswatch.org
 humanverify.net
 humdrumhat.com
 humlieschoolofmusic.com
+humorpool.com
 hungaryexpres.com
 hungergame.com
 hunshop.natureflower.com
@@ -10174,6 +10175,7 @@ ihacksncodes.com
 ihavetohave.net
 ihearthelp.wpengine.com
 ihirehelp.com
+ihsmrakit.com
 iiee-auh.org
 iiiion.000webhostapp.com
 iinsurvey.com
@@ -10339,6 +10341,7 @@ imperialcheats.com
 imperiumfiles.com
 impishdesign.com
 impit.tradedouble.com
+implant-han.com
 implantexpertsindia.com
 implicitfacts.com
 impliedscripting.com
@@ -10567,6 +10570,7 @@ inyour.accountkit.com
 iolam.it
 ionergize.com
 ionk.000webhostapp.com
+ionproxy.com
 ios-androidapp.com
 ios-game-hacks.com
 ios.fyber.com
@@ -10725,7 +10729,6 @@ jamthailand.com
 janagames.com
 janeaustenjoy.com
 janedoemain.com
-jankessinger.com
 jankland.com
 janlschwartz.com
 jansiggs.com
@@ -10991,6 +10994,7 @@ juxingguandao.com
 jvmuayuilxn.com
 jwpooleinc.com
 jx.cn
+jx78.nblia.com
 jy.fucfg.com
 jyhaijiao.com
 jzclick.soso.com
@@ -12664,6 +12668,7 @@ miarroba.com
 michaellarner.com
 michaelrichan.com
 michaelshop.net
+michelebunch.com
 micheleharpsart.com
 michelletooker.com
 michelzappy.com
@@ -14346,6 +14351,7 @@ pcsecurityshield.com
 pctconsulting.com
 pctelechargerjeux.net
 pcva5.manifest.auditude.com
+pdf-telecharger.org
 pdflinkss.000webhostapp.com
 pdfsniper.com
 pdns.nudt.edu.cn
@@ -15223,7 +15229,6 @@ pyweidu.com
 pz0.3dn.mse.sogou.com
 q.azcentral.com
 q1-tdsge.com
-q96healthybrain.com
 qa.stats.webs.com
 qaads.colombiaonline.com
 qadabra.com
@@ -19850,6 +19855,7 @@ watchmovieonlinefull.com
 watchrugbystream.com
 watchthesenow.com
 waterandleaves.com
+waterboi.com
 watergatespakohtao.com
 watermanwebs.com
 waterviewdistillery.com
@@ -20037,6 +20043,7 @@ wexevoom.net
 wggmaxxawkxu.com
 wgpartner.com
 whaleserver.com
+whatdosquirrelseat.net
 whatisdataentry.com
 whatishotnow.net
 whatisthebestecig.com
@@ -20157,6 +20164,7 @@ woodlawnwt.com
 woojeoung.com
 wooplr.j8inn1zektoe.com
 wooptrk.com
+woosungelec.com
 worchids.net
 wordbankads.com
 wordkeyhelper.com
@@ -20493,6 +20501,7 @@ www35jm.glam.com
 www35t.glam.com
 www39.71sise.com
 www4.ad.tomshardware.com
+www4.bannerspace.com
 www4.clustrmaps.com
 www4.counter.bloke.com
 www4.glam.com
@@ -20713,6 +20722,7 @@ xs.mochiads.com
 xsell.6waves.com
 xslt.alexa.com
 xsso.anbtr.com
+xsweb.pxuns.com
 xtainment.net
 xtrafficplus.com
 xtrarobotz.com
@@ -20894,6 +20904,7 @@ yqmmjmjxdigdak.com
 ysbbcrypsc.com
 ysi.actonsoftware.com
 ysw.kffcww.com
+yt-adblocker.com
 ytdhshoutidai.com
 ytdownloader.com
 ytqihang.com
@@ -21078,6 +21089,7 @@ zotasinc.com
 zoteromedia.com
 zous.szm.sk
 zoygroup.com
+zr1.zeroredirect11.com
 zr9996bet.com
 zrosbqwecw.com
 zs.hniuzsjy.cn
