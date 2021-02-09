@@ -1,12 +1,12 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-09 17:10:17.962803
+# UPDATED: 2021-02-10 02:23:13.389101
 # DOMAIN-KEYWORD: 27
 # DOMAIN-SUFFIX: 15241
-# DOMAIN: 15404
+# DOMAIN: 15415
 # IP-CIDR: 192
-# TOTAL: 30864
+# TOTAL: 30875
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,00-gov.cn
@@ -2740,6 +2740,7 @@ payload:
   - DOMAIN,bgmtracker.com
   - DOMAIN,bgpng.me
   - DOMAIN,bgwbqsmj.com
+  - DOMAIN,bh100.com.cn
   - DOMAIN,bh3.net
   - DOMAIN,bhcumsc.com
   - DOMAIN,bibblio.org
@@ -4429,6 +4430,7 @@ payload:
   - DOMAIN,daffaite.com
   - DOMAIN,dahexs.net
   - DOMAIN,daibusee.com
+  - DOMAIN,dailycaller-alerts.com
   - DOMAIN,daima.jiazhao.com
   - DOMAIN,daima.miercn.com
   - DOMAIN,daiporno.com
@@ -7889,6 +7891,7 @@ payload:
   - DOMAIN,lguqeppylijw.com
   - DOMAIN,lh5lg.top
   - DOMAIN,lhaieyfsvi.com
+  - DOMAIN,lhkbqytz.com
   - DOMAIN,liadm.com
   - DOMAIN,liangpinge.com
   - DOMAIN,liangyi360.com
@@ -8143,6 +8146,7 @@ payload:
   - DOMAIN,lp4.io
   - DOMAIN,lpbeta.com
   - DOMAIN,lporirxe.com
+  - DOMAIN,lpqlmevjhis.com
   - DOMAIN,lpqrgmxuju.com
   - DOMAIN,lqcdn.com
   - DOMAIN,lqfvlnnygf.com
@@ -10787,6 +10791,7 @@ payload:
   - DOMAIN,qai.quartic.pl
   - DOMAIN,qapm.baidu.com
   - DOMAIN,qappcenterv6.3g.qq.com
+  - DOMAIN,qatcmlbgiaqde.com
   - DOMAIN,qaykb.com
   - DOMAIN,qbaka.net
   - DOMAIN,qbbnixdd.com
@@ -10891,6 +10896,7 @@ payload:
   - DOMAIN,quotidiennokoue.com
   - DOMAIN,qutyan8848.com
   - DOMAIN,quxveblgxgsi.com
+  - DOMAIN,qvmgjhspiebe.com
   - DOMAIN,qvnlejvkkicf.com
   - DOMAIN,qw.baidu.com
   - DOMAIN,qwe.jzpxyd.com
@@ -12341,6 +12347,7 @@ payload:
   - DOMAIN,spankmasters.com
   - DOMAIN,sparechange.io
   - DOMAIN,sparkstudios.com
+  - DOMAIN,sparnove.com
   - DOMAIN,spatsz.com
   - DOMAIN,spcwm.com
   - DOMAIN,speakol.com
@@ -14989,6 +14996,7 @@ payload:
   - DOMAIN,xplosion.de
   - DOMAIN,xpollo.com
   - DOMAIN,xpornstarsckc.ddns.name
+  - DOMAIN,xpwppacpda.com
   - DOMAIN,xpx7heciz9.com
   - DOMAIN,xpyyrkwpcpwf.com
   - DOMAIN,xq0wju848zr.ga
@@ -15004,6 +15012,7 @@ payload:
   - DOMAIN,xswbmktpgcwcud.com
   - DOMAIN,xsweb.pxuns.com
   - DOMAIN,xszysc.com
+  - DOMAIN,xtbeungdpkf.com
   - DOMAIN,xtendadvert.com
   - DOMAIN,xtendmedia.com
   - DOMAIN,xtmuasvldoiz.com
@@ -15028,6 +15037,7 @@ payload:
   - DOMAIN,xxxcounter.com
   - DOMAIN,xxxex.com
   - DOMAIN,xxxfeng.com
+  - DOMAIN,xxxlnk.com
   - DOMAIN,xxxmatch.com
   - DOMAIN,xxxmov.site
   - DOMAIN,xxxmyself.com
@@ -15325,6 +15335,7 @@ payload:
   - DOMAIN,zinhavnpak.com
   - DOMAIN,zinphyra.com
   - DOMAIN,zinrora.pw
+  - DOMAIN,zioe.com.cn
   - DOMAIN,zip-zip-swan.com
   - DOMAIN,ziphentai.com
   - DOMAIN,ziphoumt.net

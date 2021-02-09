@@ -1,15 +1,15 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-09 17:10:16.085630
+# UPDATED: 2021-02-10 02:23:11.449685
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 27
 # DOMAIN-SUFFIX: 15241
-# DOMAIN: 15404
+# DOMAIN: 15415
 # IP-CIDR: 192
 # USER-AGENT: 1
 # URL-REGEX: 302
-# TOTAL: 31167
+# TOTAL: 31178
 0.up.qingdaonews.com
 00-gov.cn
 0024aadd.com
@@ -2742,6 +2742,7 @@ bggznyujioad.com
 bgmtracker.com
 bgpng.me
 bgwbqsmj.com
+bh100.com.cn
 bh3.net
 bhcumsc.com
 bibblio.org
@@ -4431,6 +4432,7 @@ dadspms.com
 daffaite.com
 dahexs.net
 daibusee.com
+dailycaller-alerts.com
 daima.jiazhao.com
 daima.miercn.com
 daiporno.com
@@ -7891,6 +7893,7 @@ lgsvywogylblv.com
 lguqeppylijw.com
 lh5lg.top
 lhaieyfsvi.com
+lhkbqytz.com
 liadm.com
 liangpinge.com
 liangyi360.com
@@ -8145,6 +8148,7 @@ lp.titanpoker.com
 lp4.io
 lpbeta.com
 lporirxe.com
+lpqlmevjhis.com
 lpqrgmxuju.com
 lqcdn.com
 lqfvlnnygf.com
@@ -10789,6 +10793,7 @@ qai-ir.quartic.pl
 qai.quartic.pl
 qapm.baidu.com
 qappcenterv6.3g.qq.com
+qatcmlbgiaqde.com
 qaykb.com
 qbaka.net
 qbbnixdd.com
@@ -10893,6 +10898,7 @@ qumwhbfjvbrrr.com
 quotidiennokoue.com
 qutyan8848.com
 quxveblgxgsi.com
+qvmgjhspiebe.com
 qvnlejvkkicf.com
 qw.baidu.com
 qwe.jzpxyd.com
@@ -12343,6 +12349,7 @@ spamanalyst.com
 spankmasters.com
 sparechange.io
 sparkstudios.com
+sparnove.com
 spatsz.com
 spcwm.com
 speakol.com
@@ -14991,6 +14998,7 @@ xpeeps.com
 xplosion.de
 xpollo.com
 xpornstarsckc.ddns.name
+xpwppacpda.com
 xpx7heciz9.com
 xpyyrkwpcpwf.com
 xq0wju848zr.ga
@@ -15006,6 +15014,7 @@ xsu.cc
 xswbmktpgcwcud.com
 xsweb.pxuns.com
 xszysc.com
+xtbeungdpkf.com
 xtendadvert.com
 xtendmedia.com
 xtmuasvldoiz.com
@@ -15030,6 +15039,7 @@ xxxbyhxp.com
 xxxcounter.com
 xxxex.com
 xxxfeng.com
+xxxlnk.com
 xxxmatch.com
 xxxmov.site
 xxxmyself.com
@@ -15327,6 +15337,7 @@ zim-zim-zam.com
 zinhavnpak.com
 zinphyra.com
 zinrora.pw
+zioe.com.cn
 zip-zip-swan.com
 ziphentai.com
 ziphoumt.net

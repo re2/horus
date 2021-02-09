@@ -1,7 +1,7 @@
 # NAME: Advertising 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-09 17:10:22.820886
+# UPDATED: 2021-02-10 02:23:18.392413
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 #  与 Hijacking 共 212 条规则重复
 HOST-SUFFIX,17gouwuba.com
@@ -2894,7 +2894,7 @@ HOST-SUFFIX,zs.dhl.de
 HOST-SUFFIX,zsi7.destinia.do
 HOST-SUFFIX,zyq2.destinia.sk
 HOST-SUFFIX,zz.bdstatic.com
-#  与 AdvertisingTest 共 58431 条规则重复
+#  与 AdvertisingTest 共 58436 条规则重复
 HOST,0.up.qingdaonews.com
 HOST,0001.2waky.com
 HOST,000lk3v.wcomhost.com
@@ -9720,6 +9720,7 @@ HOST,haishundl.com
 HOST,haixiutv.com
 HOST,hakdilaravakfi.com
 HOST,haletone.com
+HOST,halitkul.com
 HOST,hallmarkteam.com
 HOST,halo4.filesforgames.com
 HOST,halo77.com
@@ -12437,6 +12438,7 @@ HOST,myethearwallet.com
 HOST,myetherawllet.com
 HOST,myethereallet.com
 HOST,myetherethwallet.com
+HOST,myethereumwallets.com
 HOST,myetherewa11et.com
 HOST,myetherewallet.com
 HOST,myetherswallet.com
@@ -13896,6 +13898,7 @@ HOST,qjttowndvet.com
 HOST,qmginteractive.com
 HOST,qna.magnetic.com
 HOST,qnbcardfinans.com
+HOST,qqperfect.com
 HOST,qsrmjfkfithk.findhere.org
 HOST,quad-cleaner.com
 HOST,quakemarketing.com
@@ -16990,6 +16993,7 @@ HOST,vintech-india.com
 HOST,vinyljazzrecords.com
 HOST,vip-traffic.com
 HOST,vip.dns-vip.net
+HOST,vip.xiehuizhi.com
 HOST,vip.youzu.com
 HOST,vip1320.com
 HOST,vipactor.net
@@ -17842,6 +17846,7 @@ HOST,xwesxrxyopqyc.com
 HOST,xwrrygvgt.com
 HOST,xxex.xxvxa.com
 HOST,xxx7893.com
+HOST,xxxlnk.com
 HOST,xxxreactor.com
 HOST,xxxtoolbar.com
 HOST,xyguilin.com
@@ -61350,7 +61355,7 @@ HOST-SUFFIX,ucweb.com
 HOST-SUFFIX,uflowx.com
 HOST-SUFFIX,xiaomengquan.cn
 HOST-SUFFIX,xmq123.cn
-#  与 AdvertisingLite 共 16054 条规则重复
+#  与 AdvertisingLite 共 16055 条规则重复
 HOST,0.up.qingdaonews.com
 HOST,0d847862199.com
 HOST,0koryu0.easter.ne.jp
@@ -62561,6 +62566,7 @@ HOST,xotsa.frenchgerlemanelectric.com
 HOST,xpyyrkwpcpwf.com
 HOST,xs.mochiads.com
 HOST,xsweb.pxuns.com
+HOST,xxxlnk.com
 HOST,y72yuyr9.com
 HOST,yeesshh.com
 HOST,ynuf.alipay.com

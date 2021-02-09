@@ -1,7 +1,7 @@
 # NAME: AdvertisingTest 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-09 17:10:24.047876
+# UPDATED: 2021-02-10 02:23:19.666647
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 #  与 Hijacking 共 212 条规则重复
 DOMAIN-SUFFIX,17gouwuba.com
@@ -2826,7 +2826,7 @@ DOMAIN-SUFFIX,zs.dhl.de
 DOMAIN-SUFFIX,zsi7.destinia.do
 DOMAIN-SUFFIX,zyq2.destinia.sk
 DOMAIN-SUFFIX,zz.bdstatic.com
-#  与 Advertising 共 58741 条规则重复
+#  与 Advertising 共 58746 条规则重复
 DOMAIN,0.up.qingdaonews.com
 DOMAIN,0001.2waky.com
 DOMAIN,000lk3v.wcomhost.com
@@ -9652,6 +9652,7 @@ DOMAIN,haishundl.com
 DOMAIN,haixiutv.com
 DOMAIN,hakdilaravakfi.com
 DOMAIN,haletone.com
+DOMAIN,halitkul.com
 DOMAIN,hallmarkteam.com
 DOMAIN,halo4.filesforgames.com
 DOMAIN,halo77.com
@@ -12369,6 +12370,7 @@ DOMAIN,myethearwallet.com
 DOMAIN,myetherawllet.com
 DOMAIN,myethereallet.com
 DOMAIN,myetherethwallet.com
+DOMAIN,myethereumwallets.com
 DOMAIN,myetherewa11et.com
 DOMAIN,myetherewallet.com
 DOMAIN,myetherswallet.com
@@ -13828,6 +13830,7 @@ DOMAIN,qjttowndvet.com
 DOMAIN,qmginteractive.com
 DOMAIN,qna.magnetic.com
 DOMAIN,qnbcardfinans.com
+DOMAIN,qqperfect.com
 DOMAIN,qsrmjfkfithk.findhere.org
 DOMAIN,quad-cleaner.com
 DOMAIN,quakemarketing.com
@@ -16922,6 +16925,7 @@ DOMAIN,vintech-india.com
 DOMAIN,vinyljazzrecords.com
 DOMAIN,vip-traffic.com
 DOMAIN,vip.dns-vip.net
+DOMAIN,vip.xiehuizhi.com
 DOMAIN,vip.youzu.com
 DOMAIN,vip1320.com
 DOMAIN,vipactor.net
@@ -17774,6 +17778,7 @@ DOMAIN,xwesxrxyopqyc.com
 DOMAIN,xwrrygvgt.com
 DOMAIN,xxex.xxvxa.com
 DOMAIN,xxx7893.com
+DOMAIN,xxxlnk.com
 DOMAIN,xxxreactor.com
 DOMAIN,xxxtoolbar.com
 DOMAIN,xyguilin.com
@@ -61592,7 +61597,7 @@ DOMAIN-SUFFIX,ucweb.com
 DOMAIN-SUFFIX,uflowx.com
 DOMAIN-SUFFIX,xiaomengquan.cn
 DOMAIN-SUFFIX,xmq123.cn
-#  与 AdvertisingLite 共 15987 条规则重复
+#  与 AdvertisingLite 共 15988 条规则重复
 DOMAIN,0.up.qingdaonews.com
 DOMAIN,0d847862199.com
 DOMAIN,0koryu0.easter.ne.jp
@@ -62548,6 +62553,7 @@ DOMAIN,xorgwebs.webs.com
 DOMAIN,xotsa.frenchgerlemanelectric.com
 DOMAIN,xpyyrkwpcpwf.com
 DOMAIN,xs.mochiads.com
+DOMAIN,xxxlnk.com
 DOMAIN,y72yuyr9.com
 DOMAIN,ynuf.alipay.com
 DOMAIN,yougube.com

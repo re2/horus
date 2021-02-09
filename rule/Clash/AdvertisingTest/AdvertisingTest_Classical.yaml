@@ -1,12 +1,12 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-09 17:10:18.275874
+# UPDATED: 2021-02-10 02:23:13.714723
 # DOMAIN-KEYWORD: 60
 # DOMAIN-SUFFIX: 64642
-# DOMAIN: 15228
+# DOMAIN: 15233
 # IP-CIDR: 240
-# TOTAL: 80170
+# TOTAL: 80175
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,0001.2waky.com
@@ -6833,6 +6833,7 @@ payload:
   - DOMAIN,haixiutv.com
   - DOMAIN,hakdilaravakfi.com
   - DOMAIN,haletone.com
+  - DOMAIN,halitkul.com
   - DOMAIN,hallmarkteam.com
   - DOMAIN,halo4.filesforgames.com
   - DOMAIN,halo77.com
@@ -9550,6 +9551,7 @@ payload:
   - DOMAIN,myetherawllet.com
   - DOMAIN,myethereallet.com
   - DOMAIN,myetherethwallet.com
+  - DOMAIN,myethereumwallets.com
   - DOMAIN,myetherewa11et.com
   - DOMAIN,myetherewallet.com
   - DOMAIN,myetherswallet.com
@@ -11009,6 +11011,7 @@ payload:
   - DOMAIN,qmginteractive.com
   - DOMAIN,qna.magnetic.com
   - DOMAIN,qnbcardfinans.com
+  - DOMAIN,qqperfect.com
   - DOMAIN,qsrmjfkfithk.findhere.org
   - DOMAIN,quad-cleaner.com
   - DOMAIN,quakemarketing.com
@@ -14103,6 +14106,7 @@ payload:
   - DOMAIN,vinyljazzrecords.com
   - DOMAIN,vip-traffic.com
   - DOMAIN,vip.dns-vip.net
+  - DOMAIN,vip.xiehuizhi.com
   - DOMAIN,vip.youzu.com
   - DOMAIN,vip1320.com
   - DOMAIN,vipactor.net
@@ -14955,6 +14959,7 @@ payload:
   - DOMAIN,xwrrygvgt.com
   - DOMAIN,xxex.xxvxa.com
   - DOMAIN,xxx7893.com
+  - DOMAIN,xxxlnk.com
   - DOMAIN,xxxreactor.com
   - DOMAIN,xxxtoolbar.com
   - DOMAIN,xyguilin.com

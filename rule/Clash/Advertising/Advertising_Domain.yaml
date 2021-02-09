@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-09 17:10:18.038406
+# UPDATED: 2021-02-10 02:23:13.464731
 # DOMAIN-KEYWORD: 60
 # DOMAIN-SUFFIX: 43104
-# DOMAIN: 21107
+# DOMAIN: 21112
 # IP-CIDR: 240
-# TOTAL: 64511
+# TOTAL: 64516
 payload:
   - '0.nextyourcontent.com'
   - '0.up.qingdaonews.com'
@@ -9599,6 +9599,7 @@ payload:
   - 'hajoopteg.com'
   - 'hakdilaravakfi.com'
   - 'haletone.com'
+  - 'halitkul.com'
   - 'hallmarkteam.com'
   - 'halo4.filesforgames.com'
   - 'halo77.com'
@@ -13166,6 +13167,7 @@ payload:
   - 'myetherawllet.com'
   - 'myethereallet.com'
   - 'myetherethwallet.com'
+  - 'myethereumwallets.com'
   - 'myetherewa11et.com'
   - 'myetherewallet.com'
   - 'myetherswallet.com'
@@ -15252,6 +15254,7 @@ payload:
   - 'qnajplxtvz-a.akamaihd.net'
   - 'qnbcardfinans.com'
   - 'qqlogo.qq.com'
+  - 'qqperfect.com'
   - 'qring-tms.qq.com'
   - 'qsrmjfkfithk.findhere.org'
   - 'qswotrk.com'
@@ -19631,6 +19634,7 @@ payload:
   - 'vip-websc.org'
   - 'vip.adpiano.com'
   - 'vip.dns-vip.net'
+  - 'vip.xiehuizhi.com'
   - 'vip.youzu.com'
   - 'vip1320.com'
   - 'vipactor.net'
@@ -20739,6 +20743,7 @@ payload:
   - 'xxx-babes.org'
   - 'xxx-hunt-er.xyz'
   - 'xxx7893.com'
+  - 'xxxlnk.com'
   - 'xxxreactor.com'
   - 'xxxtoolbar.com'
   - 'xyguilin.com'

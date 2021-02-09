@@ -1,13 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-09 17:10:14.727638
+# UPDATED: 2021-02-10 02:23:10.044951
 # HOST-KEYWORD: 60
 # HOST-SUFFIX: 64642
-# HOST: 15228
+# HOST: 15233
 # IP-CIDR: 240
 # USER-AGENT: 1
-# TOTAL: 80171
+# TOTAL: 80176
 HOST,0.up.qingdaonews.com,AdvertisingTest
 HOST,0001.2waky.com,AdvertisingTest
 HOST,000lk3v.wcomhost.com,AdvertisingTest
@@ -6833,6 +6833,7 @@ HOST,haishundl.com,AdvertisingTest
 HOST,haixiutv.com,AdvertisingTest
 HOST,hakdilaravakfi.com,AdvertisingTest
 HOST,haletone.com,AdvertisingTest
+HOST,halitkul.com,AdvertisingTest
 HOST,hallmarkteam.com,AdvertisingTest
 HOST,halo4.filesforgames.com,AdvertisingTest
 HOST,halo77.com,AdvertisingTest
@@ -9550,6 +9551,7 @@ HOST,myethearwallet.com,AdvertisingTest
 HOST,myetherawllet.com,AdvertisingTest
 HOST,myethereallet.com,AdvertisingTest
 HOST,myetherethwallet.com,AdvertisingTest
+HOST,myethereumwallets.com,AdvertisingTest
 HOST,myetherewa11et.com,AdvertisingTest
 HOST,myetherewallet.com,AdvertisingTest
 HOST,myetherswallet.com,AdvertisingTest
@@ -11009,6 +11011,7 @@ HOST,qjttowndvet.com,AdvertisingTest
 HOST,qmginteractive.com,AdvertisingTest
 HOST,qna.magnetic.com,AdvertisingTest
 HOST,qnbcardfinans.com,AdvertisingTest
+HOST,qqperfect.com,AdvertisingTest
 HOST,qsrmjfkfithk.findhere.org,AdvertisingTest
 HOST,quad-cleaner.com,AdvertisingTest
 HOST,quakemarketing.com,AdvertisingTest
@@ -14103,6 +14106,7 @@ HOST,vintech-india.com,AdvertisingTest
 HOST,vinyljazzrecords.com,AdvertisingTest
 HOST,vip-traffic.com,AdvertisingTest
 HOST,vip.dns-vip.net,AdvertisingTest
+HOST,vip.xiehuizhi.com,AdvertisingTest
 HOST,vip.youzu.com,AdvertisingTest
 HOST,vip1320.com,AdvertisingTest
 HOST,vipactor.net,AdvertisingTest
@@ -14955,6 +14959,7 @@ HOST,xwesxrxyopqyc.com,AdvertisingTest
 HOST,xwrrygvgt.com,AdvertisingTest
 HOST,xxex.xxvxa.com,AdvertisingTest
 HOST,xxx7893.com,AdvertisingTest
+HOST,xxxlnk.com,AdvertisingTest
 HOST,xxxreactor.com,AdvertisingTest
 HOST,xxxtoolbar.com,AdvertisingTest
 HOST,xyguilin.com,AdvertisingTest

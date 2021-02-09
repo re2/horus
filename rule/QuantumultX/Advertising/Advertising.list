@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-09 17:10:14.645136
+# UPDATED: 2021-02-10 02:23:09.959589
 # HOST-KEYWORD: 60
 # HOST-SUFFIX: 43104
-# HOST: 21107
+# HOST: 21112
 # IP-CIDR: 240
 # USER-AGENT: 1
-# TOTAL: 64512
+# TOTAL: 64517
 HOST,0.nextyourcontent.com,Advertising
 HOST,0.up.qingdaonews.com,Advertising
 HOST,0001.2waky.com,Advertising
@@ -9599,6 +9599,7 @@ HOST,haixiutv.com,Advertising
 HOST,hajoopteg.com,Advertising
 HOST,hakdilaravakfi.com,Advertising
 HOST,haletone.com,Advertising
+HOST,halitkul.com,Advertising
 HOST,hallmarkteam.com,Advertising
 HOST,halo4.filesforgames.com,Advertising
 HOST,halo77.com,Advertising
@@ -13166,6 +13167,7 @@ HOST,myethearwallet.com,Advertising
 HOST,myetherawllet.com,Advertising
 HOST,myethereallet.com,Advertising
 HOST,myetherethwallet.com,Advertising
+HOST,myethereumwallets.com,Advertising
 HOST,myetherewa11et.com,Advertising
 HOST,myetherewallet.com,Advertising
 HOST,myetherswallet.com,Advertising
@@ -15252,6 +15254,7 @@ HOST,qna.magnetic.com,Advertising
 HOST,qnajplxtvz-a.akamaihd.net,Advertising
 HOST,qnbcardfinans.com,Advertising
 HOST,qqlogo.qq.com,Advertising
+HOST,qqperfect.com,Advertising
 HOST,qring-tms.qq.com,Advertising
 HOST,qsrmjfkfithk.findhere.org,Advertising
 HOST,qswotrk.com,Advertising
@@ -19631,6 +19634,7 @@ HOST,vip-traffic.com,Advertising
 HOST,vip-websc.org,Advertising
 HOST,vip.adpiano.com,Advertising
 HOST,vip.dns-vip.net,Advertising
+HOST,vip.xiehuizhi.com,Advertising
 HOST,vip.youzu.com,Advertising
 HOST,vip1320.com,Advertising
 HOST,vipactor.net,Advertising
@@ -20739,6 +20743,7 @@ HOST,xxex.xxvxa.com,Advertising
 HOST,xxx-babes.org,Advertising
 HOST,xxx-hunt-er.xyz,Advertising
 HOST,xxx7893.com,Advertising
+HOST,xxxlnk.com,Advertising
 HOST,xxxreactor.com,Advertising
 HOST,xxxtoolbar.com,Advertising
 HOST,xyguilin.com,Advertising
