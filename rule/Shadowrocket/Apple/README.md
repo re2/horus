@@ -8,19 +8,19 @@
 
 
 
-最后检查时间：2021-02-10 02:23:57.453873。
+最后检查时间：2021-02-11 02:24:33.231590。
 
 ## 规则统计
 
-总计规则：107 条。
+总计规则：116 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| DOMAIN-SUFFIX | 68 |
+| DOMAIN-SUFFIX | 74 |
 | DOMAIN | 2 |
-| DOMAIN-KEYWORD | 3 |
+| DOMAIN-KEYWORD | 6 |
 | USER-AGENT | 21 |
 | PROCESS-NAME | 3 |
 | IP-CIDR | 10 |

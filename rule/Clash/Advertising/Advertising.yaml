@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-10 02:23:13.532469
+# UPDATED: 2021-02-11 02:23:51.130511
 # DOMAIN-KEYWORD: 60
-# DOMAIN-SUFFIX: 43104
-# DOMAIN: 21112
+# DOMAIN-SUFFIX: 43129
+# DOMAIN: 21115
 # IP-CIDR: 240
-# TOTAL: 64516
+# TOTAL: 64544
 payload:
   - DOMAIN-KEYWORD,adashx
   - DOMAIN-KEYWORD,admarvel
