@@ -1,7 +1,7 @@
 # NAME: CEB
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-11 02:23:48.634717
+# UPDATED: 2021-02-12 02:24:05.611645
 # HOST-SUFFIX: 15
 # TOTAL: 15
 HOST-SUFFIX,cebbank.com,CEB
