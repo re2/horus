@@ -1,7 +1,7 @@
 # NAME: ZDNS
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-12 02:24:06.134808
+# UPDATED: 2021-02-13 02:24:47.729309
 # HOST-SUFFIX: 12
 # TOTAL: 12
 HOST-SUFFIX,zcmbc.com.cn,ZDNS

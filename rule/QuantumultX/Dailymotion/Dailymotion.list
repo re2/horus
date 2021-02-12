@@ -1,7 +1,7 @@
 # NAME: Dailymotion
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-12 02:24:05.187681
+# UPDATED: 2021-02-13 02:24:46.842064
 # HOST-SUFFIX: 4
 # TOTAL: 4
 HOST-SUFFIX,dailymotion.com,Dailymotion
