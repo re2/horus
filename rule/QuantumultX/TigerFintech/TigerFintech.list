@@ -1,7 +1,7 @@
 # NAME: TigerFintech
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-13 02:24:47.630946
+# UPDATED: 2021-02-14 02:23:17.567757
 # HOST-SUFFIX: 8
 # TOTAL: 8
 HOST-SUFFIX,itiger.com,TigerFintech
