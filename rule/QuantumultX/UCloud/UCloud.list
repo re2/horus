@@ -1,7 +1,7 @@
 # NAME: UCloud
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-14 02:23:17.579917
+# UPDATED: 2021-02-15 02:23:23.360447
 # HOST-SUFFIX: 37
 # TOTAL: 37
 HOST-SUFFIX,cdndo.com,UCloud

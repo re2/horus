@@ -1,7 +1,7 @@
 # NAME: Advertising 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-14 02:23:24.409947
+# UPDATED: 2021-02-15 02:23:31.710223
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 #  与 Hijacking 共 212 条规则重复
 DOMAIN-SUFFIX,17gouwuba.com
@@ -2894,7 +2894,7 @@ DOMAIN-SUFFIX,zs.dhl.de
 DOMAIN-SUFFIX,zsi7.destinia.do
 DOMAIN-SUFFIX,zyq2.destinia.sk
 DOMAIN-SUFFIX,zz.bdstatic.com
-#  与 AdvertisingTest 共 58836 条规则重复
+#  与 AdvertisingTest 共 58829 条规则重复
 DOMAIN,0.up.qingdaonews.com
 DOMAIN,0001.2waky.com
 DOMAIN,000lk3v.wcomhost.com
@@ -3090,7 +3090,6 @@ DOMAIN,4.whereinliguria.com
 DOMAIN,4.whereinlombardy.com
 DOMAIN,4.whereinmolise.com
 DOMAIN,4.whereinpiemonte.com
-DOMAIN,4.whereinsardegna.com
 DOMAIN,4.whereinsicilia.com
 DOMAIN,4.whereintoscana.com
 DOMAIN,40-sm.000webhostapp.com
@@ -3786,6 +3785,7 @@ DOMAIN,adgroups.net
 DOMAIN,adgtracker.com
 DOMAIN,adguru.guruji.com
 DOMAIN,adiakgata.000webhostapp.com
+DOMAIN,adidasindonesia.com
 DOMAIN,adimg.chow.com
 DOMAIN,adimg.download.com
 DOMAIN,adimg.gamefaqs.com
@@ -4532,7 +4532,6 @@ DOMAIN,anal-acrobats.com
 DOMAIN,anal-et-sodomie.com
 DOMAIN,anal-love.net
 DOMAIN,anal-videos-photos.com
-DOMAIN,analcreampie.net
 DOMAIN,analdude.com
 DOMAIN,analiticayma.com
 DOMAIN,analpics.net
@@ -8699,7 +8698,6 @@ DOMAIN,free-stats.i8.com
 DOMAIN,free-steam-code.com
 DOMAIN,free-steam-games.com
 DOMAIN,free-steam-games.net
-DOMAIN,free-steamgames.com
 DOMAIN,free-traffic.xyz
 DOMAIN,free-video-tool.com
 DOMAIN,free-website-traffic.com
@@ -9536,13 +9534,9 @@ DOMAIN,guthy.000webhostapp.com
 DOMAIN,guthyjapan.inq.com
 DOMAIN,guthyrenker.inq.com
 DOMAIN,guyscards.com
-DOMAIN,gwa.lphbs.com
 DOMAIN,gwallcheck.api-alliance.com
-DOMAIN,gwb.lphbs.com
 DOMAIN,gwb2015.clicks2orders.com
 DOMAIN,gwbak.nickymaru.com
-DOMAIN,gwc.lphbs.com
-DOMAIN,gwd.lphbs.com
 DOMAIN,gwmtracker.com
 DOMAIN,gwn.tinkermobi.com
 DOMAIN,gwrtdp.tclclouds.com
@@ -10237,6 +10231,7 @@ DOMAIN,images.gyffu.com
 DOMAIN,images.kolmic.com
 DOMAIN,images.topguncustomz.com
 DOMAIN,images1.cliqueclack.com
+DOMAIN,imagescroll.detik.com
 DOMAIN,imagesmovies.com
 DOMAIN,imagesofandalucia.com
 DOMAIN,imagestar.actonsoftware.com
@@ -10585,7 +10580,6 @@ DOMAIN,jaminjubilee.com
 DOMAIN,jammulinks.com
 DOMAIN,jamsmsltd.000webhostapp.com
 DOMAIN,jamthailand.com
-DOMAIN,janagames.com
 DOMAIN,janeaustenjoy.com
 DOMAIN,janedoemain.com
 DOMAIN,jankessinger.com
@@ -10997,7 +10991,6 @@ DOMAIN,knigonosha.net
 DOMAIN,knockoffcologne.com
 DOMAIN,kodipc.linkandzelda.com
 DOMAIN,kodyrabatowe.16mb.com
-DOMAIN,kohtaoapt.com
 DOMAIN,kokoyazi.com
 DOMAIN,kolevwd18.000webhostapp.com
 DOMAIN,kollagen4you.se
@@ -11521,6 +11514,7 @@ DOMAIN,lyncweb.touchcommerce.com
 DOMAIN,lyndabarry.net
 DOMAIN,lyoness.com
 DOMAIN,lyonsmechanical.com
+DOMAIN,lyricadcr.com
 DOMAIN,lyricalks.com
 DOMAIN,lyricalsk.com
 DOMAIN,lzpv4rsmat.com
@@ -11665,7 +11659,6 @@ DOMAIN,marinetraffic.com
 DOMAIN,marinoderosas.com
 DOMAIN,marinoroyal.com
 DOMAIN,mariomotta.com
-DOMAIN,mariumconsulting.com
 DOMAIN,mark.target.smi2.net
 DOMAIN,markasmac.com
 DOMAIN,market.mgccw.com
@@ -12413,7 +12406,6 @@ DOMAIN,mycoastalcab.com
 DOMAIN,mycoinwallet.net
 DOMAIN,mycommunityoptions.org
 DOMAIN,mycooch.com
-DOMAIN,mycostoma.com
 DOMAIN,mycotoxinresearch.org
 DOMAIN,mycouponizemac.com
 DOMAIN,mycreditrepairfix.com
@@ -13055,6 +13047,7 @@ DOMAIN,openx.watchmygf.net
 DOMAIN,operationoverdrive.net
 DOMAIN,opertrans.org
 DOMAIN,opiopiopi.000webhostapp.com
+DOMAIN,oprahsearch.com
 DOMAIN,opsen.dolphin-browser.com
 DOMAIN,opswiki.inq.com
 DOMAIN,opswiki.touchcommerce.com
@@ -13529,7 +13522,6 @@ DOMAIN,pneutechproducts.com
 DOMAIN,pnsen.cy-security.com
 DOMAIN,po.fyybox.com
 DOMAIN,pochucker.com
-DOMAIN,pocketmath-cdn.com
 DOMAIN,pod.infinitypersonals.com
 DOMAIN,podcast.unbounce.com
 DOMAIN,podstrigis.com
@@ -13570,7 +13562,7 @@ DOMAIN,poptropica.newzgames.com
 DOMAIN,popugaychiki.com
 DOMAIN,popunder.com
 DOMAIN,popunder.net
-DOMAIN,porn-portal.net
+DOMAIN,popunder.popcde.com
 DOMAIN,porn-review-site.com
 DOMAIN,porn-sex-free.com
 DOMAIN,porn-sluts.com
@@ -13762,6 +13754,7 @@ DOMAIN,protexting.com
 DOMAIN,protintfl.com
 DOMAIN,proveedores.rednavemar.com
 DOMAIN,provencepromotion.com
+DOMAIN,provitpharmaceuticals.com
 DOMAIN,proxy-tracker.colpirio.com
 DOMAIN,proxy.batmobi.net
 DOMAIN,proxy.drivecdn.com
@@ -14678,7 +14671,6 @@ DOMAIN,semaltmedia.com
 DOMAIN,semblueinc.viewmyplans.com
 DOMAIN,semengineers.com
 DOMAIN,semestapalet.com
-DOMAIN,semexpertdelhi.com
 DOMAIN,seminarium.com
 DOMAIN,semiyun.com
 DOMAIN,send29931.cn
@@ -14739,6 +14731,7 @@ DOMAIN,server.findthemd.com
 DOMAIN,server.freegamesall.com
 DOMAIN,server.mgccw.com
 DOMAIN,server.mz30.cn
+DOMAIN,server.siteamplifier.net
 DOMAIN,server.sourcesite360.com
 DOMAIN,server1.beaconpush.com
 DOMAIN,server1.extra-web.cz
@@ -14885,7 +14878,6 @@ DOMAIN,shiporama.com
 DOMAIN,ships.zapto.org
 DOMAIN,shirohanastaff.org
 DOMAIN,shit4shit.com
-DOMAIN,shivafurnishings.com
 DOMAIN,shivamcommunications.com
 DOMAIN,shivamelectrochem.com
 DOMAIN,shmdigitalllc.com
@@ -15229,6 +15221,7 @@ DOMAIN,soheavyblog.com
 DOMAIN,sohoindia.net
 DOMAIN,sola-interactive.com
 DOMAIN,soldadorasmiller.com
+DOMAIN,solelyfun.com
 DOMAIN,solenise.com
 DOMAIN,solidallianzemfb.com
 DOMAIN,solidhacks.com
@@ -15694,7 +15687,6 @@ DOMAIN,superpack.dlcodes.com
 DOMAIN,superpackdlc.sharezips.net
 DOMAIN,superqualitypackers.com
 DOMAIN,supersite.xyz
-DOMAIN,superstarpanda.com
 DOMAIN,supertracker.flashget.com
 DOMAIN,superwomanscloset.com
 DOMAIN,supimens.com
@@ -15871,6 +15863,7 @@ DOMAIN,tavuks.com
 DOMAIN,taximtravel.com
 DOMAIN,tazatarin.com
 DOMAIN,tbaludhiana.com
+DOMAIN,tbhomeinspection.com
 DOMAIN,tbk-app.com
 DOMAIN,tbs.imtt.qq.com
 DOMAIN,tc-imp.inq.com
@@ -16245,6 +16238,7 @@ DOMAIN,topfreecheats.com
 DOMAIN,topfreeproxy.com
 DOMAIN,tophackphone.com
 DOMAIN,tophacks.net
+DOMAIN,tophomedecoroptions.com
 DOMAIN,tophostbg.net
 DOMAIN,topmmorpgsites.com
 DOMAIN,topmoviehd.com
@@ -23526,7 +23520,6 @@ DOMAIN-SUFFIX,analytics.moviepilot.de
 DOMAIN-SUFFIX,analytics.msn.com
 DOMAIN-SUFFIX,analytics.msnbc.com
 DOMAIN-SUFFIX,analytics.msnbc.msn.com
-DOMAIN-SUFFIX,analytics.myfidevs.io
 DOMAIN-SUFFIX,analytics.myfinance.com
 DOMAIN-SUFFIX,analytics.newscred.com
 DOMAIN-SUFFIX,analytics.ngfiles.com
@@ -61755,7 +61748,7 @@ DOMAIN-SUFFIX,ucweb.com
 DOMAIN-SUFFIX,uflowx.com
 DOMAIN-SUFFIX,xiaomengquan.cn
 DOMAIN-SUFFIX,xmq123.cn
-#  与 AdvertisingLite 共 16358 条规则重复
+#  与 AdvertisingLite 共 16359 条规则重复
 DOMAIN,0.up.qingdaonews.com
 DOMAIN,0d847862199.com
 DOMAIN,0koryu0.easter.ne.jp
@@ -62450,6 +62443,7 @@ DOMAIN,onlineshopping.website
 DOMAIN,onrio.com.br
 DOMAIN,oozrsmpieq.com
 DOMAIN,openadserving.com
+DOMAIN,oprahsearch.com
 DOMAIN,optiker-michelmann.de
 DOMAIN,optimization-methods.com
 DOMAIN,opus.analytics.yahoo.com

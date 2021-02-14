@@ -1,7 +1,7 @@
 # NAME: Meitu
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-14 02:23:17.026096
+# UPDATED: 2021-02-15 02:23:22.695257
 # HOST-SUFFIX: 4
 # TOTAL: 4
 HOST-SUFFIX,meipai.com,Meitu
