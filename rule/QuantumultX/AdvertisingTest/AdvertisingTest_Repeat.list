@@ -1,7 +1,7 @@
 # NAME: AdvertisingTest 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-15 02:23:30.488786
+# UPDATED: 2021-02-15 12:33:01.596766
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 #  与 Hijacking 共 212 条规则重复
 HOST-SUFFIX,17gouwuba.com
@@ -2826,7 +2826,7 @@ HOST-SUFFIX,zs.dhl.de
 HOST-SUFFIX,zsi7.destinia.do
 HOST-SUFFIX,zyq2.destinia.sk
 HOST-SUFFIX,zz.bdstatic.com
-#  与 Advertising 共 58519 条规则重复
+#  与 Advertising 共 58531 条规则重复
 HOST,0.up.qingdaonews.com
 HOST,0001.2waky.com
 HOST,000lk3v.wcomhost.com
@@ -3022,6 +3022,7 @@ HOST,4.whereinliguria.com
 HOST,4.whereinlombardy.com
 HOST,4.whereinmolise.com
 HOST,4.whereinpiemonte.com
+HOST,4.whereinsardegna.com
 HOST,4.whereinsicilia.com
 HOST,4.whereintoscana.com
 HOST,40-sm.000webhostapp.com
@@ -3701,6 +3702,7 @@ HOST,adcentre.it-advanced.com
 HOST,adclick.eqmob.com
 HOST,adclick.lv
 HOST,adclickthru.net
+HOST,adclient.163.com
 HOST,adcoin.click
 HOST,adcpl-india.com
 HOST,addictingcheats.com
@@ -8116,6 +8118,7 @@ HOST,expired-targeted.com
 HOST,exploremerida.com
 HOST,expo-max.com
 HOST,expolanguages.com
+HOST,expressaffiliatesite.com
 HOST,expressgrab.com
 HOST,ext.baidu.com
 HOST,ext.privacyassistant.net
@@ -9718,6 +9721,7 @@ HOST,healgastro.com
 HOST,health-partner.net
 HOST,health.luoshenbest.com
 HOST,healthbeautytrade.com
+HOST,healthdataknowledge.com
 HOST,healthforsurvival.com
 HOST,healthgainsmd.com
 HOST,healthisp.net
@@ -10512,6 +10516,7 @@ HOST,jaminjubilee.com
 HOST,jammulinks.com
 HOST,jamsmsltd.000webhostapp.com
 HOST,jamthailand.com
+HOST,janagames.com
 HOST,janeaustenjoy.com
 HOST,janedoemain.com
 HOST,jankessinger.com
@@ -10612,6 +10617,7 @@ HOST,jmacs.maribacaberita.com
 HOST,jmb-photography.com
 HOST,jmbhyqijqhxk.com
 HOST,jmxphjxsxd.com
+HOST,jn.pl.thefiodssd.com
 HOST,jn.redirectme.net
 HOST,jn1rdqrfn5-1.algolianet.com
 HOST,jn1rdqrfn5-2.algolianet.com
@@ -11078,6 +11084,7 @@ HOST,lavienailscarmel.com
 HOST,lavillanails.com
 HOST,lavonnewk.000webhostapp.com
 HOST,lavylites.com
+HOST,laxdrills.com
 HOST,laydata.com
 HOST,layerpark.com
 HOST,laytonhubble.com
@@ -14603,6 +14610,7 @@ HOST,semaltmedia.com
 HOST,semblueinc.viewmyplans.com
 HOST,semengineers.com
 HOST,semestapalet.com
+HOST,semexpertdelhi.com
 HOST,seminarium.com
 HOST,semiyun.com
 HOST,send29931.cn
@@ -14810,6 +14818,7 @@ HOST,shiporama.com
 HOST,ships.zapto.org
 HOST,shirohanastaff.org
 HOST,shit4shit.com
+HOST,shivafurnishings.com
 HOST,shivamcommunications.com
 HOST,shivamelectrochem.com
 HOST,shmdigitalllc.com
@@ -15533,6 +15542,7 @@ HOST,stream.jozmovie.xyz
 HOST,stream1.livefyre.com
 HOST,streamfullmoviehd.com
 HOST,streamhd24.com
+HOST,streaming.filmsgratuits.org
 HOST,streamingfilmhd.com
 HOST,streamstats1.blinkx.com
 HOST,streamuj.org
@@ -15619,6 +15629,7 @@ HOST,superpack.dlcodes.com
 HOST,superpackdlc.sharezips.net
 HOST,superqualitypackers.com
 HOST,supersite.xyz
+HOST,superstarpanda.com
 HOST,supertracker.flashget.com
 HOST,superwomanscloset.com
 HOST,supimens.com
@@ -17543,6 +17554,7 @@ HOST,www17-orig.glam.com
 HOST,www18.officedepot.com
 HOST,www180.myway.com
 HOST,www181.superembed.com
+HOST,www19.71sise.com
 HOST,www19.superembed.com
 HOST,www2.adhost.com
 HOST,www2.apptimize.com

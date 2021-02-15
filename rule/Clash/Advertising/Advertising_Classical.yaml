@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-15 02:23:25.586442
+# UPDATED: 2021-02-15 12:32:57.037029
 # DOMAIN-KEYWORD: 60
 # DOMAIN-SUFFIX: 43204
-# DOMAIN: 21085
+# DOMAIN: 21099
 # IP-CIDR: 240
-# TOTAL: 64589
+# TOTAL: 64603
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.up.qingdaonews.com
@@ -277,6 +277,7 @@ payload:
   - DOMAIN,4.whereinlombardy.com
   - DOMAIN,4.whereinmolise.com
   - DOMAIN,4.whereinpiemonte.com
+  - DOMAIN,4.whereinsardegna.com
   - DOMAIN,4.whereinsicilia.com
   - DOMAIN,4.whereintoscana.com
   - DOMAIN,40-sm.000webhostapp.com
@@ -1166,6 +1167,7 @@ payload:
   - DOMAIN,adclick.lv
   - DOMAIN,adclickthru.net
   - DOMAIN,adclickxpress.com
+  - DOMAIN,adclient.163.com
   - DOMAIN,adclient1.tucows.com
   - DOMAIN,adcode.rontar.com
   - DOMAIN,adcoin.click
@@ -7727,6 +7729,7 @@ payload:
   - DOMAIN,expo-max.com
   - DOMAIN,expolanguages.com
   - DOMAIN,export.voffka.com
+  - DOMAIN,expressaffiliatesite.com
   - DOMAIN,expressgrab.com
   - DOMAIN,ext.baidu.com
   - DOMAIN,ext.movixhub.com
@@ -9675,6 +9678,7 @@ payload:
   - DOMAIN,health.luoshenbest.com
   - DOMAIN,healthbeautyncs.com
   - DOMAIN,healthbeautytrade.com
+  - DOMAIN,healthdataknowledge.com
   - DOMAIN,healthforsurvival.com
   - DOMAIN,healthgainsmd.com
   - DOMAIN,healthisp.net
@@ -10719,6 +10723,7 @@ payload:
   - DOMAIN,jammulinks.com
   - DOMAIN,jamsmsltd.000webhostapp.com
   - DOMAIN,jamthailand.com
+  - DOMAIN,janagames.com
   - DOMAIN,janeaustenjoy.com
   - DOMAIN,janedoemain.com
   - DOMAIN,jankessinger.com
@@ -10829,6 +10834,7 @@ payload:
   - DOMAIN,jmb-photography.com
   - DOMAIN,jmbhyqijqhxk.com
   - DOMAIN,jmxphjxsxd.com
+  - DOMAIN,jn.pl.thefiodssd.com
   - DOMAIN,jn.redirectme.net
   - DOMAIN,jn1rdqrfn5-1.algolianet.com
   - DOMAIN,jn1rdqrfn5-2.algolianet.com
@@ -11389,6 +11395,7 @@ payload:
   - DOMAIN,lavillanails.com
   - DOMAIN,lavonnewk.000webhostapp.com
   - DOMAIN,lavylites.com
+  - DOMAIN,laxdrills.com
   - DOMAIN,laydata.com
   - DOMAIN,layerpark.com
   - DOMAIN,laytonhubble.com
@@ -14262,6 +14269,7 @@ payload:
   - DOMAIN,password.newzgames.com
   - DOMAIN,password.thishack.org
   - DOMAIN,passwordr.com
+  - DOMAIN,pastilon.com
   - DOMAIN,pataraquadbike.com
   - DOMAIN,patashala.org
   - DOMAIN,pathackley.com
@@ -16321,6 +16329,7 @@ payload:
   - DOMAIN,semblueinc.viewmyplans.com
   - DOMAIN,semengineers.com
   - DOMAIN,semestapalet.com
+  - DOMAIN,semexpertdelhi.com
   - DOMAIN,seminarium.com
   - DOMAIN,semiyun.com
   - DOMAIN,sen02.younetmedia.com
@@ -16586,6 +16595,7 @@ payload:
   - DOMAIN,ships.zapto.org
   - DOMAIN,shirohanastaff.org
   - DOMAIN,shit4shit.com
+  - DOMAIN,shivafurnishings.com
   - DOMAIN,shivamcommunications.com
   - DOMAIN,shivamelectrochem.com
   - DOMAIN,shmdigitalllc.com
@@ -17594,6 +17604,7 @@ payload:
   - DOMAIN,stream1.livefyre.com
   - DOMAIN,streamfullmoviehd.com
   - DOMAIN,streamhd24.com
+  - DOMAIN,streaming.filmsgratuits.org
   - DOMAIN,streamingfilmhd.com
   - DOMAIN,streamstats1.blinkx.com
   - DOMAIN,streamuj.org
@@ -17705,6 +17716,7 @@ payload:
   - DOMAIN,superqualitypackers.com
   - DOMAIN,supersite.xyz
   - DOMAIN,supersonicads-a.akamaihd.net
+  - DOMAIN,superstarpanda.com
   - DOMAIN,supertop100.com
   - DOMAIN,supertracker.flashget.com
   - DOMAIN,supertura.com
@@ -20118,6 +20130,7 @@ payload:
   - DOMAIN,withlovestudio.net
   - DOMAIN,withrows.com
   - DOMAIN,wittyvideos.com
+  - DOMAIN,wizard-traffic.com
   - DOMAIN,wizard101codes.org
   - DOMAIN,wkmg.co.kr
   - DOMAIN,wlad-el3am.j8inn1zektoe.com
@@ -20418,6 +20431,7 @@ payload:
   - DOMAIN,www18.officedepot.com
   - DOMAIN,www180.myway.com
   - DOMAIN,www181.superembed.com
+  - DOMAIN,www19.71sise.com
   - DOMAIN,www19.superembed.com
   - DOMAIN,www2.adhost.com
   - DOMAIN,www2.apptimize.com

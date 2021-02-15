@@ -1,7 +1,7 @@
 # NAME: China 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-15 02:23:33.550845
+# UPDATED: 2021-02-15 12:33:04.347267
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 payload:
 #  与 DanDanZan 共 7 条规则重复
@@ -18,6 +18,22 @@ payload:
   - DOMAIN-SUFFIX,playstationnetwork.com
   - DOMAIN-SUFFIX,sony.com
   - DOMAIN-SUFFIX,sonyentertainmentnetwork.com
+#  与 Clubhouse 共 15 条规则重复
+  - IP-CIDR,148.153.172.73/32
+  - IP-CIDR,148.153.172.74/31
+  - IP-CIDR,148.153.172.76/31
+  - IP-CIDR,164.52.102.66/31
+  - IP-CIDR,164.52.102.68/31
+  - IP-CIDR,164.52.102.70/32
+  - IP-CIDR,164.52.102.75/32
+  - IP-CIDR,164.52.102.76/31
+  - IP-CIDR,164.52.102.91/32
+  - IP-CIDR,199.190.44.36/31
+  - IP-CIDR,3.0.163.78/32
+  - IP-CIDR,35.178.208.187/32
+  - IP-CIDR,52.194.158.59/32
+  - IP-CIDR,52.52.84.170/32
+  - IP-CIDR,52.58.56.244/32
 #  与 Scholar 共 56 条规则重复
   - DOMAIN-SUFFIX,acm.org
   - DOMAIN-SUFFIX,acs.org
@@ -97,6 +113,22 @@ payload:
   - DOMAIN-SUFFIX,zmzapi.com
   - DOMAIN-SUFFIX,zmzapi.net
   - DOMAIN-SUFFIX,zmzfile.com
+#  与 ClubhouseIP 共 15 条规则重复
+  - IP-CIDR,148.153.172.73/32
+  - IP-CIDR,148.153.172.74/31
+  - IP-CIDR,148.153.172.76/31
+  - IP-CIDR,164.52.102.66/31
+  - IP-CIDR,164.52.102.68/31
+  - IP-CIDR,164.52.102.70/32
+  - IP-CIDR,164.52.102.75/32
+  - IP-CIDR,164.52.102.76/31
+  - IP-CIDR,164.52.102.91/32
+  - IP-CIDR,199.190.44.36/31
+  - IP-CIDR,3.0.163.78/32
+  - IP-CIDR,35.178.208.187/32
+  - IP-CIDR,52.194.158.59/32
+  - IP-CIDR,52.52.84.170/32
+  - IP-CIDR,52.58.56.244/32
 #  与 AsianMedia 共 8 条规则重复
   - DOMAIN-SUFFIX,71.am.com
   - DOMAIN-SUFFIX,acgvideo.com

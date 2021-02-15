@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-15 02:23:22.020935
+# UPDATED: 2021-02-15 12:32:53.716783
 # HOST-KEYWORD: 60
 # HOST-SUFFIX: 43204
-# HOST: 21085
+# HOST: 21099
 # IP-CIDR: 240
 # USER-AGENT: 1
-# TOTAL: 64590
+# TOTAL: 64604
 HOST,0.nextyourcontent.com,Advertising
 HOST,0.up.qingdaonews.com,Advertising
 HOST,0001.2waky.com,Advertising
@@ -277,6 +277,7 @@ HOST,4.whereinliguria.com,Advertising
 HOST,4.whereinlombardy.com,Advertising
 HOST,4.whereinmolise.com,Advertising
 HOST,4.whereinpiemonte.com,Advertising
+HOST,4.whereinsardegna.com,Advertising
 HOST,4.whereinsicilia.com,Advertising
 HOST,4.whereintoscana.com,Advertising
 HOST,40-sm.000webhostapp.com,Advertising
@@ -1166,6 +1167,7 @@ HOST,adclick.eqmob.com,Advertising
 HOST,adclick.lv,Advertising
 HOST,adclickthru.net,Advertising
 HOST,adclickxpress.com,Advertising
+HOST,adclient.163.com,Advertising
 HOST,adclient1.tucows.com,Advertising
 HOST,adcode.rontar.com,Advertising
 HOST,adcoin.click,Advertising
@@ -7727,6 +7729,7 @@ HOST,exploremerida.com,Advertising
 HOST,expo-max.com,Advertising
 HOST,expolanguages.com,Advertising
 HOST,export.voffka.com,Advertising
+HOST,expressaffiliatesite.com,Advertising
 HOST,expressgrab.com,Advertising
 HOST,ext.baidu.com,Advertising
 HOST,ext.movixhub.com,Advertising
@@ -9675,6 +9678,7 @@ HOST,health-partner.net,Advertising
 HOST,health.luoshenbest.com,Advertising
 HOST,healthbeautyncs.com,Advertising
 HOST,healthbeautytrade.com,Advertising
+HOST,healthdataknowledge.com,Advertising
 HOST,healthforsurvival.com,Advertising
 HOST,healthgainsmd.com,Advertising
 HOST,healthisp.net,Advertising
@@ -10719,6 +10723,7 @@ HOST,jaminjubilee.com,Advertising
 HOST,jammulinks.com,Advertising
 HOST,jamsmsltd.000webhostapp.com,Advertising
 HOST,jamthailand.com,Advertising
+HOST,janagames.com,Advertising
 HOST,janeaustenjoy.com,Advertising
 HOST,janedoemain.com,Advertising
 HOST,jankessinger.com,Advertising
@@ -10829,6 +10834,7 @@ HOST,jmacs.maribacaberita.com,Advertising
 HOST,jmb-photography.com,Advertising
 HOST,jmbhyqijqhxk.com,Advertising
 HOST,jmxphjxsxd.com,Advertising
+HOST,jn.pl.thefiodssd.com,Advertising
 HOST,jn.redirectme.net,Advertising
 HOST,jn1rdqrfn5-1.algolianet.com,Advertising
 HOST,jn1rdqrfn5-2.algolianet.com,Advertising
@@ -11389,6 +11395,7 @@ HOST,lavienailscarmel.com,Advertising
 HOST,lavillanails.com,Advertising
 HOST,lavonnewk.000webhostapp.com,Advertising
 HOST,lavylites.com,Advertising
+HOST,laxdrills.com,Advertising
 HOST,laydata.com,Advertising
 HOST,layerpark.com,Advertising
 HOST,laytonhubble.com,Advertising
@@ -14262,6 +14269,7 @@ HOST,passpport.com,Advertising
 HOST,password.newzgames.com,Advertising
 HOST,password.thishack.org,Advertising
 HOST,passwordr.com,Advertising
+HOST,pastilon.com,Advertising
 HOST,pataraquadbike.com,Advertising
 HOST,patashala.org,Advertising
 HOST,pathackley.com,Advertising
@@ -16321,6 +16329,7 @@ HOST,semaltmedia.com,Advertising
 HOST,semblueinc.viewmyplans.com,Advertising
 HOST,semengineers.com,Advertising
 HOST,semestapalet.com,Advertising
+HOST,semexpertdelhi.com,Advertising
 HOST,seminarium.com,Advertising
 HOST,semiyun.com,Advertising
 HOST,sen02.younetmedia.com,Advertising
@@ -16586,6 +16595,7 @@ HOST,shiporama.com,Advertising
 HOST,ships.zapto.org,Advertising
 HOST,shirohanastaff.org,Advertising
 HOST,shit4shit.com,Advertising
+HOST,shivafurnishings.com,Advertising
 HOST,shivamcommunications.com,Advertising
 HOST,shivamelectrochem.com,Advertising
 HOST,shmdigitalllc.com,Advertising
@@ -17594,6 +17604,7 @@ HOST,stream.useriq.com,Advertising
 HOST,stream1.livefyre.com,Advertising
 HOST,streamfullmoviehd.com,Advertising
 HOST,streamhd24.com,Advertising
+HOST,streaming.filmsgratuits.org,Advertising
 HOST,streamingfilmhd.com,Advertising
 HOST,streamstats1.blinkx.com,Advertising
 HOST,streamuj.org,Advertising
@@ -17705,6 +17716,7 @@ HOST,superpackdlc.sharezips.net,Advertising
 HOST,superqualitypackers.com,Advertising
 HOST,supersite.xyz,Advertising
 HOST,supersonicads-a.akamaihd.net,Advertising
+HOST,superstarpanda.com,Advertising
 HOST,supertop100.com,Advertising
 HOST,supertracker.flashget.com,Advertising
 HOST,supertura.com,Advertising
@@ -20118,6 +20130,7 @@ HOST,withersby.com,Advertising
 HOST,withlovestudio.net,Advertising
 HOST,withrows.com,Advertising
 HOST,wittyvideos.com,Advertising
+HOST,wizard-traffic.com,Advertising
 HOST,wizard101codes.org,Advertising
 HOST,wkmg.co.kr,Advertising
 HOST,wlad-el3am.j8inn1zektoe.com,Advertising
@@ -20418,6 +20431,7 @@ HOST,www18.glam.com,Advertising
 HOST,www18.officedepot.com,Advertising
 HOST,www180.myway.com,Advertising
 HOST,www181.superembed.com,Advertising
+HOST,www19.71sise.com,Advertising
 HOST,www19.superembed.com,Advertising
 HOST,www2.adhost.com,Advertising
 HOST,www2.apptimize.com,Advertising

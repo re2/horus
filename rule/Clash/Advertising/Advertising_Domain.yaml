@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-15 02:23:25.514871
+# UPDATED: 2021-02-15 12:32:56.970975
 # DOMAIN-KEYWORD: 60
 # DOMAIN-SUFFIX: 43204
-# DOMAIN: 21085
+# DOMAIN: 21099
 # IP-CIDR: 240
-# TOTAL: 64589
+# TOTAL: 64603
 payload:
   - '0.nextyourcontent.com'
   - '0.up.qingdaonews.com'
@@ -277,6 +277,7 @@ payload:
   - '4.whereinlombardy.com'
   - '4.whereinmolise.com'
   - '4.whereinpiemonte.com'
+  - '4.whereinsardegna.com'
   - '4.whereinsicilia.com'
   - '4.whereintoscana.com'
   - '40-sm.000webhostapp.com'
@@ -1166,6 +1167,7 @@ payload:
   - 'adclick.lv'
   - 'adclickthru.net'
   - 'adclickxpress.com'
+  - 'adclient.163.com'
   - 'adclient1.tucows.com'
   - 'adcode.rontar.com'
   - 'adcoin.click'
@@ -7727,6 +7729,7 @@ payload:
   - 'expo-max.com'
   - 'expolanguages.com'
   - 'export.voffka.com'
+  - 'expressaffiliatesite.com'
   - 'expressgrab.com'
   - 'ext.baidu.com'
   - 'ext.movixhub.com'
@@ -9675,6 +9678,7 @@ payload:
   - 'health.luoshenbest.com'
   - 'healthbeautyncs.com'
   - 'healthbeautytrade.com'
+  - 'healthdataknowledge.com'
   - 'healthforsurvival.com'
   - 'healthgainsmd.com'
   - 'healthisp.net'
@@ -10719,6 +10723,7 @@ payload:
   - 'jammulinks.com'
   - 'jamsmsltd.000webhostapp.com'
   - 'jamthailand.com'
+  - 'janagames.com'
   - 'janeaustenjoy.com'
   - 'janedoemain.com'
   - 'jankessinger.com'
@@ -10829,6 +10834,7 @@ payload:
   - 'jmb-photography.com'
   - 'jmbhyqijqhxk.com'
   - 'jmxphjxsxd.com'
+  - 'jn.pl.thefiodssd.com'
   - 'jn.redirectme.net'
   - 'jn1rdqrfn5-1.algolianet.com'
   - 'jn1rdqrfn5-2.algolianet.com'
@@ -11389,6 +11395,7 @@ payload:
   - 'lavillanails.com'
   - 'lavonnewk.000webhostapp.com'
   - 'lavylites.com'
+  - 'laxdrills.com'
   - 'laydata.com'
   - 'layerpark.com'
   - 'laytonhubble.com'
@@ -14262,6 +14269,7 @@ payload:
   - 'password.newzgames.com'
   - 'password.thishack.org'
   - 'passwordr.com'
+  - 'pastilon.com'
   - 'pataraquadbike.com'
   - 'patashala.org'
   - 'pathackley.com'
@@ -16321,6 +16329,7 @@ payload:
   - 'semblueinc.viewmyplans.com'
   - 'semengineers.com'
   - 'semestapalet.com'
+  - 'semexpertdelhi.com'
   - 'seminarium.com'
   - 'semiyun.com'
   - 'sen02.younetmedia.com'
@@ -16586,6 +16595,7 @@ payload:
   - 'ships.zapto.org'
   - 'shirohanastaff.org'
   - 'shit4shit.com'
+  - 'shivafurnishings.com'
   - 'shivamcommunications.com'
   - 'shivamelectrochem.com'
   - 'shmdigitalllc.com'
@@ -17594,6 +17604,7 @@ payload:
   - 'stream1.livefyre.com'
   - 'streamfullmoviehd.com'
   - 'streamhd24.com'
+  - 'streaming.filmsgratuits.org'
   - 'streamingfilmhd.com'
   - 'streamstats1.blinkx.com'
   - 'streamuj.org'
@@ -17705,6 +17716,7 @@ payload:
   - 'superqualitypackers.com'
   - 'supersite.xyz'
   - 'supersonicads-a.akamaihd.net'
+  - 'superstarpanda.com'
   - 'supertop100.com'
   - 'supertracker.flashget.com'
   - 'supertura.com'
@@ -20118,6 +20130,7 @@ payload:
   - 'withlovestudio.net'
   - 'withrows.com'
   - 'wittyvideos.com'
+  - 'wizard-traffic.com'
   - 'wizard101codes.org'
   - 'wkmg.co.kr'
   - 'wlad-el3am.j8inn1zektoe.com'
@@ -20418,6 +20431,7 @@ payload:
   - 'www18.officedepot.com'
   - 'www180.myway.com'
   - 'www181.superembed.com'
+  - 'www19.71sise.com'
   - 'www19.superembed.com'
   - 'www2.adhost.com'
   - 'www2.apptimize.com'

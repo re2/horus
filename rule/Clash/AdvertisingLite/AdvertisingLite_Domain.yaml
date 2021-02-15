@@ -1,12 +1,12 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-15 02:23:25.405059
+# UPDATED: 2021-02-15 12:32:56.875689
 # DOMAIN-KEYWORD: 27
 # DOMAIN-SUFFIX: 15241
-# DOMAIN: 15476
+# DOMAIN: 15490
 # IP-CIDR: 192
-# TOTAL: 30936
+# TOTAL: 30950
 payload:
   - '0.up.qingdaonews.com'
   - '00-gov.cn'
@@ -1922,6 +1922,7 @@ payload:
   - 'altpubli.com'
   - 'altrk.net'
   - 'alvenda.com'
+  - 'alwkvwdxqojyce.com'
   - 'alwqfajh.com'
   - 'alxsite.com'
   - 'alxzes.com'
@@ -3825,6 +3826,7 @@ payload:
   - 'contemporaryceremonies.ca'
   - 'content-ad.net'
   - 'content-cooperation.com'
+  - 'content-recommendation.net'
   - 'content-square.net'
   - 'content.ad'
   - 'content.liveuniverse.com'
@@ -4120,6 +4122,7 @@ payload:
   - 'cts.businesswire.com'
   - 'cttghjfhsw.com'
   - 'cttracking02.com'
+  - 'cttwfmsx.com'
   - 'ctyzd.com'
   - 'cubchannel.com'
   - 'cubics.com'
@@ -5201,6 +5204,7 @@ payload:
   - 'electusdigital.com'
   - 'elefantsearch.com'
   - 'elekted.com'
+  - 'elelrryoifogje.com'
   - 'elepocial.pro'
   - 'elew72isst.rr.nu'
   - 'elexgfzjpmo.com'
@@ -5213,6 +5217,7 @@ payload:
   - 'elsad.tw'
   - 'elsbfby.com'
   - 'eltex.co.jp'
+  - 'eluxer.net'
   - 'email-match.com'
   - 'emailing.rfi.fr'
   - 'emailretargeting.com'
@@ -7559,6 +7564,7 @@ payload:
   - 'jyzmsy.com.cn'
   - 'jz9ugaqb.com'
   - 'jzedpmpcmsk.com'
+  - 'jzjzuwllinruj.com'
   - 'jzswicjgfvtqun.com'
   - 'k-analytix.com'
   - 'k.gsdhome.cn'
@@ -7606,6 +7612,7 @@ payload:
   - 'kctag.net'
   - 'kcveufgl.com'
   - 'kdata.fr'
+  - 'kdcmgzgxears.com'
   - 'kdfumeftulzzpp.com'
   - 'kdly.net'
   - 'kdmmm.cn'
@@ -7743,6 +7750,7 @@ payload:
   - 'krison.xyz'
   - 'krsccftmf.com'
   - 'krsutcnex.com'
+  - 'ksncmrkfrzkgla.com'
   - 'ksvxikbr.com'
   - 'ksyrium0014.com'
   - 'kt5850pjz0.com'
@@ -7913,6 +7921,7 @@ payload:
   - 'lexu.goggendorf.at'
   - 'lezai.com'
   - 'lfg5jnbi.com'
+  - 'lfhgumhsrjjgrt.com'
   - 'lfov.net'
   - 'lfstmedia.com'
   - 'lfztmoamieum.com'
@@ -8180,6 +8189,7 @@ payload:
   - 'lpqlmevjhis.com'
   - 'lpqrgmxuju.com'
   - 'lptnfhmvnd.com'
+  - 'lpwwerdeef.com'
   - 'lqcdn.com'
   - 'lqfvlnnygf.com'
   - 'lqpkjasgqjve.com'
@@ -9626,6 +9636,7 @@ payload:
   - 'okvfijgdmqton.bid'
   - 'okvtmvrmha.com'
   - 'okwfx.cn'
+  - 'oldership.com'
   - 'olfkptkfop.com'
   - 'olgtex.com'
   - 'olhupniause.com'
@@ -10816,6 +10827,7 @@ payload:
   - 'pycmdgig.com'
   - 'pymx5.com'
   - 'pyqsbuaeqiku.com'
+  - 'pzwsredntjhcwy.com'
   - 'pzz.events'
   - 'q-counter.com'
   - 'q-stats.nl'
@@ -13123,6 +13135,7 @@ payload:
   - 'theverlalinglac.info'
   - 'theweatherspace.com'
   - 'thewebgemnetwork.com'
+  - 'thewheelof.com'
   - 'thewhizmarketing.com'
   - 'thewhizproducts.com'
   - 'thewinesteward.com'
@@ -13208,6 +13221,7 @@ payload:
   - 'tjoomo.com'
   - 'tk-gregoric.si'
   - 'tkickhhylnvm.com'
+  - 'tkjdwcigpyazr.com'
   - 'tkn.fux.com'
   - 'tkqlhce.com'
   - 'tl813.com'

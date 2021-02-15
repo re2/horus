@@ -1,12 +1,12 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-15 02:23:25.438014
+# UPDATED: 2021-02-15 12:32:56.903402
 # DOMAIN-KEYWORD: 27
 # DOMAIN-SUFFIX: 15241
-# DOMAIN: 15476
+# DOMAIN: 15490
 # IP-CIDR: 192
-# TOTAL: 30936
+# TOTAL: 30950
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,00-gov.cn
@@ -1922,6 +1922,7 @@ payload:
   - DOMAIN,altpubli.com
   - DOMAIN,altrk.net
   - DOMAIN,alvenda.com
+  - DOMAIN,alwkvwdxqojyce.com
   - DOMAIN,alwqfajh.com
   - DOMAIN,alxsite.com
   - DOMAIN,alxzes.com
@@ -3825,6 +3826,7 @@ payload:
   - DOMAIN,contemporaryceremonies.ca
   - DOMAIN,content-ad.net
   - DOMAIN,content-cooperation.com
+  - DOMAIN,content-recommendation.net
   - DOMAIN,content-square.net
   - DOMAIN,content.ad
   - DOMAIN,content.liveuniverse.com
@@ -4120,6 +4122,7 @@ payload:
   - DOMAIN,cts.businesswire.com
   - DOMAIN,cttghjfhsw.com
   - DOMAIN,cttracking02.com
+  - DOMAIN,cttwfmsx.com
   - DOMAIN,ctyzd.com
   - DOMAIN,cubchannel.com
   - DOMAIN,cubics.com
@@ -5201,6 +5204,7 @@ payload:
   - DOMAIN,electusdigital.com
   - DOMAIN,elefantsearch.com
   - DOMAIN,elekted.com
+  - DOMAIN,elelrryoifogje.com
   - DOMAIN,elepocial.pro
   - DOMAIN,elew72isst.rr.nu
   - DOMAIN,elexgfzjpmo.com
@@ -5213,6 +5217,7 @@ payload:
   - DOMAIN,elsad.tw
   - DOMAIN,elsbfby.com
   - DOMAIN,eltex.co.jp
+  - DOMAIN,eluxer.net
   - DOMAIN,email-match.com
   - DOMAIN,emailing.rfi.fr
   - DOMAIN,emailretargeting.com
@@ -7559,6 +7564,7 @@ payload:
   - DOMAIN,jyzmsy.com.cn
   - DOMAIN,jz9ugaqb.com
   - DOMAIN,jzedpmpcmsk.com
+  - DOMAIN,jzjzuwllinruj.com
   - DOMAIN,jzswicjgfvtqun.com
   - DOMAIN,k-analytix.com
   - DOMAIN,k.gsdhome.cn
@@ -7606,6 +7612,7 @@ payload:
   - DOMAIN,kctag.net
   - DOMAIN,kcveufgl.com
   - DOMAIN,kdata.fr
+  - DOMAIN,kdcmgzgxears.com
   - DOMAIN,kdfumeftulzzpp.com
   - DOMAIN,kdly.net
   - DOMAIN,kdmmm.cn
@@ -7743,6 +7750,7 @@ payload:
   - DOMAIN,krison.xyz
   - DOMAIN,krsccftmf.com
   - DOMAIN,krsutcnex.com
+  - DOMAIN,ksncmrkfrzkgla.com
   - DOMAIN,ksvxikbr.com
   - DOMAIN,ksyrium0014.com
   - DOMAIN,kt5850pjz0.com
@@ -7913,6 +7921,7 @@ payload:
   - DOMAIN,lexu.goggendorf.at
   - DOMAIN,lezai.com
   - DOMAIN,lfg5jnbi.com
+  - DOMAIN,lfhgumhsrjjgrt.com
   - DOMAIN,lfov.net
   - DOMAIN,lfstmedia.com
   - DOMAIN,lfztmoamieum.com
@@ -8180,6 +8189,7 @@ payload:
   - DOMAIN,lpqlmevjhis.com
   - DOMAIN,lpqrgmxuju.com
   - DOMAIN,lptnfhmvnd.com
+  - DOMAIN,lpwwerdeef.com
   - DOMAIN,lqcdn.com
   - DOMAIN,lqfvlnnygf.com
   - DOMAIN,lqpkjasgqjve.com
@@ -9626,6 +9636,7 @@ payload:
   - DOMAIN,okvfijgdmqton.bid
   - DOMAIN,okvtmvrmha.com
   - DOMAIN,okwfx.cn
+  - DOMAIN,oldership.com
   - DOMAIN,olfkptkfop.com
   - DOMAIN,olgtex.com
   - DOMAIN,olhupniause.com
@@ -10816,6 +10827,7 @@ payload:
   - DOMAIN,pycmdgig.com
   - DOMAIN,pymx5.com
   - DOMAIN,pyqsbuaeqiku.com
+  - DOMAIN,pzwsredntjhcwy.com
   - DOMAIN,pzz.events
   - DOMAIN,q-counter.com
   - DOMAIN,q-stats.nl
@@ -13123,6 +13135,7 @@ payload:
   - DOMAIN,theverlalinglac.info
   - DOMAIN,theweatherspace.com
   - DOMAIN,thewebgemnetwork.com
+  - DOMAIN,thewheelof.com
   - DOMAIN,thewhizmarketing.com
   - DOMAIN,thewhizproducts.com
   - DOMAIN,thewinesteward.com
@@ -13208,6 +13221,7 @@ payload:
   - DOMAIN,tjoomo.com
   - DOMAIN,tk-gregoric.si
   - DOMAIN,tkickhhylnvm.com
+  - DOMAIN,tkjdwcigpyazr.com
   - DOMAIN,tkn.fux.com
   - DOMAIN,tkqlhce.com
   - DOMAIN,tl813.com

@@ -1,15 +1,15 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-15 02:23:23.500779
+# UPDATED: 2021-02-15 12:32:55.096083
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 27
 # DOMAIN-SUFFIX: 15241
-# DOMAIN: 15476
+# DOMAIN: 15490
 # IP-CIDR: 192
 # USER-AGENT: 1
 # URL-REGEX: 302
-# TOTAL: 31239
+# TOTAL: 31253
 0.up.qingdaonews.com
 00-gov.cn
 0024aadd.com
@@ -1924,6 +1924,7 @@ altpool.pro
 altpubli.com
 altrk.net
 alvenda.com
+alwkvwdxqojyce.com
 alwqfajh.com
 alxsite.com
 alxzes.com
@@ -3827,6 +3828,7 @@ contehos.com
 contemporaryceremonies.ca
 content-ad.net
 content-cooperation.com
+content-recommendation.net
 content-square.net
 content.ad
 content.liveuniverse.com
@@ -4122,6 +4124,7 @@ ctrmanager.com
 cts.businesswire.com
 cttghjfhsw.com
 cttracking02.com
+cttwfmsx.com
 ctyzd.com
 cubchannel.com
 cubics.com
@@ -5203,6 +5206,7 @@ electosake.com
 electusdigital.com
 elefantsearch.com
 elekted.com
+elelrryoifogje.com
 elepocial.pro
 elew72isst.rr.nu
 elexgfzjpmo.com
@@ -5215,6 +5219,7 @@ eloqua.com
 elsad.tw
 elsbfby.com
 eltex.co.jp
+eluxer.net
 email-match.com
 emailing.rfi.fr
 emailretargeting.com
@@ -7561,6 +7566,7 @@ jynp9m209p.com
 jyzmsy.com.cn
 jz9ugaqb.com
 jzedpmpcmsk.com
+jzjzuwllinruj.com
 jzswicjgfvtqun.com
 k-analytix.com
 k.gsdhome.cn
@@ -7608,6 +7614,7 @@ kcolbda.com
 kctag.net
 kcveufgl.com
 kdata.fr
+kdcmgzgxears.com
 kdfumeftulzzpp.com
 kdly.net
 kdmmm.cn
@@ -7745,6 +7752,7 @@ krb.devphp.org.ua
 krison.xyz
 krsccftmf.com
 krsutcnex.com
+ksncmrkfrzkgla.com
 ksvxikbr.com
 ksyrium0014.com
 kt5850pjz0.com
@@ -7915,6 +7923,7 @@ lexity.com
 lexu.goggendorf.at
 lezai.com
 lfg5jnbi.com
+lfhgumhsrjjgrt.com
 lfov.net
 lfstmedia.com
 lfztmoamieum.com
@@ -8182,6 +8191,7 @@ lporirxe.com
 lpqlmevjhis.com
 lpqrgmxuju.com
 lptnfhmvnd.com
+lpwwerdeef.com
 lqcdn.com
 lqfvlnnygf.com
 lqpkjasgqjve.com
@@ -9628,6 +9638,7 @@ oktopost.com
 okvfijgdmqton.bid
 okvtmvrmha.com
 okwfx.cn
+oldership.com
 olfkptkfop.com
 olgtex.com
 olhupniause.com
@@ -10818,6 +10829,7 @@ pxxxyhum.com
 pycmdgig.com
 pymx5.com
 pyqsbuaeqiku.com
+pzwsredntjhcwy.com
 pzz.events
 q-counter.com
 q-stats.nl
@@ -13125,6 +13137,7 @@ thetraderinpajamas.com
 theverlalinglac.info
 theweatherspace.com
 thewebgemnetwork.com
+thewheelof.com
 thewhizmarketing.com
 thewhizproducts.com
 thewinesteward.com
@@ -13210,6 +13223,7 @@ tjjs.km.com
 tjoomo.com
 tk-gregoric.si
 tkickhhylnvm.com
+tkjdwcigpyazr.com
 tkn.fux.com
 tkqlhce.com
 tl813.com
