@@ -1,7 +1,7 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-15 13:16:10.190406
+# UPDATED: 2021-02-16 02:24:09.528135
 # HOST-KEYWORD: 60
 # HOST-SUFFIX: 64736
 # HOST: 15228
@@ -34,6 +34,7 @@ HOST,0koryu0.easter.ne.jp,AdvertisingTest
 HOST,0lovespells0.blogspot.com,AdvertisingTest
 HOST,0myetherwallet.com,AdvertisingTest
 HOST,0nso0tq1sa4.ml,AdvertisingTest
+HOST,1-free-share-buttons.com,AdvertisingTest
 HOST,1-pregnant-sex.com,AdvertisingTest
 HOST,1.114central.com,AdvertisingTest
 HOST,1.hidemyass.com,AdvertisingTest
@@ -2173,7 +2174,6 @@ HOST,ayboll.sgsrv.com,AdvertisingTest
 HOST,aysnmnzu4u.com,AdvertisingTest
 HOST,ayudastecnicas.com,AdvertisingTest
 HOST,ayurvedabeyond.com,AdvertisingTest
-HOST,azadbdgroup.com,AdvertisingTest
 HOST,azartclub.org,AdvertisingTest
 HOST,azbukafree.com,AdvertisingTest
 HOST,azcodegenerator.com,AdvertisingTest
@@ -2734,7 +2734,6 @@ HOST,bradmccrady.com,AdvertisingTest
 HOST,bradyhansen.com,AdvertisingTest
 HOST,brainfox.com,AdvertisingTest
 HOST,brakehawk.com,AdvertisingTest
-HOST,brand4india.com,AdvertisingTest
 HOST,brandedleadgeneration.com,AdvertisingTest
 HOST,brandflexonline.com,AdvertisingTest
 HOST,branding.rs-1117-a.com,AdvertisingTest
@@ -4139,7 +4138,6 @@ HOST,csgotradejet.com,AdvertisingTest
 HOST,csgotrademax.com,AdvertisingTest
 HOST,csgotunes.com,AdvertisingTest
 HOST,csgoweaponskins.net,AdvertisingTest
-HOST,csground.com,AdvertisingTest
 HOST,csinterinc.com,AdvertisingTest
 HOST,csmstrategy.com,AdvertisingTest
 HOST,csr.inspsearchapi.com,AdvertisingTest
@@ -6746,6 +6744,7 @@ HOST,hackgenerations.com,AdvertisingTest
 HOST,hackgmail.net,AdvertisingTest
 HOST,hackgta5online.com,AdvertisingTest
 HOST,hackidomsp.blogspot.com,AdvertisingTest
+HOST,hackimperium.com,AdvertisingTest
 HOST,hackindustry.com,AdvertisingTest
 HOST,hackingames24.com,AdvertisingTest
 HOST,hackingbooth.com,AdvertisingTest
@@ -7862,6 +7861,7 @@ HOST,js.hdzog.com,AdvertisingTest
 HOST,js.hubspot.com,AdvertisingTest
 HOST,js.intercomcdn.com,AdvertisingTest
 HOST,js.jrjimg.cn,AdvertisingTest
+HOST,js.lanmoes.com,AdvertisingTest
 HOST,js.livehelper.com,AdvertisingTest
 HOST,js.mmtcdn.com,AdvertisingTest
 HOST,js.ogstats.com,AdvertisingTest
@@ -9758,7 +9758,6 @@ HOST,newdirectiondriving.com,AdvertisingTest
 HOST,newdonate.com,AdvertisingTest
 HOST,newengland.sla.org,AdvertisingTest
 HOST,newest-hacks.com,AdvertisingTest
-HOST,newesthack.com,AdvertisingTest
 HOST,newesthacks.com,AdvertisingTest
 HOST,newfastmediasearcher.com,AdvertisingTest
 HOST,newfbapps.com,AdvertisingTest
@@ -9834,6 +9833,7 @@ HOST,nilesolution.net,AdvertisingTest
 HOST,nimtzdesigngroup.com,AdvertisingTest
 HOST,ninja-pattaya.com,AdvertisingTest
 HOST,ninjagod.com,AdvertisingTest
+HOST,ninjakeygens.com,AdvertisingTest
 HOST,ninjasaga.haxdo.com,AdvertisingTest
 HOST,nintendo3ds4free.com,AdvertisingTest
 HOST,nintendobro.com,AdvertisingTest
@@ -12169,7 +12169,6 @@ HOST,skinsforce.com,AdvertisingTest
 HOST,skinshub.net,AdvertisingTest
 HOST,skinsrate.com,AdvertisingTest
 HOST,skinsregal.com,AdvertisingTest
-HOST,skinstown.com,AdvertisingTest
 HOST,skinstrue.com,AdvertisingTest
 HOST,skinswhite.com,AdvertisingTest
 HOST,skinxswap.com,AdvertisingTest
@@ -12347,6 +12346,7 @@ HOST,solelyfun.com,AdvertisingTest
 HOST,solenise.com,AdvertisingTest
 HOST,solidallianzemfb.com,AdvertisingTest
 HOST,solidhacks.com,AdvertisingTest
+HOST,solitudehotel.com,AdvertisingTest
 HOST,solomotos.net,AdvertisingTest
 HOST,solotrattoria.com,AdvertisingTest
 HOST,solotravelsmarts.com,AdvertisingTest
@@ -12961,6 +12961,7 @@ HOST,tamada69.com,AdvertisingTest
 HOST,tamilcm.com,AdvertisingTest
 HOST,tangaroa-sailing.com,AdvertisingTest
 HOST,tangence.actonsoftware.com,AdvertisingTest
+HOST,tanglike.top,AdvertisingTest
 HOST,tangwongkit.com,AdvertisingTest
 HOST,tanishajewels.com,AdvertisingTest
 HOST,tanki.best-hacks.net,AdvertisingTest
@@ -14388,7 +14389,6 @@ HOST,welleducateindia.com,AdvertisingTest
 HOST,wellfarer.000webhostapp.com,AdvertisingTest
 HOST,wellhealthmens.com,AdvertisingTest
 HOST,wellmediaonline.com,AdvertisingTest
-HOST,wellness2all.com,AdvertisingTest
 HOST,wells1.000webhostapp.com,AdvertisingTest
 HOST,wellsfairgo.com,AdvertisingTest
 HOST,wellsfargo.mcgsystem.com,AdvertisingTest

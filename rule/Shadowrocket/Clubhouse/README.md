@@ -8,11 +8,11 @@
 
 
 
-最后检查时间：2021-02-15 13:17:02.417669。
+最后检查时间：2021-02-16 02:25:03.827313。
 
 ## 规则统计
 
-总计规则：19 条。
+总计规则：40 条。
 
 各类型规则统计：
 
@@ -20,7 +20,7 @@
 | ---- | ---- |
 | DOMAIN-SUFFIX | 2 |
 | DOMAIN | 2 |
-| IP-CIDR | 15 |
+| IP-CIDR | 36 |
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化
@@ -48,7 +48,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Shad
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [ClubhouseIP](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/ClubhouseIP)    | 39   | [15](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Clubhouse/Clubhouse_Repeat.list)   |   38.46% |
+|  [ClubhouseIP](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/ClubhouseIP)    | 63   | [36](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Clubhouse/Clubhouse_Repeat.list)   |   57.14% |
 ### 特别说明
 程序在实际运算时，会根据DOMAIN、DOMAIN-SUFFIX、IP-CIDR、IP-CIDR6间的包含关系进行去重，而出于运行效率考虑，重复规则只统计纯文本匹配，所以可能与实际效果有所出入，仅供参考。
 

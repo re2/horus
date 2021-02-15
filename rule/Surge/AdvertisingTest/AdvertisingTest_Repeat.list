@@ -1,7 +1,7 @@
 # NAME: AdvertisingTest 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-15 13:16:17.001171
+# UPDATED: 2021-02-16 02:24:16.706583
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 #  与 Hijacking 共 212 条规则重复
 DOMAIN-SUFFIX,17gouwuba.com
@@ -2853,6 +2853,7 @@ DOMAIN,0koryu0.easter.ne.jp
 DOMAIN,0lovespells0.blogspot.com
 DOMAIN,0myetherwallet.com
 DOMAIN,0nso0tq1sa4.ml
+DOMAIN,1-free-share-buttons.com
 DOMAIN,1-pregnant-sex.com
 DOMAIN,1.114central.com
 DOMAIN,1.hidemyass.com
@@ -4992,7 +4993,6 @@ DOMAIN,ayboll.sgsrv.com
 DOMAIN,aysnmnzu4u.com
 DOMAIN,ayudastecnicas.com
 DOMAIN,ayurvedabeyond.com
-DOMAIN,azadbdgroup.com
 DOMAIN,azartclub.org
 DOMAIN,azbukafree.com
 DOMAIN,azcodegenerator.com
@@ -5553,7 +5553,6 @@ DOMAIN,bradmccrady.com
 DOMAIN,bradyhansen.com
 DOMAIN,brainfox.com
 DOMAIN,brakehawk.com
-DOMAIN,brand4india.com
 DOMAIN,brandedleadgeneration.com
 DOMAIN,brandflexonline.com
 DOMAIN,branding.rs-1117-a.com
@@ -6958,7 +6957,6 @@ DOMAIN,csgotradejet.com
 DOMAIN,csgotrademax.com
 DOMAIN,csgotunes.com
 DOMAIN,csgoweaponskins.net
-DOMAIN,csground.com
 DOMAIN,csinterinc.com
 DOMAIN,csmstrategy.com
 DOMAIN,csr.inspsearchapi.com
@@ -9565,6 +9563,7 @@ DOMAIN,hackgenerations.com
 DOMAIN,hackgmail.net
 DOMAIN,hackgta5online.com
 DOMAIN,hackidomsp.blogspot.com
+DOMAIN,hackimperium.com
 DOMAIN,hackindustry.com
 DOMAIN,hackingames24.com
 DOMAIN,hackingbooth.com
@@ -10681,6 +10680,7 @@ DOMAIN,js.hdzog.com
 DOMAIN,js.hubspot.com
 DOMAIN,js.intercomcdn.com
 DOMAIN,js.jrjimg.cn
+DOMAIN,js.lanmoes.com
 DOMAIN,js.livehelper.com
 DOMAIN,js.mmtcdn.com
 DOMAIN,js.ogstats.com
@@ -12577,7 +12577,6 @@ DOMAIN,newdirectiondriving.com
 DOMAIN,newdonate.com
 DOMAIN,newengland.sla.org
 DOMAIN,newest-hacks.com
-DOMAIN,newesthack.com
 DOMAIN,newesthacks.com
 DOMAIN,newfastmediasearcher.com
 DOMAIN,newfbapps.com
@@ -12653,6 +12652,7 @@ DOMAIN,nilesolution.net
 DOMAIN,nimtzdesigngroup.com
 DOMAIN,ninja-pattaya.com
 DOMAIN,ninjagod.com
+DOMAIN,ninjakeygens.com
 DOMAIN,ninjasaga.haxdo.com
 DOMAIN,nintendo3ds4free.com
 DOMAIN,nintendobro.com
@@ -14988,7 +14988,6 @@ DOMAIN,skinsforce.com
 DOMAIN,skinshub.net
 DOMAIN,skinsrate.com
 DOMAIN,skinsregal.com
-DOMAIN,skinstown.com
 DOMAIN,skinstrue.com
 DOMAIN,skinswhite.com
 DOMAIN,skinxswap.com
@@ -15166,6 +15165,7 @@ DOMAIN,solelyfun.com
 DOMAIN,solenise.com
 DOMAIN,solidallianzemfb.com
 DOMAIN,solidhacks.com
+DOMAIN,solitudehotel.com
 DOMAIN,solomotos.net
 DOMAIN,solotrattoria.com
 DOMAIN,solotravelsmarts.com
@@ -15780,6 +15780,7 @@ DOMAIN,tamada69.com
 DOMAIN,tamilcm.com
 DOMAIN,tangaroa-sailing.com
 DOMAIN,tangence.actonsoftware.com
+DOMAIN,tanglike.top
 DOMAIN,tangwongkit.com
 DOMAIN,tanishajewels.com
 DOMAIN,tanki.best-hacks.net
@@ -17207,7 +17208,6 @@ DOMAIN,welleducateindia.com
 DOMAIN,wellfarer.000webhostapp.com
 DOMAIN,wellhealthmens.com
 DOMAIN,wellmediaonline.com
-DOMAIN,wellness2all.com
 DOMAIN,wells1.000webhostapp.com
 DOMAIN,wellsfairgo.com
 DOMAIN,wellsfargo.mcgsystem.com

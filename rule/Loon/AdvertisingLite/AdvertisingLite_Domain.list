@@ -1,15 +1,15 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-15 13:16:11.542421
+# UPDATED: 2021-02-16 02:24:10.934679
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 27
 # DOMAIN-SUFFIX: 15241
-# DOMAIN: 15491
+# DOMAIN: 15502
 # IP-CIDR: 192
 # USER-AGENT: 1
 # URL-REGEX: 302
-# TOTAL: 31254
+# TOTAL: 31265
 0.up.qingdaonews.com
 00-gov.cn
 0024aadd.com
@@ -1280,7 +1280,6 @@ adrsp.net
 adrta.com
 ads-4u.com
 ads-elsevier.net
-ads-for-free.com
 ads-img-qc.xhscdn.com
 ads-sdk-cn.upltv.com
 ads-sdk.upltv.com
@@ -1792,6 +1791,7 @@ agstat.html5.qq.com
 agsteier.com
 agtr.ahksqc.com.cn
 aguo.com
+agxclick.com
 ahalogy.com
 ahd.ruten.com.tw
 aheadday.com
@@ -2170,6 +2170,7 @@ aqjdigkqvmakz.com
 aqtracker.com
 aquete.com
 ar1nvz5.com
+arasyqslwmfat.com
 arcadebannerexchange.org
 arcadebe.com
 arcadechain.com
@@ -3390,6 +3391,7 @@ centraltag.com
 centralwestwater.com.au
 centrnotify.com
 centwrite.com
+ceoillwdcc.com
 ceraitoa.com
 certifica.com
 certified-apps.com
@@ -3407,6 +3409,7 @@ cfasync.ga
 cfasync.gq
 cfasync.ml
 cfasync.tk
+cfcloudcdn.com
 cfff.net
 cfgr1.com
 cformanalytics.com
@@ -3554,7 +3557,6 @@ clickagy.com
 clickaider.com
 clickaine.com
 clickalyzer.com
-clickansave.net
 clickbet88.com
 clickbooth.com
 clickboothlnk.com
@@ -3638,6 +3640,7 @@ clknrtrg.pro
 clkpback3.com
 clmbtech.com
 clnk.me
+clnyonxgsvov.com
 clog.go.com
 cloisteredcord.com
 clotezar.com
@@ -3685,6 +3688,7 @@ cnbanbao.com
 cnhv.co
 cnil.links-lab.fr
 cnpc.infzm.com
+cnrvmcderv.com
 cnstats.ru
 cnt.my
 cnt1.net
@@ -4169,7 +4173,6 @@ cycxrevajbyyk.com
 cygnus.com
 cyp889.cn
 cysd.7kww.net
-cytoclause.com
 cz4444.cn
 czechose.com
 czilladx.com
@@ -4557,6 +4560,7 @@ debrium-surbara.com
 debug.mssp.adunite.com
 decademical.com
 decdna.net
+decenthat.com
 decibelinsight.net
 decideinteractive.com
 decisionmark.com
@@ -4608,6 +4612,7 @@ departapp.com
 deplayer.net
 deployads.com
 deqwas.net
+derler.pro
 descrepush.com
 descz.ovh
 desipearl.com
@@ -5234,6 +5239,7 @@ emediatrack.com
 emetriq.de
 emits.iptvdeals.com
 emjcd.com
+emkarto.fun
 emlifok.info
 emltrk.com
 emoticon-sns.iqiyi.com
@@ -5797,6 +5803,7 @@ fqtag.com
 frailoffer.com
 framentyder.pro
 frameptp.com
+frbyvuxzvmqpb.com
 freakads.com
 free-counter.co.uk
 free-counter.com
@@ -7158,7 +7165,6 @@ intelligentscissors.com
 intellimize.co
 intentarget.com
 intenthq.com
-intentmedia.net
 interact-analytics.com
 interactivearea.ru
 interadv.net
@@ -7567,6 +7573,7 @@ jyzmsy.com.cn
 jz9ugaqb.com
 jzedpmpcmsk.com
 jzjzuwllinruj.com
+jzmjxblwnozjyt.com
 jzswicjgfvtqun.com
 k-analytix.com
 k.gsdhome.cn
@@ -8312,7 +8319,6 @@ m.ckaim.com
 m.cpgzh.com
 m.ecenf.com
 m.efeir.com
-m.ehwhwz.cn
 m.eiiteho.cn
 m.epoch168.com
 m.future888.net
@@ -9899,6 +9905,7 @@ ozertesa.com
 ozmifi.info
 ozonemedia.com
 ozora.work
+ozrdgjalmch.com
 ozwjhdler.com
 p-advg.com
 p-digital-server.com
@@ -10103,6 +10110,7 @@ petiteumbrella.com
 petsarlaaafru.com
 petsoocm.com
 pexu.com
+pfmmqofcadze.com
 pfyalardueu.com
 pg-ad-b1.ws.126.net
 pg-ad-b2.ws.126.net
@@ -11175,6 +11183,7 @@ rentfromart.com
 rentracks.jp
 reon.club
 reople.co.kr
+reounzbqylugud.com
 rep0pkgr.com
 repeatsweater.com
 repixel.co
@@ -11321,6 +11330,7 @@ rkdms.com
 rkpecade.com
 rktch.com
 rktu.com
+rkvduvtdz.com
 rlog.video.qq.com
 rlxqaczszvjvp.com
 rmbn.net
@@ -13915,6 +13925,7 @@ uptolike.com
 uptracs.com
 uptrendsdata.com
 upwzuqfcvbeqo.com
+uqdqwaolvyxbjc.com
 uqyatperdvczfw.com
 uralweb.ru
 uriuridfg.com
@@ -14955,7 +14966,6 @@ wxiwegwffls.com
 wxrotkricj.com
 wxwbvytlvabs.com
 wy213.com
-wyaeyjaqx.com
 wyjtscdjfcmsy.com
 wynather.com
 wysistat.com
@@ -15173,6 +15183,7 @@ yghua.com
 yglhcn.cn
 ygsm.com
 ygzkedoxwhqlzp.com
+yhwrgbcjwup.com
 yidu.cc
 yie4zooseif.info
 yield-op-idsync.live.streamtheworld.com

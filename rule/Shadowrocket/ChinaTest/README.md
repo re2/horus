@@ -8,21 +8,21 @@
 
 
 
-最后检查时间：2021-02-15 13:16:58.031884。
+最后检查时间：2021-02-16 02:24:59.325703。
 
 ## 规则统计
 
-总计规则：71445 条。
+总计规则：71480 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| DOMAIN-SUFFIX | 71289 |
+| DOMAIN-SUFFIX | 71303 |
 | USER-AGENT | 33 |
 | DOMAIN-KEYWORD | 13 |
 | DOMAIN | 86 |
-| IP-CIDR | 19 |
+| IP-CIDR | 40 |
 | IP-CIDR6 | 4 |
 | GEOIP | 1 |
 ## 配置说明
@@ -70,15 +70,15 @@ ChinaTest_Domain.list请使用DOMAIN-SET。
 |  [DanDanZan](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/DanDanZan)    | 7   | [7](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaTest/ChinaTest_Repeat.list)   |   100.0% |
 |  [LanZouYun](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/LanZouYun)    | 6   | [6](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaTest/ChinaTest_Repeat.list)   |   100.0% |
 |  [YiChe](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/YiChe)    | 5   | [5](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaTest/ChinaTest_Repeat.list)   |   100.0% |
-|  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/China)    | 708   | [705](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaTest/ChinaTest_Repeat.list)   |   99.58% |
+|  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/China)    | 729   | [726](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaTest/ChinaTest_Repeat.list)   |   99.59% |
 |  [CEB](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/CEB)    | 15   | [14](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaTest/ChinaTest_Repeat.list)   |   93.33% |
+|  [Clubhouse](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/Clubhouse)    | 40   | [36](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaTest/ChinaTest_Repeat.list)   |   90.0% |
 |  [Xunlei](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/Xunlei)    | 8   | [7](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaTest/ChinaTest_Repeat.list)   |   87.5% |
 |  [XieCheng](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/XieCheng)    | 29   | [25](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaTest/ChinaTest_Repeat.list)   |   86.21% |
 |  [MeiTuan](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/MeiTuan)    | 7   | [6](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaTest/ChinaTest_Repeat.list)   |   85.71% |
 |  [OnePlus](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/OnePlus)    | 7   | [6](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaTest/ChinaTest_Repeat.list)   |   85.71% |
 |  [Sony](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/Sony)    | 6   | [5](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaTest/ChinaTest_Repeat.list)   |   83.33% |
 |  [Scholar](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/Scholar)    | 76   | [60](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaTest/ChinaTest_Repeat.list)   |   78.95% |
-|  [Clubhouse](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/Clubhouse)    | 19   | [15](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaTest/ChinaTest_Repeat.list)   |   78.95% |
 |  [4399](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/4399)    | 13   | [10](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaTest/ChinaTest_Repeat.list)   |   76.92% |
 |  [Dedao](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/Dedao)    | 8   | [6](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaTest/ChinaTest_Repeat.list)   |   75.0% |
 |  [FengXiaWangLuo](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/FengXiaWangLuo)    | 8   | [6](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaTest/ChinaTest_Repeat.list)   |   75.0% |
@@ -96,6 +96,7 @@ ChinaTest_Domain.list请使用DOMAIN-SET。
 |  [LeTV](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/LeTV)    | 13   | [8](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaTest/ChinaTest_Repeat.list)   |   61.54% |
 |  [Teambition](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/Teambition)    | 10   | [6](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaTest/ChinaTest_Repeat.list)   |   60.0% |
 |  [QingCloud](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/QingCloud)    | 12   | [7](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaTest/ChinaTest_Repeat.list)   |   58.33% |
+|  [ClubhouseIP](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/ClubhouseIP)    | 63   | [36](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaTest/ChinaTest_Repeat.list)   |   57.14% |
 |  [UPYun](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/UPYun)    | 16   | [9](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaTest/ChinaTest_Repeat.list)   |   56.25% |
 |  [115](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/115)    | 9   | [5](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaTest/ChinaTest_Repeat.list)   |   55.56% |
 |  [CITIC](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/CITIC)    | 27   | [15](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaTest/ChinaTest_Repeat.list)   |   55.56% |
@@ -121,7 +122,6 @@ ChinaTest_Domain.list请使用DOMAIN-SET。
 |  [58TongCheng](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/58TongCheng)    | 49   | [22](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaTest/ChinaTest_Repeat.list)   |   44.9% |
 |  [YunFanJiaSu](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/YunFanJiaSu)    | 31   | [12](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaTest/ChinaTest_Repeat.list)   |   38.71% |
 |  [Eleme](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/Eleme)    | 13   | [5](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaTest/ChinaTest_Repeat.list)   |   38.46% |
-|  [ClubhouseIP](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/ClubhouseIP)    | 39   | [15](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaTest/ChinaTest_Repeat.list)   |   38.46% |
 |  [NetEase](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/NetEase)    | 97   | [37](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaTest/ChinaTest_Repeat.list)   |   38.14% |
 |  [QiNiuYun](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/QiNiuYun)    | 51   | [19](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaTest/ChinaTest_Repeat.list)   |   37.25% |
 |  [KouDaiShiShang](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/KouDaiShiShang)    | 22   | [8](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaTest/ChinaTest_Repeat.list)   |   36.36% |

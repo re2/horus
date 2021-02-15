@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-15 13:16:13.530787
+# UPDATED: 2021-02-16 02:24:13.035802
 # DOMAIN-KEYWORD: 60
 # DOMAIN-SUFFIX: 43204
-# DOMAIN: 21100
+# DOMAIN: 21102
 # IP-CIDR: 240
-# TOTAL: 64604
+# TOTAL: 64606
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.up.qingdaonews.com
@@ -58,6 +58,7 @@ payload:
   - DOMAIN,0lovespells0.blogspot.com
   - DOMAIN,0myetherwallet.com
   - DOMAIN,0nso0tq1sa4.ml
+  - DOMAIN,1-free-share-buttons.com
   - DOMAIN,1-pregnant-sex.com
   - DOMAIN,1.114central.com
   - DOMAIN,1.hidemyass.com
@@ -3556,7 +3557,6 @@ payload:
   - DOMAIN,az416426.vo.msecnd.net
   - DOMAIN,az512334.vo.msecnd.net
   - DOMAIN,az708531.vo.msecnd.net
-  - DOMAIN,azadbdgroup.com
   - DOMAIN,azartaffiliates.com
   - DOMAIN,azartcash.com
   - DOMAIN,azartclub.org
@@ -4068,6 +4068,7 @@ payload:
   - DOMAIN,bill.wiedemann.com
   - DOMAIN,billing-information-pp.net
   - DOMAIN,billing.act-on.com
+  - DOMAIN,billing.speedboink.com
   - DOMAIN,billioncall-cdn.batmobi.net
   - DOMAIN,bills-doors.com
   - DOMAIN,billyflamberti.com
@@ -4318,7 +4319,6 @@ payload:
   - DOMAIN,braincash.com
   - DOMAIN,brainfox.com
   - DOMAIN,brakehawk.com
-  - DOMAIN,brand4india.com
   - DOMAIN,brandarium.net
   - DOMAIN,brandedleadgeneration.com
   - DOMAIN,brandflexonline.com
@@ -6247,7 +6247,6 @@ payload:
   - DOMAIN,csgotrademax.com
   - DOMAIN,csgotunes.com
   - DOMAIN,csgoweaponskins.net
-  - DOMAIN,csground.com
   - DOMAIN,csinterinc.com
   - DOMAIN,csmstrategy.com
   - DOMAIN,csr.inspsearchapi.com
@@ -9508,6 +9507,7 @@ payload:
   - DOMAIN,hackgmail.net
   - DOMAIN,hackgta5online.com
   - DOMAIN,hackidomsp.blogspot.com
+  - DOMAIN,hackimperium.com
   - DOMAIN,hackindustry.com
   - DOMAIN,hackingames24.com
   - DOMAIN,hackingbooth.com
@@ -10912,6 +10912,7 @@ payload:
   - DOMAIN,js.hubspot.com
   - DOMAIN,js.intercomcdn.com
   - DOMAIN,js.jrjimg.cn
+  - DOMAIN,js.lanmoes.com
   - DOMAIN,js.livehelper.com
   - DOMAIN,js.mmtcdn.com
   - DOMAIN,js.newrutor.eu.org
@@ -13446,7 +13447,6 @@ payload:
   - DOMAIN,neweggstats.com
   - DOMAIN,newengland.sla.org
   - DOMAIN,newest-hacks.com
-  - DOMAIN,newesthack.com
   - DOMAIN,newesthacks.com
   - DOMAIN,newfastmediasearcher.com
   - DOMAIN,newfbapps.com
@@ -13544,6 +13544,7 @@ payload:
   - DOMAIN,nimtzdesigngroup.com
   - DOMAIN,ninja-pattaya.com
   - DOMAIN,ninjagod.com
+  - DOMAIN,ninjakeygens.com
   - DOMAIN,ninjasaga.haxdo.com
   - DOMAIN,nintendo3ds4free.com
   - DOMAIN,nintendobro.com
@@ -16801,7 +16802,6 @@ payload:
   - DOMAIN,skinshub.net
   - DOMAIN,skinsrate.com
   - DOMAIN,skinsregal.com
-  - DOMAIN,skinstown.com
   - DOMAIN,skinstrue.com
   - DOMAIN,skinswhite.com
   - DOMAIN,skinxswap.com
@@ -17034,6 +17034,7 @@ payload:
   - DOMAIN,solidallianzemfb.com
   - DOMAIN,solidhacks.com
   - DOMAIN,solitairetime.com
+  - DOMAIN,solitudehotel.com
   - DOMAIN,solomotos.net
   - DOMAIN,solotrattoria.com
   - DOMAIN,solotravelsmarts.com
@@ -17115,6 +17116,7 @@ payload:
   - DOMAIN,specilized.com
   - DOMAIN,speed-open2.com
   - DOMAIN,speedbar.myway.com
+  - DOMAIN,speedboink.com
   - DOMAIN,speedchiller.com
   - DOMAIN,speedcounts.com
   - DOMAIN,speediest.net
@@ -17939,6 +17941,7 @@ payload:
   - DOMAIN,tangankanan.net
   - DOMAIN,tangaroa-sailing.com
   - DOMAIN,tangence.actonsoftware.com
+  - DOMAIN,tanglike.top
   - DOMAIN,tangwongkit.com
   - DOMAIN,tanidigital.com
   - DOMAIN,tanieaukcje.com
@@ -20008,7 +20011,6 @@ payload:
   - DOMAIN,wellhealthmens.com
   - DOMAIN,wellmadefrog.com
   - DOMAIN,wellmediaonline.com
-  - DOMAIN,wellness2all.com
   - DOMAIN,wells1.000webhostapp.com
   - DOMAIN,wellsfairgo.com
   - DOMAIN,wellsfargo.mcgsystem.com

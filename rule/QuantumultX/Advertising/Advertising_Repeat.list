@@ -1,7 +1,7 @@
 # NAME: Advertising 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-15 13:16:18.150828
+# UPDATED: 2021-02-16 02:24:17.904761
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 #  与 Hijacking 共 212 条规则重复
 HOST-SUFFIX,17gouwuba.com
@@ -2921,6 +2921,7 @@ HOST,0koryu0.easter.ne.jp
 HOST,0lovespells0.blogspot.com
 HOST,0myetherwallet.com
 HOST,0nso0tq1sa4.ml
+HOST,1-free-share-buttons.com
 HOST,1-pregnant-sex.com
 HOST,1.114central.com
 HOST,1.hidemyass.com
@@ -5060,7 +5061,6 @@ HOST,ayboll.sgsrv.com
 HOST,aysnmnzu4u.com
 HOST,ayudastecnicas.com
 HOST,ayurvedabeyond.com
-HOST,azadbdgroup.com
 HOST,azartclub.org
 HOST,azbukafree.com
 HOST,azcodegenerator.com
@@ -5621,7 +5621,6 @@ HOST,bradmccrady.com
 HOST,bradyhansen.com
 HOST,brainfox.com
 HOST,brakehawk.com
-HOST,brand4india.com
 HOST,brandedleadgeneration.com
 HOST,brandflexonline.com
 HOST,branding.rs-1117-a.com
@@ -7026,7 +7025,6 @@ HOST,csgotradejet.com
 HOST,csgotrademax.com
 HOST,csgotunes.com
 HOST,csgoweaponskins.net
-HOST,csground.com
 HOST,csinterinc.com
 HOST,csmstrategy.com
 HOST,csr.inspsearchapi.com
@@ -9633,6 +9631,7 @@ HOST,hackgenerations.com
 HOST,hackgmail.net
 HOST,hackgta5online.com
 HOST,hackidomsp.blogspot.com
+HOST,hackimperium.com
 HOST,hackindustry.com
 HOST,hackingames24.com
 HOST,hackingbooth.com
@@ -10749,6 +10748,7 @@ HOST,js.hdzog.com
 HOST,js.hubspot.com
 HOST,js.intercomcdn.com
 HOST,js.jrjimg.cn
+HOST,js.lanmoes.com
 HOST,js.livehelper.com
 HOST,js.mmtcdn.com
 HOST,js.ogstats.com
@@ -12645,7 +12645,6 @@ HOST,newdirectiondriving.com
 HOST,newdonate.com
 HOST,newengland.sla.org
 HOST,newest-hacks.com
-HOST,newesthack.com
 HOST,newesthacks.com
 HOST,newfastmediasearcher.com
 HOST,newfbapps.com
@@ -12721,6 +12720,7 @@ HOST,nilesolution.net
 HOST,nimtzdesigngroup.com
 HOST,ninja-pattaya.com
 HOST,ninjagod.com
+HOST,ninjakeygens.com
 HOST,ninjasaga.haxdo.com
 HOST,nintendo3ds4free.com
 HOST,nintendobro.com
@@ -15056,7 +15056,6 @@ HOST,skinsforce.com
 HOST,skinshub.net
 HOST,skinsrate.com
 HOST,skinsregal.com
-HOST,skinstown.com
 HOST,skinstrue.com
 HOST,skinswhite.com
 HOST,skinxswap.com
@@ -15234,6 +15233,7 @@ HOST,solelyfun.com
 HOST,solenise.com
 HOST,solidallianzemfb.com
 HOST,solidhacks.com
+HOST,solitudehotel.com
 HOST,solomotos.net
 HOST,solotrattoria.com
 HOST,solotravelsmarts.com
@@ -15848,6 +15848,7 @@ HOST,tamada69.com
 HOST,tamilcm.com
 HOST,tangaroa-sailing.com
 HOST,tangence.actonsoftware.com
+HOST,tanglike.top
 HOST,tangwongkit.com
 HOST,tanishajewels.com
 HOST,tanki.best-hacks.net
@@ -17275,7 +17276,6 @@ HOST,welleducateindia.com
 HOST,wellfarer.000webhostapp.com
 HOST,wellhealthmens.com
 HOST,wellmediaonline.com
-HOST,wellness2all.com
 HOST,wells1.000webhostapp.com
 HOST,wellsfairgo.com
 HOST,wellsfargo.mcgsystem.com

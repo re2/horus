@@ -1,7 +1,7 @@
 # NAME: WeTV
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-15 13:16:10.727831
+# UPDATED: 2021-02-16 02:24:10.084437
 # HOST-SUFFIX: 7
 # TOTAL: 7
 HOST-SUFFIX,iflix-images.akamaized.net,WeTV

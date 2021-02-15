@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-15 13:16:13.465265
+# UPDATED: 2021-02-16 02:24:12.966120
 # DOMAIN-KEYWORD: 60
 # DOMAIN-SUFFIX: 43204
-# DOMAIN: 21100
+# DOMAIN: 21102
 # IP-CIDR: 240
-# TOTAL: 64604
+# TOTAL: 64606
 payload:
   - '0.nextyourcontent.com'
   - '0.up.qingdaonews.com'
@@ -58,6 +58,7 @@ payload:
   - '0lovespells0.blogspot.com'
   - '0myetherwallet.com'
   - '0nso0tq1sa4.ml'
+  - '1-free-share-buttons.com'
   - '1-pregnant-sex.com'
   - '1.114central.com'
   - '1.hidemyass.com'
@@ -3556,7 +3557,6 @@ payload:
   - 'az416426.vo.msecnd.net'
   - 'az512334.vo.msecnd.net'
   - 'az708531.vo.msecnd.net'
-  - 'azadbdgroup.com'
   - 'azartaffiliates.com'
   - 'azartcash.com'
   - 'azartclub.org'
@@ -4068,6 +4068,7 @@ payload:
   - 'bill.wiedemann.com'
   - 'billing-information-pp.net'
   - 'billing.act-on.com'
+  - 'billing.speedboink.com'
   - 'billioncall-cdn.batmobi.net'
   - 'bills-doors.com'
   - 'billyflamberti.com'
@@ -4318,7 +4319,6 @@ payload:
   - 'braincash.com'
   - 'brainfox.com'
   - 'brakehawk.com'
-  - 'brand4india.com'
   - 'brandarium.net'
   - 'brandedleadgeneration.com'
   - 'brandflexonline.com'
@@ -6247,7 +6247,6 @@ payload:
   - 'csgotrademax.com'
   - 'csgotunes.com'
   - 'csgoweaponskins.net'
-  - 'csground.com'
   - 'csinterinc.com'
   - 'csmstrategy.com'
   - 'csr.inspsearchapi.com'
@@ -9508,6 +9507,7 @@ payload:
   - 'hackgmail.net'
   - 'hackgta5online.com'
   - 'hackidomsp.blogspot.com'
+  - 'hackimperium.com'
   - 'hackindustry.com'
   - 'hackingames24.com'
   - 'hackingbooth.com'
@@ -10912,6 +10912,7 @@ payload:
   - 'js.hubspot.com'
   - 'js.intercomcdn.com'
   - 'js.jrjimg.cn'
+  - 'js.lanmoes.com'
   - 'js.livehelper.com'
   - 'js.mmtcdn.com'
   - 'js.newrutor.eu.org'
@@ -13446,7 +13447,6 @@ payload:
   - 'neweggstats.com'
   - 'newengland.sla.org'
   - 'newest-hacks.com'
-  - 'newesthack.com'
   - 'newesthacks.com'
   - 'newfastmediasearcher.com'
   - 'newfbapps.com'
@@ -13544,6 +13544,7 @@ payload:
   - 'nimtzdesigngroup.com'
   - 'ninja-pattaya.com'
   - 'ninjagod.com'
+  - 'ninjakeygens.com'
   - 'ninjasaga.haxdo.com'
   - 'nintendo3ds4free.com'
   - 'nintendobro.com'
@@ -16801,7 +16802,6 @@ payload:
   - 'skinshub.net'
   - 'skinsrate.com'
   - 'skinsregal.com'
-  - 'skinstown.com'
   - 'skinstrue.com'
   - 'skinswhite.com'
   - 'skinxswap.com'
@@ -17034,6 +17034,7 @@ payload:
   - 'solidallianzemfb.com'
   - 'solidhacks.com'
   - 'solitairetime.com'
+  - 'solitudehotel.com'
   - 'solomotos.net'
   - 'solotrattoria.com'
   - 'solotravelsmarts.com'
@@ -17115,6 +17116,7 @@ payload:
   - 'specilized.com'
   - 'speed-open2.com'
   - 'speedbar.myway.com'
+  - 'speedboink.com'
   - 'speedchiller.com'
   - 'speedcounts.com'
   - 'speediest.net'
@@ -17939,6 +17941,7 @@ payload:
   - 'tangankanan.net'
   - 'tangaroa-sailing.com'
   - 'tangence.actonsoftware.com'
+  - 'tanglike.top'
   - 'tangwongkit.com'
   - 'tanidigital.com'
   - 'tanieaukcje.com'
@@ -20008,7 +20011,6 @@ payload:
   - 'wellhealthmens.com'
   - 'wellmadefrog.com'
   - 'wellmediaonline.com'
-  - 'wellness2all.com'
   - 'wells1.000webhostapp.com'
   - 'wellsfairgo.com'
   - 'wellsfargo.mcgsystem.com'

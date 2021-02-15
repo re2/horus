@@ -8,17 +8,17 @@
 
 
 
-最后检查时间：2021-02-15 13:16:54.423494。
+最后检查时间：2021-02-16 02:24:55.645573。
 
 ## 规则统计
 
-总计规则：39 条。
+总计规则：63 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| IP-CIDR | 39 |
+| IP-CIDR | 63 |
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化
@@ -46,7 +46,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clas
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [Clubhouse](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Clubhouse)    | 19   | [15](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ClubhouseIP/ClubhouseIP_Repeat.list)   |   78.95% |
+|  [Clubhouse](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Clubhouse)    | 40   | [36](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ClubhouseIP/ClubhouseIP_Repeat.list)   |   90.0% |
 ### 特别说明
 程序在实际运算时，会根据DOMAIN、DOMAIN-SUFFIX、IP-CIDR、IP-CIDR6间的包含关系进行去重，而出于运行效率考虑，重复规则只统计纯文本匹配，所以可能与实际效果有所出入，仅供参考。
 
