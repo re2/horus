@@ -1,7 +1,7 @@
 # NAME: ClubhouseIP
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-16 02:24:09.349255
+# UPDATED: 2021-02-17 02:24:08.292487
 # IP-CIDR: 63
 # TOTAL: 63
 IP-CIDR,103.65.41.132/32,no-resolve
