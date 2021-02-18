@@ -86,7 +86,7 @@ https://github.com/codetracer/horus/tree/master/rewrite
 
 部分脚本已配置为Quantumult X Gallery。
 
-地址： https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/gallery.json
+地址： https://raw.githubusercontent.com/codetracer/horus/master/script/gallery.json
 
 ### 其他来源
 
