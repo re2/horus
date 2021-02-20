@@ -1,7 +1,7 @@
 # NAME: Pinduoduo
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-20 02:25:14.719311
+# UPDATED: 2021-02-21 02:23:27.935304
 # HOST-SUFFIX: 2
 # TOTAL: 2
 HOST-SUFFIX,pinduoduo.com,Pinduoduo

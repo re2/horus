@@ -1,7 +1,7 @@
 # NAME: Douyu
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-20 02:25:14.909528
+# UPDATED: 2021-02-21 02:23:28.060081
 # HOST-SUFFIX: 10
 # TOTAL: 10
 HOST-SUFFIX,douyu.com,Douyu

@@ -1,7 +1,7 @@
 # NAME: Douyu
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-20 02:25:12.959475
+# UPDATED: 2021-02-21 02:23:26.679709
 # DOMAIN-SUFFIX: 10
 # TOTAL: 10
 DOMAIN-SUFFIX,douyu.com
