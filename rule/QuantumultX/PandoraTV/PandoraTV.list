@@ -1,7 +1,7 @@
 # NAME: PandoraTV
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-21 02:23:27.862655
+# UPDATED: 2021-02-22 02:24:11.144604
 # HOST-SUFFIX: 2
 # TOTAL: 2
 HOST-SUFFIX,kmplayer.com,PandoraTV

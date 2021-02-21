@@ -1,7 +1,7 @@
 # NAME: CNBC
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-21 02:23:27.777945
+# UPDATED: 2021-02-22 02:24:11.044811
 # HOST-SUFFIX: 4
 # TOTAL: 4
 HOST-SUFFIX,cnbc.com,CNBC
