@@ -1,7 +1,7 @@
 # NAME: Vimeo
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-23 02:24:37.795339
+# UPDATED: 2021-02-24 02:24:23.605429
 # DOMAIN-SUFFIX: 16
 # TOTAL: 16
 DOMAIN-SUFFIX,livestream.com

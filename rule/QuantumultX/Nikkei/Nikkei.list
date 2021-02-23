@@ -1,7 +1,7 @@
 # NAME: Nikkei
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-23 02:24:35.873359
+# UPDATED: 2021-02-24 02:24:21.140059
 # HOST-SUFFIX: 3
 # TOTAL: 3
 HOST-SUFFIX,nikkei.co.jp,Nikkei
