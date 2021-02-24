@@ -1,7 +1,7 @@
 # NAME: Fiio
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-24 02:24:21.530067
+# UPDATED: 2021-02-25 02:25:16.484273
 # HOST-SUFFIX: 4
 # TOTAL: 4
 HOST-SUFFIX,fiio.cn,Fiio
