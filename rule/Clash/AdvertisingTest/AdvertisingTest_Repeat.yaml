@@ -1,7 +1,7 @@
 # NAME: AdvertisingTest 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-25 15:24:14.540954
+# UPDATED: 2021-02-26 02:26:53.707370
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 payload:
 #  与 Hijacking 共 212 条规则重复
@@ -2827,7 +2827,7 @@ payload:
   - DOMAIN-SUFFIX,zsi7.destinia.do
   - DOMAIN-SUFFIX,zyq2.destinia.sk
   - DOMAIN-SUFFIX,zz.bdstatic.com
-#  与 Advertising 共 58985 条规则重复
+#  与 Advertising 共 59002 条规则重复
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,0001.2waky.com
   - DOMAIN,000lk3v.wcomhost.com
@@ -3701,6 +3701,7 @@ payload:
   - DOMAIN,adclick.eqmob.com
   - DOMAIN,adclick.lv
   - DOMAIN,adclickthru.net
+  - DOMAIN,adclient.163.com
   - DOMAIN,adcoin.click
   - DOMAIN,adcpl-india.com
   - DOMAIN,addictingcheats.com
@@ -4312,6 +4313,7 @@ payload:
   - DOMAIN,aliecspres.com
   - DOMAIN,alienmade.com
   - DOMAIN,alienrage.sharezips.net
+  - DOMAIN,alif-ba-ta.com
   - DOMAIN,alimen.webcindario.com
   - DOMAIN,alisat.biz
   - DOMAIN,alisatilsner.com
@@ -5458,6 +5460,7 @@ payload:
   - DOMAIN,bndes.webcindario.com
   - DOMAIN,bnetworx.com
   - DOMAIN,bnqgubwpq.com
+  - DOMAIN,bnsoutlaws.co.uk
   - DOMAIN,bo.aizhigu8.com
   - DOMAIN,bo2-hack.com
   - DOMAIN,bo2seasonpass.com
@@ -6409,6 +6412,7 @@ payload:
   - DOMAIN,cinemaden.com
   - DOMAIN,cinemaedvd.com
   - DOMAIN,cinemanity.com
+  - DOMAIN,cinematraffic.com
   - DOMAIN,cingualr.com
   - DOMAIN,cinyour.accountkit.com
   - DOMAIN,cipix.acxiom.com
@@ -7227,6 +7231,7 @@ payload:
   - DOMAIN,dentairemalin.com
   - DOMAIN,dentalcarecenterpv.com
   - DOMAIN,dentistmerchantservices.com
+  - DOMAIN,denver-locksmiths.com
   - DOMAIN,deoi3kwqhv0d5.cloudfront.net
   - DOMAIN,deonixion.com
   - DOMAIN,derekthedp.com
@@ -7621,6 +7626,7 @@ payload:
   - DOMAIN,drskobic.com
   - DOMAIN,drturkiye.com
   - DOMAIN,drudgetube.com
+  - DOMAIN,drug-rehab-oklahoma.com
   - DOMAIN,drughelporganizations.com
   - DOMAIN,drugstoreforyou.com
   - DOMAIN,drunkenstepfather.com
@@ -8056,6 +8062,7 @@ payload:
   - DOMAIN,everythingisstory.com
   - DOMAIN,everythingisworkable.com
   - DOMAIN,evesaddictin.com
+  - DOMAIN,evidencecleanergold.com
   - DOMAIN,evilunlimited.net
   - DOMAIN,evisitcs.com
   - DOMAIN,evitunisie.com
@@ -8945,6 +8952,7 @@ payload:
   - DOMAIN,gamesextensions24.com
   - DOMAIN,gamesfixer.com
   - DOMAIN,gamesfly.com
+  - DOMAIN,gamesfusions.com
   - DOMAIN,gameshackeasy.com
   - DOMAIN,gameshackingtools.com
   - DOMAIN,gameshackmania.com
@@ -9767,6 +9775,7 @@ payload:
   - DOMAIN,hhkwccf.org.hk
   - DOMAIN,hhroofingandgutters.com
   - DOMAIN,hiapchuan.com
+  - DOMAIN,hidden.gogoceleb.com
   - DOMAIN,hidemyass.com
   - DOMAIN,high-point.cn
   - DOMAIN,high5china.com
@@ -10571,6 +10580,7 @@ payload:
   - DOMAIN,jeuxcheats.com
   - DOMAIN,jeuxclub.com
   - DOMAIN,jeuxhack.net
+  - DOMAIN,jeuxpsvitagratuit.com
   - DOMAIN,jf365.boc.cn
   - DOMAIN,jfjw4cxr.com
   - DOMAIN,jhgy-led.com
@@ -11271,6 +11281,7 @@ payload:
   - DOMAIN,livesetwebs.org
   - DOMAIN,livestreamfilms.com
   - DOMAIN,livestreamhd24.com
+  - DOMAIN,livetotry.com
   - DOMAIN,livetradingzone.com
   - DOMAIN,livewell.net
   - DOMAIN,livingpuravida.org
@@ -11354,6 +11365,7 @@ payload:
   - DOMAIN,long2018.000webhostapp.com
   - DOMAIN,longbeierfs.cn
   - DOMAIN,longeasy.net
+  - DOMAIN,longtermcareinsure.com
   - DOMAIN,longtraffic.com
   - DOMAIN,lookatmynewphotos.com
   - DOMAIN,loomarnia.com
@@ -11820,6 +11832,7 @@ payload:
   - DOMAIN,metalboxer.com
   - DOMAIN,metamask.com
   - DOMAIN,metanetwork.net
+  - DOMAIN,metaswitchweightloss.com
   - DOMAIN,metherwallet.com
   - DOMAIN,metlife.inq.com
   - DOMAIN,metlife.touchcommerce.com
@@ -14391,6 +14404,7 @@ payload:
   - DOMAIN,sandystone.com
   - DOMAIN,sanghaniexports.com
   - DOMAIN,sangheralimited.com
+  - DOMAIN,sangseen.com
   - DOMAIN,sanjaytechnical.com
   - DOMAIN,sanjosestartups.com
   - DOMAIN,sankakustatic.com
@@ -15367,6 +15381,7 @@ payload:
   - DOMAIN,static.ifa.slutloadlive.com
   - DOMAIN,static.ifa.yobtcams.com
   - DOMAIN,static.inq.com
+  - DOMAIN,static.jebe.renren.com
   - DOMAIN,static.liveclicker.net
   - DOMAIN,static.lstat.youku.com
   - DOMAIN,static.nectarads.com
@@ -16163,6 +16178,7 @@ payload:
   - DOMAIN,topfreeproxy.com
   - DOMAIN,tophackphone.com
   - DOMAIN,tophacks.net
+  - DOMAIN,tophomedecoroptions.com
   - DOMAIN,tophostbg.net
   - DOMAIN,topmmorpgsites.com
   - DOMAIN,topmoviehd.com
@@ -16586,6 +16602,7 @@ payload:
   - DOMAIN,unionconnectiononline.com
   - DOMAIN,unionleisurewear.com
   - DOMAIN,unionxcase.com
+  - DOMAIN,unique2lazy.com
   - DOMAIN,uniquehack.com
   - DOMAIN,unister-adservices.com
   - DOMAIN,unisyschannel.com
@@ -61837,7 +61854,7 @@ payload:
   - DOMAIN-SUFFIX,uflowx.com
   - DOMAIN-SUFFIX,xiaomengquan.cn
   - DOMAIN-SUFFIX,xmq123.cn
-#  与 AdvertisingLite 共 15685 条规则重复
+#  与 AdvertisingLite 共 15687 条规则重复
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,0d847862199.com
   - DOMAIN,0icep80f.com
@@ -61982,6 +61999,7 @@ payload:
   - DOMAIN,blinko.es
   - DOMAIN,blocks.ginotrack.com
   - DOMAIN,blogad.com.tw
+  - DOMAIN,bnsoutlaws.co.uk
   - DOMAIN,bostonparadise.com
   - DOMAIN,bracewellfamily.com
   - DOMAIN,bride1.com
@@ -62517,6 +62535,7 @@ payload:
   - DOMAIN,stat.lianmeng.360.cn
   - DOMAIN,stat.tf.360.cn
   - DOMAIN,static.gg.uuu9.com
+  - DOMAIN,static.jebe.renren.com
   - DOMAIN,static.retirementcommunitiesfyi.com
   - DOMAIN,stats.guess.tf.360.cn
   - DOMAIN,sticans.pro

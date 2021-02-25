@@ -1,7 +1,7 @@
 # NAME: Advertising 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-25 15:24:10.275422
+# UPDATED: 2021-02-26 02:26:51.129805
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 #  与 Hijacking 共 212 条规则重复
 HOST-SUFFIX,17gouwuba.com
@@ -2892,7 +2892,7 @@ HOST-SUFFIX,zs.dhl.de
 HOST-SUFFIX,zsi7.destinia.do
 HOST-SUFFIX,zyq2.destinia.sk
 HOST-SUFFIX,zz.bdstatic.com
-#  与 AdvertisingTest 共 58986 条规则重复
+#  与 AdvertisingTest 共 59003 条规则重复
 HOST,0.up.qingdaonews.com
 HOST,0001.2waky.com
 HOST,000lk3v.wcomhost.com
@@ -3766,6 +3766,7 @@ HOST,adcentre.it-advanced.com
 HOST,adclick.eqmob.com
 HOST,adclick.lv
 HOST,adclickthru.net
+HOST,adclient.163.com
 HOST,adcoin.click
 HOST,adcpl-india.com
 HOST,addictingcheats.com
@@ -4377,6 +4378,7 @@ HOST,aliclonepro.xyz
 HOST,aliecspres.com
 HOST,alienmade.com
 HOST,alienrage.sharezips.net
+HOST,alif-ba-ta.com
 HOST,alimen.webcindario.com
 HOST,alisat.biz
 HOST,alisatilsner.com
@@ -5523,6 +5525,7 @@ HOST,bmosecurity.lensflyer.com
 HOST,bndes.webcindario.com
 HOST,bnetworx.com
 HOST,bnqgubwpq.com
+HOST,bnsoutlaws.co.uk
 HOST,bo.aizhigu8.com
 HOST,bo2-hack.com
 HOST,bo2seasonpass.com
@@ -6474,6 +6477,7 @@ HOST,cinemabio.com
 HOST,cinemaden.com
 HOST,cinemaedvd.com
 HOST,cinemanity.com
+HOST,cinematraffic.com
 HOST,cingualr.com
 HOST,cinyour.accountkit.com
 HOST,cipix.acxiom.com
@@ -7292,6 +7296,7 @@ HOST,dennyscorp.com
 HOST,dentairemalin.com
 HOST,dentalcarecenterpv.com
 HOST,dentistmerchantservices.com
+HOST,denver-locksmiths.com
 HOST,deoi3kwqhv0d5.cloudfront.net
 HOST,deonixion.com
 HOST,derekthedp.com
@@ -7686,6 +7691,7 @@ HOST,drpaymanpetclinic.com
 HOST,drskobic.com
 HOST,drturkiye.com
 HOST,drudgetube.com
+HOST,drug-rehab-oklahoma.com
 HOST,drughelporganizations.com
 HOST,drugstoreforyou.com
 HOST,drunkenstepfather.com
@@ -8121,6 +8127,7 @@ HOST,everyplay.com
 HOST,everythingisstory.com
 HOST,everythingisworkable.com
 HOST,evesaddictin.com
+HOST,evidencecleanergold.com
 HOST,evilunlimited.net
 HOST,evisitcs.com
 HOST,evitunisie.com
@@ -9010,6 +9017,7 @@ HOST,gamescrack.org
 HOST,gamesextensions24.com
 HOST,gamesfixer.com
 HOST,gamesfly.com
+HOST,gamesfusions.com
 HOST,gameshackeasy.com
 HOST,gameshackingtools.com
 HOST,gameshackmania.com
@@ -9832,6 +9840,7 @@ HOST,hhhtml.000webhostapp.com
 HOST,hhkwccf.org.hk
 HOST,hhroofingandgutters.com
 HOST,hiapchuan.com
+HOST,hidden.gogoceleb.com
 HOST,hidemyass.com
 HOST,high-point.cn
 HOST,high5china.com
@@ -10636,6 +10645,7 @@ HOST,jeux-triche.com
 HOST,jeuxcheats.com
 HOST,jeuxclub.com
 HOST,jeuxhack.net
+HOST,jeuxpsvitagratuit.com
 HOST,jf365.boc.cn
 HOST,jfjw4cxr.com
 HOST,jhgy-led.com
@@ -11336,6 +11346,7 @@ HOST,livere.com
 HOST,livesetwebs.org
 HOST,livestreamfilms.com
 HOST,livestreamhd24.com
+HOST,livetotry.com
 HOST,livetradingzone.com
 HOST,livewell.net
 HOST,livingpuravida.org
@@ -11419,6 +11430,7 @@ HOST,lonelywifehookup.com
 HOST,long2018.000webhostapp.com
 HOST,longbeierfs.cn
 HOST,longeasy.net
+HOST,longtermcareinsure.com
 HOST,longtraffic.com
 HOST,lookatmynewphotos.com
 HOST,loomarnia.com
@@ -11885,6 +11897,7 @@ HOST,metacount.com
 HOST,metalboxer.com
 HOST,metamask.com
 HOST,metanetwork.net
+HOST,metaswitchweightloss.com
 HOST,metherwallet.com
 HOST,metlife.inq.com
 HOST,metlife.touchcommerce.com
@@ -14456,6 +14469,7 @@ HOST,sandralucashyde.org
 HOST,sandystone.com
 HOST,sanghaniexports.com
 HOST,sangheralimited.com
+HOST,sangseen.com
 HOST,sanjaytechnical.com
 HOST,sanjosestartups.com
 HOST,sankakustatic.com
@@ -15432,6 +15446,7 @@ HOST,static.ifa.empflixlive.com
 HOST,static.ifa.slutloadlive.com
 HOST,static.ifa.yobtcams.com
 HOST,static.inq.com
+HOST,static.jebe.renren.com
 HOST,static.liveclicker.net
 HOST,static.lstat.youku.com
 HOST,static.nectarads.com
@@ -16228,6 +16243,7 @@ HOST,topfreecheats.com
 HOST,topfreeproxy.com
 HOST,tophackphone.com
 HOST,tophacks.net
+HOST,tophomedecoroptions.com
 HOST,tophostbg.net
 HOST,topmmorpgsites.com
 HOST,topmoviehd.com
@@ -16651,6 +16667,7 @@ HOST,unins.5b55.com
 HOST,unionconnectiononline.com
 HOST,unionleisurewear.com
 HOST,unionxcase.com
+HOST,unique2lazy.com
 HOST,uniquehack.com
 HOST,unister-adservices.com
 HOST,unisyschannel.com
@@ -61903,7 +61920,7 @@ HOST-SUFFIX,ucweb.com
 HOST-SUFFIX,uflowx.com
 HOST-SUFFIX,xiaomengquan.cn
 HOST-SUFFIX,xmq123.cn
-#  与 AdvertisingLite 共 16056 条规则重复
+#  与 AdvertisingLite 共 16058 条规则重复
 HOST,0.up.qingdaonews.com
 HOST,0d847862199.com
 HOST,0icep80f.com
@@ -62105,6 +62122,7 @@ HOST,blacknite.eu
 HOST,blinko.es
 HOST,blocks.ginotrack.com
 HOST,blogad.com.tw
+HOST,bnsoutlaws.co.uk
 HOST,boriouseruwer.info
 HOST,bostonparadise.com
 HOST,bouermes.be
@@ -62805,6 +62823,7 @@ HOST,sspicy.ru
 HOST,stat.lianmeng.360.cn
 HOST,stat.tf.360.cn
 HOST,static.gg.uuu9.com
+HOST,static.jebe.renren.com
 HOST,static.retirementcommunitiesfyi.com
 HOST,stats.guess.tf.360.cn
 HOST,sticans.pro

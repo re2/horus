@@ -1,12 +1,12 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-25 15:24:04.459332
+# UPDATED: 2021-02-26 02:26:45.981641
 # DOMAIN-KEYWORD: 27
 # DOMAIN-SUFFIX: 15241
-# DOMAIN: 15470
+# DOMAIN: 15485
 # IP-CIDR: 192
-# TOTAL: 30930
+# TOTAL: 30945
 payload:
   - '0.up.qingdaonews.com'
   - '00-gov.cn'
@@ -1726,6 +1726,7 @@ payload:
   - 'affiliation-int.com'
   - 'affiliation.filestube.com'
   - 'affiliation.planethoster.info'
+  - 'affiliationcash.com'
   - 'affiliationjs.s3.amazonaws.com'
   - 'affiliationworld.com'
   - 'affiliationzone.com'
@@ -2910,6 +2911,7 @@ payload:
   - 'bnrs.it'
   - 'bnrslks.com'
   - 'bnserving.com'
+  - 'bnsoutlaws.co.uk'
   - 'bntech.io'
   - 'bnuni.com'
   - 'bo-videos.s3.amazonaws.com'
@@ -3062,6 +3064,7 @@ payload:
   - 'budurl.com'
   - 'bufferapp.com'
   - 'bugherd.com'
+  - 'buildtrafficx.com'
   - 'buildviet.info'
   - 'buleor.com'
   - 'bulkhentai.com'
@@ -4679,6 +4682,7 @@ payload:
   - 'digitaltarget.ru'
   - 'digitalthrottle.com'
   - 'digitiminimi.com'
+  - 'digitrevenue.com'
   - 'dignow.org'
   - 'digreality.com'
   - 'digsby.com'
@@ -5237,6 +5241,7 @@ payload:
   - 'emxdgt.com'
   - 'enclasmodifyt.info'
   - 'enecto.com'
+  - 'eneritchmax.info'
   - 'engage.im'
   - 'engageclick.com'
   - 'engagemaster.com'
@@ -5605,6 +5610,7 @@ payload:
   - 'fethungi.com'
   - 'fetishfitnessbabes.com'
   - 'fetishlocator.com'
+  - 'feyfjlpeexvg.com'
   - 'ff.xue63.com'
   - 'ff123.hao0202.com'
   - 'ff5bd8d9f8df.com'
@@ -5661,6 +5667,7 @@ payload:
   - 'fjmsdaswvhktht.com'
   - 'fjzimaoqu.cn'
   - 'fkbwtoopwg.com'
+  - 'fkgbxlgcnzf.com'
   - 'flagads.net'
   - 'flagcounter.com'
   - 'flaghit.com'
@@ -7430,6 +7437,7 @@ payload:
   - 'jm1.xiao89.com'
   - 'jmait.cn'
   - 'jmtitdorwfxe.com'
+  - 'jmxjqlagfwz.com'
   - 'jmxphjxsxd.com'
   - 'jntmedia.cn'
   - 'job.510mall.com'
@@ -8813,6 +8821,7 @@ payload:
   - 'mo8mwxi1.com'
   - 'moafoche.com'
   - 'mob26.jnjszl.com'
+  - 'mobalives.com'
   - 'mobappconfig.securities.eastmoney.com'
   - 'mobatori.com'
   - 'mobday.com'
@@ -9110,6 +9119,7 @@ payload:
   - 'naayna.com'
   - 'nabaza.com'
   - 'nabbr.com'
+  - 'nablabee.com'
   - 'nadegda-95.ru'
   - 'nadinthimmeled.pro'
   - 'nads.wuaiso.com'
@@ -10475,6 +10485,7 @@ payload:
   - 'prnetwork.de'
   - 'prnx.net'
   - 'pro-advert.de'
+  - 'pro-advertising.com'
   - 'pro-market.net'
   - 'pro-pro-go.com'
   - 'pro.baidu.com'
@@ -11065,6 +11076,7 @@ payload:
   - 'realmatch.com'
   - 'realpush.media'
   - 'realpush.network'
+  - 'realsecuredredirect.com'
   - 'realssp.co.kr'
   - 'realtimewebstats.net'
   - 'realtracker.com'
@@ -12085,6 +12097,7 @@ payload:
   - 'skryptcookies.pl'
   - 'skyactivate.com'
   - 'skyglue.com'
+  - 'skyjh.cn'
   - 'skyligh.co'
   - 'skylog.kz'
   - 'skymedia.co.uk'
@@ -12590,6 +12603,7 @@ payload:
   - 'static.front.xywy.com'
   - 'static.gg.uuu9.com'
   - 'static.hotjar.com'
+  - 'static.jebe.renren.com'
   - 'static.live.nagezan.net'
   - 'static.retirementcommunitiesfyi.com'
   - 'static.smi2.net'
@@ -12638,6 +12652,7 @@ payload:
   - 'statsadv.dadapro.com'
   - 'statsbox.nl'
   - 'statserv.net'
+  - 'statsevent.com'
   - 'statsforads.com'
   - 'statsforever.com'
   - 'statsinsight.com'

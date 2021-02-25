@@ -1,12 +1,12 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-25 15:24:04.901192
+# UPDATED: 2021-02-26 02:26:46.323900
 # DOMAIN-KEYWORD: 60
 # DOMAIN-SUFFIX: 66004
-# DOMAIN: 15199
+# DOMAIN: 15216
 # IP-CIDR: 240
-# TOTAL: 81503
+# TOTAL: 81520
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,0001.2waky.com
@@ -881,6 +881,7 @@ payload:
   - DOMAIN,adclick.eqmob.com
   - DOMAIN,adclick.lv
   - DOMAIN,adclickthru.net
+  - DOMAIN,adclient.163.com
   - DOMAIN,adcoin.click
   - DOMAIN,adcpl-india.com
   - DOMAIN,addictingcheats.com
@@ -1492,6 +1493,7 @@ payload:
   - DOMAIN,aliecspres.com
   - DOMAIN,alienmade.com
   - DOMAIN,alienrage.sharezips.net
+  - DOMAIN,alif-ba-ta.com
   - DOMAIN,alimen.webcindario.com
   - DOMAIN,alisat.biz
   - DOMAIN,alisatilsner.com
@@ -2638,6 +2640,7 @@ payload:
   - DOMAIN,bndes.webcindario.com
   - DOMAIN,bnetworx.com
   - DOMAIN,bnqgubwpq.com
+  - DOMAIN,bnsoutlaws.co.uk
   - DOMAIN,bo.aizhigu8.com
   - DOMAIN,bo2-hack.com
   - DOMAIN,bo2seasonpass.com
@@ -3589,6 +3592,7 @@ payload:
   - DOMAIN,cinemaden.com
   - DOMAIN,cinemaedvd.com
   - DOMAIN,cinemanity.com
+  - DOMAIN,cinematraffic.com
   - DOMAIN,cingualr.com
   - DOMAIN,cinyour.accountkit.com
   - DOMAIN,cipix.acxiom.com
@@ -4407,6 +4411,7 @@ payload:
   - DOMAIN,dentairemalin.com
   - DOMAIN,dentalcarecenterpv.com
   - DOMAIN,dentistmerchantservices.com
+  - DOMAIN,denver-locksmiths.com
   - DOMAIN,deoi3kwqhv0d5.cloudfront.net
   - DOMAIN,deonixion.com
   - DOMAIN,derekthedp.com
@@ -4801,6 +4806,7 @@ payload:
   - DOMAIN,drskobic.com
   - DOMAIN,drturkiye.com
   - DOMAIN,drudgetube.com
+  - DOMAIN,drug-rehab-oklahoma.com
   - DOMAIN,drughelporganizations.com
   - DOMAIN,drugstoreforyou.com
   - DOMAIN,drunkenstepfather.com
@@ -5236,6 +5242,7 @@ payload:
   - DOMAIN,everythingisstory.com
   - DOMAIN,everythingisworkable.com
   - DOMAIN,evesaddictin.com
+  - DOMAIN,evidencecleanergold.com
   - DOMAIN,evilunlimited.net
   - DOMAIN,evisitcs.com
   - DOMAIN,evitunisie.com
@@ -6125,6 +6132,7 @@ payload:
   - DOMAIN,gamesextensions24.com
   - DOMAIN,gamesfixer.com
   - DOMAIN,gamesfly.com
+  - DOMAIN,gamesfusions.com
   - DOMAIN,gameshackeasy.com
   - DOMAIN,gameshackingtools.com
   - DOMAIN,gameshackmania.com
@@ -6947,6 +6955,7 @@ payload:
   - DOMAIN,hhkwccf.org.hk
   - DOMAIN,hhroofingandgutters.com
   - DOMAIN,hiapchuan.com
+  - DOMAIN,hidden.gogoceleb.com
   - DOMAIN,hidemyass.com
   - DOMAIN,high-point.cn
   - DOMAIN,high5china.com
@@ -7751,6 +7760,7 @@ payload:
   - DOMAIN,jeuxcheats.com
   - DOMAIN,jeuxclub.com
   - DOMAIN,jeuxhack.net
+  - DOMAIN,jeuxpsvitagratuit.com
   - DOMAIN,jf365.boc.cn
   - DOMAIN,jfjw4cxr.com
   - DOMAIN,jhgy-led.com
@@ -8451,6 +8461,7 @@ payload:
   - DOMAIN,livesetwebs.org
   - DOMAIN,livestreamfilms.com
   - DOMAIN,livestreamhd24.com
+  - DOMAIN,livetotry.com
   - DOMAIN,livetradingzone.com
   - DOMAIN,livewell.net
   - DOMAIN,livingpuravida.org
@@ -8534,6 +8545,7 @@ payload:
   - DOMAIN,long2018.000webhostapp.com
   - DOMAIN,longbeierfs.cn
   - DOMAIN,longeasy.net
+  - DOMAIN,longtermcareinsure.com
   - DOMAIN,longtraffic.com
   - DOMAIN,lookatmynewphotos.com
   - DOMAIN,loomarnia.com
@@ -9000,6 +9012,7 @@ payload:
   - DOMAIN,metalboxer.com
   - DOMAIN,metamask.com
   - DOMAIN,metanetwork.net
+  - DOMAIN,metaswitchweightloss.com
   - DOMAIN,metherwallet.com
   - DOMAIN,metlife.inq.com
   - DOMAIN,metlife.touchcommerce.com
@@ -11571,6 +11584,7 @@ payload:
   - DOMAIN,sandystone.com
   - DOMAIN,sanghaniexports.com
   - DOMAIN,sangheralimited.com
+  - DOMAIN,sangseen.com
   - DOMAIN,sanjaytechnical.com
   - DOMAIN,sanjosestartups.com
   - DOMAIN,sankakustatic.com
@@ -12547,6 +12561,7 @@ payload:
   - DOMAIN,static.ifa.slutloadlive.com
   - DOMAIN,static.ifa.yobtcams.com
   - DOMAIN,static.inq.com
+  - DOMAIN,static.jebe.renren.com
   - DOMAIN,static.liveclicker.net
   - DOMAIN,static.lstat.youku.com
   - DOMAIN,static.nectarads.com
@@ -13343,6 +13358,7 @@ payload:
   - DOMAIN,topfreeproxy.com
   - DOMAIN,tophackphone.com
   - DOMAIN,tophacks.net
+  - DOMAIN,tophomedecoroptions.com
   - DOMAIN,tophostbg.net
   - DOMAIN,topmmorpgsites.com
   - DOMAIN,topmoviehd.com
@@ -13766,6 +13782,7 @@ payload:
   - DOMAIN,unionconnectiononline.com
   - DOMAIN,unionleisurewear.com
   - DOMAIN,unionxcase.com
+  - DOMAIN,unique2lazy.com
   - DOMAIN,uniquehack.com
   - DOMAIN,unister-adservices.com
   - DOMAIN,unisyschannel.com

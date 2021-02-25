@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-25 15:24:04.680693
+# UPDATED: 2021-02-26 02:26:46.155077
 # DOMAIN-KEYWORD: 60
 # DOMAIN-SUFFIX: 43689
-# DOMAIN: 21064
+# DOMAIN: 21085
 # IP-CIDR: 240
-# TOTAL: 65053
+# TOTAL: 65074
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.up.qingdaonews.com
@@ -1164,6 +1164,7 @@ payload:
   - DOMAIN,adclick.lv
   - DOMAIN,adclickthru.net
   - DOMAIN,adclickxpress.com
+  - DOMAIN,adclient.163.com
   - DOMAIN,adclient1.tucows.com
   - DOMAIN,adcode.rontar.com
   - DOMAIN,adcoin.click
@@ -1798,6 +1799,7 @@ payload:
   - DOMAIN,ads.reflexcash.com
   - DOMAIN,ads.register.com
   - DOMAIN,ads.reklamatik.com
+  - DOMAIN,ads.reklamlar.net
   - DOMAIN,ads.retirementjobs.com
   - DOMAIN,ads.right-ads.com
   - DOMAIN,ads.ripoffreport.com
@@ -2615,6 +2617,7 @@ payload:
   - DOMAIN,aliecspres.com
   - DOMAIN,alienmade.com
   - DOMAIN,alienrage.sharezips.net
+  - DOMAIN,alif-ba-ta.com
   - DOMAIN,alimen.webcindario.com
   - DOMAIN,alisat.biz
   - DOMAIN,alisatilsner.com
@@ -4193,6 +4196,7 @@ payload:
   - DOMAIN,bnetworx.com
   - DOMAIN,bnmgr.adinjector.net
   - DOMAIN,bnqgubwpq.com
+  - DOMAIN,bnsoutlaws.co.uk
   - DOMAIN,bo.aizhigu8.com
   - DOMAIN,bo.facesbet.com
   - DOMAIN,bo2-hack.com
@@ -5409,6 +5413,7 @@ payload:
   - DOMAIN,cinemaden.com
   - DOMAIN,cinemaedvd.com
   - DOMAIN,cinemanity.com
+  - DOMAIN,cinematraffic.com
   - DOMAIN,cingualr.com
   - DOMAIN,cinyour.accountkit.com
   - DOMAIN,cioco-froll.com
@@ -6614,6 +6619,7 @@ payload:
   - DOMAIN,dentairemalin.com
   - DOMAIN,dentalcarecenterpv.com
   - DOMAIN,dentistmerchantservices.com
+  - DOMAIN,denver-locksmiths.com
   - DOMAIN,denza.pro
   - DOMAIN,deoi3kwqhv0d5.cloudfront.net
   - DOMAIN,deonixion.com
@@ -6778,6 +6784,7 @@ payload:
   - DOMAIN,dispensablestranger.com
   - DOMAIN,display.auditude.com
   - DOMAIN,display.qc.coccoc.com
+  - DOMAIN,displayadsmedia.com
   - DOMAIN,displaypagerank.com
   - DOMAIN,dist.belnk.com
   - DOMAIN,distancephotography.com
@@ -7095,6 +7102,7 @@ payload:
   - DOMAIN,drskobic.com
   - DOMAIN,drturkiye.com
   - DOMAIN,drudgetube.com
+  - DOMAIN,drug-rehab-oklahoma.com
   - DOMAIN,drughelporganizations.com
   - DOMAIN,drugstoreforyou.com
   - DOMAIN,drumcash.com
@@ -7645,6 +7653,7 @@ payload:
   - DOMAIN,everythingisworkable.com
   - DOMAIN,evesaddictin.com
   - DOMAIN,eviboli576.o-f.com
+  - DOMAIN,evidencecleanergold.com
   - DOMAIN,evilunlimited.net
   - DOMAIN,evisitcs.com
   - DOMAIN,evitunisie.com
@@ -8161,6 +8170,7 @@ payload:
   - DOMAIN,flavonmax.com
   - DOMAIN,fleamarketfragrances.com
   - DOMAIN,fleshlightcash.com
+  - DOMAIN,fleshyourlight.com
   - DOMAIN,flexbanner.com
   - DOMAIN,flexterkita.com
   - DOMAIN,flexytalk.net
@@ -8701,6 +8711,7 @@ payload:
   - DOMAIN,gamesextensions24.com
   - DOMAIN,gamesfixer.com
   - DOMAIN,gamesfly.com
+  - DOMAIN,gamesfusions.com
   - DOMAIN,gameshackeasy.com
   - DOMAIN,gameshackingtools.com
   - DOMAIN,gameshackmania.com
@@ -9727,6 +9738,7 @@ payload:
   - DOMAIN,hhroofingandgutters.com
   - DOMAIN,hiapchuan.com
   - DOMAIN,hibids10.com
+  - DOMAIN,hidden.gogoceleb.com
   - DOMAIN,hidemyass.com
   - DOMAIN,high-point.cn
   - DOMAIN,high5china.com
@@ -10775,6 +10787,7 @@ payload:
   - DOMAIN,jeuxcheats.com
   - DOMAIN,jeuxclub.com
   - DOMAIN,jeuxhack.net
+  - DOMAIN,jeuxpsvitagratuit.com
   - DOMAIN,jf365.boc.cn
   - DOMAIN,jfjw4cxr.com
   - DOMAIN,jhgy-led.com
@@ -11667,6 +11680,7 @@ payload:
   - DOMAIN,livesetwebs.org
   - DOMAIN,livestreamfilms.com
   - DOMAIN,livestreamhd24.com
+  - DOMAIN,livetotry.com
   - DOMAIN,livetradingzone.com
   - DOMAIN,livewell.net
   - DOMAIN,livingpuravida.org
@@ -11781,6 +11795,7 @@ payload:
   - DOMAIN,longbeierfs.cn
   - DOMAIN,longeasy.net
   - DOMAIN,longinglettuce.com
+  - DOMAIN,longtermcareinsure.com
   - DOMAIN,longtraffic.com
   - DOMAIN,look.ichlnk.com
   - DOMAIN,look.kfiopkln.com
@@ -12436,6 +12451,7 @@ payload:
   - DOMAIN,metamask.com
   - DOMAIN,metanetwork.com
   - DOMAIN,metanetwork.net
+  - DOMAIN,metaswitchweightloss.com
   - DOMAIN,metcoc5cm.clarent.com
   - DOMAIN,meter-svc.nytimes.com
   - DOMAIN,metherwallet.com
@@ -16036,6 +16052,7 @@ payload:
   - DOMAIN,sanghaniexports.com
   - DOMAIN,sangheralimited.com
   - DOMAIN,sanglah.com
+  - DOMAIN,sangseen.com
   - DOMAIN,sanjaytechnical.com
   - DOMAIN,sanjosestartups.com
   - DOMAIN,sankakustatic.com
@@ -17319,6 +17336,7 @@ payload:
   - DOMAIN,static.ifa.slutloadlive.com
   - DOMAIN,static.ifa.yobtcams.com
   - DOMAIN,static.inq.com
+  - DOMAIN,static.jebe.renren.com
   - DOMAIN,static.kibboko.com
   - DOMAIN,static.ladipage.net
   - DOMAIN,static.liveclicker.net
@@ -18456,6 +18474,7 @@ payload:
   - DOMAIN,topgamesites.net
   - DOMAIN,tophackphone.com
   - DOMAIN,tophacks.net
+  - DOMAIN,tophomedecoroptions.com
   - DOMAIN,tophostbg.net
   - DOMAIN,topiaserv.net
   - DOMAIN,topklik.com
@@ -19163,6 +19182,7 @@ payload:
   - DOMAIN,unionleisurewear.com
   - DOMAIN,uniontraff.com
   - DOMAIN,unionxcase.com
+  - DOMAIN,unique2lazy.com
   - DOMAIN,uniquecaptcha.com
   - DOMAIN,uniquehack.com
   - DOMAIN,unister-adservices.com
@@ -20978,6 +20998,7 @@ payload:
   - DOMAIN,zf1.zeroredirect11.com
   - DOMAIN,zfb2015.com
   - DOMAIN,zfmnlr.hongquan888.cn
+  - DOMAIN,zh1.zeroredirect11.com
   - DOMAIN,zhabyesrdnvn.com
   - DOMAIN,zhadnost.com
   - DOMAIN,zhangzhian.net

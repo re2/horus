@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-25 15:23:58.550995
+# UPDATED: 2021-02-26 02:26:40.618429
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 60
 # DOMAIN-SUFFIX: 66004
-# DOMAIN: 15199
+# DOMAIN: 15216
 # IP-CIDR: 240
 # USER-AGENT: 1
 # URL-REGEX: 310
-# TOTAL: 81814
+# TOTAL: 81831
 0.up.qingdaonews.com
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -883,6 +883,7 @@ adcentre.it-advanced.com
 adclick.eqmob.com
 adclick.lv
 adclickthru.net
+adclient.163.com
 adcoin.click
 adcpl-india.com
 addictingcheats.com
@@ -1494,6 +1495,7 @@ aliclonepro.xyz
 aliecspres.com
 alienmade.com
 alienrage.sharezips.net
+alif-ba-ta.com
 alimen.webcindario.com
 alisat.biz
 alisatilsner.com
@@ -2640,6 +2642,7 @@ bmosecurity.lensflyer.com
 bndes.webcindario.com
 bnetworx.com
 bnqgubwpq.com
+bnsoutlaws.co.uk
 bo.aizhigu8.com
 bo2-hack.com
 bo2seasonpass.com
@@ -3591,6 +3594,7 @@ cinemabio.com
 cinemaden.com
 cinemaedvd.com
 cinemanity.com
+cinematraffic.com
 cingualr.com
 cinyour.accountkit.com
 cipix.acxiom.com
@@ -4409,6 +4413,7 @@ dennyscorp.com
 dentairemalin.com
 dentalcarecenterpv.com
 dentistmerchantservices.com
+denver-locksmiths.com
 deoi3kwqhv0d5.cloudfront.net
 deonixion.com
 derekthedp.com
@@ -4803,6 +4808,7 @@ drpaymanpetclinic.com
 drskobic.com
 drturkiye.com
 drudgetube.com
+drug-rehab-oklahoma.com
 drughelporganizations.com
 drugstoreforyou.com
 drunkenstepfather.com
@@ -5238,6 +5244,7 @@ everyplay.com
 everythingisstory.com
 everythingisworkable.com
 evesaddictin.com
+evidencecleanergold.com
 evilunlimited.net
 evisitcs.com
 evitunisie.com
@@ -6127,6 +6134,7 @@ gamescrack.org
 gamesextensions24.com
 gamesfixer.com
 gamesfly.com
+gamesfusions.com
 gameshackeasy.com
 gameshackingtools.com
 gameshackmania.com
@@ -6949,6 +6957,7 @@ hhhtml.000webhostapp.com
 hhkwccf.org.hk
 hhroofingandgutters.com
 hiapchuan.com
+hidden.gogoceleb.com
 hidemyass.com
 high-point.cn
 high5china.com
@@ -7753,6 +7762,7 @@ jeux-triche.com
 jeuxcheats.com
 jeuxclub.com
 jeuxhack.net
+jeuxpsvitagratuit.com
 jf365.boc.cn
 jfjw4cxr.com
 jhgy-led.com
@@ -8453,6 +8463,7 @@ livere.com
 livesetwebs.org
 livestreamfilms.com
 livestreamhd24.com
+livetotry.com
 livetradingzone.com
 livewell.net
 livingpuravida.org
@@ -8536,6 +8547,7 @@ lonelywifehookup.com
 long2018.000webhostapp.com
 longbeierfs.cn
 longeasy.net
+longtermcareinsure.com
 longtraffic.com
 lookatmynewphotos.com
 loomarnia.com
@@ -9002,6 +9014,7 @@ metacount.com
 metalboxer.com
 metamask.com
 metanetwork.net
+metaswitchweightloss.com
 metherwallet.com
 metlife.inq.com
 metlife.touchcommerce.com
@@ -11573,6 +11586,7 @@ sandralucashyde.org
 sandystone.com
 sanghaniexports.com
 sangheralimited.com
+sangseen.com
 sanjaytechnical.com
 sanjosestartups.com
 sankakustatic.com
@@ -12549,6 +12563,7 @@ static.ifa.empflixlive.com
 static.ifa.slutloadlive.com
 static.ifa.yobtcams.com
 static.inq.com
+static.jebe.renren.com
 static.liveclicker.net
 static.lstat.youku.com
 static.nectarads.com
@@ -13345,6 +13360,7 @@ topfreecheats.com
 topfreeproxy.com
 tophackphone.com
 tophacks.net
+tophomedecoroptions.com
 tophostbg.net
 topmmorpgsites.com
 topmoviehd.com
@@ -13768,6 +13784,7 @@ unins.5b55.com
 unionconnectiononline.com
 unionleisurewear.com
 unionxcase.com
+unique2lazy.com
 uniquehack.com
 unister-adservices.com
 unisyschannel.com

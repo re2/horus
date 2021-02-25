@@ -1,12 +1,12 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-25 15:24:04.785086
+# UPDATED: 2021-02-26 02:26:46.236117
 # DOMAIN-KEYWORD: 60
 # DOMAIN-SUFFIX: 66004
-# DOMAIN: 15199
+# DOMAIN: 15216
 # IP-CIDR: 240
-# TOTAL: 81503
+# TOTAL: 81520
 payload:
   - '0.up.qingdaonews.com'
   - '0001.2waky.com'
@@ -881,6 +881,7 @@ payload:
   - 'adclick.eqmob.com'
   - 'adclick.lv'
   - 'adclickthru.net'
+  - 'adclient.163.com'
   - 'adcoin.click'
   - 'adcpl-india.com'
   - 'addictingcheats.com'
@@ -1492,6 +1493,7 @@ payload:
   - 'aliecspres.com'
   - 'alienmade.com'
   - 'alienrage.sharezips.net'
+  - 'alif-ba-ta.com'
   - 'alimen.webcindario.com'
   - 'alisat.biz'
   - 'alisatilsner.com'
@@ -2638,6 +2640,7 @@ payload:
   - 'bndes.webcindario.com'
   - 'bnetworx.com'
   - 'bnqgubwpq.com'
+  - 'bnsoutlaws.co.uk'
   - 'bo.aizhigu8.com'
   - 'bo2-hack.com'
   - 'bo2seasonpass.com'
@@ -3589,6 +3592,7 @@ payload:
   - 'cinemaden.com'
   - 'cinemaedvd.com'
   - 'cinemanity.com'
+  - 'cinematraffic.com'
   - 'cingualr.com'
   - 'cinyour.accountkit.com'
   - 'cipix.acxiom.com'
@@ -4407,6 +4411,7 @@ payload:
   - 'dentairemalin.com'
   - 'dentalcarecenterpv.com'
   - 'dentistmerchantservices.com'
+  - 'denver-locksmiths.com'
   - 'deoi3kwqhv0d5.cloudfront.net'
   - 'deonixion.com'
   - 'derekthedp.com'
@@ -4801,6 +4806,7 @@ payload:
   - 'drskobic.com'
   - 'drturkiye.com'
   - 'drudgetube.com'
+  - 'drug-rehab-oklahoma.com'
   - 'drughelporganizations.com'
   - 'drugstoreforyou.com'
   - 'drunkenstepfather.com'
@@ -5236,6 +5242,7 @@ payload:
   - 'everythingisstory.com'
   - 'everythingisworkable.com'
   - 'evesaddictin.com'
+  - 'evidencecleanergold.com'
   - 'evilunlimited.net'
   - 'evisitcs.com'
   - 'evitunisie.com'
@@ -6125,6 +6132,7 @@ payload:
   - 'gamesextensions24.com'
   - 'gamesfixer.com'
   - 'gamesfly.com'
+  - 'gamesfusions.com'
   - 'gameshackeasy.com'
   - 'gameshackingtools.com'
   - 'gameshackmania.com'
@@ -6947,6 +6955,7 @@ payload:
   - 'hhkwccf.org.hk'
   - 'hhroofingandgutters.com'
   - 'hiapchuan.com'
+  - 'hidden.gogoceleb.com'
   - 'hidemyass.com'
   - 'high-point.cn'
   - 'high5china.com'
@@ -7751,6 +7760,7 @@ payload:
   - 'jeuxcheats.com'
   - 'jeuxclub.com'
   - 'jeuxhack.net'
+  - 'jeuxpsvitagratuit.com'
   - 'jf365.boc.cn'
   - 'jfjw4cxr.com'
   - 'jhgy-led.com'
@@ -8451,6 +8461,7 @@ payload:
   - 'livesetwebs.org'
   - 'livestreamfilms.com'
   - 'livestreamhd24.com'
+  - 'livetotry.com'
   - 'livetradingzone.com'
   - 'livewell.net'
   - 'livingpuravida.org'
@@ -8534,6 +8545,7 @@ payload:
   - 'long2018.000webhostapp.com'
   - 'longbeierfs.cn'
   - 'longeasy.net'
+  - 'longtermcareinsure.com'
   - 'longtraffic.com'
   - 'lookatmynewphotos.com'
   - 'loomarnia.com'
@@ -9000,6 +9012,7 @@ payload:
   - 'metalboxer.com'
   - 'metamask.com'
   - 'metanetwork.net'
+  - 'metaswitchweightloss.com'
   - 'metherwallet.com'
   - 'metlife.inq.com'
   - 'metlife.touchcommerce.com'
@@ -11571,6 +11584,7 @@ payload:
   - 'sandystone.com'
   - 'sanghaniexports.com'
   - 'sangheralimited.com'
+  - 'sangseen.com'
   - 'sanjaytechnical.com'
   - 'sanjosestartups.com'
   - 'sankakustatic.com'
@@ -12547,6 +12561,7 @@ payload:
   - 'static.ifa.slutloadlive.com'
   - 'static.ifa.yobtcams.com'
   - 'static.inq.com'
+  - 'static.jebe.renren.com'
   - 'static.liveclicker.net'
   - 'static.lstat.youku.com'
   - 'static.nectarads.com'
@@ -13343,6 +13358,7 @@ payload:
   - 'topfreeproxy.com'
   - 'tophackphone.com'
   - 'tophacks.net'
+  - 'tophomedecoroptions.com'
   - 'tophostbg.net'
   - 'topmmorpgsites.com'
   - 'topmoviehd.com'
@@ -13766,6 +13782,7 @@ payload:
   - 'unionconnectiononline.com'
   - 'unionleisurewear.com'
   - 'unionxcase.com'
+  - 'unique2lazy.com'
   - 'uniquehack.com'
   - 'unister-adservices.com'
   - 'unisyschannel.com'

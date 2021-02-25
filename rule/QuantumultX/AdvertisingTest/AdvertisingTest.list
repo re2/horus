@@ -1,13 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-25 15:24:00.707184
+# UPDATED: 2021-02-26 02:26:42.584748
 # HOST-KEYWORD: 60
 # HOST-SUFFIX: 66004
-# HOST: 15199
+# HOST: 15216
 # IP-CIDR: 240
 # USER-AGENT: 1
-# TOTAL: 81504
+# TOTAL: 81521
 HOST,0.up.qingdaonews.com,AdvertisingTest
 HOST,0001.2waky.com,AdvertisingTest
 HOST,000lk3v.wcomhost.com,AdvertisingTest
@@ -881,6 +881,7 @@ HOST,adcentre.it-advanced.com,AdvertisingTest
 HOST,adclick.eqmob.com,AdvertisingTest
 HOST,adclick.lv,AdvertisingTest
 HOST,adclickthru.net,AdvertisingTest
+HOST,adclient.163.com,AdvertisingTest
 HOST,adcoin.click,AdvertisingTest
 HOST,adcpl-india.com,AdvertisingTest
 HOST,addictingcheats.com,AdvertisingTest
@@ -1492,6 +1493,7 @@ HOST,aliclonepro.xyz,AdvertisingTest
 HOST,aliecspres.com,AdvertisingTest
 HOST,alienmade.com,AdvertisingTest
 HOST,alienrage.sharezips.net,AdvertisingTest
+HOST,alif-ba-ta.com,AdvertisingTest
 HOST,alimen.webcindario.com,AdvertisingTest
 HOST,alisat.biz,AdvertisingTest
 HOST,alisatilsner.com,AdvertisingTest
@@ -2638,6 +2640,7 @@ HOST,bmosecurity.lensflyer.com,AdvertisingTest
 HOST,bndes.webcindario.com,AdvertisingTest
 HOST,bnetworx.com,AdvertisingTest
 HOST,bnqgubwpq.com,AdvertisingTest
+HOST,bnsoutlaws.co.uk,AdvertisingTest
 HOST,bo.aizhigu8.com,AdvertisingTest
 HOST,bo2-hack.com,AdvertisingTest
 HOST,bo2seasonpass.com,AdvertisingTest
@@ -3589,6 +3592,7 @@ HOST,cinemabio.com,AdvertisingTest
 HOST,cinemaden.com,AdvertisingTest
 HOST,cinemaedvd.com,AdvertisingTest
 HOST,cinemanity.com,AdvertisingTest
+HOST,cinematraffic.com,AdvertisingTest
 HOST,cingualr.com,AdvertisingTest
 HOST,cinyour.accountkit.com,AdvertisingTest
 HOST,cipix.acxiom.com,AdvertisingTest
@@ -4407,6 +4411,7 @@ HOST,dennyscorp.com,AdvertisingTest
 HOST,dentairemalin.com,AdvertisingTest
 HOST,dentalcarecenterpv.com,AdvertisingTest
 HOST,dentistmerchantservices.com,AdvertisingTest
+HOST,denver-locksmiths.com,AdvertisingTest
 HOST,deoi3kwqhv0d5.cloudfront.net,AdvertisingTest
 HOST,deonixion.com,AdvertisingTest
 HOST,derekthedp.com,AdvertisingTest
@@ -4801,6 +4806,7 @@ HOST,drpaymanpetclinic.com,AdvertisingTest
 HOST,drskobic.com,AdvertisingTest
 HOST,drturkiye.com,AdvertisingTest
 HOST,drudgetube.com,AdvertisingTest
+HOST,drug-rehab-oklahoma.com,AdvertisingTest
 HOST,drughelporganizations.com,AdvertisingTest
 HOST,drugstoreforyou.com,AdvertisingTest
 HOST,drunkenstepfather.com,AdvertisingTest
@@ -5236,6 +5242,7 @@ HOST,everyplay.com,AdvertisingTest
 HOST,everythingisstory.com,AdvertisingTest
 HOST,everythingisworkable.com,AdvertisingTest
 HOST,evesaddictin.com,AdvertisingTest
+HOST,evidencecleanergold.com,AdvertisingTest
 HOST,evilunlimited.net,AdvertisingTest
 HOST,evisitcs.com,AdvertisingTest
 HOST,evitunisie.com,AdvertisingTest
@@ -6125,6 +6132,7 @@ HOST,gamescrack.org,AdvertisingTest
 HOST,gamesextensions24.com,AdvertisingTest
 HOST,gamesfixer.com,AdvertisingTest
 HOST,gamesfly.com,AdvertisingTest
+HOST,gamesfusions.com,AdvertisingTest
 HOST,gameshackeasy.com,AdvertisingTest
 HOST,gameshackingtools.com,AdvertisingTest
 HOST,gameshackmania.com,AdvertisingTest
@@ -6947,6 +6955,7 @@ HOST,hhhtml.000webhostapp.com,AdvertisingTest
 HOST,hhkwccf.org.hk,AdvertisingTest
 HOST,hhroofingandgutters.com,AdvertisingTest
 HOST,hiapchuan.com,AdvertisingTest
+HOST,hidden.gogoceleb.com,AdvertisingTest
 HOST,hidemyass.com,AdvertisingTest
 HOST,high-point.cn,AdvertisingTest
 HOST,high5china.com,AdvertisingTest
@@ -7751,6 +7760,7 @@ HOST,jeux-triche.com,AdvertisingTest
 HOST,jeuxcheats.com,AdvertisingTest
 HOST,jeuxclub.com,AdvertisingTest
 HOST,jeuxhack.net,AdvertisingTest
+HOST,jeuxpsvitagratuit.com,AdvertisingTest
 HOST,jf365.boc.cn,AdvertisingTest
 HOST,jfjw4cxr.com,AdvertisingTest
 HOST,jhgy-led.com,AdvertisingTest
@@ -8451,6 +8461,7 @@ HOST,livere.com,AdvertisingTest
 HOST,livesetwebs.org,AdvertisingTest
 HOST,livestreamfilms.com,AdvertisingTest
 HOST,livestreamhd24.com,AdvertisingTest
+HOST,livetotry.com,AdvertisingTest
 HOST,livetradingzone.com,AdvertisingTest
 HOST,livewell.net,AdvertisingTest
 HOST,livingpuravida.org,AdvertisingTest
@@ -8534,6 +8545,7 @@ HOST,lonelywifehookup.com,AdvertisingTest
 HOST,long2018.000webhostapp.com,AdvertisingTest
 HOST,longbeierfs.cn,AdvertisingTest
 HOST,longeasy.net,AdvertisingTest
+HOST,longtermcareinsure.com,AdvertisingTest
 HOST,longtraffic.com,AdvertisingTest
 HOST,lookatmynewphotos.com,AdvertisingTest
 HOST,loomarnia.com,AdvertisingTest
@@ -9000,6 +9012,7 @@ HOST,metacount.com,AdvertisingTest
 HOST,metalboxer.com,AdvertisingTest
 HOST,metamask.com,AdvertisingTest
 HOST,metanetwork.net,AdvertisingTest
+HOST,metaswitchweightloss.com,AdvertisingTest
 HOST,metherwallet.com,AdvertisingTest
 HOST,metlife.inq.com,AdvertisingTest
 HOST,metlife.touchcommerce.com,AdvertisingTest
@@ -11571,6 +11584,7 @@ HOST,sandralucashyde.org,AdvertisingTest
 HOST,sandystone.com,AdvertisingTest
 HOST,sanghaniexports.com,AdvertisingTest
 HOST,sangheralimited.com,AdvertisingTest
+HOST,sangseen.com,AdvertisingTest
 HOST,sanjaytechnical.com,AdvertisingTest
 HOST,sanjosestartups.com,AdvertisingTest
 HOST,sankakustatic.com,AdvertisingTest
@@ -12547,6 +12561,7 @@ HOST,static.ifa.empflixlive.com,AdvertisingTest
 HOST,static.ifa.slutloadlive.com,AdvertisingTest
 HOST,static.ifa.yobtcams.com,AdvertisingTest
 HOST,static.inq.com,AdvertisingTest
+HOST,static.jebe.renren.com,AdvertisingTest
 HOST,static.liveclicker.net,AdvertisingTest
 HOST,static.lstat.youku.com,AdvertisingTest
 HOST,static.nectarads.com,AdvertisingTest
@@ -13343,6 +13358,7 @@ HOST,topfreecheats.com,AdvertisingTest
 HOST,topfreeproxy.com,AdvertisingTest
 HOST,tophackphone.com,AdvertisingTest
 HOST,tophacks.net,AdvertisingTest
+HOST,tophomedecoroptions.com,AdvertisingTest
 HOST,tophostbg.net,AdvertisingTest
 HOST,topmmorpgsites.com,AdvertisingTest
 HOST,topmoviehd.com,AdvertisingTest
@@ -13766,6 +13782,7 @@ HOST,unins.5b55.com,AdvertisingTest
 HOST,unionconnectiononline.com,AdvertisingTest
 HOST,unionleisurewear.com,AdvertisingTest
 HOST,unionxcase.com,AdvertisingTest
+HOST,unique2lazy.com,AdvertisingTest
 HOST,uniquehack.com,AdvertisingTest
 HOST,unister-adservices.com,AdvertisingTest
 HOST,unisyschannel.com,AdvertisingTest
