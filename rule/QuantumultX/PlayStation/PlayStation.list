@@ -1,7 +1,7 @@
 # NAME: PlayStation
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-26 02:26:42.626503
+# UPDATED: 2021-02-26 18:16:28.427514
 # HOST-SUFFIX: 4
 # TOTAL: 4
 HOST-SUFFIX,playstation.com,PlayStation

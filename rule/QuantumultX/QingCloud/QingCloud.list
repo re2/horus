@@ -1,7 +1,7 @@
 # NAME: QingCloud
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-26 02:26:43.784060
+# UPDATED: 2021-02-26 18:16:29.567447
 # HOST-SUFFIX: 12
 # TOTAL: 12
 HOST-SUFFIX,anybox.com,QingCloud
