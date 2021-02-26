@@ -1,12 +1,12 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-26 18:16:32.112646
+# UPDATED: 2021-02-26 18:58:17.827315
 # DOMAIN-KEYWORD: 60
 # DOMAIN-SUFFIX: 66199
-# DOMAIN: 15202
+# DOMAIN: 15205
 # IP-CIDR: 240
-# TOTAL: 81701
+# TOTAL: 81704
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,0001.2waky.com
@@ -207,6 +207,7 @@ payload:
   - DOMAIN,4.whereinmolise.com
   - DOMAIN,4.whereinpiemonte.com
   - DOMAIN,4.whereinsardegna.com
+  - DOMAIN,4.whereinsicilia.com
   - DOMAIN,4.whereintoscana.com
   - DOMAIN,40-sm.000webhostapp.com
   - DOMAIN,403.hqhost.net
@@ -2408,6 +2409,7 @@ payload:
   - DOMAIN,beldiplomcom.75.com1.ru
   - DOMAIN,belifoundation.org
   - DOMAIN,bell.inq.com
+  - DOMAIN,bella.thegalaxyweb.com
   - DOMAIN,belladiadev.com
   - DOMAIN,bellcenter-pnru.com
   - DOMAIN,bellesirenesalon.com
@@ -8125,6 +8127,7 @@ payload:
   - DOMAIN,krisbel.com
   - DOMAIN,krishanibd.com
   - DOMAIN,krs.ymxpb.com
+  - DOMAIN,ksavagrh.com
   - DOMAIN,ksibradio.com
   - DOMAIN,kspengineering.com
   - DOMAIN,kssm.kuaipandata.com

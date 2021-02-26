@@ -1,7 +1,7 @@
 # NAME: AliPay
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-26 18:16:27.493873
+# UPDATED: 2021-02-26 18:58:12.866897
 # DOMAIN-SUFFIX: 13
 # TOTAL: 13
 DOMAIN-SUFFIX,alipay

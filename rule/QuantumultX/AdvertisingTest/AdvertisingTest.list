@@ -1,13 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-26 18:16:28.380856
+# UPDATED: 2021-02-26 18:58:13.806990
 # HOST-KEYWORD: 60
 # HOST-SUFFIX: 66199
-# HOST: 15202
+# HOST: 15205
 # IP-CIDR: 240
 # USER-AGENT: 1
-# TOTAL: 81702
+# TOTAL: 81705
 HOST,0.up.qingdaonews.com,AdvertisingTest
 HOST,0001.2waky.com,AdvertisingTest
 HOST,000lk3v.wcomhost.com,AdvertisingTest
@@ -207,6 +207,7 @@ HOST,4.whereinlombardy.com,AdvertisingTest
 HOST,4.whereinmolise.com,AdvertisingTest
 HOST,4.whereinpiemonte.com,AdvertisingTest
 HOST,4.whereinsardegna.com,AdvertisingTest
+HOST,4.whereinsicilia.com,AdvertisingTest
 HOST,4.whereintoscana.com,AdvertisingTest
 HOST,40-sm.000webhostapp.com,AdvertisingTest
 HOST,403.hqhost.net,AdvertisingTest
@@ -2408,6 +2409,7 @@ HOST,beineiros.xyz,AdvertisingTest
 HOST,beldiplomcom.75.com1.ru,AdvertisingTest
 HOST,belifoundation.org,AdvertisingTest
 HOST,bell.inq.com,AdvertisingTest
+HOST,bella.thegalaxyweb.com,AdvertisingTest
 HOST,belladiadev.com,AdvertisingTest
 HOST,bellcenter-pnru.com,AdvertisingTest
 HOST,bellesirenesalon.com,AdvertisingTest
@@ -8125,6 +8127,7 @@ HOST,krater.iprom.net,AdvertisingTest
 HOST,krisbel.com,AdvertisingTest
 HOST,krishanibd.com,AdvertisingTest
 HOST,krs.ymxpb.com,AdvertisingTest
+HOST,ksavagrh.com,AdvertisingTest
 HOST,ksibradio.com,AdvertisingTest
 HOST,kspengineering.com,AdvertisingTest
 HOST,kssm.kuaipandata.com,AdvertisingTest

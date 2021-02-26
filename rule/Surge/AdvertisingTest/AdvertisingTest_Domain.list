@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-26 18:16:26.411741
+# UPDATED: 2021-02-26 18:58:11.733569
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 60
 # DOMAIN-SUFFIX: 66199
-# DOMAIN: 15202
+# DOMAIN: 15205
 # IP-CIDR: 240
 # USER-AGENT: 1
 # URL-REGEX: 310
-# TOTAL: 82012
+# TOTAL: 82015
 0.up.qingdaonews.com
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -209,6 +209,7 @@
 4.whereinmolise.com
 4.whereinpiemonte.com
 4.whereinsardegna.com
+4.whereinsicilia.com
 4.whereintoscana.com
 40-sm.000webhostapp.com
 403.hqhost.net
@@ -2410,6 +2411,7 @@ beineiros.xyz
 beldiplomcom.75.com1.ru
 belifoundation.org
 bell.inq.com
+bella.thegalaxyweb.com
 belladiadev.com
 bellcenter-pnru.com
 bellesirenesalon.com
@@ -8127,6 +8129,7 @@ krater.iprom.net
 krisbel.com
 krishanibd.com
 krs.ymxpb.com
+ksavagrh.com
 ksibradio.com
 kspengineering.com
 kssm.kuaipandata.com

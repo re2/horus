@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-26 18:16:28.295327
+# UPDATED: 2021-02-26 18:58:13.717715
 # HOST-KEYWORD: 60
 # HOST-SUFFIX: 43689
-# HOST: 21071
+# HOST: 21076
 # IP-CIDR: 240
 # USER-AGENT: 1
-# TOTAL: 65061
+# TOTAL: 65066
 HOST,0.nextyourcontent.com,Advertising
 HOST,0.up.qingdaonews.com,Advertising
 HOST,0001.2waky.com,Advertising
@@ -281,6 +281,7 @@ HOST,4.whereinlombardy.com,Advertising
 HOST,4.whereinmolise.com,Advertising
 HOST,4.whereinpiemonte.com,Advertising
 HOST,4.whereinsardegna.com,Advertising
+HOST,4.whereinsicilia.com,Advertising
 HOST,4.whereintoscana.com,Advertising
 HOST,40-sm.000webhostapp.com,Advertising
 HOST,403.hqhost.net,Advertising
@@ -3899,6 +3900,7 @@ HOST,beldiplomcom.75.com1.ru,Advertising
 HOST,belierlaine.com,Advertising
 HOST,belifoundation.org,Advertising
 HOST,bell.inq.com,Advertising
+HOST,bella.thegalaxyweb.com,Advertising
 HOST,belladiadev.com,Advertising
 HOST,bellcenter-pnru.com,Advertising
 HOST,bellesirenesalon.com,Advertising
@@ -6384,6 +6386,7 @@ HOST,daftarsituspoker.net,Advertising
 HOST,daguogroup.com,Advertising
 HOST,dai-stablecoin.com,Advertising
 HOST,daigleeb.net,Advertising
+HOST,daily-saver.com,Advertising
 HOST,dailycheats.net,Advertising
 HOST,dailydreams.epizy.com,Advertising
 HOST,dailylifesciences.com,Advertising
@@ -11228,6 +11231,7 @@ HOST,krishanibd.com,Advertising
 HOST,kromtech.net,Advertising
 HOST,krs.ymxpb.com,Advertising
 HOST,krutilka.net,Advertising
+HOST,ksavagrh.com,Advertising
 HOST,ksibradio.com,Advertising
 HOST,kspengineering.com,Advertising
 HOST,kssm.kuaipandata.com,Advertising
@@ -16081,6 +16085,7 @@ HOST,savethis.clickability.com,Advertising
 HOST,savetubevideo.com,Advertising
 HOST,saveupto20.com,Advertising
 HOST,savingforshelter.com,Advertising
+HOST,savings-time.com,Advertising
 HOST,savoy.cubecdn.net,Advertising
 HOST,savoy.storage.cubecdn.net,Advertising
 HOST,savvyads.com,Advertising

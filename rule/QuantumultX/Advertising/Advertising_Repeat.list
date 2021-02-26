@@ -1,7 +1,7 @@
 # NAME: Advertising 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-26 18:16:36.880636
+# UPDATED: 2021-02-26 18:58:22.895956
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 #  与 Hijacking 共 212 条规则重复
 HOST-SUFFIX,17gouwuba.com
@@ -2892,7 +2892,7 @@ HOST-SUFFIX,zs.dhl.de
 HOST-SUFFIX,zsi7.destinia.do
 HOST-SUFFIX,zyq2.destinia.sk
 HOST-SUFFIX,zz.bdstatic.com
-#  与 AdvertisingTest 共 58989 条规则重复
+#  与 AdvertisingTest 共 58992 条规则重复
 HOST,0.up.qingdaonews.com
 HOST,0001.2waky.com
 HOST,000lk3v.wcomhost.com
@@ -3092,6 +3092,7 @@ HOST,4.whereinlombardy.com
 HOST,4.whereinmolise.com
 HOST,4.whereinpiemonte.com
 HOST,4.whereinsardegna.com
+HOST,4.whereinsicilia.com
 HOST,4.whereintoscana.com
 HOST,40-sm.000webhostapp.com
 HOST,403.hqhost.net
@@ -5293,6 +5294,7 @@ HOST,beineiros.xyz
 HOST,beldiplomcom.75.com1.ru
 HOST,belifoundation.org
 HOST,bell.inq.com
+HOST,bella.thegalaxyweb.com
 HOST,belladiadev.com
 HOST,bellcenter-pnru.com
 HOST,bellesirenesalon.com
@@ -11010,6 +11012,7 @@ HOST,krater.iprom.net
 HOST,krisbel.com
 HOST,krishanibd.com
 HOST,krs.ymxpb.com
+HOST,ksavagrh.com
 HOST,ksibradio.com
 HOST,kspengineering.com
 HOST,kssm.kuaipandata.com

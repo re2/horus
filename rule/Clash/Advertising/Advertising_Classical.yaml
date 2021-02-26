@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-26 18:16:31.935439
+# UPDATED: 2021-02-26 18:58:17.644933
 # DOMAIN-KEYWORD: 60
 # DOMAIN-SUFFIX: 43689
-# DOMAIN: 21071
+# DOMAIN: 21076
 # IP-CIDR: 240
-# TOTAL: 65060
+# TOTAL: 65065
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.up.qingdaonews.com
@@ -281,6 +281,7 @@ payload:
   - DOMAIN,4.whereinmolise.com
   - DOMAIN,4.whereinpiemonte.com
   - DOMAIN,4.whereinsardegna.com
+  - DOMAIN,4.whereinsicilia.com
   - DOMAIN,4.whereintoscana.com
   - DOMAIN,40-sm.000webhostapp.com
   - DOMAIN,403.hqhost.net
@@ -3899,6 +3900,7 @@ payload:
   - DOMAIN,belierlaine.com
   - DOMAIN,belifoundation.org
   - DOMAIN,bell.inq.com
+  - DOMAIN,bella.thegalaxyweb.com
   - DOMAIN,belladiadev.com
   - DOMAIN,bellcenter-pnru.com
   - DOMAIN,bellesirenesalon.com
@@ -6384,6 +6386,7 @@ payload:
   - DOMAIN,daguogroup.com
   - DOMAIN,dai-stablecoin.com
   - DOMAIN,daigleeb.net
+  - DOMAIN,daily-saver.com
   - DOMAIN,dailycheats.net
   - DOMAIN,dailydreams.epizy.com
   - DOMAIN,dailylifesciences.com
@@ -11228,6 +11231,7 @@ payload:
   - DOMAIN,kromtech.net
   - DOMAIN,krs.ymxpb.com
   - DOMAIN,krutilka.net
+  - DOMAIN,ksavagrh.com
   - DOMAIN,ksibradio.com
   - DOMAIN,kspengineering.com
   - DOMAIN,kssm.kuaipandata.com
@@ -16081,6 +16085,7 @@ payload:
   - DOMAIN,savetubevideo.com
   - DOMAIN,saveupto20.com
   - DOMAIN,savingforshelter.com
+  - DOMAIN,savings-time.com
   - DOMAIN,savoy.cubecdn.net
   - DOMAIN,savoy.storage.cubecdn.net
   - DOMAIN,savvyads.com

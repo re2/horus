@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-26 18:16:26.329764
+# UPDATED: 2021-02-26 18:58:11.650646
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 60
 # DOMAIN-SUFFIX: 43689
-# DOMAIN: 21071
+# DOMAIN: 21076
 # IP-CIDR: 240
 # USER-AGENT: 1
 # URL-REGEX: 310
-# TOTAL: 65371
+# TOTAL: 65376
 0.nextyourcontent.com
 0.up.qingdaonews.com
 0001.2waky.com
@@ -283,6 +283,7 @@
 4.whereinmolise.com
 4.whereinpiemonte.com
 4.whereinsardegna.com
+4.whereinsicilia.com
 4.whereintoscana.com
 40-sm.000webhostapp.com
 403.hqhost.net
@@ -3901,6 +3902,7 @@ beldiplomcom.75.com1.ru
 belierlaine.com
 belifoundation.org
 bell.inq.com
+bella.thegalaxyweb.com
 belladiadev.com
 bellcenter-pnru.com
 bellesirenesalon.com
@@ -6386,6 +6388,7 @@ daftarsituspoker.net
 daguogroup.com
 dai-stablecoin.com
 daigleeb.net
+daily-saver.com
 dailycheats.net
 dailydreams.epizy.com
 dailylifesciences.com
@@ -11230,6 +11233,7 @@ krishanibd.com
 kromtech.net
 krs.ymxpb.com
 krutilka.net
+ksavagrh.com
 ksibradio.com
 kspengineering.com
 kssm.kuaipandata.com
@@ -16083,6 +16087,7 @@ savethis.clickability.com
 savetubevideo.com
 saveupto20.com
 savingforshelter.com
+savings-time.com
 savoy.cubecdn.net
 savoy.storage.cubecdn.net
 savvyads.com

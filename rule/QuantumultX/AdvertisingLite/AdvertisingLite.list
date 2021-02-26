@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-26 18:16:28.226746
+# UPDATED: 2021-02-26 18:58:13.645114
 # HOST-KEYWORD: 27
 # HOST-SUFFIX: 15241
-# HOST: 15456
+# HOST: 15457
 # IP-CIDR: 192
 # USER-AGENT: 1
-# TOTAL: 30917
+# TOTAL: 30918
 HOST,0.up.qingdaonews.com,AdvertisingLite
 HOST,00-gov.cn,AdvertisingLite
 HOST,0024aadd.com,AdvertisingLite
@@ -12433,6 +12433,7 @@ HOST,sponsormob.com,AdvertisingLite
 HOST,sportradarserving.com,AdvertisingLite
 HOST,sportsbetaffiliates.com.au,AdvertisingLite
 HOST,sportsyndicator.com,AdvertisingLite
+HOST,spotmx.com,AdvertisingLite
 HOST,spotrails.com,AdvertisingLite
 HOST,spotscenered.info,AdvertisingLite
 HOST,spottednoise.com,AdvertisingLite

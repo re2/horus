@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-26 18:16:31.862741
+# UPDATED: 2021-02-26 18:58:17.569449
 # DOMAIN-KEYWORD: 60
 # DOMAIN-SUFFIX: 43689
-# DOMAIN: 21071
+# DOMAIN: 21076
 # IP-CIDR: 240
-# TOTAL: 65060
+# TOTAL: 65065
 payload:
   - '0.nextyourcontent.com'
   - '0.up.qingdaonews.com'
@@ -281,6 +281,7 @@ payload:
   - '4.whereinmolise.com'
   - '4.whereinpiemonte.com'
   - '4.whereinsardegna.com'
+  - '4.whereinsicilia.com'
   - '4.whereintoscana.com'
   - '40-sm.000webhostapp.com'
   - '403.hqhost.net'
@@ -3899,6 +3900,7 @@ payload:
   - 'belierlaine.com'
   - 'belifoundation.org'
   - 'bell.inq.com'
+  - 'bella.thegalaxyweb.com'
   - 'belladiadev.com'
   - 'bellcenter-pnru.com'
   - 'bellesirenesalon.com'
@@ -6384,6 +6386,7 @@ payload:
   - 'daguogroup.com'
   - 'dai-stablecoin.com'
   - 'daigleeb.net'
+  - 'daily-saver.com'
   - 'dailycheats.net'
   - 'dailydreams.epizy.com'
   - 'dailylifesciences.com'
@@ -11228,6 +11231,7 @@ payload:
   - 'kromtech.net'
   - 'krs.ymxpb.com'
   - 'krutilka.net'
+  - 'ksavagrh.com'
   - 'ksibradio.com'
   - 'kspengineering.com'
   - 'kssm.kuaipandata.com'
@@ -16081,6 +16085,7 @@ payload:
   - 'savetubevideo.com'
   - 'saveupto20.com'
   - 'savingforshelter.com'
+  - 'savings-time.com'
   - 'savoy.cubecdn.net'
   - 'savoy.storage.cubecdn.net'
   - 'savvyads.com'

@@ -1,7 +1,7 @@
 # NAME: Advertising 规则重复情况
 # AUTHOR: 
 # GITHUB: 
-# UPDATED: 2021-02-26 18:16:40.646666
+# UPDATED: 2021-02-26 18:58:26.920479
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 #  与 Hijacking 共 212 条规则重复
 DOMAIN-SUFFIX,17gouwuba.com
@@ -2892,7 +2892,7 @@ DOMAIN-SUFFIX,zs.dhl.de
 DOMAIN-SUFFIX,zsi7.destinia.do
 DOMAIN-SUFFIX,zyq2.destinia.sk
 DOMAIN-SUFFIX,zz.bdstatic.com
-#  与 AdvertisingTest 共 59299 条规则重复
+#  与 AdvertisingTest 共 59302 条规则重复
 DOMAIN,0.up.qingdaonews.com
 DOMAIN,0001.2waky.com
 DOMAIN,000lk3v.wcomhost.com
@@ -3092,6 +3092,7 @@ DOMAIN,4.whereinlombardy.com
 DOMAIN,4.whereinmolise.com
 DOMAIN,4.whereinpiemonte.com
 DOMAIN,4.whereinsardegna.com
+DOMAIN,4.whereinsicilia.com
 DOMAIN,4.whereintoscana.com
 DOMAIN,40-sm.000webhostapp.com
 DOMAIN,403.hqhost.net
@@ -5293,6 +5294,7 @@ DOMAIN,beineiros.xyz
 DOMAIN,beldiplomcom.75.com1.ru
 DOMAIN,belifoundation.org
 DOMAIN,bell.inq.com
+DOMAIN,bella.thegalaxyweb.com
 DOMAIN,belladiadev.com
 DOMAIN,bellcenter-pnru.com
 DOMAIN,bellesirenesalon.com
@@ -11010,6 +11012,7 @@ DOMAIN,krater.iprom.net
 DOMAIN,krisbel.com
 DOMAIN,krishanibd.com
 DOMAIN,krs.ymxpb.com
+DOMAIN,ksavagrh.com
 DOMAIN,ksibradio.com
 DOMAIN,kspengineering.com
 DOMAIN,kssm.kuaipandata.com
