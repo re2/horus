@@ -1,12 +1,12 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-26 18:58:17.489081
+# UPDATED: 2021-02-27 02:23:16.149555
 # DOMAIN-KEYWORD: 27
 # DOMAIN-SUFFIX: 15241
-# DOMAIN: 15457
+# DOMAIN: 15462
 # IP-CIDR: 192
-# TOTAL: 30917
+# TOTAL: 30922
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,00-gov.cn
@@ -2386,6 +2386,7 @@ payload:
   - DOMAIN,azera-s014.com
   - DOMAIN,azjmp.com
   - DOMAIN,aznapoz.info
+  - DOMAIN,aznuqxmji.com
   - DOMAIN,azointel.com
   - DOMAIN,azoos.csheaven.com
   - DOMAIN,azorbe.com
@@ -3011,6 +3012,7 @@ payload:
   - DOMAIN,brilig.com
   - DOMAIN,bringmesports.com
   - DOMAIN,bristlyapace.com
+  - DOMAIN,brlfycvtbo.com
   - DOMAIN,broadcastbed.com
   - DOMAIN,broaddoor.com
   - DOMAIN,broadstreetads.com
@@ -6842,6 +6844,7 @@ payload:
   - DOMAIN,iad.apple.com
   - DOMAIN,iad.e.360.cn
   - DOMAIN,iadmat.nosdn.127.net
+  - DOMAIN,iajcvxcqktpm.com
   - DOMAIN,iamagameaddict.com
   - DOMAIN,iasbetaffiliates.com
   - DOMAIN,iask.cn
@@ -9771,6 +9774,7 @@ payload:
   - DOMAIN,optorb.com
   - DOMAIN,optout.crsspxl.com
   - DOMAIN,opus.analytics.yahoo.com
+  - DOMAIN,oqbxbautpu.com
   - DOMAIN,oqxyzvkwso.com
   - DOMAIN,oracleinfinity.io
   - DOMAIN,orangeads.fr
@@ -10410,6 +10414,7 @@ payload:
   - DOMAIN,ppt.tianya999.com
   - DOMAIN,ppvabs.pplive.com
   - DOMAIN,pqmfbegdsuwqiz.com
+  - DOMAIN,pqpuraoxacaxw.com
   - DOMAIN,pr-chart.com
   - DOMAIN,pr-chart.de
   - DOMAIN,pr-linktausch.de

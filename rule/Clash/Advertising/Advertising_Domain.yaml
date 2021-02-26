@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-26 18:58:17.569449
+# UPDATED: 2021-02-27 02:23:16.227379
 # DOMAIN-KEYWORD: 60
 # DOMAIN-SUFFIX: 43689
-# DOMAIN: 21076
+# DOMAIN: 21077
 # IP-CIDR: 240
-# TOTAL: 65065
+# TOTAL: 65066
 payload:
   - '0.nextyourcontent.com'
   - '0.up.qingdaonews.com'
@@ -20469,6 +20469,7 @@ payload:
   - 'www35t.glam.com'
   - 'www39.71sise.com'
   - 'www4.ad.tomshardware.com'
+  - 'www4.bannerspace.com'
   - 'www4.clustrmaps.com'
   - 'www4.counter.bloke.com'
   - 'www4.glam.com'

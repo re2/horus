@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-26 18:58:13.645114
+# UPDATED: 2021-02-27 02:23:12.477844
 # HOST-KEYWORD: 27
 # HOST-SUFFIX: 15241
-# HOST: 15457
+# HOST: 15462
 # IP-CIDR: 192
 # USER-AGENT: 1
-# TOTAL: 30918
+# TOTAL: 30923
 HOST,0.up.qingdaonews.com,AdvertisingLite
 HOST,00-gov.cn,AdvertisingLite
 HOST,0024aadd.com,AdvertisingLite
@@ -2386,6 +2386,7 @@ HOST,azdqwztcp.com,AdvertisingLite
 HOST,azera-s014.com,AdvertisingLite
 HOST,azjmp.com,AdvertisingLite
 HOST,aznapoz.info,AdvertisingLite
+HOST,aznuqxmji.com,AdvertisingLite
 HOST,azointel.com,AdvertisingLite
 HOST,azoos.csheaven.com,AdvertisingLite
 HOST,azorbe.com,AdvertisingLite
@@ -3011,6 +3012,7 @@ HOST,brightshare.com,AdvertisingLite
 HOST,brilig.com,AdvertisingLite
 HOST,bringmesports.com,AdvertisingLite
 HOST,bristlyapace.com,AdvertisingLite
+HOST,brlfycvtbo.com,AdvertisingLite
 HOST,broadcastbed.com,AdvertisingLite
 HOST,broaddoor.com,AdvertisingLite
 HOST,broadstreetads.com,AdvertisingLite
@@ -6842,6 +6844,7 @@ HOST,iacpromotion.s3.amazonaws.com,AdvertisingLite
 HOST,iad.apple.com,AdvertisingLite
 HOST,iad.e.360.cn,AdvertisingLite
 HOST,iadmat.nosdn.127.net,AdvertisingLite
+HOST,iajcvxcqktpm.com,AdvertisingLite
 HOST,iamagameaddict.com,AdvertisingLite
 HOST,iasbetaffiliates.com,AdvertisingLite
 HOST,iask.cn,AdvertisingLite
@@ -9771,6 +9774,7 @@ HOST,opto-22.com.cn,AdvertisingLite
 HOST,optorb.com,AdvertisingLite
 HOST,optout.crsspxl.com,AdvertisingLite
 HOST,opus.analytics.yahoo.com,AdvertisingLite
+HOST,oqbxbautpu.com,AdvertisingLite
 HOST,oqxyzvkwso.com,AdvertisingLite
 HOST,oracleinfinity.io,AdvertisingLite
 HOST,orangeads.fr,AdvertisingLite
@@ -10410,6 +10414,7 @@ HOST,ppro.de,AdvertisingLite
 HOST,ppt.tianya999.com,AdvertisingLite
 HOST,ppvabs.pplive.com,AdvertisingLite
 HOST,pqmfbegdsuwqiz.com,AdvertisingLite
+HOST,pqpuraoxacaxw.com,AdvertisingLite
 HOST,pr-chart.com,AdvertisingLite
 HOST,pr-chart.de,AdvertisingLite
 HOST,pr-linktausch.de,AdvertisingLite

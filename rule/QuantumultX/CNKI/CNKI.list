@@ -1,7 +1,7 @@
 # NAME: CNKI
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-26 18:58:14.740362
+# UPDATED: 2021-02-27 02:23:13.537160
 # HOST-SUFFIX: 17
 # TOTAL: 17
 HOST-SUFFIX,bbf.org.cn,CNKI

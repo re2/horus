@@ -1,7 +1,7 @@
 # NAME: CNNIC
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-26 18:58:12.950573
+# UPDATED: 2021-02-27 02:23:11.810236
 # DOMAIN-SUFFIX: 50
 # TOTAL: 50
 DOMAIN-SUFFIX,6pilot.cn

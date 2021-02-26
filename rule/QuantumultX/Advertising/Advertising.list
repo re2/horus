@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-26 18:58:13.717715
+# UPDATED: 2021-02-27 02:23:12.549825
 # HOST-KEYWORD: 60
 # HOST-SUFFIX: 43689
-# HOST: 21076
+# HOST: 21077
 # IP-CIDR: 240
 # USER-AGENT: 1
-# TOTAL: 65066
+# TOTAL: 65067
 HOST,0.nextyourcontent.com,Advertising
 HOST,0.up.qingdaonews.com,Advertising
 HOST,0001.2waky.com,Advertising
@@ -20469,6 +20469,7 @@ HOST,www35jm.glam.com,Advertising
 HOST,www35t.glam.com,Advertising
 HOST,www39.71sise.com,Advertising
 HOST,www4.ad.tomshardware.com,Advertising
+HOST,www4.bannerspace.com,Advertising
 HOST,www4.clustrmaps.com,Advertising
 HOST,www4.counter.bloke.com,Advertising
 HOST,www4.glam.com,Advertising
