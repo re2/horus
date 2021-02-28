@@ -1,7 +1,7 @@
 # NAME: Lenovo
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-28 02:24:02.308996
+# UPDATED: 2021-02-28 19:18:15.100692
 # HOST-SUFFIX: 34
 # TOTAL: 34
 HOST-SUFFIX,blurdev.com,Lenovo
