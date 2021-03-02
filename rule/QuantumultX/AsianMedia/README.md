@@ -8,17 +8,17 @@
 
 
 
-最后检查时间：2021-03-02 15:27:16.463598。
+最后检查时间：2021-03-02 21:14:58.275642。
 
 ## 规则统计
 
-总计规则：45 条。
+总计规则：48 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| HOST-KEYWORD | 2 |
+| HOST-KEYWORD | 5 |
 | HOST-SUFFIX | 20 |
 | HOST | 9 |
 | USER-AGENT | 5 |
@@ -59,6 +59,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Quan
 
 本项目的AsianMedia分流规则的数据来自以下链接，通常已涵盖所有数据来源的分流规则。如果你正在使用这些分流规则，建议不要与本项目的AsianMedia分流规则混合使用，以免造成规则重复。
 
+- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/StreamingSE.list
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/AsianMedia/AsianMedia.list
 - https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/AsianMedia.list
 

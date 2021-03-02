@@ -1,13 +1,13 @@
 # NAME: AsianMedia
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-02 15:26:52.856398
-# DOMAIN-KEYWORD: 2
+# UPDATED: 2021-03-02 21:14:27.244401
+# DOMAIN-KEYWORD: 5
 # DOMAIN-SUFFIX: 20
 # DOMAIN: 9
 # USER-AGENT: 5
 # IP-CIDR: 9
-# TOTAL: 45
+# TOTAL: 48
 DOMAIN,akmcdnoversea-tw.inter.iqiyi.com
 DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv
 DOMAIN,cache.video.iqiyi.com
@@ -38,6 +38,9 @@ DOMAIN-SUFFIX,vv.video.qq.com
 DOMAIN-SUFFIX,wetv.vip
 DOMAIN-SUFFIX,wetvinfo.com
 DOMAIN-KEYWORD,bilibili
+DOMAIN-KEYWORD,cn-hk-eq-bcache-
+DOMAIN-KEYWORD,oversea-tw.inter.iqiyi.com
+DOMAIN-KEYWORD,oversea-tw.inter.ptqy.gitv.tv
 DOMAIN-KEYWORD,qiyi
 IP-CIDR,101.224.0.0/13,no-resolve
 IP-CIDR,103.44.56.0/22,no-resolve

@@ -8,17 +8,17 @@
 
 
 
-最后检查时间：2021-03-02 15:27:24.262776。
+最后检查时间：2021-03-02 21:15:08.823754。
 
 ## 规则统计
 
-总计规则：45 条。
+总计规则：48 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| DOMAIN-KEYWORD | 2 |
+| DOMAIN-KEYWORD | 5 |
 | DOMAIN-SUFFIX | 20 |
 | DOMAIN | 9 |
 | USER-AGENT | 5 |
@@ -59,6 +59,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon
 
 本项目的AsianMedia分流规则的数据来自以下链接，通常已涵盖所有数据来源的分流规则。如果你正在使用这些分流规则，建议不要与本项目的AsianMedia分流规则混合使用，以免造成规则重复。
 
+- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/StreamingSE.list
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/AsianMedia/AsianMedia.list
 - https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/AsianMedia.list
 

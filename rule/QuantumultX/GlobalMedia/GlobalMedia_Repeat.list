@@ -1,7 +1,7 @@
 # NAME: GlobalMedia 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-02 15:27:02.343154
+# UPDATED: 2021-03-02 21:14:39.772767
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 #  与 Netflix 共 42 条规则重复
 HOST,netflix.com.edgesuite.net
@@ -148,16 +148,6 @@ HOST-SUFFIX,nowe.com
 HOST-SUFFIX,youboranqs01.com
 USER-AGENT,HBO%20NOW*
 USER-AGENT,HBOMAX*
-#  与 Amazon 共 9 条规则重复
-HOST-SUFFIX,aiv-cdn.net
-HOST-SUFFIX,amazonaws.co.uk
-HOST-SUFFIX,amazonaws.com
-HOST-SUFFIX,amazonvideo.com
-HOST-SUFFIX,llnwd.net
-HOST-SUFFIX,media-amazon.com
-HOST-SUFFIX,primevideo.com
-USER-AGENT,InstantVideo.US*
-USER-AGENT,Prime%20Video*
 #  与 AmazonPrimeVideo 共 9 条规则重复
 HOST-KEYWORD,avoddashs
 HOST-SUFFIX,aiv-cdn.net
