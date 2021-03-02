@@ -1,7 +1,7 @@
 # NAME: GlobalMedia 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-02 21:14:38.213152
+# UPDATED: 2021-03-02 21:55:46.461690
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 #  与 Netflix 共 42 条规则重复
 DOMAIN,netflix.com.edgesuite.net
@@ -63,16 +63,6 @@ DOMAIN-SUFFIX,hjholdings.jp
 DOMAIN-SUFFIX,hulu.jp
 DOMAIN-SUFFIX,streaks.jp
 DOMAIN-SUFFIX,yb.uncn.jp
-#  与 AppleNews 共 9 条规则重复
-DOMAIN,apple.comscoreresearch.com
-DOMAIN,gateway.icloud.com
-DOMAIN,gspe1-ssl.ls.apple.com
-DOMAIN,news-client.apple.com
-DOMAIN,news-edge.apple.com
-DOMAIN,news-events.apple.com
-DOMAIN-SUFFIX,apple.news
-USER-AGENT,AppleNews*
-USER-AGENT,com.apple.news*
 #  与 KKBOX 共 5 条规则重复
 DOMAIN-SUFFIX,kfs.io
 DOMAIN-SUFFIX,kkbox.com
@@ -91,6 +81,14 @@ DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tiktokv.com
 USER-AGENT,TikTok*
+#  与 AppleNews 共 7 条规则重复
+DOMAIN,apple.comscoreresearch.com
+DOMAIN,gateway.icloud.com
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN,news-client.apple.com
+DOMAIN,news-edge.apple.com
+DOMAIN,news-events.apple.com
+DOMAIN-SUFFIX,apple.news
 #  与 Spotify 共 10 条规则重复
 DOMAIN-KEYWORD,-spotify-com
 DOMAIN-KEYWORD,spotify.com

@@ -1,12 +1,12 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-02 21:14:33.591982
+# UPDATED: 2021-03-02 21:55:41.928671
 # DOMAIN-KEYWORD: 60
 # DOMAIN-SUFFIX: 64886
-# DOMAIN: 15232
+# DOMAIN: 15233
 # IP-CIDR: 244
-# TOTAL: 80422
+# TOTAL: 80423
 payload:
   - '0.up.qingdaonews.com'
   - '0001.2waky.com'
@@ -9281,6 +9281,7 @@ payload:
   - 'mobile-redirection.com'
   - 'mobile.activeshopper.com'
   - 'mobile.beike188.com'
+  - 'mobile.bp12345.com'
   - 'mobile.onlyhookup.com'
   - 'mobile.whitelabelpros.com'
   - 'mobileactive.com'
