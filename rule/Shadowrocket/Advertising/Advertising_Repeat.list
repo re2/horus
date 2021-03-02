@@ -1,7 +1,7 @@
 # NAME: Advertising 规则重复情况
 # AUTHOR: 
 # GITHUB: 
-# UPDATED: 2021-03-02 15:13:37.478619
+# UPDATED: 2021-03-02 15:27:05.659418
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 #  与 Hijacking 共 212 条规则重复
 DOMAIN-SUFFIX,17gouwuba.com
@@ -3076,7 +3076,7 @@ DOMAIN-SUFFIX,zs.dhl.de
 DOMAIN-SUFFIX,zsi7.destinia.do
 DOMAIN-SUFFIX,zyq2.destinia.sk
 DOMAIN-SUFFIX,zz.bdstatic.com
-#  与 AdvertisingTest 共 57414 条规则重复
+#  与 AdvertisingTest 共 57413 条规则重复
 DOMAIN,0.up.qingdaonews.com
 DOMAIN,0001.2waky.com
 DOMAIN,000lk3v.wcomhost.com
@@ -6977,7 +6977,6 @@ DOMAIN,contactatonce.com
 DOMAIN,contactos-gay.com
 DOMAIN,content.digicert.com
 DOMAIN,content.joinaxxess.com
-DOMAIN,content.liveuniverse.com
 DOMAIN,content.mkt922.com
 DOMAIN,content.mkt931.com
 DOMAIN,content.mkt932.com
@@ -60515,7 +60514,7 @@ DOMAIN-SUFFIX,ucweb.com
 DOMAIN-SUFFIX,uflowx.com
 DOMAIN-SUFFIX,xiaomengquan.cn
 DOMAIN-SUFFIX,xmq123.cn
-#  与 AdvertisingLite 共 16352 条规则重复
+#  与 AdvertisingLite 共 16351 条规则重复
 DOMAIN,0.up.qingdaonews.com
 DOMAIN,0d847862199.com
 DOMAIN,0icep80f.com
@@ -60784,7 +60783,6 @@ DOMAIN,conds.ru
 DOMAIN,config.unityads.unitychina.cn
 DOMAIN,conflibred.co
 DOMAIN,connatix.com
-DOMAIN,content.liveuniverse.com
 DOMAIN,contentcache-a.akamaihd.net
 DOMAIN,coolmirage.com
 DOMAIN,cope.it

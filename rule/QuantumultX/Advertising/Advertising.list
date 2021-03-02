@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-02 15:13:25.633771
+# UPDATED: 2021-03-02 15:26:54.142497
 # HOST-KEYWORD: 60
 # HOST-SUFFIX: 41771
-# HOST: 21111
+# HOST: 21110
 # IP-CIDR: 244
 # USER-AGENT: 1
-# TOTAL: 63187
+# TOTAL: 63186
 HOST,0.nextyourcontent.com,Advertising
 HOST,0.up.qingdaonews.com,Advertising
 HOST,0001.2waky.com,Advertising
@@ -5884,7 +5884,6 @@ HOST,contactreserve.com,Advertising
 HOST,contactsin.com,Advertising
 HOST,content.digicert.com,Advertising
 HOST,content.joinaxxess.com,Advertising
-HOST,content.liveuniverse.com,Advertising
 HOST,content.mkt922.com,Advertising
 HOST,content.mkt931.com,Advertising
 HOST,content.mkt932.com,Advertising
