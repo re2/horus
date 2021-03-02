@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-02 13:55:29.541350
+# UPDATED: 2021-03-02 15:13:27.225456
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 60
 # DOMAIN-SUFFIX: 64886
-# DOMAIN: 15230
+# DOMAIN: 15231
 # IP-CIDR: 244
 # USER-AGENT: 1
 # URL-REGEX: 310
-# TOTAL: 80731
+# TOTAL: 80732
 0.up.qingdaonews.com
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -3910,6 +3910,7 @@ contactatonce.com
 contactos-gay.com
 content.digicert.com
 content.joinaxxess.com
+content.liveuniverse.com
 content.mkt922.com
 content.mkt931.com
 content.mkt932.com
