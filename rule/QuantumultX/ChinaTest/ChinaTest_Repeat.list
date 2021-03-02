@@ -1,7 +1,7 @@
 # NAME: ChinaTest 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-02 09:25:38.117452
+# UPDATED: 2021-03-02 13:55:36.417162
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 #  与 DanDanZan 共 7 条规则重复
 HOST-SUFFIX,343480.com
@@ -1233,21 +1233,6 @@ HOST-SUFFIX,didiyun.com
 HOST-SUFFIX,didiyunapi.com
 HOST-SUFFIX,udache.com
 HOST-SUFFIX,xiaojukeji.com
-#  与 AsianMedia 共 14 条规则重复
-HOST-SUFFIX,71.am.com
-HOST-SUFFIX,acg.tv
-HOST-SUFFIX,acgvideo.com
-HOST-SUFFIX,b23.tv
-HOST-SUFFIX,biliapi.com
-HOST-SUFFIX,biliapi.net
-HOST-SUFFIX,bilibili.com
-HOST-SUFFIX,bilibili.tv
-HOST-SUFFIX,biligame.com
-HOST-SUFFIX,biligame.net
-HOST-SUFFIX,bilivideo.com
-HOST-SUFFIX,hdslb.com
-HOST-SUFFIX,im9.com
-HOST-SUFFIX,qy.net
 #  与 Tencent 共 151 条规则重复
 HOST-SUFFIX,accessibilityunion.org
 HOST-SUFFIX,agcloudcs.com
@@ -1846,6 +1831,21 @@ HOST-SUFFIX,hjkhjkl.com
 HOST-SUFFIX,lkjujm.com
 HOST-SUFFIX,nfmrtfv.com
 HOST-SUFFIX,xianyu.mobi
+#  与 AsianMedia 共 14 条规则重复
+HOST-SUFFIX,71.am.com
+HOST-SUFFIX,acg.tv
+HOST-SUFFIX,acgvideo.com
+HOST-SUFFIX,b23.tv
+HOST-SUFFIX,biliapi.com
+HOST-SUFFIX,biliapi.net
+HOST-SUFFIX,bilibili.com
+HOST-SUFFIX,bilibili.tv
+HOST-SUFFIX,biligame.com
+HOST-SUFFIX,biligame.net
+HOST-SUFFIX,bilivideo.com
+HOST-SUFFIX,hdslb.com
+HOST-SUFFIX,im9.com
+HOST-SUFFIX,qy.net
 #  与 ZhangYue 共 8 条规则重复
 HOST-SUFFIX,ireader.com
 HOST-SUFFIX,ireaderm.net

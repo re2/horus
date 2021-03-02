@@ -1,7 +1,7 @@
 # NAME: China 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-02 09:25:38.114168
+# UPDATED: 2021-03-02 13:55:36.413930
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 #  与 DanDanZan 共 7 条规则重复
 HOST-SUFFIX,343480.com
@@ -216,15 +216,6 @@ HOST-SUFFIX,windowsupdate.com
 HOST-SUFFIX,xbox.com
 HOST-SUFFIX,xboxlive.com
 USER-AGENT,Microsoft*
-#  与 AsianMedia 共 8 条规则重复
-HOST-SUFFIX,71.am.com
-HOST-SUFFIX,acgvideo.com
-HOST-SUFFIX,biliapi.com
-HOST-SUFFIX,biliapi.net
-HOST-SUFFIX,bilibili.com
-HOST-SUFFIX,bilibili.tv
-HOST-SUFFIX,bilivideo.com
-HOST-SUFFIX,hdslb.com
 #  与 Steam 共 8 条规则重复
 HOST-SUFFIX,steam-chat.com
 HOST-SUFFIX,steamcdn-a.akamaihd.net

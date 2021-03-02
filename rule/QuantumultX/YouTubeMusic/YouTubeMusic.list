@@ -1,7 +1,7 @@
 # NAME: YouTubeMusic
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-02 09:25:29.776536
+# UPDATED: 2021-03-02 13:55:28.220843
 # USER-AGENT: 4
 # TOTAL: 4
 USER-AGENT,*YouTubeMusic*,YouTubeMusic
