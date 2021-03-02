@@ -1,7 +1,7 @@
 # NAME: Verizon
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-02 21:55:37.358967
+# UPDATED: 2021-03-03 02:21:08.968980
 # DOMAIN-SUFFIX: 174
 # TOTAL: 174
 DOMAIN-SUFFIX,advertising.com

@@ -1,7 +1,7 @@
 # NAME: Reddit
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-02 21:55:37.275795
+# UPDATED: 2021-03-03 02:21:08.886713
 # DOMAIN-SUFFIX: 4
 # TOTAL: 4
 DOMAIN-SUFFIX,redd.it

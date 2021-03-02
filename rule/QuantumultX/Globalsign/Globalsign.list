@@ -1,7 +1,7 @@
 # NAME: Globalsign
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-02 21:55:39.066336
+# UPDATED: 2021-03-03 02:21:10.680327
 # HOST-SUFFIX: 13
 # TOTAL: 13
 HOST-SUFFIX,globalsign-media.com,Globalsign

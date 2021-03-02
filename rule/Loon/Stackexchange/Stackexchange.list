@@ -1,7 +1,7 @@
 # NAME: Stackexchange
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-02 21:55:41.553734
+# UPDATED: 2021-03-03 02:21:13.221596
 # DOMAIN-SUFFIX: 15
 # TOTAL: 15
 DOMAIN-SUFFIX,askubuntu.com
