@@ -1,7 +1,7 @@
 # NAME: Pixiv
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-03 09:23:55.445421
+# UPDATED: 2021-03-04 02:30:00.621903
 # DOMAIN-SUFFIX: 6
 # TOTAL: 6
 DOMAIN-SUFFIX,fanbox.cc

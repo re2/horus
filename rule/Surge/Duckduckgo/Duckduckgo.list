@@ -1,7 +1,7 @@
 # NAME: Duckduckgo
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-03 09:23:50.984255
+# UPDATED: 2021-03-04 02:29:55.162673
 # DOMAIN-SUFFIX: 43
 # TOTAL: 43
 DOMAIN-SUFFIX,cispaletter.com

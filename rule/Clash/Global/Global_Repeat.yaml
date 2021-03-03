@@ -1,7 +1,7 @@
 # NAME: Global 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-03 09:24:05.277481
+# UPDATED: 2021-03-04 02:30:15.442989
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 payload:
 #  与 Wikipedia 共 12 条规则重复
@@ -31955,26 +31955,6 @@ payload:
   - IP-CIDR,45.57.0.0/17
   - IP-CIDR,64.120.128.0/17
   - IP-CIDR,66.197.128.0/17
-#  与 Telegram 共 19 条规则重复
-  - DOMAIN-KEYWORD,telegram
-  - DOMAIN-SUFFIX,graph.org
-  - DOMAIN-SUFFIX,t.me
-  - DOMAIN-SUFFIX,tdesktop.com
-  - DOMAIN-SUFFIX,telega.one
-  - DOMAIN-SUFFIX,telegra.ph
-  - DOMAIN-SUFFIX,telegram.dog
-  - DOMAIN-SUFFIX,telegram.me
-  - DOMAIN-SUFFIX,telegram.org
-  - DOMAIN-SUFFIX,telegram.space
-  - DOMAIN-SUFFIX,telegramdownload.com
-  - DOMAIN-SUFFIX,telesco.pe
-  - DOMAIN-SUFFIX,tg.dev
-  - DOMAIN-SUFFIX,tx.me
-  - IP-CIDR,109.239.140.0/24
-  - IP-CIDR,149.154.160.0/20
-  - IP-CIDR,91.108.0.0/16
-  - IP-CIDR6,2001:67c:4e8::/48
-  - IP-CIDR6,2001:b28:f23f::/48
 #  与 Pinterest 共 15 条规则重复
   - DOMAIN-SUFFIX,pinimg.com
   - DOMAIN-SUFFIX,pinterest.at
@@ -32113,6 +32093,26 @@ payload:
   - DOMAIN-SUFFIX,uplinq.com
   - DOMAIN-SUFFIX,wipower.com
   - DOMAIN-SUFFIX,wirelessreach.com
+#  与 Telegram 共 19 条规则重复
+  - DOMAIN-KEYWORD,telegram
+  - DOMAIN-SUFFIX,graph.org
+  - DOMAIN-SUFFIX,t.me
+  - DOMAIN-SUFFIX,tdesktop.com
+  - DOMAIN-SUFFIX,telega.one
+  - DOMAIN-SUFFIX,telegra.ph
+  - DOMAIN-SUFFIX,telegram.dog
+  - DOMAIN-SUFFIX,telegram.me
+  - DOMAIN-SUFFIX,telegram.org
+  - DOMAIN-SUFFIX,telegram.space
+  - DOMAIN-SUFFIX,telegramdownload.com
+  - DOMAIN-SUFFIX,telesco.pe
+  - DOMAIN-SUFFIX,tg.dev
+  - DOMAIN-SUFFIX,tx.me
+  - IP-CIDR,109.239.140.0/24
+  - IP-CIDR,149.154.160.0/20
+  - IP-CIDR,91.108.0.0/16
+  - IP-CIDR6,2001:67c:4e8::/48
+  - IP-CIDR6,2001:b28:f23f::/48
 #  与 Rarbg 共 10 条规则重复
   - DOMAIN-SUFFIX,proxyrarbg.org
   - DOMAIN-SUFFIX,rarbg.is
