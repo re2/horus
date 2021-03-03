@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-03 02:21:09.116044
+# UPDATED: 2021-03-03 09:23:51.439181
 # HOST-KEYWORD: 60
 # HOST-SUFFIX: 41771
-# HOST: 21115
+# HOST: 21117
 # IP-CIDR: 244
 # USER-AGENT: 1
-# TOTAL: 63191
+# TOTAL: 63193
 HOST,0.nextyourcontent.com,Advertising
 HOST,0.up.qingdaonews.com,Advertising
 HOST,0001.2waky.com,Advertising
@@ -7589,6 +7589,7 @@ HOST,etissialat.bugs3.com,Advertising
 HOST,etl.tindersparks.com,Advertising
 HOST,etnkorea.com,Advertising
 HOST,etoroglobal.com,Advertising
+HOST,etracking24.de,Advertising
 HOST,etrk.asus.com,Advertising
 HOST,ets-grup.com,Advertising
 HOST,etstemizlik.com,Advertising
@@ -8194,6 +8195,7 @@ HOST,flowplus.meituan.net,Advertising
 HOST,flstudioflp.com,Advertising
 HOST,flttracksecure.com,Advertising
 HOST,fluentmobile.com,Advertising
+HOST,fluidads.co,Advertising
 HOST,flyberianclothing.com,Advertising
 HOST,flyextensions.com,Advertising
 HOST,flyfusionstreaming.com,Advertising

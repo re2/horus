@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-03 02:21:13.448268
+# UPDATED: 2021-03-03 09:23:55.739306
 # DOMAIN-KEYWORD: 60
 # DOMAIN-SUFFIX: 41771
-# DOMAIN: 21115
+# DOMAIN: 21117
 # IP-CIDR: 244
-# TOTAL: 63190
+# TOTAL: 63192
 payload:
   - '0.nextyourcontent.com'
   - '0.up.qingdaonews.com'
@@ -7589,6 +7589,7 @@ payload:
   - 'etl.tindersparks.com'
   - 'etnkorea.com'
   - 'etoroglobal.com'
+  - 'etracking24.de'
   - 'etrk.asus.com'
   - 'ets-grup.com'
   - 'etstemizlik.com'
@@ -8194,6 +8195,7 @@ payload:
   - 'flstudioflp.com'
   - 'flttracksecure.com'
   - 'fluentmobile.com'
+  - 'fluidads.co'
   - 'flyberianclothing.com'
   - 'flyextensions.com'
   - 'flyfusionstreaming.com'

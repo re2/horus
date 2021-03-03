@@ -1,7 +1,7 @@
 # NAME: Proxy 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-03 02:21:19.739037
+# UPDATED: 2021-03-03 09:24:02.140110
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 #  与 Wikipedia 共 12 条规则重复
 HOST-SUFFIX,mediawiki.org
@@ -32851,14 +32851,6 @@ HOST-SUFFIX,mailhealth.com
 HOST-SUFFIX,mailonline.com
 HOST-SUFFIX,mol.im
 HOST-SUFFIX,thismon.ee
-#  与 HBOHK 共 7 条规则重复
-HOST-SUFFIX,hboasia.com
-HOST-SUFFIX,hbogo.com
-HOST-SUFFIX,hbogoasia.com
-HOST-SUFFIX,hbonow.com
-HOST-SUFFIX,now-ashare.com
-HOST-SUFFIX,now-tv.com
-HOST-SUFFIX,nowe.com
 #  与 AmazonPrimeVideo 共 12 条规则重复
 HOST-SUFFIX,aiv-cdn.net
 HOST-SUFFIX,amazonprimevideos.com
@@ -32872,6 +32864,13 @@ HOST-SUFFIX,primevideo.com
 HOST-SUFFIX,primevideo.info
 HOST-SUFFIX,primevideo.org
 HOST-SUFFIX,primevideo.tv
+#  与 HBOHK 共 6 条规则重复
+HOST-SUFFIX,hboasia.com
+HOST-SUFFIX,hbogo.com
+HOST-SUFFIX,hbogoasia.com
+HOST-SUFFIX,now-ashare.com
+HOST-SUFFIX,now-tv.com
+HOST-SUFFIX,nowe.com
 #  与 Oracle 共 11 条规则重复
 HOST-SUFFIX,ebay.be
 HOST-SUFFIX,ebay.ch

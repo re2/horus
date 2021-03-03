@@ -1,7 +1,7 @@
 # NAME: PingAn
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-03 02:21:10.319356
+# UPDATED: 2021-03-03 09:23:52.644114
 # HOST-SUFFIX: 27
 # TOTAL: 27
 HOST-SUFFIX,1010-0000.com,PingAn
