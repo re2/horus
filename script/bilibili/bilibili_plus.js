@@ -86,7 +86,7 @@ let magicJS = MagicJS(scriptName, 'INFO');
       case /^https?:\/\/app\.bilibili\.com\/x\/v2\/account\/mine/.test(magicJS.request.url):
         try{
           let obj = JSON.parse(magicJS.response.body);
-          const itemList = new Set([396,397,398,399,171,172,534,174,8,4,428352,1,405,402,404,544,407,410]);
+          const itemList = new Set([396,397,398,399,171,172,534,174,8,4,428,352,1,405,402,404,544,407,410]);
           obj['data']['sections_v2'].forEach((element, index) => {
             let items = element['items'].filter((e) =>{return itemList.has(e.id);});
             obj['data']['sections_v2'][index].button = {}
