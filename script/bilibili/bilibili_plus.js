@@ -93,6 +93,7 @@ let magicJS = MagicJS(scriptName, 'INFO');
           const item4List = new Set([407,410]);
 
           // 兼容6.19.0 之前的版本
+          magicJS.notify(`sections_v2长度:${obj['data']['sections_v2'].length}`);
           if (obj['data']['sections_v2'].length == 4){
             let items0 = obj['data']['sections_v2'][0]['items'].filter((e) =>{return item0List.has(e.id);});
             obj['data']['sections_v2'][0]['items'] = items0;
@@ -123,7 +124,6 @@ let magicJS = MagicJS(scriptName, 'INFO');
             obj['data']['sections_v2'][4]['items'] = items4;
           }
           body = JSON.stringify(obj);
-          let obj = JSON.parse(magicJS.response.body);
         }
         catch (err){
           magicJS.logError(`我的页面处理出现异常：${err}`);
