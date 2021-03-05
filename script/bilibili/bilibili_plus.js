@@ -95,8 +95,8 @@ let magicJS = MagicJS(scriptName, 'INFO');
           const itemList = new Set([396,397,398,399,171,172,534,174,8,4,428352,1,405,402,404,544,407,410]);
 
           obj['data']['sections_v2'].forEach((element, index) => {
-            let item = element['items'].filter((e) =>{return itemList.has(e.id);});
-            obj['data']['sections_v2'][index] = item;
+            let items = element['items'].filter((e) =>{return itemList.has(e.id);});
+            obj['data']['sections_v2'][index]['items'] = items;
           });
 
           // // 兼容6.19.0 之前的版本
