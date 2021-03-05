@@ -1,5 +1,3 @@
-const { delete } = require("request");
-
 const scriptName = 'BiliBili';
 let magicJS = MagicJS(scriptName, 'INFO');
 
