@@ -1,7 +1,7 @@
 # NAME: Advertising 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-05 14:44:53.459382
+# UPDATED: 2021-03-05 14:55:27.271163
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 #  与 Hijacking 共 212 条规则重复
 HOST-SUFFIX,17gouwuba.com
@@ -3070,7 +3070,7 @@ HOST-SUFFIX,zs.dhl.de
 HOST-SUFFIX,zsi7.destinia.do
 HOST-SUFFIX,zyq2.destinia.sk
 HOST-SUFFIX,zz.bdstatic.com
-#  与 AdvertisingTest 共 56972 条规则重复
+#  与 AdvertisingTest 共 56973 条规则重复
 HOST,0.up.qingdaonews.com
 HOST,0001.2waky.com
 HOST,000lk3v.wcomhost.com
@@ -7884,6 +7884,7 @@ HOST,dsmartvietnam.com
 HOST,dsorubber.com
 HOST,dsp.adara.com
 HOST,dspelts.000webhostapp.com
+HOST,dss0.bdstatic.com
 HOST,dsy5wmnntou9c.cloudfront.net
 HOST,dts.ushareit.com
 HOST,dtslojistik.com
@@ -60067,7 +60068,7 @@ HOST-SUFFIX,ucweb.com
 HOST-SUFFIX,uflowx.com
 HOST-SUFFIX,xiaomengquan.cn
 HOST-SUFFIX,xmq123.cn
-#  与 AdvertisingLite 共 16123 条规则重复
+#  与 AdvertisingLite 共 16124 条规则重复
 HOST,0.up.qingdaonews.com
 HOST,0d847862199.com
 HOST,0icep80f.com
@@ -60442,6 +60443,7 @@ HOST,download207.mediafire.com
 HOST,downloads-whatsapp.com
 HOST,dp-medien.eu
 HOST,dradvice.in
+HOST,dss0.bdstatic.com
 HOST,dufue2m4sondk.cloudfront.net
 HOST,dump1.no-ip.biz
 HOST,duzakergeex.com

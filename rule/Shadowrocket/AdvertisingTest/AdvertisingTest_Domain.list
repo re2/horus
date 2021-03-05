@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: 
 # GITHUB: 
-# UPDATED: 2021-03-05 14:44:49.730661
+# UPDATED: 2021-03-05 14:55:22.962780
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 62
 # DOMAIN-SUFFIX: 68545
-# DOMAIN: 15033
+# DOMAIN: 15034
 # IP-CIDR: 244
 # USER-AGENT: 1
 # URL-REGEX: 310
-# TOTAL: 84195
+# TOTAL: 84196
 0.up.qingdaonews.com
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -4823,6 +4823,7 @@ dsmartvietnam.com
 dsorubber.com
 dsp.adara.com
 dspelts.000webhostapp.com
+dss0.bdstatic.com
 dsy5wmnntou9c.cloudfront.net
 dts.ushareit.com
 dtslojistik.com

@@ -1,7 +1,7 @@
 # NAME: CableTV
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-05 14:44:43.767486
+# UPDATED: 2021-03-05 14:55:16.125769
 # HOST-SUFFIX: 2
 # TOTAL: 2
 HOST-SUFFIX,cabletv.com.hk,CableTV
