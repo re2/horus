@@ -47,10 +47,6 @@ let magicJS = MagicJS(scriptName, 'INFO');
             obj['data']['list'][i]['begin_time'] = 1915027200;
             obj['data']['list'][i]['end_time'] = 1924272000;
           }
-          // for(let i=0;i<obj['data']['show'].length;i++){
-          //   obj['data']['show'][i]['stime'] = 1915027200;
-          //   obj['data']['show'][i]['etime'] = 1924272000;
-          // }
           body = JSON.stringify(obj);
         }
         catch (err){
@@ -151,6 +147,7 @@ let magicJS = MagicJS(scriptName, 'INFO');
           magicJS.logError(`动态去广告出现异常：${err}`);
         }
         break;
+      // 去除统一设置的皮肤
       case /^https?:\/\/app\.bilibili\.com\/x\/resource\/show\/skin\?/.test(magicJS.request.url):
         try{
           let obj = JSON.parse(magicJS.response.body);
