@@ -85,23 +85,44 @@ let magicJS = MagicJS(scriptName, 'INFO');
       // 我的页面处理，去除一些推广按钮
       case /^https?:\/\/app\.bilibili\.com\/x\/v2\/account\/mine/.test(magicJS.request.url):
         try{
-          const item0List = new Set(['离线缓存', '历史记录', '我的收藏', '稍后再看']);
-          const item1List = new Set(['创作首页', '创作学院', '打卡挑战']);
-          const item2List = new Set(['我的课程', '个性装扮', '我的钱包', '直播中心']);
-          const item3List = new Set(['联系客服', '设置']);
           let obj = JSON.parse(magicJS.response.body);
-          let items0 = obj['data']['sections_v2'][0]['items'].filter((e) =>{return item0List.has(e.title);});
-          obj['data']['sections_v2'][0]['items'] = items0;
-          // 创作中心
-          let items1 = obj['data']['sections_v2'][1]['items'].filter((e) =>{return item1List.has(e.title);});
-          obj['data']['sections_v2'][1]['items'] = items1;
-          // 推荐服务
-          let items2 = obj['data']['sections_v2'][2]['items'].filter((e) =>{return item2List.has(e.title);});
-          obj['data']['sections_v2'][2]['items'] = items2;
-          // 更多服务，去掉课堂模式和青少年模式
-          let items3 = obj['data']['sections_v2'][3]['items'].filter((e) =>{return item3List.has(e.title);});
-          obj['data']['sections_v2'][3]['items'] = items3;
+          const item0List = new Set([396,397,398,399]);
+          const item1List = new Set([171,172,534,174]);
+          const item2List = new Set([8,4,428352,1]);
+          const item3List = new Set([400,402,404,405]);
+          const item4List = new Set([407,410]);
+
+          // 兼容6.19.0 之前的版本
+          if (obj['data']['sections_v2'].length == 4){
+            let items0 = obj['data']['sections_v2'][0]['items'].filter((e) =>{return item0List.has(e.id);});
+            obj['data']['sections_v2'][0]['items'] = items0;
+            // 创作中心
+            let items1 = obj['data']['sections_v2'][1]['items'].filter((e) =>{return item1List.has(e.id);});
+            obj['data']['sections_v2'][1]['items'] = items1;
+            // 推荐服务
+            let items2 = obj['data']['sections_v2'][2]['items'].filter((e) =>{return item3List.has(e.id);});
+            obj['data']['sections_v2'][2]['items'] = items2;
+            // 更多服务，去掉课堂模式和青少年模式
+            let items3 = obj['data']['sections_v2'][3]['items'].filter((e) =>{return item4List.has(e.id);});
+            obj['data']['sections_v2'][3]['items'] = items3;
+          }
+          else{
+            let items0 = obj['data']['sections_v2'][0]['items'].filter((e) =>{return item0List.has(e.id);});
+            obj['data']['sections_v2'][0]['items'] = items0;
+            // 创作中心
+            let items1 = obj['data']['sections_v2'][1]['items'].filter((e) =>{return item1List.has(e.id);});
+            obj['data']['sections_v2'][1]['items'] = items1;
+            // 直播中心
+            let items2 = obj['data']['sections_v2'][2]['items'].filter((e) =>{return item2List.has(e.id);});
+            // 推荐服务
+            let items2 = obj['data']['sections_v2'][3]['items'].filter((e) =>{return item3List.has(e.id);});
+            obj['data']['sections_v2'][2]['items'] = items2;
+            // 更多服务，去掉课堂模式和青少年模式
+            let items3 = obj['data']['sections_v2'][4]['items'].filter((e) =>{return item4List.has(e.id);});
+            obj['data']['sections_v2'][3]['items'] = items3;
+          }
           body = JSON.stringify(obj);
+          let obj = JSON.parse(magicJS.response.body);
         }
         catch (err){
           magicJS.logError(`我的页面处理出现异常：${err}`);
