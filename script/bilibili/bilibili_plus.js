@@ -92,38 +92,44 @@ let magicJS = MagicJS(scriptName, 'INFO');
           const item3List = new Set([405,402,404,544]);
           const item4List = new Set([407,410]);
 
-          // 兼容6.19.0 之前的版本
-          magicJS.notify(`sections_v2长度:${obj['data']['sections_v2'].length}`);
-          if (obj['data']['sections_v2'].length == 4){
-            let items0 = obj['data']['sections_v2'][0]['items'].filter((e) =>{return item0List.has(e.id);});
-            obj['data']['sections_v2'][0]['items'] = items0;
-            // 创作中心
-            let items1 = obj['data']['sections_v2'][1]['items'].filter((e) =>{return item1List.has(e.id);});
-            obj['data']['sections_v2'][1]['items'] = items1;
-            // 推荐服务
-            let items2 = obj['data']['sections_v2'][2]['items'].filter((e) =>{return item3List.has(e.id);});
-            obj['data']['sections_v2'][2]['items'] = items2;
-            // 更多服务，去掉课堂模式和青少年模式
-            let items3 = obj['data']['sections_v2'][3]['items'].filter((e) =>{return item4List.has(e.id);});
-            obj['data']['sections_v2'][3]['items'] = items3;
-          }
-          else{
-            let items0 = obj['data']['sections_v2'][0]['items'].filter((e) =>{return item0List.has(e.id);});
-            obj['data']['sections_v2'][0]['items'] = items0;
-            // 创作中心
-            let items1 = obj['data']['sections_v2'][1]['items'].filter((e) =>{return item1List.has(e.id);});
-            items1['style'] = 0;
-            obj['data']['sections_v2'][1]['items'] = items1;
-            // 直播中心
-            let items2 = obj['data']['sections_v2'][2]['items'].filter((e) =>{return item2List.has(e.id);});
-            obj['data']['sections_v2'][2]['items'] = items2;
-            // 推荐服务
-            let items3 = obj['data']['sections_v2'][3]['items'].filter((e) =>{return item3List.has(e.id);});
-            obj['data']['sections_v2'][3]['items'] = items3;
-            // 更多服务，去掉课堂模式和青少年模式
-            let items4 = obj['data']['sections_v2'][4]['items'].filter((e) =>{return item4List.has(e.id);});
-            obj['data']['sections_v2'][4]['items'] = items4;
-          }
+          const itemList = new Set([396,397,398,399,171,172,534,174,8,4,428352,1,405,402,404,544,407,410]);
+
+          obj['data']['sections_v2'].forEach(element => {
+            element = element['items'].filter((e) =>{return itemList.has(e.id);});
+          });
+
+          // // 兼容6.19.0 之前的版本
+          // magicJS.notify(`sections_v2长度:${obj['data']['sections_v2'].length}`);
+          // if (obj['data']['sections_v2'].length == 4){
+          //   let items0 = obj['data']['sections_v2'][0]['items'].filter((e) =>{return item0List.has(e.id);});
+          //   obj['data']['sections_v2'][0]['items'] = items0;
+          //   // 创作中心
+          //   let items1 = obj['data']['sections_v2'][1]['items'].filter((e) =>{return item1List.has(e.id);});
+          //   obj['data']['sections_v2'][1]['items'] = items1;
+          //   // 推荐服务
+          //   let items2 = obj['data']['sections_v2'][2]['items'].filter((e) =>{return item3List.has(e.id);});
+          //   obj['data']['sections_v2'][2]['items'] = items2;
+          //   // 更多服务，去掉课堂模式和青少年模式
+          //   let items3 = obj['data']['sections_v2'][3]['items'].filter((e) =>{return item4List.has(e.id);});
+          //   obj['data']['sections_v2'][3]['items'] = items3;
+          // }
+          // else{
+          //   let items0 = obj['data']['sections_v2'][0]['items'].filter((e) =>{return item0List.has(e.id);});
+          //   obj['data']['sections_v2'][0]['items'] = items0;
+          //   // 创作中心
+          //   let items1 = obj['data']['sections_v2'][1]['items'].filter((e) =>{return item1List.has(e.id);});
+          //   items1['style'] = 0;
+          //   obj['data']['sections_v2'][1]['items'] = items1;
+          //   // 直播中心
+          //   let items2 = obj['data']['sections_v2'][2]['items'].filter((e) =>{return item2List.has(e.id);});
+          //   obj['data']['sections_v2'][2]['items'] = items2;
+          //   // 推荐服务
+          //   let items3 = obj['data']['sections_v2'][3]['items'].filter((e) =>{return item3List.has(e.id);});
+          //   obj['data']['sections_v2'][3]['items'] = items3;
+          //   // 更多服务，去掉课堂模式和青少年模式
+          //   let items4 = obj['data']['sections_v2'][4]['items'].filter((e) =>{return item4List.has(e.id);});
+          //   obj['data']['sections_v2'][4]['items'] = items4;
+          // }
           body = JSON.stringify(obj);
         }
         catch (err){
