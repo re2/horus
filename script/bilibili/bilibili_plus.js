@@ -151,10 +151,14 @@ let magicJS = MagicJS(scriptName, 'INFO');
       case /^https?:\/\/app\.bilibili\.com\/x\/resource\/show\/skin\?/.test(magicJS.request.url):
         try{
           let obj = JSON.parse(magicJS.response.body);
-          if (obj && obj.hasOwnProperty('data') && obj.data.hasOwnProperty('common_equip')){
-            obj['data']['common_equip']['conf']['stime'] = 1915027200;
-            obj['data']['common_equip']['conf']['etime'] = 1924272000;
+          if (obj && obj.hasOwnProperty('data')){
+            obj['data']['common_equip'] = {};
           }
+          
+          // if (obj && obj.hasOwnProperty('data') && obj.data.hasOwnProperty('common_equip')){
+          //   obj['data']['common_equip']['conf']['stime'] = 1915027200;
+          //   obj['data']['common_equip']['conf']['etime'] = 1924272000;
+          // }
           body = JSON.stringify(obj);
         }
         catch (err){
