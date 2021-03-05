@@ -114,12 +114,13 @@ let magicJS = MagicJS(scriptName, 'INFO');
             obj['data']['sections_v2'][1]['items'] = items1;
             // 直播中心
             let items2 = obj['data']['sections_v2'][2]['items'].filter((e) =>{return item2List.has(e.id);});
-            // 推荐服务
-            let items2 = obj['data']['sections_v2'][3]['items'].filter((e) =>{return item3List.has(e.id);});
             obj['data']['sections_v2'][2]['items'] = items2;
-            // 更多服务，去掉课堂模式和青少年模式
-            let items3 = obj['data']['sections_v2'][4]['items'].filter((e) =>{return item4List.has(e.id);});
+            // 推荐服务
+            let items3 = obj['data']['sections_v2'][3]['items'].filter((e) =>{return item3List.has(e.id);});
             obj['data']['sections_v2'][3]['items'] = items3;
+            // 更多服务，去掉课堂模式和青少年模式
+            let items4 = obj['data']['sections_v2'][4]['items'].filter((e) =>{return item4List.has(e.id);});
+            obj['data']['sections_v2'][4]['items'] = items4;
           }
           body = JSON.stringify(obj);
           let obj = JSON.parse(magicJS.response.body);
