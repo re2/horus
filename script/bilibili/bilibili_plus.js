@@ -163,7 +163,7 @@ let magicJS = MagicJS(scriptName, 'INFO');
         }
         break;
       // 动态去广告
-      case (/^https?:\/\/api\.vc\.bilibili\.com\/dynamic_svr\/v1\/dynamic_svr\/dynamic_new\?/.test(magicJS.request.url)):
+      case /^https?:\/\/api\.vc\.bilibili\.com\/dynamic_svr\/v1\/dynamic_svr\/dynamic_new\?/.test(magicJS.request.url):
         try{
           let obj = JSON.parse(magicJS.response.body);
           let cards = [];
@@ -182,6 +182,19 @@ let magicJS = MagicJS(scriptName, 'INFO');
         }
         catch (err){
           magicJS.logError(`动态去广告出现异常：${err}`);
+        }
+        break;
+      case /^https?:\/\/app\.bilibili\.com\/x\/resource\/show\/skin\?/.test(magicJS.request.url):
+        try{
+          let obj = JSON.parse(magicJS.response.body);
+          if (obj && obj.hasOwnProperty('data') && obj.data.hasOwnProperty('common_equip')){
+            obj['data']['common_equip']['conf']['stime'] = '1915027200';
+            obj['data']['common_equip']['conf']['etime'] = '1924272000';
+          }
+          body = JSON.stringify(obj);
+        }
+        catch (err){
+          magicJS.logError(`去除强制设置的皮肤出现异常：${err}`);
         }
         break;
       default:
