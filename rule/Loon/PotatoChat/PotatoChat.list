@@ -1,7 +1,7 @@
 # NAME: PotatoChat
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-05 13:53:47.153899
+# UPDATED: 2021-03-05 14:44:45.608432
 # IP-CIDR: 3
 # TOTAL: 3
 IP-CIDR,13.251.24.0/24,no-resolve

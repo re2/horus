@@ -1,7 +1,7 @@
 # NAME: AdvertisingTest 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-05 13:53:56.981072
+# UPDATED: 2021-03-05 14:44:56.558483
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 payload:
 #  与 Hijacking 共 212 条规则重复
@@ -3003,7 +3003,7 @@ payload:
   - DOMAIN-SUFFIX,zsi7.destinia.do
   - DOMAIN-SUFFIX,zyq2.destinia.sk
   - DOMAIN-SUFFIX,zz.bdstatic.com
-#  与 Advertising 共 56972 条规则重复
+#  与 Advertising 共 56971 条规则重复
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,0001.2waky.com
   - DOMAIN,000lk3v.wcomhost.com
@@ -7817,7 +7817,6 @@ payload:
   - DOMAIN,dsorubber.com
   - DOMAIN,dsp.adara.com
   - DOMAIN,dspelts.000webhostapp.com
-  - DOMAIN,dss0.bdstatic.com
   - DOMAIN,dsy5wmnntou9c.cloudfront.net
   - DOMAIN,dts.ushareit.com
   - DOMAIN,dtslojistik.com
@@ -60000,7 +59999,7 @@ payload:
   - DOMAIN-SUFFIX,uflowx.com
   - DOMAIN-SUFFIX,xiaomengquan.cn
   - DOMAIN-SUFFIX,xmq123.cn
-#  与 AdvertisingLite 共 15737 条规则重复
+#  与 AdvertisingLite 共 15736 条规则重复
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,0d847862199.com
   - DOMAIN,0icep80f.com
@@ -60276,7 +60275,6 @@ payload:
   - DOMAIN,download207.mediafire.com
   - DOMAIN,downloads-whatsapp.com
   - DOMAIN,dp-medien.eu
-  - DOMAIN,dss0.bdstatic.com
   - DOMAIN,dufue2m4sondk.cloudfront.net
   - DOMAIN,dump1.no-ip.biz
   - DOMAIN,dvnafl0qtqz9k.cloudfront.net

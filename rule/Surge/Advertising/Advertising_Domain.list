@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-05 13:53:42.988566
+# UPDATED: 2021-03-05 14:44:40.939729
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 62
 # DOMAIN-SUFFIX: 41824
-# DOMAIN: 21050
+# DOMAIN: 21049
 # IP-CIDR: 244
 # USER-AGENT: 1
 # URL-REGEX: 310
-# TOTAL: 63491
+# TOTAL: 63490
 0.nextyourcontent.com
 0.up.qingdaonews.com
 0001.2waky.com
@@ -7125,7 +7125,6 @@ dsp.batmobil.net
 dsp.cityads.com
 dsp.colpirio.com
 dspelts.000webhostapp.com
-dss0.bdstatic.com
 dsy5wmnntou9c.cloudfront.net
 dts.ushareit.com
 dtslojistik.com
