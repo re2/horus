@@ -1,12 +1,12 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-05 17:09:08.687285
+# UPDATED: 2021-03-05 22:52:26.347634
 # DOMAIN-KEYWORD: 62
 # DOMAIN-SUFFIX: 68545
-# DOMAIN: 15035
+# DOMAIN: 15036
 # IP-CIDR: 244
-# TOTAL: 83886
+# TOTAL: 83887
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,0001.2waky.com
@@ -4404,6 +4404,7 @@ payload:
   - DOMAIN,denis928.000webhostapp.com
   - DOMAIN,denise.mccdgm.net
   - DOMAIN,deniseinspires.com
+  - DOMAIN,denisen.com.cn
   - DOMAIN,denislavoie.com
   - DOMAIN,dennispearsondesign.com
   - DOMAIN,dennyscorp.com

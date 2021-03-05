@@ -1,7 +1,7 @@
 # NAME: Bloomberg
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-05 17:09:07.975696
+# UPDATED: 2021-03-05 22:52:25.577660
 # DOMAIN-SUFFIX: 22
 # TOTAL: 22
 DOMAIN-SUFFIX,bloomberg.co.kr

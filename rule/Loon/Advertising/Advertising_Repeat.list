@@ -1,7 +1,7 @@
 # NAME: Advertising 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-05 17:09:15.625250
+# UPDATED: 2021-03-05 22:52:33.729745
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 #  与 Hijacking 共 212 条规则重复
 DOMAIN-SUFFIX,17gouwuba.com
@@ -3070,7 +3070,7 @@ DOMAIN-SUFFIX,zs.dhl.de
 DOMAIN-SUFFIX,zsi7.destinia.do
 DOMAIN-SUFFIX,zyq2.destinia.sk
 DOMAIN-SUFFIX,zz.bdstatic.com
-#  与 AdvertisingTest 共 57284 条规则重复
+#  与 AdvertisingTest 共 57283 条规则重复
 DOMAIN,0.up.qingdaonews.com
 DOMAIN,0001.2waky.com
 DOMAIN,000lk3v.wcomhost.com
@@ -7467,6 +7467,7 @@ DOMAIN,demr.myspace.com
 DOMAIN,denis928.000webhostapp.com
 DOMAIN,denise.mccdgm.net
 DOMAIN,deniseinspires.com
+DOMAIN,denisen.com.cn
 DOMAIN,denislavoie.com
 DOMAIN,dennispearsondesign.com
 DOMAIN,dennyscorp.com
@@ -60139,7 +60140,6 @@ URL-REGEX,^https?:\/\/api\.wallstreetcn\.com\/apiv\d\/advertising\/
 URL-REGEX,^https?:\/\/api\.xiachufang\.com\/v\d\/ad/
 URL-REGEX,^https?:\/\/api\.xueqiu\.com\/ads\/display
 URL-REGEX,^https?:\/\/api\.yangkeduo\.com\/api\/cappuccino\/splash
-URL-REGEX,^https?:\/\/api\.zhihu\.com\/fringe\/ad
 URL-REGEX,^https?:\/\/api\.zhuishushenqi\.com\/notification\/shelfMessage
 URL-REGEX,^https?:\/\/api\.zhuishushenqi\.com\/splashes\/ios
 URL-REGEX,^https?:\/\/api\.zhuishushenqi\.com\/user\/bookshelf-updated
@@ -60349,7 +60349,6 @@ URL-REGEX,^https?:\/\/www\.icourse163\.org\/mob\/j\/v1\/mobRecommendRPCBean\.get
 URL-REGEX,^https?:\/\/www\.iyingdi\.cn\/ad
 URL-REGEX,^https?:\/\/www\.myhug\.cn\/ad\/
 URL-REGEX,^https?:\/\/www\.shihuo\.cn\/app\d\/saveAppInfo
-URL-REGEX,^https?:\/\/www\.zhihu\.com\/api\/v4\/community-ad
 URL-REGEX,^https?:\/\/www\.zybang\.com\/adx\/
 URL-REGEX,^https?:\/\/xyst\.yuanfudao\.com\/iphone\/splashesV\d
 URL-REGEX,^https?:\/\/xyz\.cnki\.net\/resourcev7\/api\/manualpush\/SlidsList$
@@ -60379,7 +60378,7 @@ DOMAIN-SUFFIX,ucweb.com
 DOMAIN-SUFFIX,uflowx.com
 DOMAIN-SUFFIX,xiaomengquan.cn
 DOMAIN-SUFFIX,xmq123.cn
-#  与 AdvertisingLite 共 16426 条规则重复
+#  与 AdvertisingLite 共 16424 条规则重复
 DOMAIN,0.up.qingdaonews.com
 DOMAIN,0d847862199.com
 DOMAIN,0icep80f.com
@@ -76593,7 +76592,6 @@ URL-REGEX,^https?:\/\/api\.wallstreetcn\.com\/apiv\d\/advertising\/
 URL-REGEX,^https?:\/\/api\.xiachufang\.com\/v\d\/ad/
 URL-REGEX,^https?:\/\/api\.xueqiu\.com\/ads\/display
 URL-REGEX,^https?:\/\/api\.yangkeduo\.com\/api\/cappuccino\/splash
-URL-REGEX,^https?:\/\/api\.zhihu\.com\/fringe\/ad
 URL-REGEX,^https?:\/\/api\.zhuishushenqi\.com\/notification\/shelfMessage
 URL-REGEX,^https?:\/\/api\.zhuishushenqi\.com\/splashes\/ios
 URL-REGEX,^https?:\/\/api\.zhuishushenqi\.com\/user\/bookshelf-updated
@@ -76800,7 +76798,6 @@ URL-REGEX,^https?:\/\/www\.icourse163\.org\/mob\/j\/v1\/mobRecommendRPCBean\.get
 URL-REGEX,^https?:\/\/www\.iyingdi\.cn\/ad
 URL-REGEX,^https?:\/\/www\.myhug\.cn\/ad\/
 URL-REGEX,^https?:\/\/www\.shihuo\.cn\/app\d\/saveAppInfo
-URL-REGEX,^https?:\/\/www\.zhihu\.com\/api\/v4\/community-ad
 URL-REGEX,^https?:\/\/www\.zybang\.com\/adx\/
 URL-REGEX,^https?:\/\/xyst\.yuanfudao\.com\/iphone\/splashesV\d
 URL-REGEX,^https?:\/\/xyz\.cnki\.net\/resourcev7\/api\/manualpush\/SlidsList$

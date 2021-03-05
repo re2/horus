@@ -1,7 +1,7 @@
 # NAME: HBOHK
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-05 17:09:05.818995
+# UPDATED: 2021-03-05 22:52:23.303511
 # HOST-SUFFIX: 13
 # TOTAL: 13
 HOST-SUFFIX,hboasia.com,HBOHK

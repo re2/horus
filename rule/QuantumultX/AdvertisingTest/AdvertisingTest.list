@@ -1,13 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-05 17:09:04.572270
+# UPDATED: 2021-03-05 22:52:21.973737
 # HOST-KEYWORD: 62
 # HOST-SUFFIX: 68545
-# HOST: 15035
+# HOST: 15036
 # IP-CIDR: 244
 # USER-AGENT: 1
-# TOTAL: 83887
+# TOTAL: 83888
 HOST,0.up.qingdaonews.com,AdvertisingTest
 HOST,0001.2waky.com,AdvertisingTest
 HOST,000lk3v.wcomhost.com,AdvertisingTest
@@ -4404,6 +4404,7 @@ HOST,demr.myspace.com,AdvertisingTest
 HOST,denis928.000webhostapp.com,AdvertisingTest
 HOST,denise.mccdgm.net,AdvertisingTest
 HOST,deniseinspires.com,AdvertisingTest
+HOST,denisen.com.cn,AdvertisingTest
 HOST,denislavoie.com,AdvertisingTest
 HOST,dennispearsondesign.com,AdvertisingTest
 HOST,dennyscorp.com,AdvertisingTest

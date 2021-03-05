@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-05 17:09:04.501149
+# UPDATED: 2021-03-05 22:52:21.897684
 # HOST-KEYWORD: 62
 # HOST-SUFFIX: 41824
-# HOST: 21051
+# HOST: 21052
 # IP-CIDR: 244
 # USER-AGENT: 1
-# TOTAL: 63182
+# TOTAL: 63183
 HOST,0.nextyourcontent.com,Advertising
 HOST,0.up.qingdaonews.com,Advertising
 HOST,0001.2waky.com,Advertising
@@ -6612,6 +6612,7 @@ HOST,demr.myspace.com,Advertising
 HOST,denis928.000webhostapp.com,Advertising
 HOST,denise.mccdgm.net,Advertising
 HOST,deniseinspires.com,Advertising
+HOST,denisen.com.cn,Advertising
 HOST,denislavoie.com,Advertising
 HOST,dennispearsondesign.com,Advertising
 HOST,dennyscorp.com,Advertising
