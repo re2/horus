@@ -60,10 +60,10 @@ let magicJS = MagicJS(scriptName, 'INFO');
       // 标签页处理，如去除会员购等等
       case /^https?:\/\/app\.bilibili\.com\/x\/resource\/show\/tab/.test(magicJS.request.url):
         try{
-          // 442 之后为概念版
+          // 442 开始为概念版id
           const tabList = new Set([39, 40, 41, 42, 151, 442, 99, 100, 101]);
           const topList = new Set([176]);
-          // 10x 为概念版
+          // 102 开始为概念版id
           const bottomList = new Set([177, 178, 179, 181, 102, 103, 104, 105, 106]);
           let obj = JSON.parse(magicJS.response.body);
           if (obj['data']['tab']){
@@ -88,7 +88,8 @@ let magicJS = MagicJS(scriptName, 'INFO');
       case /^https?:\/\/app\.bilibili\.com\/x\/v2\/account\/mine/.test(magicJS.request.url):
         try{
           let obj = JSON.parse(magicJS.response.body);
-          const itemList = new Set([396,397,398,399,171,172,534,174,8,4,428,352,1,405,402,404,544,407,410]);
+          // 425 开始为概念版id
+          const itemList = new Set([396,397,398,399,171,172,534,8,4,428,352,1,405,402,404,544,407,410,425,426,427,428,171,430,431,432]);
           obj['data']['sections_v2'].forEach((element, index) => {
             let items = element['items'].filter((e) =>{return itemList.has(e.id);});
             obj['data']['sections_v2'][index].button = {}
