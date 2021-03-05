@@ -60,20 +60,20 @@ let magicJS = MagicJS(scriptName, 'INFO');
       // 标签页处理，如去除会员购等等
       case /^https?:\/\/app\.bilibili\.com\/x\/resource\/show\/tab/.test(magicJS.request.url):
         try{
-          const tabList = new Set(['直播', '推荐', '热门', '追番', '影视']);
-          const topList = new Set(['消息']);
-          const bottomList = new Set(['首页', '频道', '动态', '我的', '消息']);
+          const tabList = new Set([39, 40, 41, 42, 151]);
+          const topList = new Set([176]);
+          const bottomList = new Set([177, 178, 179, 105]);
           let obj = JSON.parse(magicJS.response.body);
           if (obj['data']['tab']){
-            let tab = obj['data']['tab'].filter((e) =>{return tabList.has(e.name);});
+            let tab = obj['data']['tab'].filter((e) =>{return tabList.has(e.id);});
             obj['data']['tab'] = tab;
           }
           if (obj['data']['top']){
-            let top = obj['data']['top'].filter((e) =>{return topList.has(e.name);});
+            let top = obj['data']['top'].filter((e) =>{return topList.has(e.id);});
             obj['data']['top'] = top;
           }
           if (obj['data']['bottom']){
-            let bottom = obj['data']['bottom'].filter((e) =>{return bottomList.has(e.name);});
+            let bottom = obj['data']['bottom'].filter((e) =>{return bottomList.has(e.id);});
             obj['data']['bottom'] = bottom;
           }
           body = JSON.stringify(obj);
