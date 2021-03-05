@@ -1,7 +1,7 @@
 # NAME: AppleMail
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-05 14:55:13.280244
+# UPDATED: 2021-03-05 17:09:02.001164
 # DOMAIN-SUFFIX: 2
 # TOTAL: 2
 DOMAIN-SUFFIX,mail.icloud.com.cn

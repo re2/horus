@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-05 14:55:15.559721
+# UPDATED: 2021-03-05 17:09:04.501149
 # HOST-KEYWORD: 62
 # HOST-SUFFIX: 41824
-# HOST: 21050
+# HOST: 21051
 # IP-CIDR: 244
 # USER-AGENT: 1
-# TOTAL: 63181
+# TOTAL: 63182
 HOST,0.nextyourcontent.com,Advertising
 HOST,0.up.qingdaonews.com,Advertising
 HOST,0001.2waky.com,Advertising
@@ -5772,6 +5772,7 @@ HOST,collectorsway.com,Advertising
 HOST,colleenoakley.com,Advertising
 HOST,collinsportal.com,Advertising
 HOST,colombiaonline.com,Advertising
+HOST,colombiapictures.net,Advertising
 HOST,colonize.com,Advertising
 HOST,coloradopersonalinjury.com,Advertising
 HOST,colorato.net,Advertising
@@ -11745,7 +11746,6 @@ HOST,login-secured.liraon.com,Advertising
 HOST,login.gammaplatform.com,Advertising
 HOST,login.ozlee.com,Advertising
 HOST,login.peloclub.com,Advertising
-HOST,login.sina.com.cn,Advertising
 HOST,loginhelbd.org,Advertising
 HOST,loginppsecondary.org,Advertising
 HOST,loginsonline.org,Advertising
@@ -17892,6 +17892,7 @@ HOST,tahoesup.com,Advertising
 HOST,tai.9998827.com,Advertising
 HOST,tai450pingyang.shanjuzi.com,Advertising
 HOST,tai777777.com,Advertising
+HOST,taihehao.net,Advertising
 HOST,taiwhups.net,Advertising
 HOST,taixingindustry.cn,Advertising
 HOST,take.cloudbank.xyz,Advertising

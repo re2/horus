@@ -1,7 +1,7 @@
 # NAME: AdvertisingTest 规则重复情况
 # AUTHOR: 
 # GITHUB: 
-# UPDATED: 2021-03-05 14:55:32.567069
+# UPDATED: 2021-03-05 17:09:18.582984
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 #  与 Hijacking 共 212 条规则重复
 DOMAIN-SUFFIX,17gouwuba.com
@@ -3002,7 +3002,7 @@ DOMAIN-SUFFIX,zs.dhl.de
 DOMAIN-SUFFIX,zsi7.destinia.do
 DOMAIN-SUFFIX,zyq2.destinia.sk
 DOMAIN-SUFFIX,zz.bdstatic.com
-#  与 Advertising 共 57283 条规则重复
+#  与 Advertising 共 57284 条规则重复
 DOMAIN,0.up.qingdaonews.com
 DOMAIN,0001.2waky.com
 DOMAIN,000lk3v.wcomhost.com
@@ -6816,6 +6816,7 @@ DOMAIN,collectorsway.com
 DOMAIN,colleenoakley.com
 DOMAIN,collinsportal.com
 DOMAIN,colombiaonline.com
+DOMAIN,colombiapictures.net
 DOMAIN,coloradopersonalinjury.com
 DOMAIN,colorato.net
 DOMAIN,colors-app.blogspot.com
@@ -11502,7 +11503,6 @@ DOMAIN,login-blockchain.ddns.net
 DOMAIN,login-secured.liraon.com
 DOMAIN,login.ozlee.com
 DOMAIN,login.peloclub.com
-DOMAIN,login.sina.com.cn
 DOMAIN,loginhelbd.org
 DOMAIN,loginppsecondary.org
 DOMAIN,loginsonline.org
@@ -15765,6 +15765,7 @@ DOMAIN,taherimay.com
 DOMAIN,tai.9998827.com
 DOMAIN,tai450pingyang.shanjuzi.com
 DOMAIN,tai777777.com
+DOMAIN,taihehao.net
 DOMAIN,taixingindustry.cn
 DOMAIN,take.cloudbank.xyz
 DOMAIN,takerest.net

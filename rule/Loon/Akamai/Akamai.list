@@ -1,7 +1,7 @@
 # NAME: Akamai
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-05 14:55:19.749972
+# UPDATED: 2021-03-05 17:09:07.953248
 # DOMAIN-SUFFIX: 6
 # TOTAL: 6
 DOMAIN-SUFFIX,akamai.com

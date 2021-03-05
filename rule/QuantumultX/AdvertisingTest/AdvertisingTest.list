@@ -1,13 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-05 14:55:15.657705
+# UPDATED: 2021-03-05 17:09:04.572270
 # HOST-KEYWORD: 62
 # HOST-SUFFIX: 68545
-# HOST: 15034
+# HOST: 15035
 # IP-CIDR: 244
 # USER-AGENT: 1
-# TOTAL: 83886
+# TOTAL: 83887
 HOST,0.up.qingdaonews.com,AdvertisingTest
 HOST,0001.2waky.com,AdvertisingTest
 HOST,000lk3v.wcomhost.com,AdvertisingTest
@@ -3821,6 +3821,7 @@ HOST,collectorsway.com,AdvertisingTest
 HOST,colleenoakley.com,AdvertisingTest
 HOST,collinsportal.com,AdvertisingTest
 HOST,colombiaonline.com,AdvertisingTest
+HOST,colombiapictures.net,AdvertisingTest
 HOST,coloradopersonalinjury.com,AdvertisingTest
 HOST,colorato.net,AdvertisingTest
 HOST,colors-app.blogspot.com,AdvertisingTest
@@ -8507,7 +8508,6 @@ HOST,login-blockchain.ddns.net,AdvertisingTest
 HOST,login-secured.liraon.com,AdvertisingTest
 HOST,login.ozlee.com,AdvertisingTest
 HOST,login.peloclub.com,AdvertisingTest
-HOST,login.sina.com.cn,AdvertisingTest
 HOST,loginhelbd.org,AdvertisingTest
 HOST,loginppsecondary.org,AdvertisingTest
 HOST,loginsonline.org,AdvertisingTest
@@ -12770,6 +12770,7 @@ HOST,taherimay.com,AdvertisingTest
 HOST,tai.9998827.com,AdvertisingTest
 HOST,tai450pingyang.shanjuzi.com,AdvertisingTest
 HOST,tai777777.com,AdvertisingTest
+HOST,taihehao.net,AdvertisingTest
 HOST,taixingindustry.cn,AdvertisingTest
 HOST,take.cloudbank.xyz,AdvertisingTest
 HOST,takerest.net,AdvertisingTest

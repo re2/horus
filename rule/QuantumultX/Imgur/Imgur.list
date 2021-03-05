@@ -1,7 +1,7 @@
 # NAME: Imgur
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-05 14:55:17.350954
+# UPDATED: 2021-03-05 17:09:05.978350
 # HOST-SUFFIX: 2
 # TOTAL: 2
 HOST-SUFFIX,imgur.com,Imgur

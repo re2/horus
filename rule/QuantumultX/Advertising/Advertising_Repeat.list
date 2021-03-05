@@ -1,7 +1,7 @@
 # NAME: Advertising 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-05 14:55:27.271163
+# UPDATED: 2021-03-05 17:09:14.154201
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 #  与 Hijacking 共 212 条规则重复
 HOST-SUFFIX,17gouwuba.com
@@ -3070,7 +3070,7 @@ HOST-SUFFIX,zs.dhl.de
 HOST-SUFFIX,zsi7.destinia.do
 HOST-SUFFIX,zyq2.destinia.sk
 HOST-SUFFIX,zz.bdstatic.com
-#  与 AdvertisingTest 共 56973 条规则重复
+#  与 AdvertisingTest 共 56974 条规则重复
 HOST,0.up.qingdaonews.com
 HOST,0001.2waky.com
 HOST,000lk3v.wcomhost.com
@@ -6884,6 +6884,7 @@ HOST,collectorsway.com
 HOST,colleenoakley.com
 HOST,collinsportal.com
 HOST,colombiaonline.com
+HOST,colombiapictures.net
 HOST,coloradopersonalinjury.com
 HOST,colorato.net
 HOST,colors-app.blogspot.com
@@ -11570,7 +11571,6 @@ HOST,login-blockchain.ddns.net
 HOST,login-secured.liraon.com
 HOST,login.ozlee.com
 HOST,login.peloclub.com
-HOST,login.sina.com.cn
 HOST,loginhelbd.org
 HOST,loginppsecondary.org
 HOST,loginsonline.org
@@ -15833,6 +15833,7 @@ HOST,taherimay.com
 HOST,tai.9998827.com
 HOST,tai450pingyang.shanjuzi.com
 HOST,tai777777.com
+HOST,taihehao.net
 HOST,taixingindustry.cn
 HOST,take.cloudbank.xyz
 HOST,takerest.net

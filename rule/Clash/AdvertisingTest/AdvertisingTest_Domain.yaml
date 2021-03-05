@@ -1,12 +1,12 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-05 14:55:20.566749
+# UPDATED: 2021-03-05 17:09:08.610925
 # DOMAIN-KEYWORD: 62
 # DOMAIN-SUFFIX: 68545
-# DOMAIN: 15034
+# DOMAIN: 15035
 # IP-CIDR: 244
-# TOTAL: 83885
+# TOTAL: 83886
 payload:
   - '0.up.qingdaonews.com'
   - '0001.2waky.com'
@@ -3821,6 +3821,7 @@ payload:
   - 'colleenoakley.com'
   - 'collinsportal.com'
   - 'colombiaonline.com'
+  - 'colombiapictures.net'
   - 'coloradopersonalinjury.com'
   - 'colorato.net'
   - 'colors-app.blogspot.com'
@@ -8507,7 +8508,6 @@ payload:
   - 'login-secured.liraon.com'
   - 'login.ozlee.com'
   - 'login.peloclub.com'
-  - 'login.sina.com.cn'
   - 'loginhelbd.org'
   - 'loginppsecondary.org'
   - 'loginsonline.org'
@@ -12770,6 +12770,7 @@ payload:
   - 'tai.9998827.com'
   - 'tai450pingyang.shanjuzi.com'
   - 'tai777777.com'
+  - 'taihehao.net'
   - 'taixingindustry.cn'
   - 'take.cloudbank.xyz'
   - 'takerest.net'
