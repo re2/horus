@@ -62,7 +62,7 @@ let magicJS = MagicJS(scriptName, 'INFO');
         try{
           const tabList = new Set([39, 40, 41, 42, 151]);
           const topList = new Set([176]);
-          const bottomList = new Set([177, 178, 179, 105]);
+          const bottomList = new Set([177, 178, 179, 105, 181]);
           let obj = JSON.parse(magicJS.response.body);
           if (obj['data']['tab']){
             let tab = obj['data']['tab'].filter((e) =>{return tabList.has(e.id);});
