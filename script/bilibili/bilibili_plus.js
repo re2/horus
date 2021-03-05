@@ -1,3 +1,5 @@
+const { delete } = require("request");
+
 const scriptName = 'BiliBili';
 let magicJS = MagicJS(scriptName, 'INFO');
 
@@ -89,11 +91,10 @@ let magicJS = MagicJS(scriptName, 'INFO');
           const item0List = new Set([396,397,398,399]);
           const item1List = new Set([171,172,534,174]);
           const item2List = new Set([8,4,428352,1]);
-          const item3List = new Set([400,402,404,405]);
+          const item3List = new Set([400,402,404,544]);
           const item4List = new Set([407,410]);
 
           // 兼容6.19.0 之前的版本
-          magicJS.notify(`sections_v2长度:${obj['data']['sections_v2'].length}`);
           if (obj['data']['sections_v2'].length == 4){
             let items0 = obj['data']['sections_v2'][0]['items'].filter((e) =>{return item0List.has(e.id);});
             obj['data']['sections_v2'][0]['items'] = items0;
@@ -122,6 +123,8 @@ let magicJS = MagicJS(scriptName, 'INFO');
             // 更多服务，去掉课堂模式和青少年模式
             let items4 = obj['data']['sections_v2'][4]['items'].filter((e) =>{return item4List.has(e.id);});
             obj['data']['sections_v2'][4]['items'] = items4;
+            // 删除创作中心的巨大按钮
+            delete obj['data']['sections_v2'][1];
           }
           body = JSON.stringify(obj);
         }
