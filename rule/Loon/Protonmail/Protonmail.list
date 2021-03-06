@@ -1,7 +1,7 @@
 # NAME: Protonmail
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-06 15:01:20.602103
+# UPDATED: 2021-03-07 02:17:03.865179
 # DOMAIN-SUFFIX: 4
 # TOTAL: 4
 DOMAIN-SUFFIX,pm.me

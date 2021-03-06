@@ -1,7 +1,7 @@
 # NAME: Hearthstone
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-06 15:01:16.042566
+# UPDATED: 2021-03-07 02:16:59.310963
 # IP-CIDR: 4
 # TOTAL: 4
 IP-CIDR,182.162.132.1/32,Hearthstone
