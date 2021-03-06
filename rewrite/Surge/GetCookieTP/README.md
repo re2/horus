@@ -8,15 +8,15 @@
 
 
 
-最后检查时间：2021-03-06 02:27:10。
+最后检查时间：2021-03-06 15:02:42。
 
 ## 复写统计
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| mitm | 24 |
+| mitm | 21 |
 | force_http_engine_hosts | 0 |
-| http-request | 22 |
+| http-request | 18 |
 | http-response | 2 |
 ## 配置说明
 

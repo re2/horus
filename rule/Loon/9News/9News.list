@@ -1,7 +1,7 @@
 # NAME: 9News
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-06 02:25:47.835914
+# UPDATED: 2021-03-06 15:01:20.240179
 # DOMAIN-SUFFIX: 14
 # TOTAL: 14
 DOMAIN-SUFFIX,9cdn.net
