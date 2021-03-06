@@ -10,6 +10,8 @@ RULE-SET,https://raw.githubusercontent.com/codetracer/horus/master/script/zhihu/
 ^https?:\/\/api\.zhihu\.com\/moments\/recent data="https://raw.githubusercontent.com/codetracer/horus/master/blank/blank_dict.json"
 # 启动广告去除
 ^https?:\/\/api\.zhihu\.com\/commercial_api\/launch_v\2 data="https://raw.githubusercontent.com/codetracer/horus/master/blank/blank_dict.json"
+# 其他广告
+^https?:\/\/api\.zhihu\.com\/(notifications\/v\d\/count|v\d\/package|me\/guides|drama\/living-info|ad|fringe|commercial|market\/popovers|search\/(top|tab)|.*featured-comment-ad)  data="https://raw.githubusercontent.com/codetracer/horus/master/blank/blank_dict.json"
 
 
 [Script]
