@@ -1,9 +1,0 @@
-# NAME: Identrust
-# AUTHOR: blackmatrix7
-# GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-07 02:16:58.724788
-# DOMAIN-SUFFIX: 3
-# TOTAL: 3
-DOMAIN-SUFFIX,identrust.co.uk
-DOMAIN-SUFFIX,identrust.com
-DOMAIN-SUFFIX,identrust.net

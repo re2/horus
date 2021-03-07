@@ -1,9 +1,0 @@
-# NAME: Emojipedia
-# AUTHOR: blackmatrix7
-# GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-07 02:17:00.941172
-# HOST-SUFFIX: 3
-# TOTAL: 3
-HOST-SUFFIX,emojipedia.org,Emojipedia
-HOST-SUFFIX,worldemojiawards.com,Emojipedia
-HOST-SUFFIX,worldemojiday.com,Emojipedia
