@@ -1,7 +1,7 @@
 # NAME: DynDNS
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-07 14:32:26.723361
+# UPDATED: 2021-03-08 02:23:09.492184
 # HOST-SUFFIX: 8
 # TOTAL: 8
 HOST-SUFFIX,blogdns.org,DynDNS

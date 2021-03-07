@@ -1,8 +1,8 @@
 #!name=ZhihuAds MITM
-#!desc=最后更新时间 2021-03-07 14:32:23.792847
+#!desc=最后更新时间 2021-03-08 02:23:08.564210
 #!author=blackmatrix7
 #!github=
-#!mitm=3
+#!mitm=2
 
 [MITM]
-hostname = %APPEND% api.zhihu.com,www.zhihu.com,zhuanlan.zhihu.com
+hostname = %APPEND% www.zhihu.com,zhuanlan.zhihu.com

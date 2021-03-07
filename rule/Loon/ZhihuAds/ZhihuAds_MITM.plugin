@@ -1,8 +1,8 @@
 # NAME: ZhihuAds MITM
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-07 14:32:28.127933
-# MITM: 3
+# UPDATED: 2021-03-08 02:23:13.399357
+# MITM: 2
 
 [MITM]
-hostname = api.zhihu.com,www.zhihu.com,zhuanlan.zhihu.com
+hostname = www.zhihu.com,zhuanlan.zhihu.com
