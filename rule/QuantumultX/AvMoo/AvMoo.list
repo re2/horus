@@ -1,0 +1,14 @@
+# NAME: AvMoo
+# AUTHOR: blackmatrix7
+# GITHUB: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2021-03-07 14:32:26.650531
+# HOST-SUFFIX: 8
+# TOTAL: 8
+HOST-SUFFIX,avmo.pw,AvMoo
+HOST-SUFFIX,avmoo.com,AvMoo
+HOST-SUFFIX,avmoo.net,AvMoo
+HOST-SUFFIX,avmoo.pw,AvMoo
+HOST-SUFFIX,javmoo.xyz,AvMoo
+HOST-SUFFIX,javtag.com,AvMoo
+HOST-SUFFIX,javzoo.com,AvMoo
+HOST-SUFFIX,tellme.pw,AvMoo

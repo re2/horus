@@ -1,0 +1,10 @@
+# NAME: YouTubeMusic
+# AUTHOR: 
+# GITHUB: 
+# UPDATED: 2021-03-07 14:32:32.042432
+# USER-AGENT: 4
+# TOTAL: 4
+USER-AGENT,*YouTubeMusic*
+USER-AGENT,*com.google.ios.youtubemusic*
+USER-AGENT,YouTubeMusic*
+USER-AGENT,com.google.ios.youtubemusic*

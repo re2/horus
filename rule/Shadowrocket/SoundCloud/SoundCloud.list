@@ -1,0 +1,11 @@
+# NAME: SoundCloud
+# AUTHOR: 
+# GITHUB: 
+# UPDATED: 2021-03-07 14:32:32.559835
+# USER-AGENT: 1
+# DOMAIN-SUFFIX: 3
+# TOTAL: 4
+DOMAIN-SUFFIX,p-cdn.us
+DOMAIN-SUFFIX,sndcdn.com
+DOMAIN-SUFFIX,soundcloud.com
+USER-AGENT,SoundCloud*

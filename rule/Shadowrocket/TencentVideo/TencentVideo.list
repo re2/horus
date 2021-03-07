@@ -1,0 +1,12 @@
+# NAME: TencentVideo
+# AUTHOR: 
+# GITHUB: 
+# UPDATED: 2021-03-07 14:32:32.832386
+# DOMAIN-SUFFIX: 3
+# USER-AGENT: 2
+# TOTAL: 5
+DOMAIN-SUFFIX,mfm.video.qq.com
+DOMAIN-SUFFIX,v.smtcdns.com
+DOMAIN-SUFFIX,vv.video.qq.com
+USER-AGENT,MOO*
+USER-AGENT,TencentMidasConnect*
