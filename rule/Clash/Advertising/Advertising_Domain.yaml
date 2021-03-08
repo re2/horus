@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-08 21:48:28.874472
+# UPDATED: 2021-03-09 02:24:53.344728
 # DOMAIN-KEYWORD: 62
 # DOMAIN-SUFFIX: 44648
-# DOMAIN: 20882
+# DOMAIN: 20887
 # IP-CIDR: 244
-# TOTAL: 65836
+# TOTAL: 65841
 payload:
   - '0.nextyourcontent.com'
   - '0.up.qingdaonews.com'
@@ -7754,6 +7754,7 @@ payload:
   - 'ezeoma.agrillcs.com'
   - 'ezertrans.com'
   - 'ezgamesworld.com'
+  - 'ezloaded.com'
   - 'ezpowerproducts.com'
   - 'ezsolutionspk.com'
   - 'eztexting.com'
@@ -11902,6 +11903,7 @@ payload:
   - 'luxuryupgradepro.com'
   - 'lwasxldakmhx.com'
   - 'lwspa4all.com'
+  - 'lwxlsj.wap.xsbiquge.com'
   - 'lyjcpycaufud.com'
   - 'lymphoedematherapy.com'
   - 'lync.touchcommerce.com'
@@ -16394,6 +16396,7 @@ payload:
   - 'shanafishbein.com'
   - 'shanagpur.com'
   - 'shanescomics.com'
+  - 'shangmiss.wap.xsbiquge.com'
   - 'shannondensmore.com'
   - 'shannonvalenteweddings.com'
   - 'shapado.com'
@@ -18187,6 +18190,7 @@ payload:
   - 'tizermedias.com'
   - 'tizermine.net'
   - 'tizermy.net'
+  - 'tizerset.net'
   - 'tjkckpytpnje.com'
   - 'tjoomo.com'
   - 'tjssgdxyxh.fgppchg.fgpp.com'
@@ -19943,6 +19947,7 @@ payload:
   - 'wonderlandads.com'
   - 'wood086.com'
   - 'woodlawnwt.com'
+  - 'woodwindowspittsburgh.com'
   - 'woojeoung.com'
   - 'wooplr.j8inn1zektoe.com'
   - 'wooptrk.com'

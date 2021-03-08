@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-08 21:48:25.460343
+# UPDATED: 2021-03-09 02:24:48.945327
 # HOST-KEYWORD: 29
 # HOST-SUFFIX: 15297
-# HOST: 15386
+# HOST: 15389
 # IP-CIDR: 192
 # USER-AGENT: 1
-# TOTAL: 30905
+# TOTAL: 30908
 HOST,0.up.qingdaonews.com,AdvertisingLite
 HOST,00-gov.cn,AdvertisingLite
 HOST,0024aadd.com,AdvertisingLite
@@ -6704,6 +6704,7 @@ HOST,hoverr.co,AdvertisingLite
 HOST,hoverr.media,AdvertisingLite
 HOST,howsmyssl.com,AdvertisingLite
 HOST,howtodoblog.com,AdvertisingLite
+HOST,hpeshwdwkzyz.com,AdvertisingLite
 HOST,hplose.de,AdvertisingLite
 HOST,hpplay.cn,AdvertisingLite
 HOST,hprofits.com,AdvertisingLite
@@ -8222,6 +8223,7 @@ HOST,lwadm.com,AdvertisingLite
 HOST,lwfw88.cn,AdvertisingLite
 HOST,lwprdsbqpej.com,AdvertisingLite
 HOST,lwxjg.com,AdvertisingLite
+HOST,lwxlsj.wap.xsbiquge.com,AdvertisingLite
 HOST,lx2rv.com,AdvertisingLite
 HOST,lxbjs.baidu.com,AdvertisingLite
 HOST,lxhkqjqpswhg.com,AdvertisingLite
@@ -11876,6 +11878,7 @@ HOST,shake.f.360.cn,AdvertisingLite
 HOST,shalleda.com,AdvertisingLite
 HOST,shalseey.com,AdvertisingLite
 HOST,shangjiabiao.com,AdvertisingLite
+HOST,shangmiss.wap.xsbiquge.com,AdvertisingLite
 HOST,share-server.com,AdvertisingLite
 HOST,share.gree.jp,AdvertisingLite
 HOST,share.itraffic.su,AdvertisingLite

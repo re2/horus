@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-08 21:48:23.671332
+# UPDATED: 2021-03-09 02:24:46.631912
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 62
 # DOMAIN-SUFFIX: 44648
-# DOMAIN: 20882
+# DOMAIN: 20887
 # IP-CIDR: 244
 # USER-AGENT: 1
 # URL-REGEX: 306
-# TOTAL: 66143
+# TOTAL: 66148
 0.nextyourcontent.com
 0.up.qingdaonews.com
 0001.2waky.com
@@ -7756,6 +7756,7 @@ ezeeplay.com
 ezeoma.agrillcs.com
 ezertrans.com
 ezgamesworld.com
+ezloaded.com
 ezpowerproducts.com
 ezsolutionspk.com
 eztexting.com
@@ -11904,6 +11905,7 @@ luxpolice.net
 luxuryupgradepro.com
 lwasxldakmhx.com
 lwspa4all.com
+lwxlsj.wap.xsbiquge.com
 lyjcpycaufud.com
 lymphoedematherapy.com
 lync.touchcommerce.com
@@ -16396,6 +16398,7 @@ shalseey.com
 shanafishbein.com
 shanagpur.com
 shanescomics.com
+shangmiss.wap.xsbiquge.com
 shannondensmore.com
 shannonvalenteweddings.com
 shapado.com
@@ -18189,6 +18192,7 @@ tizergun.net
 tizermedias.com
 tizermine.net
 tizermy.net
+tizerset.net
 tjkckpytpnje.com
 tjoomo.com
 tjssgdxyxh.fgppchg.fgpp.com
@@ -19945,6 +19949,7 @@ wonderhacks.com
 wonderlandads.com
 wood086.com
 woodlawnwt.com
+woodwindowspittsburgh.com
 woojeoung.com
 wooplr.j8inn1zektoe.com
 wooptrk.com

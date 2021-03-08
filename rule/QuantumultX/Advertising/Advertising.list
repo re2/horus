@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-08 21:48:25.512320
+# UPDATED: 2021-03-09 02:24:49.011209
 # HOST-KEYWORD: 62
 # HOST-SUFFIX: 44648
-# HOST: 20882
+# HOST: 20887
 # IP-CIDR: 244
 # USER-AGENT: 1
-# TOTAL: 65837
+# TOTAL: 65842
 HOST,0.nextyourcontent.com,Advertising
 HOST,0.up.qingdaonews.com,Advertising
 HOST,0001.2waky.com,Advertising
@@ -7754,6 +7754,7 @@ HOST,ezeeplay.com,Advertising
 HOST,ezeoma.agrillcs.com,Advertising
 HOST,ezertrans.com,Advertising
 HOST,ezgamesworld.com,Advertising
+HOST,ezloaded.com,Advertising
 HOST,ezpowerproducts.com,Advertising
 HOST,ezsolutionspk.com,Advertising
 HOST,eztexting.com,Advertising
@@ -11902,6 +11903,7 @@ HOST,luxpolice.net,Advertising
 HOST,luxuryupgradepro.com,Advertising
 HOST,lwasxldakmhx.com,Advertising
 HOST,lwspa4all.com,Advertising
+HOST,lwxlsj.wap.xsbiquge.com,Advertising
 HOST,lyjcpycaufud.com,Advertising
 HOST,lymphoedematherapy.com,Advertising
 HOST,lync.touchcommerce.com,Advertising
@@ -16394,6 +16396,7 @@ HOST,shalseey.com,Advertising
 HOST,shanafishbein.com,Advertising
 HOST,shanagpur.com,Advertising
 HOST,shanescomics.com,Advertising
+HOST,shangmiss.wap.xsbiquge.com,Advertising
 HOST,shannondensmore.com,Advertising
 HOST,shannonvalenteweddings.com,Advertising
 HOST,shapado.com,Advertising
@@ -18187,6 +18190,7 @@ HOST,tizergun.net,Advertising
 HOST,tizermedias.com,Advertising
 HOST,tizermine.net,Advertising
 HOST,tizermy.net,Advertising
+HOST,tizerset.net,Advertising
 HOST,tjkckpytpnje.com,Advertising
 HOST,tjoomo.com,Advertising
 HOST,tjssgdxyxh.fgppchg.fgpp.com,Advertising
@@ -19943,6 +19947,7 @@ HOST,wonderhacks.com,Advertising
 HOST,wonderlandads.com,Advertising
 HOST,wood086.com,Advertising
 HOST,woodlawnwt.com,Advertising
+HOST,woodwindowspittsburgh.com,Advertising
 HOST,woojeoung.com,Advertising
 HOST,wooplr.j8inn1zektoe.com,Advertising
 HOST,wooptrk.com,Advertising

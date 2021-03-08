@@ -1,7 +1,7 @@
 # NAME: Zoho
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-08 21:48:26.856552
+# UPDATED: 2021-03-09 02:24:50.743522
 # HOST-SUFFIX: 13
 # TOTAL: 13
 HOST-SUFFIX,zoho.com,Zoho

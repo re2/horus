@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-08 21:48:28.929744
+# UPDATED: 2021-03-09 02:24:53.413405
 # DOMAIN-KEYWORD: 62
 # DOMAIN-SUFFIX: 44648
-# DOMAIN: 20882
+# DOMAIN: 20887
 # IP-CIDR: 244
-# TOTAL: 65836
+# TOTAL: 65841
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.up.qingdaonews.com
@@ -7754,6 +7754,7 @@ payload:
   - DOMAIN,ezeoma.agrillcs.com
   - DOMAIN,ezertrans.com
   - DOMAIN,ezgamesworld.com
+  - DOMAIN,ezloaded.com
   - DOMAIN,ezpowerproducts.com
   - DOMAIN,ezsolutionspk.com
   - DOMAIN,eztexting.com
@@ -11902,6 +11903,7 @@ payload:
   - DOMAIN,luxuryupgradepro.com
   - DOMAIN,lwasxldakmhx.com
   - DOMAIN,lwspa4all.com
+  - DOMAIN,lwxlsj.wap.xsbiquge.com
   - DOMAIN,lyjcpycaufud.com
   - DOMAIN,lymphoedematherapy.com
   - DOMAIN,lync.touchcommerce.com
@@ -16394,6 +16396,7 @@ payload:
   - DOMAIN,shanafishbein.com
   - DOMAIN,shanagpur.com
   - DOMAIN,shanescomics.com
+  - DOMAIN,shangmiss.wap.xsbiquge.com
   - DOMAIN,shannondensmore.com
   - DOMAIN,shannonvalenteweddings.com
   - DOMAIN,shapado.com
@@ -18187,6 +18190,7 @@ payload:
   - DOMAIN,tizermedias.com
   - DOMAIN,tizermine.net
   - DOMAIN,tizermy.net
+  - DOMAIN,tizerset.net
   - DOMAIN,tjkckpytpnje.com
   - DOMAIN,tjoomo.com
   - DOMAIN,tjssgdxyxh.fgppchg.fgpp.com
@@ -19943,6 +19947,7 @@ payload:
   - DOMAIN,wonderlandads.com
   - DOMAIN,wood086.com
   - DOMAIN,woodlawnwt.com
+  - DOMAIN,woodwindowspittsburgh.com
   - DOMAIN,woojeoung.com
   - DOMAIN,wooplr.j8inn1zektoe.com
   - DOMAIN,wooptrk.com
