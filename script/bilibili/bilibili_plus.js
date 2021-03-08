@@ -85,7 +85,7 @@ let storyId = '246834163';
             //   }
             // });
             let top = obj['data']['top'].filter((e) =>{
-              if (e.id === 222 || element.id === 107){
+              if (e.id === 222 || e.id === 107){
                 e.uri = `bilibili://story/${storyId}`;
                 e.icon = "https://i.loli.net/2021/03/07/MzLTwBO5CgrWYHf.png";
                 e.tab_id = "Story_Top";
