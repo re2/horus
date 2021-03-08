@@ -1,7 +1,6 @@
 const scriptName = 'BiliBili';
 const storyAidKey = 'story_aid';
 let magicJS = MagicJS(scriptName, 'DEBUG');
-let storyId = '246834163';
 ;(() => {
   let body = null;
   if (magicJS.isResponse){
@@ -13,9 +12,6 @@ let storyId = '246834163';
           let lastItem = obj['data']['items'].pop();
           let aid = lastItem['stat']['aid'].toString();
           magicJS.write(storyAidKey, aid);
-          magicJS.notify(`读取的aid: ${aid}`);
-          let said = magicJS.read(storyAidKey);
-          magicJS.notify(`存储中的aid: ${said}`);
         }
         catch (err){
           magicJS.logError(`记录Story的aid出现异常：${err}`);
@@ -87,7 +83,7 @@ let storyId = '246834163';
           if (obj['data']['top']){
             let top = obj['data']['top'].filter((e) =>{
               if (e.id === 222 || e.id === 107){
-                e.uri = `bilibili://story/${storyId}`;
+                e.uri = `bilibili://story/${magicJS.read(storyAidKey)}`;
                 e.icon = "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/bilibili/bilibili_icon.png";
                 e.tab_id = "Story_Top";
                 e.name = "Story";
