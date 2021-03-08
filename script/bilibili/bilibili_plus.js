@@ -1,4 +1,5 @@
 const scriptName = 'BiliBili';
+const storyAidKey = 'story_aid';
 let magicJS = MagicJS(scriptName, 'INFO');
 let storyId = '246834163';
 ;(() => {
@@ -11,9 +12,10 @@ let storyId = '246834163';
           let obj = JSON.parse(magicJS.response.body);
           let lastItem = obj['data']['items'].pop();
           let aid = lastItem['stat']['aid'];
-          magicJS.write('story_aid', aid);
+          magicJS.write(storyAidKey, aid);
           magicJS.notify(`读取的aid: ${aid}`);
-          magicJS.notify(`存储中的aid: ${magicJS.read('story_aid')}`);
+          let said = magicJS.read(storyAidKey);
+          magicJS.notify(`存储中的aid: ${said}`);
         }
         catch (err){
           magicJS.logError(`记录Story的aid出现异常：${err}`);
