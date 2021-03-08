@@ -87,7 +87,7 @@ let storyId = '246834163';
             let top = obj['data']['top'].filter((e) =>{
               if (e.id === 222 || e.id === 107){
                 e.uri = `bilibili://story/${storyId}`;
-                e.icon = "https://i.loli.net/2021/03/07/MzLTwBO5CgrWYHf.png";
+                e.icon = "http://i0.hdslb.com/bfs/archive/99fdaff0b14445e49531d86e2ec06f25342e3cdc.png";
                 e.tab_id = "Story_Top";
                 e.name = "Story";
               }
