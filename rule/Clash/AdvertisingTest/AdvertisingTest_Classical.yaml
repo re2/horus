@@ -1,12 +1,12 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-08 15:11:58.375647
+# UPDATED: 2021-03-08 21:22:05.879610
 # DOMAIN-KEYWORD: 62
 # DOMAIN-SUFFIX: 68653
-# DOMAIN: 14524
+# DOMAIN: 14526
 # IP-CIDR: 244
-# TOTAL: 83483
+# TOTAL: 83485
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,0001.2waky.com
@@ -210,6 +210,7 @@ payload:
   - DOMAIN,4.whereinsicilia.com
   - DOMAIN,4.whereintoscana.com
   - DOMAIN,40-sm.000webhostapp.com
+  - DOMAIN,4006868488.cn
   - DOMAIN,403.hqhost.net
   - DOMAIN,404.hqhost.net
   - DOMAIN,404.online.net
@@ -10411,6 +10412,7 @@ payload:
   - DOMAIN,quickbodysolutions.com
   - DOMAIN,quickcash-system.com
   - DOMAIN,quickdomainfwd.com
+  - DOMAIN,quicwebsolutions.com
   - DOMAIN,quik2link.com
   - DOMAIN,quiltsforcomfort.org
   - DOMAIN,quinnsparby.com

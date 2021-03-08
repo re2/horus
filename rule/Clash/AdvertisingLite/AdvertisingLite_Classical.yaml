@@ -1,12 +1,12 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-08 15:11:58.023264
+# UPDATED: 2021-03-08 21:22:05.538335
 # DOMAIN-KEYWORD: 29
 # DOMAIN-SUFFIX: 15297
-# DOMAIN: 15382
+# DOMAIN: 15386
 # IP-CIDR: 192
-# TOTAL: 30900
+# TOTAL: 30904
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,00-gov.cn
@@ -9279,6 +9279,7 @@ payload:
   - DOMAIN,nexeps.com
   - DOMAIN,nextbdom.ru
   - DOMAIN,nextdoor.com
+  - DOMAIN,nextlandingads.com
   - DOMAIN,nextmillennium.io
   - DOMAIN,nextoptim.com
   - DOMAIN,nextstat.com
@@ -11417,6 +11418,7 @@ payload:
   - DOMAIN,rynotnfdekb.com
   - DOMAIN,ryquhezrbhfp.com
   - DOMAIN,ryrecdiretbet.info
+  - DOMAIN,rzbozucqgmostr.com
   - DOMAIN,rzddlsybql.com
   - DOMAIN,rztrkr.com
   - DOMAIN,s-onetag.com
@@ -11623,6 +11625,7 @@ payload:
   - DOMAIN,searchplow.com
   - DOMAIN,searchx.eu
   - DOMAIN,seaxm.com
+  - DOMAIN,sebeagnjowtg.com
   - DOMAIN,seccoads.com
   - DOMAIN,seclctpsih.com
   - DOMAIN,secondstreetmedia.com
@@ -14968,6 +14971,7 @@ payload:
   - DOMAIN,xplosion.de
   - DOMAIN,xpollo.com
   - DOMAIN,xpornstarsckc.ddns.name
+  - DOMAIN,xptslcoedn.com
   - DOMAIN,xpwppacpda.com
   - DOMAIN,xpx7heciz9.com
   - DOMAIN,xpyyrkwpcpwf.com

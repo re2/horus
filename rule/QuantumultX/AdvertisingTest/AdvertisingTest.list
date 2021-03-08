@@ -1,13 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-08 15:11:53.720466
+# UPDATED: 2021-03-08 21:22:01.101161
 # HOST-KEYWORD: 62
 # HOST-SUFFIX: 68653
-# HOST: 14524
+# HOST: 14526
 # IP-CIDR: 244
 # USER-AGENT: 1
-# TOTAL: 83484
+# TOTAL: 83486
 HOST,0.up.qingdaonews.com,AdvertisingTest
 HOST,0001.2waky.com,AdvertisingTest
 HOST,000lk3v.wcomhost.com,AdvertisingTest
@@ -210,6 +210,7 @@ HOST,4.whereinsardegna.com,AdvertisingTest
 HOST,4.whereinsicilia.com,AdvertisingTest
 HOST,4.whereintoscana.com,AdvertisingTest
 HOST,40-sm.000webhostapp.com,AdvertisingTest
+HOST,4006868488.cn,AdvertisingTest
 HOST,403.hqhost.net,AdvertisingTest
 HOST,404.hqhost.net,AdvertisingTest
 HOST,404.online.net,AdvertisingTest
@@ -10411,6 +10412,7 @@ HOST,query-google.com,AdvertisingTest
 HOST,quickbodysolutions.com,AdvertisingTest
 HOST,quickcash-system.com,AdvertisingTest
 HOST,quickdomainfwd.com,AdvertisingTest
+HOST,quicwebsolutions.com,AdvertisingTest
 HOST,quik2link.com,AdvertisingTest
 HOST,quiltsforcomfort.org,AdvertisingTest
 HOST,quinnsparby.com,AdvertisingTest

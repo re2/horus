@@ -1,7 +1,7 @@
 # NAME: DingTalk
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-08 15:11:54.218779
+# UPDATED: 2021-03-08 21:22:01.597216
 # HOST-SUFFIX: 11
 # TOTAL: 11
 HOST-SUFFIX,ddurl.to,DingTalk

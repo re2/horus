@@ -1,7 +1,7 @@
 # NAME: Slack
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-08 15:11:52.936489
+# UPDATED: 2021-03-08 21:22:00.320999
 # DOMAIN-SUFFIX: 8
 # TOTAL: 8
 DOMAIN-SUFFIX,slack-edge.com

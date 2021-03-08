@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-08 15:11:58.101532
+# UPDATED: 2021-03-08 21:22:05.613094
 # DOMAIN-KEYWORD: 62
 # DOMAIN-SUFFIX: 44648
-# DOMAIN: 20879
+# DOMAIN: 20882
 # IP-CIDR: 244
-# TOTAL: 65833
+# TOTAL: 65836
 payload:
   - '0.nextyourcontent.com'
   - '0.up.qingdaonews.com'
@@ -284,6 +284,7 @@ payload:
   - '4.whereinsicilia.com'
   - '4.whereintoscana.com'
   - '40-sm.000webhostapp.com'
+  - '4006868488.cn'
   - '403.hqhost.net'
   - '404.hqhost.net'
   - '404.online.net'
@@ -8308,6 +8309,7 @@ payload:
   - 'fre18.000webhostapp.com'
   - 'freasoft.com'
   - 'frecheats.com'
+  - 'freddyman.com'
   - 'free-adult-games.com'
   - 'free-amazoncodes.com'
   - 'free-banners.com'
@@ -15141,6 +15143,7 @@ payload:
   - 'quickfilmz.com'
   - 'quicksandear.com'
   - 'quicksense.net'
+  - 'quicwebsolutions.com'
   - 'quik-serv.com'
   - 'quik2link.com'
   - 'quiltsforcomfort.org'

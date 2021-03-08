@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-08 15:11:53.625514
+# UPDATED: 2021-03-08 21:22:01.012071
 # HOST-KEYWORD: 62
 # HOST-SUFFIX: 44648
-# HOST: 20879
+# HOST: 20882
 # IP-CIDR: 244
 # USER-AGENT: 1
-# TOTAL: 65834
+# TOTAL: 65837
 HOST,0.nextyourcontent.com,Advertising
 HOST,0.up.qingdaonews.com,Advertising
 HOST,0001.2waky.com,Advertising
@@ -284,6 +284,7 @@ HOST,4.whereinsardegna.com,Advertising
 HOST,4.whereinsicilia.com,Advertising
 HOST,4.whereintoscana.com,Advertising
 HOST,40-sm.000webhostapp.com,Advertising
+HOST,4006868488.cn,Advertising
 HOST,403.hqhost.net,Advertising
 HOST,404.hqhost.net,Advertising
 HOST,404.online.net,Advertising
@@ -8308,6 +8309,7 @@ HOST,frbdental.com,Advertising
 HOST,fre18.000webhostapp.com,Advertising
 HOST,freasoft.com,Advertising
 HOST,frecheats.com,Advertising
+HOST,freddyman.com,Advertising
 HOST,free-adult-games.com,Advertising
 HOST,free-amazoncodes.com,Advertising
 HOST,free-banners.com,Advertising
@@ -15141,6 +15143,7 @@ HOST,quickdomainfwd.com,Advertising
 HOST,quickfilmz.com,Advertising
 HOST,quicksandear.com,Advertising
 HOST,quicksense.net,Advertising
+HOST,quicwebsolutions.com,Advertising
 HOST,quik-serv.com,Advertising
 HOST,quik2link.com,Advertising
 HOST,quiltsforcomfort.org,Advertising
