@@ -2,7 +2,7 @@
 
 const scriptName = 'BiliBili';
 let magicJS = MagicJS(scriptName, 'INFO');
-var StoryId = '246834163';
+let storyId = '246834163';
 ;(() => {
   let body = null;
   if (magicJS.isResponse){
@@ -71,11 +71,15 @@ var StoryId = '246834163';
           }
           // 将 id（222 & 107）调整为Story功能按钮 
           if (obj['data']['top']){
-            obj['data']['top'].find((e) => {return e.id === 222||107;}).uri = `bilibili://story/${StoryId}`;
-            obj['data']['top'].find((e) => {return e.id === 222||107;}).icon = "https://i.loli.net/2021/03/07/MzLTwBO5CgrWYHf.png";
-            obj['data']['top'].find((e) => {return e.id === 222||107;}).tab_id = "Story_Top";
-            obj['data']['top'].find((e) => {return e.id === 222||107;}).name = "Story";
-            let top = obj['data']['top'].filter((e) =>{return topList.has(e.id);});
+            let top = obj['data']['top'].filter((e) =>{
+              if (e.id === 222||107){
+                e.uri = `bilibili://story/${storyId}`;
+                e.icon = "https://i.loli.net/2021/03/07/MzLTwBO5CgrWYHf.png";
+                e.tab_id = "Story_Top";
+                e.name = "Story";
+              }
+              return topList.has(e.id);
+            });
             obj['data']['top'] = top;
           }
           if (obj['data']['bottom']){
