@@ -71,18 +71,27 @@ let storyId = '246834163';
           }
           // 将 id（222 & 107）调整为Story功能按钮 
           if (obj['data']['top']){
-            let top = [];
-            obj['data']['top'].forEach(element => {
-              if (element.id === 222 || element.id === 107){
-                magicJS.notify(`修改Id：${element.id}`);
-                element.uri = `bilibili://story/${storyId}`;
-                element.icon = "https://i.loli.net/2021/03/07/MzLTwBO5CgrWYHf.png";
-                element.tab_id = "Story_Top";
-                element.name = "Story";
+            // let top = [];
+            // obj['data']['top'].forEach(element => {
+            //   if (element.id === 222 || element.id === 107){
+            //     magicJS.notify(`修改Id：${element.id}`);
+            //     element.uri = `bilibili://story/${storyId}`;
+            //     element.icon = "https://i.loli.net/2021/03/07/MzLTwBO5CgrWYHf.png";
+            //     element.tab_id = "Story_Top";
+            //     element.name = "Story";
+            //   }
+            //   if (topList.has(element.id)){
+            //     top.push(element);
+            //   }
+            // });
+            let top = obj['data']['top'].filter((e) =>{
+              if (e.id === 222 || element.id === 107){
+                e.uri = `bilibili://story/${storyId}`;
+                e.icon = "https://i.loli.net/2021/03/07/MzLTwBO5CgrWYHf.png";
+                e.tab_id = "Story_Top";
+                e.name = "Story";
               }
-              if (topList.has(element.id)){
-                top.push(element);
-              }
+              return topList.has(e.id);
             });
             obj['data']['top'] = top;
           }
