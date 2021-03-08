@@ -12,8 +12,8 @@ let storyId = '246834163';
           let lastItem = obj['data']['items'].pop();
           let aid = lastItem['stat']['aid'];
           magicJS.write('story_aid', aid);
-          magicJS.notify(aid);
-          magicJS.notify(magicJS.read('story_aid'));
+          magicJS.notify(`读取的aid: ${aid}`);
+          magicJS.notify(`存储中的aid: ${magicJS.read('story_aid')}`);
         }
         catch (err){
           magicJS.logError(`记录Story的aid出现异常：${err}`);
