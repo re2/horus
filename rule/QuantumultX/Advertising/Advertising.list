@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-08 02:23:08.805726
+# UPDATED: 2021-03-08 15:11:53.625514
 # HOST-KEYWORD: 62
-# HOST-SUFFIX: 44649
-# HOST: 20869
+# HOST-SUFFIX: 44648
+# HOST: 20879
 # IP-CIDR: 244
 # USER-AGENT: 1
-# TOTAL: 65825
+# TOTAL: 65834
 HOST,0.nextyourcontent.com,Advertising
 HOST,0.up.qingdaonews.com,Advertising
 HOST,0001.2waky.com,Advertising
@@ -2969,6 +2969,7 @@ HOST,apartment-mall.cn,Advertising
 HOST,apathetictheory.com,Advertising
 HOST,apawestflorida.com,Advertising
 HOST,apeelingstudios.com,Advertising
+HOST,aperionetwork.com,Advertising
 HOST,apex-mne.com,Advertising
 HOST,apex.wecleanoklahoma.com,Advertising
 HOST,apextechnotools.com,Advertising
@@ -3132,6 +3133,7 @@ HOST,apolloprogram.com,Advertising
 HOST,apolorockfestival.com,Advertising
 HOST,app-09.engage.jio.com,Advertising
 HOST,app-analytics.snapchat.com,Advertising
+HOST,app-atendimento.com,Advertising
 HOST,app-cheats.net,Advertising
 HOST,app-hack.com,Advertising
 HOST,app-promo.com,Advertising
@@ -4677,6 +4679,7 @@ HOST,calworthingtonford.com,Advertising
 HOST,calzadorigone.com,Advertising
 HOST,cam4tracking.com,Advertising
 HOST,cambodialogistics.com,Advertising
+HOST,cambonanza.com,Advertising
 HOST,cameraplay.com,Advertising
 HOST,camerawind.com,Advertising
 HOST,campaign.act-on.com,Advertising
@@ -8360,6 +8363,7 @@ HOST,freeclubnintendocoins.com,Advertising
 HOST,freecodegeneratorgeek.com,Advertising
 HOST,freecodesbox.gamerlh.com,Advertising
 HOST,freecodesgenerator.com,Advertising
+HOST,freecodespsn.com,Advertising
 HOST,freecounterstrikeserver.com,Advertising
 HOST,freecpmemberships.com,Advertising
 HOST,freecsgo.net,Advertising
@@ -9254,6 +9258,7 @@ HOST,gratisway.com,Advertising
 HOST,gratuit-hack.com,Advertising
 HOST,gratuitfile.com,Advertising
 HOST,gratuitpsncodes.com,Advertising
+HOST,gratuitxboxgold.com,Advertising
 HOST,gravitron.chron.com,Advertising
 HOST,gravityexp.com,Advertising
 HOST,gravygirls.com,Advertising
@@ -9551,6 +9556,7 @@ HOST,hacksgenie.com,Advertising
 HOST,hacksguide.com,Advertising
 HOST,hackshared.com,Advertising
 HOST,hackskypewebcam.com,Advertising
+HOST,hacksleak.com,Advertising
 HOST,hacksnations.com,Advertising
 HOST,hacksndcheats.com,Advertising
 HOST,hacksnew.com,Advertising
@@ -11139,6 +11145,7 @@ HOST,kiodudldzmzwr.com,Advertising
 HOST,kippsmart.com,Advertising
 HOST,kir.jp,Advertising
 HOST,kirao.ashmarinc.com,Advertising
+HOST,kisstesting.com,Advertising
 HOST,kistured.com,Advertising
 HOST,kitaramarketplace.com,Advertising
 HOST,kitaramedia.com,Advertising
@@ -15584,6 +15591,7 @@ HOST,ringsrecord.com,Advertising
 HOST,ringtonematcher.com,Advertising
 HOST,rioclassof75.com,Advertising
 HOST,riot.extafiles.com,Advertising
+HOST,riotcodesgenerator.com,Advertising
 HOST,riotpointcodes.org,Advertising
 HOST,riotpoints.gamesject.com,Advertising
 HOST,riotpoints.legratuits.com,Advertising
@@ -17342,6 +17350,7 @@ HOST,steelhouse.com,Advertising
 HOST,steelsshops.org,Advertising
 HOST,stellacadentemaison.com,Advertising
 HOST,stellar-dolphin.org,Advertising
+HOST,stemcelllist.com,Advertising
 HOST,stenplus.onewaywinner.com,Advertising
 HOST,stephanehamard.com,Advertising
 HOST,stephaniersaberan.com,Advertising
@@ -19522,6 +19531,7 @@ HOST,vpnaffiliates.com,Advertising
 HOST,vpnfortorrents.cc,Advertising
 HOST,vq91811.com,Advertising
 HOST,vq918450.com,Advertising
+HOST,vqaizaukh.com,Advertising
 HOST,vqrq.adsb4track.com,Advertising
 HOST,vr.gdt.qq.com,Advertising
 HOST,vs-api.wshareit.com,Advertising
@@ -34820,7 +34830,6 @@ HOST-SUFFIX,ecmb.bdimg.com,Advertising
 HOST-SUFFIX,ecmc.bdimg.com,Advertising
 HOST-SUFFIX,ecn5.com,Advertising
 HOST-SUFFIX,eco-tag.jp,Advertising
-HOST-SUFFIX,eco.taobao.com,Advertising
 HOST-SUFFIX,ecomgxh.kuwo.cn,Advertising
 HOST-SUFFIX,ecominalber.club,Advertising
 HOST-SUFFIX,ecomm.events,Advertising

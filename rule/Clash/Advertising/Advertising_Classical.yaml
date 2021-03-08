@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-08 02:23:13.759897
+# UPDATED: 2021-03-08 15:11:58.180769
 # DOMAIN-KEYWORD: 62
-# DOMAIN-SUFFIX: 44649
-# DOMAIN: 20869
+# DOMAIN-SUFFIX: 44648
+# DOMAIN: 20879
 # IP-CIDR: 244
-# TOTAL: 65824
+# TOTAL: 65833
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.up.qingdaonews.com
@@ -2969,6 +2969,7 @@ payload:
   - DOMAIN,apathetictheory.com
   - DOMAIN,apawestflorida.com
   - DOMAIN,apeelingstudios.com
+  - DOMAIN,aperionetwork.com
   - DOMAIN,apex-mne.com
   - DOMAIN,apex.wecleanoklahoma.com
   - DOMAIN,apextechnotools.com
@@ -3132,6 +3133,7 @@ payload:
   - DOMAIN,apolorockfestival.com
   - DOMAIN,app-09.engage.jio.com
   - DOMAIN,app-analytics.snapchat.com
+  - DOMAIN,app-atendimento.com
   - DOMAIN,app-cheats.net
   - DOMAIN,app-hack.com
   - DOMAIN,app-promo.com
@@ -4677,6 +4679,7 @@ payload:
   - DOMAIN,calzadorigone.com
   - DOMAIN,cam4tracking.com
   - DOMAIN,cambodialogistics.com
+  - DOMAIN,cambonanza.com
   - DOMAIN,cameraplay.com
   - DOMAIN,camerawind.com
   - DOMAIN,campaign.act-on.com
@@ -8360,6 +8363,7 @@ payload:
   - DOMAIN,freecodegeneratorgeek.com
   - DOMAIN,freecodesbox.gamerlh.com
   - DOMAIN,freecodesgenerator.com
+  - DOMAIN,freecodespsn.com
   - DOMAIN,freecounterstrikeserver.com
   - DOMAIN,freecpmemberships.com
   - DOMAIN,freecsgo.net
@@ -9254,6 +9258,7 @@ payload:
   - DOMAIN,gratuit-hack.com
   - DOMAIN,gratuitfile.com
   - DOMAIN,gratuitpsncodes.com
+  - DOMAIN,gratuitxboxgold.com
   - DOMAIN,gravitron.chron.com
   - DOMAIN,gravityexp.com
   - DOMAIN,gravygirls.com
@@ -9551,6 +9556,7 @@ payload:
   - DOMAIN,hacksguide.com
   - DOMAIN,hackshared.com
   - DOMAIN,hackskypewebcam.com
+  - DOMAIN,hacksleak.com
   - DOMAIN,hacksnations.com
   - DOMAIN,hacksndcheats.com
   - DOMAIN,hacksnew.com
@@ -11139,6 +11145,7 @@ payload:
   - DOMAIN,kippsmart.com
   - DOMAIN,kir.jp
   - DOMAIN,kirao.ashmarinc.com
+  - DOMAIN,kisstesting.com
   - DOMAIN,kistured.com
   - DOMAIN,kitaramarketplace.com
   - DOMAIN,kitaramedia.com
@@ -15584,6 +15591,7 @@ payload:
   - DOMAIN,ringtonematcher.com
   - DOMAIN,rioclassof75.com
   - DOMAIN,riot.extafiles.com
+  - DOMAIN,riotcodesgenerator.com
   - DOMAIN,riotpointcodes.org
   - DOMAIN,riotpoints.gamesject.com
   - DOMAIN,riotpoints.legratuits.com
@@ -17342,6 +17350,7 @@ payload:
   - DOMAIN,steelsshops.org
   - DOMAIN,stellacadentemaison.com
   - DOMAIN,stellar-dolphin.org
+  - DOMAIN,stemcelllist.com
   - DOMAIN,stenplus.onewaywinner.com
   - DOMAIN,stephanehamard.com
   - DOMAIN,stephaniersaberan.com
@@ -19522,6 +19531,7 @@ payload:
   - DOMAIN,vpnfortorrents.cc
   - DOMAIN,vq91811.com
   - DOMAIN,vq918450.com
+  - DOMAIN,vqaizaukh.com
   - DOMAIN,vqrq.adsb4track.com
   - DOMAIN,vr.gdt.qq.com
   - DOMAIN,vs-api.wshareit.com
@@ -34820,7 +34830,6 @@ payload:
   - DOMAIN-SUFFIX,ecmc.bdimg.com
   - DOMAIN-SUFFIX,ecn5.com
   - DOMAIN-SUFFIX,eco-tag.jp
-  - DOMAIN-SUFFIX,eco.taobao.com
   - DOMAIN-SUFFIX,ecomgxh.kuwo.cn
   - DOMAIN-SUFFIX,ecominalber.club
   - DOMAIN-SUFFIX,ecomm.events

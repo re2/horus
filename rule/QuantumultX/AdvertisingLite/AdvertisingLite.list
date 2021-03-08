@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-08 02:23:08.733119
+# UPDATED: 2021-03-08 15:11:53.551958
 # HOST-KEYWORD: 29
 # HOST-SUFFIX: 15297
-# HOST: 15376
+# HOST: 15382
 # IP-CIDR: 192
 # USER-AGENT: 1
-# TOTAL: 30895
+# TOTAL: 30901
 HOST,0.up.qingdaonews.com,AdvertisingLite
 HOST,00-gov.cn,AdvertisingLite
 HOST,0024aadd.com,AdvertisingLite
@@ -5111,7 +5111,6 @@ HOST,eclampsialemontree.net,AdvertisingLite
 HOST,eclick.vn,AdvertisingLite
 HOST,eco-tag.jp,AdvertisingLite
 HOST,eco.myt7th.xyz,AdvertisingLite
-HOST,eco.taobao.com,AdvertisingLite
 HOST,ecommstats.com,AdvertisingLite
 HOST,ecommstats.s3.amazonaws.com,AdvertisingLite
 HOST,econda-monitor.de,AdvertisingLite
@@ -6109,6 +6108,7 @@ HOST,gez.io,AdvertisingLite
 HOST,gezaehlt.de,AdvertisingLite
 HOST,gfaf-banners.s3.amazonaws.com,AdvertisingLite
 HOST,gfbrfqfwwis.com,AdvertisingLite
+HOST,gfdfhdh5t5453.com,AdvertisingLite
 HOST,gfhdkse.com,AdvertisingLite
 HOST,gft2.de,AdvertisingLite
 HOST,gfxa.sheetmusicplus.com,AdvertisingLite
@@ -6563,6 +6563,7 @@ HOST,hiperstat.com,AdvertisingLite
 HOST,hipsarda.net,AdvertisingLite
 HOST,hira-meki.jp,AdvertisingLite
 HOST,hirmatrix.hu,AdvertisingLite
+HOST,histock.info,AdvertisingLite
 HOST,historicalbeam.com,AdvertisingLite
 HOST,hit-counter-download.com,AdvertisingLite
 HOST,hit-counter.info,AdvertisingLite
@@ -7337,6 +7338,7 @@ HOST,javacript.tk,AdvertisingLite
 HOST,javbucks.com,AdvertisingLite
 HOST,jaymancash.com,AdvertisingLite
 HOST,jazdoxthxiv.com,AdvertisingLite
+HOST,jbqeyfrli.com,AdvertisingLite
 HOST,jbrlsr.com,AdvertisingLite
 HOST,jc.bubbleandyeson.com,AdvertisingLite
 HOST,jc.lgtianma.cn,AdvertisingLite
@@ -7645,6 +7647,7 @@ HOST,kipemhoxruov.com,AdvertisingLite
 HOST,kir.jp,AdvertisingLite
 HOST,kischartsrelimit.pro,AdvertisingLite
 HOST,kissmetrics.com,AdvertisingLite
+HOST,kisstesting.com,AdvertisingLite
 HOST,kistutch.net,AdvertisingLite
 HOST,kitbit.net,AdvertisingLite
 HOST,kitcode.net,AdvertisingLite
@@ -9665,6 +9668,7 @@ HOST,onvictinitor.com,AdvertisingLite
 HOST,oodraune.com,AdvertisingLite
 HOST,oodsotso.com,AdvertisingLite
 HOST,oohxa.xyz,AdvertisingLite
+HOST,oojthlwtlu.com,AdvertisingLite
 HOST,ooksu.frost-electric-supply.com,AdvertisingLite
 HOST,oolsi.frost-electric-supply.com,AdvertisingLite
 HOST,ooo.0o0.ooo,AdvertisingLite
@@ -14131,6 +14135,7 @@ HOST,vizisense.net,AdvertisingLite
 HOST,vizury.com,AdvertisingLite
 HOST,vizzit.se,AdvertisingLite
 HOST,vjie.com,AdvertisingLite
+HOST,vjuvorqe.com,AdvertisingLite
 HOST,vkaofq64zz.com,AdvertisingLite
 HOST,vkcdnservice.com,AdvertisingLite
 HOST,vkont.bos.ru,AdvertisingLite
@@ -15118,6 +15123,7 @@ HOST,ynuf.alipay.com,AdvertisingLite
 HOST,ynvwvckgqich.com,AdvertisingLite
 HOST,ynyfcz.cn,AdvertisingLite
 HOST,yobihost.com,AdvertisingLite
+HOST,yobr.net,AdvertisingLite
 HOST,yobthmvxwedkkg.com,AdvertisingLite
 HOST,yoc-adserver.com,AdvertisingLite
 HOST,yodr.net,AdvertisingLite

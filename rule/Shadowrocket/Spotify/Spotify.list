@@ -1,13 +1,15 @@
 # NAME: Spotify
 # AUTHOR: 
 # GITHUB: 
-# UPDATED: 2021-03-08 02:23:18.202926
+# UPDATED: 2021-03-08 15:12:02.261888
 # USER-AGENT: 2
-# DOMAIN-SUFFIX: 14
+# DOMAIN-SUFFIX: 16
 # DOMAIN-KEYWORD: 2
 # IP-CIDR: 1
-# TOTAL: 19
+# TOTAL: 21
+DOMAIN-SUFFIX,audio-ak-spotify-com.akamaized.net
 DOMAIN-SUFFIX,byspotify.com
+DOMAIN-SUFFIX,heads4-ak-spotify-com.akamaized.net
 DOMAIN-SUFFIX,pscdn.co
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,spoti.fi

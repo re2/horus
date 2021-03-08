@@ -1,12 +1,12 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-08 02:23:13.603006
+# UPDATED: 2021-03-08 15:11:58.023264
 # DOMAIN-KEYWORD: 29
 # DOMAIN-SUFFIX: 15297
-# DOMAIN: 15376
+# DOMAIN: 15382
 # IP-CIDR: 192
-# TOTAL: 30894
+# TOTAL: 30900
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,00-gov.cn
@@ -5111,7 +5111,6 @@ payload:
   - DOMAIN,eclick.vn
   - DOMAIN,eco-tag.jp
   - DOMAIN,eco.myt7th.xyz
-  - DOMAIN,eco.taobao.com
   - DOMAIN,ecommstats.com
   - DOMAIN,ecommstats.s3.amazonaws.com
   - DOMAIN,econda-monitor.de
@@ -6109,6 +6108,7 @@ payload:
   - DOMAIN,gezaehlt.de
   - DOMAIN,gfaf-banners.s3.amazonaws.com
   - DOMAIN,gfbrfqfwwis.com
+  - DOMAIN,gfdfhdh5t5453.com
   - DOMAIN,gfhdkse.com
   - DOMAIN,gft2.de
   - DOMAIN,gfxa.sheetmusicplus.com
@@ -6563,6 +6563,7 @@ payload:
   - DOMAIN,hipsarda.net
   - DOMAIN,hira-meki.jp
   - DOMAIN,hirmatrix.hu
+  - DOMAIN,histock.info
   - DOMAIN,historicalbeam.com
   - DOMAIN,hit-counter-download.com
   - DOMAIN,hit-counter.info
@@ -7337,6 +7338,7 @@ payload:
   - DOMAIN,javbucks.com
   - DOMAIN,jaymancash.com
   - DOMAIN,jazdoxthxiv.com
+  - DOMAIN,jbqeyfrli.com
   - DOMAIN,jbrlsr.com
   - DOMAIN,jc.bubbleandyeson.com
   - DOMAIN,jc.lgtianma.cn
@@ -7645,6 +7647,7 @@ payload:
   - DOMAIN,kir.jp
   - DOMAIN,kischartsrelimit.pro
   - DOMAIN,kissmetrics.com
+  - DOMAIN,kisstesting.com
   - DOMAIN,kistutch.net
   - DOMAIN,kitbit.net
   - DOMAIN,kitcode.net
@@ -9665,6 +9668,7 @@ payload:
   - DOMAIN,oodraune.com
   - DOMAIN,oodsotso.com
   - DOMAIN,oohxa.xyz
+  - DOMAIN,oojthlwtlu.com
   - DOMAIN,ooksu.frost-electric-supply.com
   - DOMAIN,oolsi.frost-electric-supply.com
   - DOMAIN,ooo.0o0.ooo
@@ -14131,6 +14135,7 @@ payload:
   - DOMAIN,vizury.com
   - DOMAIN,vizzit.se
   - DOMAIN,vjie.com
+  - DOMAIN,vjuvorqe.com
   - DOMAIN,vkaofq64zz.com
   - DOMAIN,vkcdnservice.com
   - DOMAIN,vkont.bos.ru
@@ -15118,6 +15123,7 @@ payload:
   - DOMAIN,ynvwvckgqich.com
   - DOMAIN,ynyfcz.cn
   - DOMAIN,yobihost.com
+  - DOMAIN,yobr.net
   - DOMAIN,yobthmvxwedkkg.com
   - DOMAIN,yoc-adserver.com
   - DOMAIN,yodr.net

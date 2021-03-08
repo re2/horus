@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-08 02:23:11.047531
+# UPDATED: 2021-03-08 15:11:55.713189
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 62
-# DOMAIN-SUFFIX: 68645
-# DOMAIN: 14516
+# DOMAIN-SUFFIX: 68653
+# DOMAIN: 14524
 # IP-CIDR: 244
 # USER-AGENT: 1
 # URL-REGEX: 306
-# TOTAL: 83774
+# TOTAL: 83790
 0.up.qingdaonews.com
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -1502,6 +1502,7 @@ apache21.hostbasket.com
 apartment-mall.cn
 apawestflorida.com
 apeelingstudios.com
+aperionetwork.com
 apex-mne.com
 apex.wecleanoklahoma.com
 apextechnotools.com
@@ -1603,6 +1604,7 @@ apollo.kingsoft.com
 apolloprogram.com
 apolorockfestival.com
 app-09.engage.jio.com
+app-atendimento.com
 app-cheats.net
 app-hack.com
 app-promo.com
@@ -5371,6 +5373,7 @@ freeclubnintendocoins.com
 freecodegeneratorgeek.com
 freecodesbox.gamerlh.com
 freecodesgenerator.com
+freecodespsn.com
 freecounterstrikeserver.com
 freecpmemberships.com
 freecsgo.net
@@ -6063,6 +6066,7 @@ gratisway.com
 gratuit-hack.com
 gratuitfile.com
 gratuitpsncodes.com
+gratuitxboxgold.com
 gravityexp.com
 gravygirls.com
 grazyfiles.com
@@ -6330,6 +6334,7 @@ hacksgenie.com
 hacksguide.com
 hackshared.com
 hackskypewebcam.com
+hacksleak.com
 hacksnations.com
 hacksndcheats.com
 hacksnew.com
@@ -10724,6 +10729,7 @@ rimghtlak.mmtcdn.com
 ringtonematcher.com
 rioclassof75.com
 riot.extafiles.com
+riotcodesgenerator.com
 riotpointcodes.org
 riotpoints.gamesject.com
 riotpoints.legratuits.com
@@ -12010,6 +12016,7 @@ steamwalletgiftcards.com
 steelsshops.org
 stellacadentemaison.com
 stellar-dolphin.org
+stemcelllist.com
 stenplus.onewaywinner.com
 stephanehamard.com
 stephaniersaberan.com
@@ -13498,6 +13505,7 @@ votos-u.webcindario.com
 votrecolissimo.com
 vpnaffiliates.com
 vq918450.com
+vqaizaukh.com
 vqrq.adsb4track.com
 vr.gdt.qq.com
 vs-api.wshareit.com
@@ -27470,7 +27478,6 @@ zzz.clickbank.net
 .bikeacasqaxbs.com
 .bikepasture.com
 .bikesseafoodchewing.com
-.bilanx.dcard.tw
 .bildirnet.com
 .bildirt.com
 .bileth.pw
@@ -36748,7 +36755,6 @@ zzz.clickbank.net
 .eco.hn765f.xyz
 .eco.myt7th.xyz
 .eco.qasdw3.xyz
-.eco.taobao.com
 .eco.vng25.xyz
 .ecoencomputer.com
 .ecomadserver.com
@@ -40582,6 +40588,7 @@ zzz.clickbank.net
 .gameads.digyourowngrave.com
 .gameads.net
 .gameanalytics.com
+.gamebai.club
 .gamebooster.lionmobi.com
 .gamebox.360.cn
 .gamebox.kugou.com
@@ -41685,12 +41692,14 @@ zzz.clickbank.net
 .go7media.ru
 .go88.club
 .go88.com
+.go88vn.vip
 .go8me.ru
 .goa.camimbu.com
 .goaciptu.net
 .goadservices.com
 .goajuzey.com
 .goal123.com
+.goal68.net
 .goal68.top
 .goal86.top
 .goallurl.ru
@@ -43826,6 +43835,7 @@ zzz.clickbank.net
 .hotjar.io
 .hotkeys.com
 .hotlinking.dosmil.imap.cc
+.hotlive8.vip
 .hotlog.ru
 .hotngay.vn
 .hotpixel.co.vu
@@ -48633,6 +48643,7 @@ zzz.clickbank.net
 .lamise.ru
 .lamisil.about-tabs.com
 .lamma.24ex.net
+.lamp-shade.net
 .lamplow.com
 .lamwatch.com
 .lanayasite.pro
@@ -50337,6 +50348,7 @@ zzz.clickbank.net
 .ls.srvcs.tumblr.com
 .ls.webmd.com
 .lsad.net
+.lsaeb.com
 .lsailington.club
 .lsassoc.com
 .lsawards.com
@@ -51596,6 +51608,7 @@ zzz.clickbank.net
 .maxwino.ru
 .maxymiser.com
 .maxymiser.net
+.may88.com
 .maycanrami.tk
 .mayclub.net
 .mayert.link
@@ -53985,7 +53998,6 @@ zzz.clickbank.net
 .mscimg.com
 .msclick2.kuwo.cn
 .msdfd.cn
-.msdk.qq.com
 .msdk.rqmob.com
 .msdns.online
 .mse2v5oglm.com
@@ -54079,6 +54091,7 @@ zzz.clickbank.net
 .mtlog.droid4x.cn
 .mtmob.com
 .mtmuhcmpz.com
+.mto.cgv.vn
 .mto.mediatakeout.com
 .mto.multiopen.cn
 .mtoor.com
@@ -54903,6 +54916,7 @@ zzz.clickbank.net
 .neodatagroup.com
 .neoebiz.co.kr
 .neoffic.com
+.neofield.click
 .neon.today
 .neosap.ru
 .nepalon.com
@@ -71953,6 +71967,7 @@ zzz.clickbank.net
 .thetelegraphandargus-gb.thetelegraphandargus.co.uk
 .thetestpage.39.net
 .thethaofb88.com
+.thethaovip.vip
 .thethi.ru
 .thetottenhamindependent-gb.thetottenhamindependent.co.uk
 .thetradedesk-tags.s3.amazonaws.com
@@ -72214,6 +72229,7 @@ zzz.clickbank.net
 .tiozao.net
 .tip-ads.de
 .tip.biquge.info
+.tipkeomoingay.club
 .tippcom01.tipp24.com
 .tippola.com
 .tipsforall.xyz

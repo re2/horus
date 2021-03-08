@@ -1,7 +1,7 @@
 # NAME: AdvertisingTest 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-08 02:23:20.584541
+# UPDATED: 2021-03-08 15:12:04.499613
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 #  与 Hijacking 共 212 条规则重复
 HOST-SUFFIX,17gouwuba.com
@@ -3002,7 +3002,7 @@ HOST-SUFFIX,zs.dhl.de
 HOST-SUFFIX,zsi7.destinia.do
 HOST-SUFFIX,zyq2.destinia.sk
 HOST-SUFFIX,zz.bdstatic.com
-#  与 Advertising 共 59280 条规则重复
+#  与 Advertising 共 59287 条规则重复
 HOST,0.up.qingdaonews.com
 HOST,0001.2waky.com
 HOST,000lk3v.wcomhost.com
@@ -4495,6 +4495,7 @@ HOST,apache21.hostbasket.com
 HOST,apartment-mall.cn
 HOST,apawestflorida.com
 HOST,apeelingstudios.com
+HOST,aperionetwork.com
 HOST,apex-mne.com
 HOST,apex.wecleanoklahoma.com
 HOST,apextechnotools.com
@@ -4596,6 +4597,7 @@ HOST,apollo.kingsoft.com
 HOST,apolloprogram.com
 HOST,apolorockfestival.com
 HOST,app-09.engage.jio.com
+HOST,app-atendimento.com
 HOST,app-cheats.net
 HOST,app-hack.com
 HOST,app-promo.com
@@ -8364,6 +8366,7 @@ HOST,freeclubnintendocoins.com
 HOST,freecodegeneratorgeek.com
 HOST,freecodesbox.gamerlh.com
 HOST,freecodesgenerator.com
+HOST,freecodespsn.com
 HOST,freecounterstrikeserver.com
 HOST,freecpmemberships.com
 HOST,freecsgo.net
@@ -9056,6 +9059,7 @@ HOST,gratisway.com
 HOST,gratuit-hack.com
 HOST,gratuitfile.com
 HOST,gratuitpsncodes.com
+HOST,gratuitxboxgold.com
 HOST,gravityexp.com
 HOST,gravygirls.com
 HOST,grazyfiles.com
@@ -9323,6 +9327,7 @@ HOST,hacksgenie.com
 HOST,hacksguide.com
 HOST,hackshared.com
 HOST,hackskypewebcam.com
+HOST,hacksleak.com
 HOST,hacksnations.com
 HOST,hacksndcheats.com
 HOST,hacksnew.com
@@ -13717,6 +13722,7 @@ HOST,rimghtlak.mmtcdn.com
 HOST,ringtonematcher.com
 HOST,rioclassof75.com
 HOST,riot.extafiles.com
+HOST,riotcodesgenerator.com
 HOST,riotpointcodes.org
 HOST,riotpoints.gamesject.com
 HOST,riotpoints.legratuits.com
@@ -15003,6 +15009,7 @@ HOST,steamwalletgiftcards.com
 HOST,steelsshops.org
 HOST,stellacadentemaison.com
 HOST,stellar-dolphin.org
+HOST,stemcelllist.com
 HOST,stenplus.onewaywinner.com
 HOST,stephanehamard.com
 HOST,stephaniersaberan.com
@@ -16491,6 +16498,7 @@ HOST,votos-u.webcindario.com
 HOST,votrecolissimo.com
 HOST,vpnaffiliates.com
 HOST,vq918450.com
+HOST,vqaizaukh.com
 HOST,vqrq.adsb4track.com
 HOST,vr.gdt.qq.com
 HOST,vs-api.wshareit.com
@@ -31455,7 +31463,6 @@ HOST-SUFFIX,ecmb.bdimg.com
 HOST-SUFFIX,ecmc.bdimg.com
 HOST-SUFFIX,ecn5.com
 HOST-SUFFIX,eco-tag.jp
-HOST-SUFFIX,eco.taobao.com
 HOST-SUFFIX,ecomgxh.kuwo.cn
 HOST-SUFFIX,ecominalber.club
 HOST-SUFFIX,ecomm.events
