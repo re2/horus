@@ -79,11 +79,15 @@ let magicJS = MagicJS(scriptName, 'DEBUG');
             let tab = obj['data']['tab'].filter((e) =>{return tabList.has(e.id);});
             obj['data']['tab'] = tab;
           }
-          // 将 id（222 & 107）调整为Story功能按钮 
+          // 将 id（222 & 107）调整为Story功能按钮
+          let storyAid = magicJS.read(storyAidKey);
+          if (!storyAid){
+            storyAid = '246834163';
+          }
           if (obj['data']['top']){
             let top = obj['data']['top'].filter((e) =>{
               if (e.id === 222 || e.id === 107){
-                e.uri = `bilibili://story/${magicJS.read(storyAidKey)}`;
+                e.uri = `bilibili://story/${storyAid}`;
                 e.icon = "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/bilibili/bilibili_icon.png";
                 e.tab_id = "Story_Top";
                 e.name = "Story";
