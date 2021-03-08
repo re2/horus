@@ -74,8 +74,9 @@ let storyId = '246834163';
             let top = [];
             obj['data']['top'].forEach(element => {
               if (element.id === 222||107){
+                magicJS.notify(`修改Id：${element.id}`);
                 element.uri = `bilibili://story/${storyId}`;
-                element.icon = "http://i0.hdslb.com/bfs/archive/99fdaff0b14445e49531d86e2ec06f25342e3cdc.png";
+                element.icon = "https://i.loli.net/2021/03/07/MzLTwBO5CgrWYHf.png";
                 element.tab_id = "Story_Top";
                 element.name = "Story";
               }
