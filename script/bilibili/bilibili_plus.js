@@ -1,5 +1,3 @@
-// B站去广告，新增Story模式
-
 const scriptName = 'BiliBili';
 let magicJS = MagicJS(scriptName, 'INFO');
 let storyId = '246834163';
