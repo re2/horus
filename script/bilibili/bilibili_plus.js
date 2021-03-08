@@ -1,6 +1,6 @@
 const scriptName = 'BiliBili';
 const storyAidKey = 'story_aid';
-let magicJS = MagicJS(scriptName, 'DEBUG');
+let magicJS = MagicJS(scriptName, 'INFO');
 ;(() => {
   let body = null;
   if (magicJS.isResponse){
