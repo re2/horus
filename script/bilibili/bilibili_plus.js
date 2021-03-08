@@ -5,18 +5,6 @@ let magicJS = MagicJS(scriptName, 'DEBUG');
   let body = null;
   if (magicJS.isResponse){
     switch (true){
-      // 匹配story模式，用于记录Story的aid
-      case /^https:\/\/app\.bilibili\.com\/x\/v2\/feed\/index\/story\?/.test(magicJS.request.url):
-        try{
-          let obj = JSON.parse(magicJS.response.body);
-          let lastItem = obj['data']['items'].pop();
-          let aid = lastItem['stat']['aid'].toString();
-          magicJS.write(storyAidKey, aid);
-        }
-        catch (err){
-          magicJS.logError(`记录Story的aid出现异常：${err}`);
-        }
-        break;
       // 推荐去广告，最后问号不能去掉，以免匹配到story模式
       case /^https:\/\/app\.bilibili\.com\/x\/v2\/feed\/index\?/.test(magicJS.request.url):
         try{
@@ -45,6 +33,18 @@ let magicJS = MagicJS(scriptName, 'DEBUG');
         }
         catch (err){
           magicJS.logError(`推荐去广告出现异常：${err}`);
+        }
+        break;
+      // 匹配story模式，用于记录Story的aid
+      case /^https:\/\/app\.bilibili\.com\/x\/v2\/feed\/index\/story\?/.test(magicJS.request.url):
+        try{
+          let obj = JSON.parse(magicJS.response.body);
+          let lastItem = obj['data']['items'].pop();
+          let aid = lastItem['stat']['aid'].toString();
+          magicJS.write(storyAidKey, aid);
+        }
+        catch (err){
+          magicJS.logError(`记录Story的aid出现异常：${err}`);
         }
         break;
       // 开屏广告处理
