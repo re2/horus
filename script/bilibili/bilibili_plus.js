@@ -71,14 +71,17 @@ let storyId = '246834163';
           }
           // 将 id（222 & 107）调整为Story功能按钮 
           if (obj['data']['top']){
-            let top = obj['data']['top'].filter((e) =>{
-              if (e.id === 222||107){
-                e.uri = `bilibili://story/${storyId}`;
-                e.icon = "https://i.loli.net/2021/03/07/MzLTwBO5CgrWYHf.png";
-                e.tab_id = "Story_Top";
-                e.name = "Story";
+            let top = [];
+            obj['data']['top'].forEach(element => {
+              if (element.id === 222||107){
+                element.uri = `bilibili://story/${storyId}`;
+                element.icon = "http://i0.hdslb.com/bfs/archive/99fdaff0b14445e49531d86e2ec06f25342e3cdc.png";
+                element.tab_id = "Story_Top";
+                element.name = "Story";
               }
-              return topList.has(e.id);
+              if (topList.has(element.id)){
+                top.push(element);
+              }
             });
             obj['data']['top'] = top;
           }
