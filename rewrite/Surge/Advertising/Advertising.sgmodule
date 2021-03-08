@@ -1,17 +1,14 @@
 #!name=复写去广告
-#!desc=最后更新时间 2021-03-08 21:23:16
+#!desc=最后更新时间 2021-03-08 21:49:23
 #!author=blackmatrix7
 #!github=https://github.com/blackmatrix7/ios_rule_script
-#!rewrite=789
+#!rewrite=788
 #!script=0
 #!force_http_engine_hosts=5
 #!mitm=578
 
 [General]
 force-http-engine-hosts = %APPEND% *.ott.cibntv.net,119.18.193.135,122.14.246.33,123.59.31.1,175.102.178.52
-
-[Rule]
-URL-REGEX,^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=start,REJECT-TINYGIF
 
 [URL Rewrite]
 ^https?:\/\/((25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)\.){3}(25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)(:\d+)?\/V\d\/splash\/getSplashV\d\.action$ - reject
@@ -140,7 +137,6 @@ URL-REGEX,^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=start,REJECT-T
 ^https?:\/\/api\.k\.sohu\.com\/api\/news\/adsense - reject
 ^https?:\/\/api\.kkmh\.com\/v\d+\/(ad|advertisement)\/ - reject
 ^https?:\/\/api\.laifeng\.com\/v\d\/start\/ads - reject
-^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=start - reject
 ^https?:\/\/api\.m\.mi\.com\/v\d\/app\/start - reject
 ^https?:\/\/api\.meipian\.me.+?advert - reject
 ^https?:\/\/api\.mgzf\.com\/renter-operation\/home\/startHomePage - reject
@@ -483,7 +479,6 @@ URL-REGEX,^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=start,REJECT-T
 ^https?:\/\/.+?allOne\.php\?ad_name=main_splash_ios data="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/blank/blank.gif"
 ^https?:\/\/.+?ccode=0902 data="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/blank/blank.gif"
 ^https?:\/\/.+?resource=article\/recommend\&accessToken= data="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/blank/blank.gif"
-^https?:\/\/111\.13\.29\.201\/client\.action\?functionId=start data="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/blank/blank.gif"
 ^https?:\/\/113\.200\.76\.*?:16420\/sxtd\.bike2\.01\/getkey\.do data="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/blank/blank.gif"
 ^https?:\/\/118\.178\.214\.118\/yyting\/advertclient\/ClientAdvertList\.action data="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/blank/blank.gif"
 ^https?:\/\/123\.59\.30\.10\/adv\/advInfos data="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/blank/blank.gif"
@@ -538,6 +533,7 @@ URL-REGEX,^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=start,REJECT-T
 ^https?:\/\/api\.k\.sohu\.com\/api\/channel\/ad\/ data="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/blank/blank.gif"
 ^https?:\/\/api\.kkmh\.com\/.+?(ad|advertisement)\/ data="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/blank/blank.txt"
 ^https?:\/\/api\.laosiji\.com\/user\/startpage\/ data="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/blank/blank.gif"
+^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=start data="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/blank/blank_dict.json"
 ^https?:\/\/api\.mddcloud\.com\.cn\/api\/ad\/getClassAd\.action data="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/blank/blank.gif"
 ^https?:\/\/api\.mddcloud\.com\.cn\/api\/advert\/getHomepage\.action data="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/blank/blank.gif"
 ^https?:\/\/api\.mobile\.youku\.com\/layout\/search\/hot\/word data="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/blank/blank.gif"

@@ -1,17 +1,14 @@
 #!name=复写去广告
-#!desc=最后更新时间 2021-03-08 21:23:16
+#!desc=最后更新时间 2021-03-08 21:49:23
 #!author=blackmatrix7
 #!github=https://github.com/blackmatrix7/ios_rule_script
-#!rewrite=789
+#!rewrite=788
 #!script=0
 #!force_http_engine_hosts=5
 #!mitm=578
 
 [General]
 force-http-engine-hosts = %APPEND% *.ott.cibntv.net,119.18.193.135,122.14.246.33,123.59.31.1,175.102.178.52
-
-[Rule]
-URL-REGEX,^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=start,REJECT-TINYGIF
 
 [URL Rewrite]
 ^https?:\/\/((25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)\.){3}(25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)(:\d+)?\/V\d\/splash\/getSplashV\d\.action$ - reject
@@ -97,7 +94,6 @@ URL-REGEX,^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=start,REJECT-T
 ^https?:\/\/.+?ccode=0902 - reject
 ^https?:\/\/.+?resource=article\/recommend\&accessToken= - reject
 ^https?:\/\/101\.201\.175\.228\/ads\/display - reject
-^https?:\/\/111\.13\.29\.201\/client\.action\?functionId=start - reject
 ^https?:\/\/113\.200\.76\.*?:16420\/sxtd\.bike2\.01\/getkey\.do - reject
 ^https?:\/\/118\.178\.214\.118\/yyting\/advertclient\/ClientAdvertList\.action - reject
 ^https?:\/\/119\.18\.193\.135\/(adgateway|adv)\/ - reject

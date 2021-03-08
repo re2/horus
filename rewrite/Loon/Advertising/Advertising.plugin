@@ -1,13 +1,10 @@
 # NAME: 复写去广告
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-08 21:23:16
-# REWRITE: 789
+# UPDATED: 2021-03-08 21:49:23
+# REWRITE: 788
 # SCRIPT: 0
 # MITM: 578
-
-[Rule]
-URL-REGEX,^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=start,REJECT-TINYGIF
 
 [URL Rewrite]
 ^https?:\/\/((25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)\.){3}(25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)(:\d+)?\/V\d\/splash\/getSplashV\d\.action$ - reject
@@ -93,7 +90,6 @@ URL-REGEX,^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=start,REJECT-T
 ^https?:\/\/.+?ccode=0902 - reject-img
 ^https?:\/\/.+?resource=article\/recommend\&accessToken= - reject-img
 ^https?:\/\/101\.201\.175\.228\/ads\/display - reject
-^https?:\/\/111\.13\.29\.201\/client\.action\?functionId=start - reject-img
 ^https?:\/\/113\.200\.76\.*?:16420\/sxtd\.bike2\.01\/getkey\.do - reject-img
 ^https?:\/\/118\.178\.214\.118\/yyting\/advertclient\/ClientAdvertList\.action - reject-img
 ^https?:\/\/119\.18\.193\.135\/(adgateway|adv)\/ - reject
@@ -218,7 +214,7 @@ URL-REGEX,^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=start,REJECT-T
 ^https?:\/\/api\.kkmh\.com\/v\d+\/(ad|advertisement)\/ - reject
 ^https?:\/\/api\.laifeng\.com\/v\d\/start\/ads - reject
 ^https?:\/\/api\.laosiji\.com\/user\/startpage\/ - reject-img
-^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=start - reject
+^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=start - reject-dict
 ^https?:\/\/api\.m\.mi\.com\/v\d\/app\/start - reject
 ^https?:\/\/api\.mddcloud\.com\.cn\/api\/ad\/getClassAd\.action - reject-img
 ^https?:\/\/api\.mddcloud\.com\.cn\/api\/advert\/getHomepage\.action - reject-img
