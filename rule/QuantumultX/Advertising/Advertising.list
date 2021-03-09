@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-09 10:25:54.401587
+# UPDATED: 2021-03-09 11:07:38.533022
 # HOST-KEYWORD: 62
 # HOST-SUFFIX: 44648
 # HOST: 20890
-# IP-CIDR: 244
+# IP-CIDR: 245
 # USER-AGENT: 1
-# TOTAL: 65845
+# TOTAL: 65846
 HOST,0.nextyourcontent.com,Advertising
 HOST,0.up.qingdaonews.com,Advertising
 HOST,0001.2waky.com,Advertising
@@ -65761,6 +65761,7 @@ IP-CIDR,198.40.52.11/32,Advertising
 IP-CIDR,199.231.214.62/32,Advertising
 IP-CIDR,202.104.1.27/32,Advertising
 IP-CIDR,202.105.165.202/32,Advertising
+IP-CIDR,203.107.1.65/32,Advertising
 IP-CIDR,203.119.206.64/32,Advertising
 IP-CIDR,203.119.211.219/32,Advertising
 IP-CIDR,203.205.239.44/32,Advertising

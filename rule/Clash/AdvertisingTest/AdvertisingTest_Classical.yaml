@@ -1,12 +1,12 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-09 10:25:59.137116
+# UPDATED: 2021-03-09 11:07:43.701769
 # DOMAIN-KEYWORD: 62
 # DOMAIN-SUFFIX: 68678
 # DOMAIN: 14533
-# IP-CIDR: 244
-# TOTAL: 83517
+# IP-CIDR: 245
+# TOTAL: 83518
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,0001.2waky.com
@@ -83433,6 +83433,7 @@ payload:
   - IP-CIDR,199.231.214.62/32
   - IP-CIDR,202.104.1.27/32
   - IP-CIDR,202.105.165.202/32
+  - IP-CIDR,203.107.1.65/32
   - IP-CIDR,203.119.206.64/32
   - IP-CIDR,203.119.211.219/32
   - IP-CIDR,203.205.239.44/32

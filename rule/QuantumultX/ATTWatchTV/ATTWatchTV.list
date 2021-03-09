@@ -1,7 +1,7 @@
 # NAME: ATTWatchTV
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-09 10:25:54.300333
+# UPDATED: 2021-03-09 11:07:38.420359
 # HOST-SUFFIX: 6
 # TOTAL: 6
 HOST-SUFFIX,att.tv,ATTWatchTV

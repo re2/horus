@@ -1,7 +1,7 @@
 # NAME: Advertising 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-09 10:26:03.559570
+# UPDATED: 2021-03-09 11:07:48.468296
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 #  与 Hijacking 共 212 条规则重复
 DOMAIN-SUFFIX,17gouwuba.com
@@ -3070,7 +3070,7 @@ DOMAIN-SUFFIX,zs.dhl.de
 DOMAIN-SUFFIX,zsi7.destinia.do
 DOMAIN-SUFFIX,zyq2.destinia.sk
 DOMAIN-SUFFIX,zz.bdstatic.com
-#  与 AdvertisingTest 共 59602 条规则重复
+#  与 AdvertisingTest 共 59603 条规则重复
 DOMAIN,0.up.qingdaonews.com
 DOMAIN,0001.2waky.com
 DOMAIN,000lk3v.wcomhost.com
@@ -62274,6 +62274,7 @@ IP-CIDR,198.40.52.11/32
 IP-CIDR,199.231.214.62/32
 IP-CIDR,202.104.1.27/32
 IP-CIDR,202.105.165.202/32
+IP-CIDR,203.107.1.65/32
 IP-CIDR,203.119.206.64/32
 IP-CIDR,203.119.211.219/32
 IP-CIDR,203.205.239.44/32
