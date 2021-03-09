@@ -33,7 +33,7 @@ http-response ^https?:\/\/api\.zhihu\.com\/(moments|topstory)(\/|\?)?(recommend|
 http-response ^https?:\/\/api\.zhihu\.com\/v4\/questions requires-body=1,script-path=https://raw.githubusercontent.com/codetracer/horus/master/script/zhihu/zhihu_plus.js,tag=知乎_回答列表去广告
 http-response ^https?:\/\/api\.zhihu\.com\/search\/preset_words\? requires-body=1,script-path=https://raw.githubusercontent.com/codetracer/horus/master/script/zhihu/zhihu_plus.js,tag=知乎_预置关键词去广告
 http-response ^https?:\/\/api\.zhihu\.com\/search\/top_search\/tabs\/hot\/items requires-body=1,script-path=https://raw.githubusercontent.com/codetracer/horus/master/script/zhihu/zhihu_plus.js,tag=知乎_热搜去广告
-http-response ^https?:\/\/api\.zhihu\.com\/topstory\/hot-list(\?|\/) requires-body=1,script-path=https://raw.githubusercontent.com/codetracer/horus/master/script/zhihu/zhihu_plus.js,tag=知乎_热榜去广告
+http-response ^https?:\/\/api\.zhihu\.com\/topstory\/hot-lists?(\?|\/) requires-body=1,script-path=https://raw.githubusercontent.com/codetracer/horus/master/script/zhihu/zhihu_plus.js,tag=知乎_热榜去广告
 
 [MITM]
 hostname = www.zhihu.com,api.zhihu.com,zhuanlan.zhihu.com

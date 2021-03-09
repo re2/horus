@@ -368,12 +368,11 @@ let magicJS = MagicJS(scriptName, "INFO");
         }
         break;
       // 知乎热榜去广告
-      case /^https?:\/\/api\.zhihu\.com\/topstory\/hot-list(\?|\/)/.test(magicJS.request.url):
+      case /^https?:\/\/api\.zhihu\.com\/topstory\/hot-lists?(\?|\/)/.test(magicJS.request.url):
         try{
           if (!!magicJS.response.body){
             let obj = JSON.parse(magicJS.response.body);
             let data = obj['data'].filter(e => {
-              // return e['type'] === 'hot_list_feed';
               return e['type'] === 'hot_list_feed' || e['type'] === 'hot_list_feed_video';
             })
             obj['data'] = data;
