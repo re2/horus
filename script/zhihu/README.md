@@ -31,21 +31,28 @@
 21. 精简首页顶部的标签页✨
 22. 屏蔽消息页面的知乎活动助手✨
 23. 减少推荐列表内的视频(alpha)✨
+24. 去除热搜内的广告(beta)
+25. 去除热榜内的广告(beta)
+26. 屏蔽远端下发的配置，如皮肤(alpha，已知会导致Tab页调整失效)✨
 
 ## 最近更新
 
-1. 增加精简首页顶部标签页的功能
-2. 屏蔽消息页面的知乎活动助手
-3. 减少推荐列表内的视频，不一定有效
-4. 增加未登录知乎账户的支持
-5. 增加知乎网页版去广告 [#21](https://github.com/codetracer/horus/issues/21)
-6. 修复想法不存在的问题
-7. 营销内容文首提醒
-8. 付费内容文首提醒
+1. 修复知乎视频无法自动播放的问题
+2. 去除热搜内的广告(beta)
+3. 去除热榜内的广告(beta)
+4. 屏蔽远端下发的配置
+5. 强化精简首页顶部标签页的功能(清理缓存后生效)
 
 ## 特别说明
 
-如出现执行异常，绝大部分是因为引用过多的去广告规则，规则之间互相冲突覆盖导致。
+如出现执行异常，通常是由于复写冲突或118.89.204.198这个地址的请求没有正常拦截导致。
+
+建议：
+
+1. 确认除本脚本外，不含有其他第三方关于知乎的复写
+2. 抓包确认118.89.204.198这个地址的请求已被正确拦截
+
+**如果无法拦截118.89.204.198的请求，会导致绝大多数功能失效，请务必自行调整配置文件，确认正常拦截118.89.204.198。**
 
 建议解决方法：
 
@@ -195,8 +202,6 @@ https://raw.githubusercontent.com/codetracer/horus/master/script/zhihu/zhihu_lit
 [filter_local]
 # 知乎去广告
 DOMAIN,118.89.204.198,REJECT
-DOMAIN-SUFFIX,118.89.204.198,REJECT
-DOMAIN-KEYWORD,118.89.204.198,REJECT
 IP-CIDR,118.89.204.198/32,REJECT
 USER-AGENT,AVOS*,REJECT
 DOMAIN-SUFFIX,appcloud2.zhihu.com,REJECT
@@ -214,7 +219,6 @@ https://raw.githubusercontent.com/codetracer/horus/master/script/zhihu/zhihu_lit
 [Rule]
 # 知乎去广告
 DOMAIN,118.89.204.198,REJECT
-DOMAIN-KEYWORD,118.89.204.198,REJECT
 IP-CIDR,118.89.204.198/32,REJECT,no-resolve
 DOMAIN,appcloud2.in.zhihu.com,REJECT
 USER-AGENT,AVOS*,REJECT
