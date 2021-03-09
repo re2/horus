@@ -368,7 +368,7 @@ let magicJS = MagicJS(scriptName, "INFO");
         }
         break;
       // 知乎热榜去广告
-      case /^https?:\/\/api\.zhihu\.com\/topstory\/hot-list/.test(magicJS.request.url):
+      case /^https?:\/\/api\.zhihu\.com\/topstory\/hot-list(\?|\/)/.test(magicJS.request.url):
         try{
           if (!!magicJS.response.body){
             let obj = JSON.parse(magicJS.response.body);

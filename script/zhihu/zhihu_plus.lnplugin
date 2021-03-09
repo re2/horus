@@ -45,7 +45,7 @@ http-response ^https?:\/\/api\.zhihu\.com\/search\/preset_words\? requires-body=
 http-response ^https?:\/\/www\.zhihu\.com\/appview\/v2\/answer\/.*(entry=(?!(preload-topstory|preload-search|preload-subscription)))? requires-body=1,script-path=https://raw.githubusercontent.com/codetracer/horus/master/script/zhihu/zhihu_plus.js,tag=知乎_回答内容优化
 http-response ^https?:\/\/appcloud2\.zhihu\.com\/v\d+\/config requires-body=1,script-path=https://raw.githubusercontent.com/codetracer/horus/master/script/zhihu/zhihu_plus.js,tag=知乎_优化软件配置
 http-response ^https?:\/\/api\.zhihu\.com\/search\/top_search\/tabs\/hot\/items requires-body=1,script-path=https://raw.githubusercontent.com/codetracer/horus/master/script/zhihu/zhihu_plus.js,tag=知乎_热搜去广告
-http-response ^https?:\/\/api\.zhihu\.com\/topstory\/hot-list requires-body=1,script-path=https://raw.githubusercontent.com/codetracer/horus/master/script/zhihu/zhihu_plus.js,tag=知乎_热榜去广告
+http-response ^https?:\/\/api\.zhihu\.com\/topstory\/hot-list(\?|\/) requires-body=1,script-path=https://raw.githubusercontent.com/codetracer/horus/master/script/zhihu/zhihu_plus.js,tag=知乎_热榜去广告
 
 [MITM]
 hostname = www.zhihu.com,api.zhihu.com, appcloud2.zhihu.com,zhuanlan.zhihu.com
