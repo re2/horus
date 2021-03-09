@@ -326,7 +326,17 @@ let magicJS = MagicJS(scriptName, "INFO");
         try{
           if (!!magicJS.response.body){
             let obj = JSON.parse(magicJS.response.body);
-            obj['config']['homepage_feed_tab']['tab_infos'] = [];
+            let tab_infos = obj['config']['homepage_feed_tab']['tab_infos'].filter(e =>{
+              if (e.tab_type === 'activity_tab'){
+                e.end_time = (Date.parse(new Date()) - 60).toString();
+                return true;
+              }
+              else{
+                return false;
+              }
+            })
+            obj['config']['homepage_feed_tab']['tab_infos'] = tab_infos;
+            // obj['config']['homepage_feed_tab']['tab_infos'] = [];
             obj['config']['zvideo_max_number'] = 1;
             body = JSON.stringify(obj);
           }
