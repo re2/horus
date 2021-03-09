@@ -349,6 +349,19 @@ let magicJS = MagicJS(scriptName, "INFO");
           magicJS.logError(`优化知乎软件配置出现异常：${err}`);
         }
         break;
+      // 知乎热搜去广告
+      case /^https?:\/\/api\.zhihu\.com\/search\/top_search\/tabs\/hot\/items/.test(magicJS.request.url):
+        try{
+          if (!!magicJS.response.body){
+            let obj = JSON.parse(magicJS.response.body);
+            obj['commercial_data'] = [];
+            body = JSON.stringify(obj);
+          }
+        }
+        catch(err){
+          magicJS.logError(`去除知乎热搜广告出现异常：${err}`);
+        }
+        break;
       default: 
         magicJS.logWarning('触发意外的请求处理，请确认脚本或复写配置正常。');
         break;

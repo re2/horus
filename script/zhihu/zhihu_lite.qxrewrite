@@ -6,6 +6,8 @@
 ^https?:\/\/api\.zhihu\.com\/v4\/questions url script-response-body https://raw.githubusercontent.com/codetracer/horus/master/script/zhihu/zhihu_plus.js
 # 知乎预置关键词去广告
 ^https?:\/\/api\.zhihu\.com\/search\/preset_words\? url script-response-body https://raw.githubusercontent.com/codetracer/horus/master/script/zhihu/zhihu_plus.js
+# 知乎热搜去广告
+^https?:\/\/api\.zhihu\.com\/search\/top_search\/tabs\/hot\/items url script-response-body https://raw.githubusercontent.com/codetracer/horus/master/script/zhihu/zhihu_plus.js
 # 知乎去除回答下的广告
 ^https?:\/\/www\.zhihu\.com\/api\/v4\/answers\/\d+\/recommendations url reject-dict
 # 知乎其他广告拦截
