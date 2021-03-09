@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-09 11:07:40.847147
+# UPDATED: 2021-03-10 02:36:30.316266
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 62
 # DOMAIN-SUFFIX: 68678
-# DOMAIN: 14533
+# DOMAIN: 14506
 # IP-CIDR: 245
 # USER-AGENT: 1
 # URL-REGEX: 306
-# TOTAL: 83825
+# TOTAL: 83798
 0.up.qingdaonews.com
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -261,7 +261,6 @@
 5486.winxp.primosearch.com
 54fangtan.com
 56.mizdok.com
-56ecc.dfqdxsb6.com
 5740.4785.blueseek.com
 5755ac539651fe8f366.com
 5882.1158.blueseek.com
@@ -528,7 +527,6 @@ acortame.net
 acourseinpresence.com
 acoustoopticmodulator.com
 acproyectos.com
-acquaparkalphaville.com
 acquireenglish.org
 acquisizionevideo.com
 acrowiswhite.com
@@ -862,7 +860,6 @@ ads.popfolkstars.com
 ads.pressflex.com
 ads.proboards.com
 ads.propertycasualty360.com
-ads.proz.com
 ads.publicdisgrace.com
 ads.racunalniske-novice.com
 ads.radiatemedia.com
@@ -972,7 +969,6 @@ adserver.pressflex.com
 adserver.quizdingo.com
 adserver.realhomesex.net
 adserver.sitesense.com
-adserver.spankaway.com
 adserver.spctl.com
 adserver.startnow.com
 adserver.tappsgames.com
@@ -1176,6 +1172,7 @@ alaskaaair.com
 albamargroup.com
 albanypowerexchange.com
 albasha-lb.com
+alberguecasaanita.com
 albertohernandezart.com
 albiondrugs.com
 albullansa.com
@@ -1797,7 +1794,6 @@ asqpniwvxea.com
 assets-jpcust.jwpsrv.com
 assets.adobedtm.com
 assets.icubeswire.com
-assets.jetlore.com
 assetsoption.com
 assexyas.com
 astrocash.org
@@ -2739,7 +2735,6 @@ candycrush.newzgames.com
 candycrushcheat.com
 candycrushcheatzone.com
 canghaisan.com
-cangzhould.com
 cannabisace.com
 cannabislyric.com
 cannabispicture.com
@@ -2972,6 +2967,7 @@ chappel.videogamer.com
 characterfarm.com
 charbroil.inq.com
 charbroil.touchcommerce.com
+charcoaltechnology.com
 charity-bike-rides.net
 charleneamankwah.com
 chart.advinion.com
@@ -3064,7 +3060,6 @@ check-updates.net
 check2bill.org
 cheersfile.net
 chefnbrewfestival.com
-cheminfos.com
 cheshirehockey.com
 chesterfieldhypnosis.com
 chetnamehrotra.com
@@ -3100,6 +3095,7 @@ chinese.ahzh-pv.com
 chiselinteriors.com
 chlcotrk.com
 choicemobiledetailing.com
+chosecontrolyourself.xyz
 chotanito.com
 chrissalamone.com
 chrissyelder63.wixsite.com
@@ -3184,7 +3180,6 @@ clashofclanshelper.com
 clashofclanstool.com
 clashofclanswar.com
 clashofgems.net
-classicpastries.com
 classicspeedway.com
 clayheart.com
 clean-cracks.com
@@ -4221,6 +4216,7 @@ down.whphonesoft.com
 down.yxdfc.com
 down2.9apps.com
 down2.feiyang163.com
+down2.upantool.com
 down3.feiyang163.com
 down4.cr173.com
 downhack.net
@@ -4767,7 +4763,6 @@ evasi0njb.net
 evasion-jailbreak.com
 evasionjailbreak.net
 eve-online-credit.net
-event-tracking.com
 event.ksoft.com
 eventclergy.com
 eventgw.twilio.com
@@ -4870,9 +4865,7 @@ f.aty.sohu.com
 f.gj555.net
 f.thanksearch.com
 f0ad.notifychheck.com
-f1.luoshenbest.com
 f18.livechatvalue.com
-f2.luoshenbest.com
 f5mtrack.com
 f9918c3545cc7b.com
 faas.mtraction.com
@@ -5733,7 +5726,6 @@ garena.cheatsplanet.net
 garfinkle-lerner.com
 gargfireappliances.com
 gargiulocpa.com
-garimela.com
 garrygualach.com
 garudaairlines.com
 garysview.com
@@ -5861,7 +5853,6 @@ ggvvee.000webhostapp.com
 ghostteamone.com
 ghprofileconsult.com
 gibbywibbs.com
-gift.steamchristmas.com
 giftcards4fans.com
 giftcardsbay.com
 giftcardsforu.com
@@ -6434,7 +6425,6 @@ hdyj168.com.cn
 headless.ebkfwd.com
 healgastro.com
 health-partner.net
-health.luoshenbest.com
 healthbeautytrade.com
 healthdataknowledge.com
 healthforsurvival.com
@@ -6527,7 +6517,6 @@ hitcents.com
 hitcounter01.xspp.com
 hitdesignworks.com
 hitechequipmentsnfab.com
-hithomeloans.com
 hitmodel.net
 hits.epochstats.com
 hits.netgeography.net
@@ -6653,7 +6642,6 @@ hts4.adpremium.org
 http.52dsj.com
 httpdns.n.netease.com
 https443.net
-huagumei.com
 huakaile88.com
 huangjintawujin.cn
 huanqiucaijing.cn
@@ -6746,7 +6734,6 @@ icloud.account-id.com
 icloud21.com
 icloudupdates.com
 iclwy.xyz
-ico-telegram.org
 iconnect007mail.com
 iconnigeria.com
 icoocash.com
@@ -7204,7 +7191,6 @@ jafiles.net
 jafloorsatlanta.com
 jagcontractor.com
 jaghomeimprovement.com
-jagoanmarketplace.com
 jahnscpa.com
 jailbreak-app.com
 jailbreak7.newbetakey.com
@@ -7610,7 +7596,6 @@ kj.kai861.com
 kjbqzbiteubt.com
 kjsdi.kalphinc.com
 kkbyrd.000webhostapp.com
-kkk556677.com
 kkokkoyaa.com
 klaustrade.com
 kleinsaucer.com
@@ -7847,7 +7832,6 @@ legratuits.com
 lehaitv.com
 lehu910.com
 leightonhubble.com
-lelexing.cn
 lelong.000webhostapp.com
 lemoncash.net
 lenovo.inq.com
@@ -7907,7 +7891,6 @@ liderkirici.com
 lidertakipci.com
 liebao.us-uplive.ks-cdn.com
 life-antics.com
-life.luoshenbest.com
 lifegranit.com
 lifehackz.net
 lifeideas.site
@@ -8148,7 +8131,6 @@ luminahomecare.com
 luminousarabia.com
 lunarads.com
 luniteck.com
-luoshenbest.com
 lupapizzeria.com
 lushbombfree.com
 luxuryupgradepro.com
@@ -8172,7 +8154,6 @@ m.1234567.com.cn
 m.amtmobi.com
 m.login-secured.liraon.com
 m.loldlxmy.com
-m.luoshenbest.com
 m.medlife.com
 m.pl.failmobile.net
 m.recipes.timesofindia.com
@@ -8235,7 +8216,6 @@ majorfitus.com
 makeios.com
 makemoneymakemoney.net
 makemoneyonline.com
-makeup.luoshenbest.com
 makeupartistsd.com
 makeuptipsbykittu.com
 makewebapp.com
@@ -9846,7 +9826,6 @@ personas.unbounce.com
 peruanosencanada.com
 perugemstones.com
 perugiamurderfile.net
-peruginoimpianti.com
 peruniloviajes.com
 perupuntocom.com
 peskygamer.com
@@ -10104,7 +10083,6 @@ portaleast.inq.com
 portalhacks.com
 portfolioanalytics.net
 portosalte.com
-portraitphotographygroup.com
 portraitquest.com
 portrelay.com
 portrenfrewbeachhouse.com
@@ -10366,7 +10344,6 @@ push.smi2.net
 push2.eastmoney.com
 pushcloud.org
 pushedwebnews.com
-pushfeeds.com
 pushplay.com
 pussysaga.com
 pussyspace.com
@@ -11199,7 +11176,6 @@ sentry.sec.miui.com
 sentulhighlands.com
 seo-2-0.com
 seo-platform.com
-seo-tips.top
 seo4india.com
 seoanalyses.com
 seobook.top
@@ -12006,7 +11982,6 @@ steam.cooldownloadz.com
 steam.extafiles.com
 steam.legratuits.com
 steamcammunitu.com
-steamchristmas.com
 steamcommunita.com
 steamcommunitly.site88.net
 steamcommunituy.com
@@ -13200,7 +13175,6 @@ uploads.tmweb.ru
 uploadserver.net
 uploaduj.com
 uploadwire.com
-uploadwolf.com
 uponor.otistores.com
 uppyads.com
 uprisingdlcfree.com
@@ -13833,7 +13807,6 @@ worldofgenerators.com
 worldoftanksbonus.com
 worldoftankscheats.com
 worldorderpack.sharezips.net
-worldsoftwaredownloads.com
 worldteamart.com
 worldviewsproject.com
 worldwidehacking.com

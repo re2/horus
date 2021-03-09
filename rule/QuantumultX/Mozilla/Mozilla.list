@@ -1,7 +1,7 @@
 # NAME: Mozilla
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-09 11:07:39.902779
+# UPDATED: 2021-03-10 02:36:29.453577
 # HOST-SUFFIX: 18
 # TOTAL: 18
 HOST-SUFFIX,bugzilla.org,Mozilla

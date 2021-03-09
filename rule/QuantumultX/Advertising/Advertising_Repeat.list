@@ -1,7 +1,7 @@
 # NAME: Advertising 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-09 11:07:50.215115
+# UPDATED: 2021-03-10 02:36:38.941052
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 #  与 Hijacking 共 212 条规则重复
 HOST-SUFFIX,17gouwuba.com
@@ -3070,7 +3070,7 @@ HOST-SUFFIX,zs.dhl.de
 HOST-SUFFIX,zsi7.destinia.do
 HOST-SUFFIX,zyq2.destinia.sk
 HOST-SUFFIX,zz.bdstatic.com
-#  与 AdvertisingTest 共 59297 条规则重复
+#  与 AdvertisingTest 共 59270 条规则重复
 HOST,0.up.qingdaonews.com
 HOST,0001.2waky.com
 HOST,000lk3v.wcomhost.com
@@ -3322,7 +3322,6 @@ HOST,542446d.000webhostapp.com
 HOST,5486.winxp.primosearch.com
 HOST,54fangtan.com
 HOST,56.mizdok.com
-HOST,56ecc.dfqdxsb6.com
 HOST,5740.4785.blueseek.com
 HOST,5755ac539651fe8f366.com
 HOST,5882.1158.blueseek.com
@@ -3589,7 +3588,6 @@ HOST,acortame.net
 HOST,acourseinpresence.com
 HOST,acoustoopticmodulator.com
 HOST,acproyectos.com
-HOST,acquaparkalphaville.com
 HOST,acquireenglish.org
 HOST,acquisizionevideo.com
 HOST,acrowiswhite.com
@@ -3923,7 +3921,6 @@ HOST,ads.popfolkstars.com
 HOST,ads.pressflex.com
 HOST,ads.proboards.com
 HOST,ads.propertycasualty360.com
-HOST,ads.proz.com
 HOST,ads.publicdisgrace.com
 HOST,ads.racunalniske-novice.com
 HOST,ads.radiatemedia.com
@@ -4033,7 +4030,6 @@ HOST,adserver.pressflex.com
 HOST,adserver.quizdingo.com
 HOST,adserver.realhomesex.net
 HOST,adserver.sitesense.com
-HOST,adserver.spankaway.com
 HOST,adserver.spctl.com
 HOST,adserver.startnow.com
 HOST,adserver.tappsgames.com
@@ -4237,6 +4233,7 @@ HOST,alaskaaair.com
 HOST,albamargroup.com
 HOST,albanypowerexchange.com
 HOST,albasha-lb.com
+HOST,alberguecasaanita.com
 HOST,albertohernandezart.com
 HOST,albiondrugs.com
 HOST,albullansa.com
@@ -4858,7 +4855,6 @@ HOST,asqpniwvxea.com
 HOST,assets-jpcust.jwpsrv.com
 HOST,assets.adobedtm.com
 HOST,assets.icubeswire.com
-HOST,assets.jetlore.com
 HOST,assetsoption.com
 HOST,assexyas.com
 HOST,astrocash.org
@@ -5800,7 +5796,6 @@ HOST,candycrush.newzgames.com
 HOST,candycrushcheat.com
 HOST,candycrushcheatzone.com
 HOST,canghaisan.com
-HOST,cangzhould.com
 HOST,cannabisace.com
 HOST,cannabislyric.com
 HOST,cannabispicture.com
@@ -6033,6 +6028,7 @@ HOST,chappel.videogamer.com
 HOST,characterfarm.com
 HOST,charbroil.inq.com
 HOST,charbroil.touchcommerce.com
+HOST,charcoaltechnology.com
 HOST,charity-bike-rides.net
 HOST,charleneamankwah.com
 HOST,chart.advinion.com
@@ -6125,7 +6121,6 @@ HOST,check-updates.net
 HOST,check2bill.org
 HOST,cheersfile.net
 HOST,chefnbrewfestival.com
-HOST,cheminfos.com
 HOST,cheshirehockey.com
 HOST,chesterfieldhypnosis.com
 HOST,chetnamehrotra.com
@@ -6161,6 +6156,7 @@ HOST,chinese.ahzh-pv.com
 HOST,chiselinteriors.com
 HOST,chlcotrk.com
 HOST,choicemobiledetailing.com
+HOST,chosecontrolyourself.xyz
 HOST,chotanito.com
 HOST,chrissalamone.com
 HOST,chrissyelder63.wixsite.com
@@ -6245,7 +6241,6 @@ HOST,clashofclanshelper.com
 HOST,clashofclanstool.com
 HOST,clashofclanswar.com
 HOST,clashofgems.net
-HOST,classicpastries.com
 HOST,classicspeedway.com
 HOST,clayheart.com
 HOST,clean-cracks.com
@@ -7282,6 +7277,7 @@ HOST,down.whphonesoft.com
 HOST,down.yxdfc.com
 HOST,down2.9apps.com
 HOST,down2.feiyang163.com
+HOST,down2.upantool.com
 HOST,down3.feiyang163.com
 HOST,down4.cr173.com
 HOST,downhack.net
@@ -7828,7 +7824,6 @@ HOST,evasi0njb.net
 HOST,evasion-jailbreak.com
 HOST,evasionjailbreak.net
 HOST,eve-online-credit.net
-HOST,event-tracking.com
 HOST,event.ksoft.com
 HOST,eventclergy.com
 HOST,eventgw.twilio.com
@@ -7931,9 +7926,7 @@ HOST,f.aty.sohu.com
 HOST,f.gj555.net
 HOST,f.thanksearch.com
 HOST,f0ad.notifychheck.com
-HOST,f1.luoshenbest.com
 HOST,f18.livechatvalue.com
-HOST,f2.luoshenbest.com
 HOST,f5mtrack.com
 HOST,f9918c3545cc7b.com
 HOST,faas.mtraction.com
@@ -8794,7 +8787,6 @@ HOST,garena.cheatsplanet.net
 HOST,garfinkle-lerner.com
 HOST,gargfireappliances.com
 HOST,gargiulocpa.com
-HOST,garimela.com
 HOST,garrygualach.com
 HOST,garudaairlines.com
 HOST,garysview.com
@@ -8922,7 +8914,6 @@ HOST,ggvvee.000webhostapp.com
 HOST,ghostteamone.com
 HOST,ghprofileconsult.com
 HOST,gibbywibbs.com
-HOST,gift.steamchristmas.com
 HOST,giftcards4fans.com
 HOST,giftcardsbay.com
 HOST,giftcardsforu.com
@@ -9495,7 +9486,6 @@ HOST,hdyj168.com.cn
 HOST,headless.ebkfwd.com
 HOST,healgastro.com
 HOST,health-partner.net
-HOST,health.luoshenbest.com
 HOST,healthbeautytrade.com
 HOST,healthdataknowledge.com
 HOST,healthforsurvival.com
@@ -9588,7 +9578,6 @@ HOST,hitcents.com
 HOST,hitcounter01.xspp.com
 HOST,hitdesignworks.com
 HOST,hitechequipmentsnfab.com
-HOST,hithomeloans.com
 HOST,hitmodel.net
 HOST,hits.epochstats.com
 HOST,hits.netgeography.net
@@ -9714,7 +9703,6 @@ HOST,hts4.adpremium.org
 HOST,http.52dsj.com
 HOST,httpdns.n.netease.com
 HOST,https443.net
-HOST,huagumei.com
 HOST,huakaile88.com
 HOST,huangjintawujin.cn
 HOST,huanqiucaijing.cn
@@ -9807,7 +9795,6 @@ HOST,icloud.account-id.com
 HOST,icloud21.com
 HOST,icloudupdates.com
 HOST,iclwy.xyz
-HOST,ico-telegram.org
 HOST,iconnect007mail.com
 HOST,iconnigeria.com
 HOST,icoocash.com
@@ -10265,7 +10252,6 @@ HOST,jafiles.net
 HOST,jafloorsatlanta.com
 HOST,jagcontractor.com
 HOST,jaghomeimprovement.com
-HOST,jagoanmarketplace.com
 HOST,jahnscpa.com
 HOST,jailbreak-app.com
 HOST,jailbreak7.newbetakey.com
@@ -10671,7 +10657,6 @@ HOST,kj.kai861.com
 HOST,kjbqzbiteubt.com
 HOST,kjsdi.kalphinc.com
 HOST,kkbyrd.000webhostapp.com
-HOST,kkk556677.com
 HOST,kkokkoyaa.com
 HOST,klaustrade.com
 HOST,kleinsaucer.com
@@ -10908,7 +10893,6 @@ HOST,legratuits.com
 HOST,lehaitv.com
 HOST,lehu910.com
 HOST,leightonhubble.com
-HOST,lelexing.cn
 HOST,lelong.000webhostapp.com
 HOST,lemoncash.net
 HOST,lenovo.inq.com
@@ -10968,7 +10952,6 @@ HOST,liderkirici.com
 HOST,lidertakipci.com
 HOST,liebao.us-uplive.ks-cdn.com
 HOST,life-antics.com
-HOST,life.luoshenbest.com
 HOST,lifegranit.com
 HOST,lifehackz.net
 HOST,lifeideas.site
@@ -11209,7 +11192,6 @@ HOST,luminahomecare.com
 HOST,luminousarabia.com
 HOST,lunarads.com
 HOST,luniteck.com
-HOST,luoshenbest.com
 HOST,lupapizzeria.com
 HOST,lushbombfree.com
 HOST,luxuryupgradepro.com
@@ -11233,7 +11215,6 @@ HOST,m.1234567.com.cn
 HOST,m.amtmobi.com
 HOST,m.login-secured.liraon.com
 HOST,m.loldlxmy.com
-HOST,m.luoshenbest.com
 HOST,m.medlife.com
 HOST,m.pl.failmobile.net
 HOST,m.recipes.timesofindia.com
@@ -11296,7 +11277,6 @@ HOST,majorfitus.com
 HOST,makeios.com
 HOST,makemoneymakemoney.net
 HOST,makemoneyonline.com
-HOST,makeup.luoshenbest.com
 HOST,makeupartistsd.com
 HOST,makeuptipsbykittu.com
 HOST,makewebapp.com
@@ -12907,7 +12887,6 @@ HOST,personas.unbounce.com
 HOST,peruanosencanada.com
 HOST,perugemstones.com
 HOST,perugiamurderfile.net
-HOST,peruginoimpianti.com
 HOST,peruniloviajes.com
 HOST,perupuntocom.com
 HOST,peskygamer.com
@@ -13165,7 +13144,6 @@ HOST,portaleast.inq.com
 HOST,portalhacks.com
 HOST,portfolioanalytics.net
 HOST,portosalte.com
-HOST,portraitphotographygroup.com
 HOST,portraitquest.com
 HOST,portrelay.com
 HOST,portrenfrewbeachhouse.com
@@ -13427,7 +13405,6 @@ HOST,push.smi2.net
 HOST,push2.eastmoney.com
 HOST,pushcloud.org
 HOST,pushedwebnews.com
-HOST,pushfeeds.com
 HOST,pushplay.com
 HOST,pussysaga.com
 HOST,pussyspace.com
@@ -14260,7 +14237,6 @@ HOST,sentry.sec.miui.com
 HOST,sentulhighlands.com
 HOST,seo-2-0.com
 HOST,seo-platform.com
-HOST,seo-tips.top
 HOST,seo4india.com
 HOST,seoanalyses.com
 HOST,seobook.top
@@ -15067,7 +15043,6 @@ HOST,steam.cooldownloadz.com
 HOST,steam.extafiles.com
 HOST,steam.legratuits.com
 HOST,steamcammunitu.com
-HOST,steamchristmas.com
 HOST,steamcommunita.com
 HOST,steamcommunitly.site88.net
 HOST,steamcommunituy.com
@@ -16261,7 +16236,6 @@ HOST,uploads.tmweb.ru
 HOST,uploadserver.net
 HOST,uploaduj.com
 HOST,uploadwire.com
-HOST,uploadwolf.com
 HOST,uponor.otistores.com
 HOST,uppyads.com
 HOST,uprisingdlcfree.com
@@ -16894,7 +16868,6 @@ HOST,worldofgenerators.com
 HOST,worldoftanksbonus.com
 HOST,worldoftankscheats.com
 HOST,worldorderpack.sharezips.net
-HOST,worldsoftwaredownloads.com
 HOST,worldteamart.com
 HOST,worldviewsproject.com
 HOST,worldwidehacking.com
@@ -62392,7 +62365,7 @@ HOST-SUFFIX,ucweb.com
 HOST-SUFFIX,uflowx.com
 HOST-SUFFIX,xiaomengquan.cn
 HOST-SUFFIX,xmq123.cn
-#  与 AdvertisingLite 共 16138 条规则重复
+#  与 AdvertisingLite 共 16137 条规则重复
 HOST,0.up.qingdaonews.com
 HOST,0d847862199.com
 HOST,0icep80f.com
@@ -62503,6 +62476,7 @@ HOST,advancetec.co.uk
 HOST,adverigo.com
 HOST,advertisement.taobao.com
 HOST,advmania.com
+HOST,advserver.xyz
 HOST,adxmarket.com
 HOST,afa15.com.ne.kr
 HOST,affairexcuses.com
@@ -63011,7 +62985,6 @@ HOST,lzpv4rsmat.com
 HOST,m-vali.cp31.ott.cibntv.net
 HOST,m.1234567.com.cn
 HOST,m.aty.sohu.com
-HOST,m.laxienian888.com
 HOST,m.track.ad.xiaomi.com
 HOST,m.vjuei.com
 HOST,mahindrainsurance.com
@@ -63161,7 +63134,6 @@ HOST,popped.biz
 HOST,pornomovies.com
 HOST,port.bg
 HOST,portablevaporizer.com
-HOST,portraitphotographygroup.com
 HOST,pos-kupang.com
 HOST,potpourrichordataoscilloscope.com
 HOST,potvaporizer.com

@@ -1,7 +1,7 @@
 # NAME: Advertising 规则重复情况
 # AUTHOR: 
 # GITHUB: 
-# UPDATED: 2021-03-09 11:07:55.518197
+# UPDATED: 2021-03-10 02:36:43.834686
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 #  与 Hijacking 共 212 条规则重复
 DOMAIN-SUFFIX,17gouwuba.com
@@ -3070,7 +3070,7 @@ DOMAIN-SUFFIX,zs.dhl.de
 DOMAIN-SUFFIX,zsi7.destinia.do
 DOMAIN-SUFFIX,zyq2.destinia.sk
 DOMAIN-SUFFIX,zz.bdstatic.com
-#  与 AdvertisingTest 共 59603 条规则重复
+#  与 AdvertisingTest 共 59576 条规则重复
 DOMAIN,0.up.qingdaonews.com
 DOMAIN,0001.2waky.com
 DOMAIN,000lk3v.wcomhost.com
@@ -3322,7 +3322,6 @@ DOMAIN,542446d.000webhostapp.com
 DOMAIN,5486.winxp.primosearch.com
 DOMAIN,54fangtan.com
 DOMAIN,56.mizdok.com
-DOMAIN,56ecc.dfqdxsb6.com
 DOMAIN,5740.4785.blueseek.com
 DOMAIN,5755ac539651fe8f366.com
 DOMAIN,5882.1158.blueseek.com
@@ -3589,7 +3588,6 @@ DOMAIN,acortame.net
 DOMAIN,acourseinpresence.com
 DOMAIN,acoustoopticmodulator.com
 DOMAIN,acproyectos.com
-DOMAIN,acquaparkalphaville.com
 DOMAIN,acquireenglish.org
 DOMAIN,acquisizionevideo.com
 DOMAIN,acrowiswhite.com
@@ -3923,7 +3921,6 @@ DOMAIN,ads.popfolkstars.com
 DOMAIN,ads.pressflex.com
 DOMAIN,ads.proboards.com
 DOMAIN,ads.propertycasualty360.com
-DOMAIN,ads.proz.com
 DOMAIN,ads.publicdisgrace.com
 DOMAIN,ads.racunalniske-novice.com
 DOMAIN,ads.radiatemedia.com
@@ -4033,7 +4030,6 @@ DOMAIN,adserver.pressflex.com
 DOMAIN,adserver.quizdingo.com
 DOMAIN,adserver.realhomesex.net
 DOMAIN,adserver.sitesense.com
-DOMAIN,adserver.spankaway.com
 DOMAIN,adserver.spctl.com
 DOMAIN,adserver.startnow.com
 DOMAIN,adserver.tappsgames.com
@@ -4237,6 +4233,7 @@ DOMAIN,alaskaaair.com
 DOMAIN,albamargroup.com
 DOMAIN,albanypowerexchange.com
 DOMAIN,albasha-lb.com
+DOMAIN,alberguecasaanita.com
 DOMAIN,albertohernandezart.com
 DOMAIN,albiondrugs.com
 DOMAIN,albullansa.com
@@ -4858,7 +4855,6 @@ DOMAIN,asqpniwvxea.com
 DOMAIN,assets-jpcust.jwpsrv.com
 DOMAIN,assets.adobedtm.com
 DOMAIN,assets.icubeswire.com
-DOMAIN,assets.jetlore.com
 DOMAIN,assetsoption.com
 DOMAIN,assexyas.com
 DOMAIN,astrocash.org
@@ -5800,7 +5796,6 @@ DOMAIN,candycrush.newzgames.com
 DOMAIN,candycrushcheat.com
 DOMAIN,candycrushcheatzone.com
 DOMAIN,canghaisan.com
-DOMAIN,cangzhould.com
 DOMAIN,cannabisace.com
 DOMAIN,cannabislyric.com
 DOMAIN,cannabispicture.com
@@ -6033,6 +6028,7 @@ DOMAIN,chappel.videogamer.com
 DOMAIN,characterfarm.com
 DOMAIN,charbroil.inq.com
 DOMAIN,charbroil.touchcommerce.com
+DOMAIN,charcoaltechnology.com
 DOMAIN,charity-bike-rides.net
 DOMAIN,charleneamankwah.com
 DOMAIN,chart.advinion.com
@@ -6125,7 +6121,6 @@ DOMAIN,check-updates.net
 DOMAIN,check2bill.org
 DOMAIN,cheersfile.net
 DOMAIN,chefnbrewfestival.com
-DOMAIN,cheminfos.com
 DOMAIN,cheshirehockey.com
 DOMAIN,chesterfieldhypnosis.com
 DOMAIN,chetnamehrotra.com
@@ -6161,6 +6156,7 @@ DOMAIN,chinese.ahzh-pv.com
 DOMAIN,chiselinteriors.com
 DOMAIN,chlcotrk.com
 DOMAIN,choicemobiledetailing.com
+DOMAIN,chosecontrolyourself.xyz
 DOMAIN,chotanito.com
 DOMAIN,chrissalamone.com
 DOMAIN,chrissyelder63.wixsite.com
@@ -6245,7 +6241,6 @@ DOMAIN,clashofclanshelper.com
 DOMAIN,clashofclanstool.com
 DOMAIN,clashofclanswar.com
 DOMAIN,clashofgems.net
-DOMAIN,classicpastries.com
 DOMAIN,classicspeedway.com
 DOMAIN,clayheart.com
 DOMAIN,clean-cracks.com
@@ -7282,6 +7277,7 @@ DOMAIN,down.whphonesoft.com
 DOMAIN,down.yxdfc.com
 DOMAIN,down2.9apps.com
 DOMAIN,down2.feiyang163.com
+DOMAIN,down2.upantool.com
 DOMAIN,down3.feiyang163.com
 DOMAIN,down4.cr173.com
 DOMAIN,downhack.net
@@ -7828,7 +7824,6 @@ DOMAIN,evasi0njb.net
 DOMAIN,evasion-jailbreak.com
 DOMAIN,evasionjailbreak.net
 DOMAIN,eve-online-credit.net
-DOMAIN,event-tracking.com
 DOMAIN,event.ksoft.com
 DOMAIN,eventclergy.com
 DOMAIN,eventgw.twilio.com
@@ -7931,9 +7926,7 @@ DOMAIN,f.aty.sohu.com
 DOMAIN,f.gj555.net
 DOMAIN,f.thanksearch.com
 DOMAIN,f0ad.notifychheck.com
-DOMAIN,f1.luoshenbest.com
 DOMAIN,f18.livechatvalue.com
-DOMAIN,f2.luoshenbest.com
 DOMAIN,f5mtrack.com
 DOMAIN,f9918c3545cc7b.com
 DOMAIN,faas.mtraction.com
@@ -8794,7 +8787,6 @@ DOMAIN,garena.cheatsplanet.net
 DOMAIN,garfinkle-lerner.com
 DOMAIN,gargfireappliances.com
 DOMAIN,gargiulocpa.com
-DOMAIN,garimela.com
 DOMAIN,garrygualach.com
 DOMAIN,garudaairlines.com
 DOMAIN,garysview.com
@@ -8922,7 +8914,6 @@ DOMAIN,ggvvee.000webhostapp.com
 DOMAIN,ghostteamone.com
 DOMAIN,ghprofileconsult.com
 DOMAIN,gibbywibbs.com
-DOMAIN,gift.steamchristmas.com
 DOMAIN,giftcards4fans.com
 DOMAIN,giftcardsbay.com
 DOMAIN,giftcardsforu.com
@@ -9495,7 +9486,6 @@ DOMAIN,hdyj168.com.cn
 DOMAIN,headless.ebkfwd.com
 DOMAIN,healgastro.com
 DOMAIN,health-partner.net
-DOMAIN,health.luoshenbest.com
 DOMAIN,healthbeautytrade.com
 DOMAIN,healthdataknowledge.com
 DOMAIN,healthforsurvival.com
@@ -9588,7 +9578,6 @@ DOMAIN,hitcents.com
 DOMAIN,hitcounter01.xspp.com
 DOMAIN,hitdesignworks.com
 DOMAIN,hitechequipmentsnfab.com
-DOMAIN,hithomeloans.com
 DOMAIN,hitmodel.net
 DOMAIN,hits.epochstats.com
 DOMAIN,hits.netgeography.net
@@ -9714,7 +9703,6 @@ DOMAIN,hts4.adpremium.org
 DOMAIN,http.52dsj.com
 DOMAIN,httpdns.n.netease.com
 DOMAIN,https443.net
-DOMAIN,huagumei.com
 DOMAIN,huakaile88.com
 DOMAIN,huangjintawujin.cn
 DOMAIN,huanqiucaijing.cn
@@ -9807,7 +9795,6 @@ DOMAIN,icloud.account-id.com
 DOMAIN,icloud21.com
 DOMAIN,icloudupdates.com
 DOMAIN,iclwy.xyz
-DOMAIN,ico-telegram.org
 DOMAIN,iconnect007mail.com
 DOMAIN,iconnigeria.com
 DOMAIN,icoocash.com
@@ -10265,7 +10252,6 @@ DOMAIN,jafiles.net
 DOMAIN,jafloorsatlanta.com
 DOMAIN,jagcontractor.com
 DOMAIN,jaghomeimprovement.com
-DOMAIN,jagoanmarketplace.com
 DOMAIN,jahnscpa.com
 DOMAIN,jailbreak-app.com
 DOMAIN,jailbreak7.newbetakey.com
@@ -10671,7 +10657,6 @@ DOMAIN,kj.kai861.com
 DOMAIN,kjbqzbiteubt.com
 DOMAIN,kjsdi.kalphinc.com
 DOMAIN,kkbyrd.000webhostapp.com
-DOMAIN,kkk556677.com
 DOMAIN,kkokkoyaa.com
 DOMAIN,klaustrade.com
 DOMAIN,kleinsaucer.com
@@ -10908,7 +10893,6 @@ DOMAIN,legratuits.com
 DOMAIN,lehaitv.com
 DOMAIN,lehu910.com
 DOMAIN,leightonhubble.com
-DOMAIN,lelexing.cn
 DOMAIN,lelong.000webhostapp.com
 DOMAIN,lemoncash.net
 DOMAIN,lenovo.inq.com
@@ -10968,7 +10952,6 @@ DOMAIN,liderkirici.com
 DOMAIN,lidertakipci.com
 DOMAIN,liebao.us-uplive.ks-cdn.com
 DOMAIN,life-antics.com
-DOMAIN,life.luoshenbest.com
 DOMAIN,lifegranit.com
 DOMAIN,lifehackz.net
 DOMAIN,lifeideas.site
@@ -11209,7 +11192,6 @@ DOMAIN,luminahomecare.com
 DOMAIN,luminousarabia.com
 DOMAIN,lunarads.com
 DOMAIN,luniteck.com
-DOMAIN,luoshenbest.com
 DOMAIN,lupapizzeria.com
 DOMAIN,lushbombfree.com
 DOMAIN,luxuryupgradepro.com
@@ -11233,7 +11215,6 @@ DOMAIN,m.1234567.com.cn
 DOMAIN,m.amtmobi.com
 DOMAIN,m.login-secured.liraon.com
 DOMAIN,m.loldlxmy.com
-DOMAIN,m.luoshenbest.com
 DOMAIN,m.medlife.com
 DOMAIN,m.pl.failmobile.net
 DOMAIN,m.recipes.timesofindia.com
@@ -11296,7 +11277,6 @@ DOMAIN,majorfitus.com
 DOMAIN,makeios.com
 DOMAIN,makemoneymakemoney.net
 DOMAIN,makemoneyonline.com
-DOMAIN,makeup.luoshenbest.com
 DOMAIN,makeupartistsd.com
 DOMAIN,makeuptipsbykittu.com
 DOMAIN,makewebapp.com
@@ -12907,7 +12887,6 @@ DOMAIN,personas.unbounce.com
 DOMAIN,peruanosencanada.com
 DOMAIN,perugemstones.com
 DOMAIN,perugiamurderfile.net
-DOMAIN,peruginoimpianti.com
 DOMAIN,peruniloviajes.com
 DOMAIN,perupuntocom.com
 DOMAIN,peskygamer.com
@@ -13165,7 +13144,6 @@ DOMAIN,portaleast.inq.com
 DOMAIN,portalhacks.com
 DOMAIN,portfolioanalytics.net
 DOMAIN,portosalte.com
-DOMAIN,portraitphotographygroup.com
 DOMAIN,portraitquest.com
 DOMAIN,portrelay.com
 DOMAIN,portrenfrewbeachhouse.com
@@ -13427,7 +13405,6 @@ DOMAIN,push.smi2.net
 DOMAIN,push2.eastmoney.com
 DOMAIN,pushcloud.org
 DOMAIN,pushedwebnews.com
-DOMAIN,pushfeeds.com
 DOMAIN,pushplay.com
 DOMAIN,pussysaga.com
 DOMAIN,pussyspace.com
@@ -14260,7 +14237,6 @@ DOMAIN,sentry.sec.miui.com
 DOMAIN,sentulhighlands.com
 DOMAIN,seo-2-0.com
 DOMAIN,seo-platform.com
-DOMAIN,seo-tips.top
 DOMAIN,seo4india.com
 DOMAIN,seoanalyses.com
 DOMAIN,seobook.top
@@ -15067,7 +15043,6 @@ DOMAIN,steam.cooldownloadz.com
 DOMAIN,steam.extafiles.com
 DOMAIN,steam.legratuits.com
 DOMAIN,steamcammunitu.com
-DOMAIN,steamchristmas.com
 DOMAIN,steamcommunita.com
 DOMAIN,steamcommunitly.site88.net
 DOMAIN,steamcommunituy.com
@@ -16261,7 +16236,6 @@ DOMAIN,uploads.tmweb.ru
 DOMAIN,uploadserver.net
 DOMAIN,uploaduj.com
 DOMAIN,uploadwire.com
-DOMAIN,uploadwolf.com
 DOMAIN,uponor.otistores.com
 DOMAIN,uppyads.com
 DOMAIN,uprisingdlcfree.com
@@ -16894,7 +16868,6 @@ DOMAIN,worldofgenerators.com
 DOMAIN,worldoftanksbonus.com
 DOMAIN,worldoftankscheats.com
 DOMAIN,worldorderpack.sharezips.net
-DOMAIN,worldsoftwaredownloads.com
 DOMAIN,worldteamart.com
 DOMAIN,worldviewsproject.com
 DOMAIN,worldwidehacking.com
@@ -62698,7 +62671,7 @@ DOMAIN-SUFFIX,ucweb.com
 DOMAIN-SUFFIX,uflowx.com
 DOMAIN-SUFFIX,xiaomengquan.cn
 DOMAIN-SUFFIX,xmq123.cn
-#  与 AdvertisingLite 共 16437 条规则重复
+#  与 AdvertisingLite 共 16436 条规则重复
 DOMAIN,0.up.qingdaonews.com
 DOMAIN,0d847862199.com
 DOMAIN,0icep80f.com
@@ -62809,6 +62782,7 @@ DOMAIN,advancetec.co.uk
 DOMAIN,adverigo.com
 DOMAIN,advertisement.taobao.com
 DOMAIN,advmania.com
+DOMAIN,advserver.xyz
 DOMAIN,adxmarket.com
 DOMAIN,afa15.com.ne.kr
 DOMAIN,affairexcuses.com
@@ -63317,7 +63291,6 @@ DOMAIN,lzpv4rsmat.com
 DOMAIN,m-vali.cp31.ott.cibntv.net
 DOMAIN,m.1234567.com.cn
 DOMAIN,m.aty.sohu.com
-DOMAIN,m.laxienian888.com
 DOMAIN,m.track.ad.xiaomi.com
 DOMAIN,m.vjuei.com
 DOMAIN,mahindrainsurance.com
@@ -63467,7 +63440,6 @@ DOMAIN,popped.biz
 DOMAIN,pornomovies.com
 DOMAIN,port.bg
 DOMAIN,portablevaporizer.com
-DOMAIN,portraitphotographygroup.com
 DOMAIN,pos-kupang.com
 DOMAIN,potpourrichordataoscilloscope.com
 DOMAIN,potvaporizer.com
