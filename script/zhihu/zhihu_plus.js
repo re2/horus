@@ -367,6 +367,22 @@ let magicJS = MagicJS(scriptName, "INFO");
           magicJS.logError(`去除知乎热搜广告出现异常：${err}`);
         }
         break;
+      // 知乎热榜去广告
+      case /^https?:\/\/api\.zhihu\.com\/topstory\/hot-list/.test(magicJS.request.url):
+        try{
+          if (!!magicJS.response.body){
+            let obj = JSON.parse(magicJS.response.body);
+            let data = obj['data'].filter(e => {
+              return e['type'] !== 'feed_advert';
+            })
+            obj['data'] = data;
+            body = JSON.stringify(obj);
+          }
+        }
+        catch(err){
+          magicJS.logError(`去除知乎热搜广告出现异常：${err}`);
+        }
+        break;
       default: 
         magicJS.logWarning('触发意外的请求处理，请确认脚本或复写配置正常。');
         break;

@@ -24,6 +24,8 @@
 ^https?:\/\/appcloud2\.zhihu\.com\/v\d+\/config url script-response-body https://raw.githubusercontent.com/codetracer/horus/master/script/zhihu/zhihu_plus.js
 # 知乎热搜去广告
 ^https?:\/\/api\.zhihu\.com\/search\/top_search\/tabs\/hot\/items url script-response-body https://raw.githubusercontent.com/codetracer/horus/master/script/zhihu/zhihu_plus.js
+# 知乎热榜去广告
+^https?:\/\/api\.zhihu\.com\/topstory\/hot-list url script-response-body https://raw.githubusercontent.com/codetracer/horus/master/script/zhihu/zhihu_plus.js
 # 知乎网页版去广告
 ^https?:\/\/www\.zhihu\.com\/api\/v4/(questions|anwsers)\/\d+/related-readings url reject-dict
 ^https?:\/\/www\.zhihu\.com\/api\/v4\/hot_recommendation url reject-dict
