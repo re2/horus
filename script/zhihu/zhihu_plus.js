@@ -373,7 +373,8 @@ let magicJS = MagicJS(scriptName, "INFO");
           if (!!magicJS.response.body){
             let obj = JSON.parse(magicJS.response.body);
             let data = obj['data'].filter(e => {
-              return e['type'] === 'hot_list_feed';
+              // return e['type'] === 'hot_list_feed';
+              return e['type'] === 'feed_advert';
             })
             obj['data'] = data;
             body = JSON.stringify(obj);
