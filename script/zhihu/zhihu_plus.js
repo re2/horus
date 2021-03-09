@@ -354,11 +354,12 @@ let magicJS = MagicJS(scriptName, "INFO");
         try{
           if (!!magicJS.response.body){
             let obj = JSON.parse(magicJS.response.body);
-            let commercial_data = obj['commercial_data'].map(e =>{
-              e['ad_commercial_json'] = "";
-              return e;
-            })
-            obj['commercial_data'] = commercial_data;
+            // let commercial_data = obj['commercial_data'].map(e =>{
+            //   e['ad_commercial_json'] = "";
+            //   return e;
+            // })
+            // obj['commercial_data'] = commercial_data;
+            obj['commercial_data'] = [];
             body = JSON.stringify(obj);
           }
         }
