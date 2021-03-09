@@ -311,8 +311,8 @@ let magicJS = MagicJS(scriptName, "INFO");
             if (obj.hasOwnProperty('preset_words') && obj['preset_words']['words']){
               let words = obj['preset_words']['words'].map((element)=>{
                 if (element['type'] === 'ad'){
-                  element['begin_ts'] = (Date.parse(new Date()) - 3600).toString();
-                  element['end_ts'] = (Date.parse(new Date()) - 60).toString();
+                  element['begin_ts'] = (Date.parse(new Date()) - 360000).toString().substr(0,10);
+                  element['end_ts'] = (Date.parse(new Date()) - 120000).toString().substr(0,10);
                   return element;
                 }
                 return element
@@ -333,7 +333,7 @@ let magicJS = MagicJS(scriptName, "INFO");
             let obj = JSON.parse(magicJS.response.body);
             let tab_infos = obj['config']['homepage_feed_tab']['tab_infos'].filter(e =>{
               if (e.tab_type === 'activity_tab'){
-                e.end_time = (Date.parse(new Date()) - 60).toString();
+                e.end_time = (Date.parse(new Date()) - 120000).toString().substr(0,10);
                 return true;
               }
               else{
