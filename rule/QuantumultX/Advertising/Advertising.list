@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-09 02:24:49.011209
+# UPDATED: 2021-03-09 10:25:54.401587
 # HOST-KEYWORD: 62
 # HOST-SUFFIX: 44648
-# HOST: 20887
+# HOST: 20890
 # IP-CIDR: 244
 # USER-AGENT: 1
-# TOTAL: 65842
+# TOTAL: 65845
 HOST,0.nextyourcontent.com,Advertising
 HOST,0.up.qingdaonews.com,Advertising
 HOST,0001.2waky.com,Advertising
@@ -9157,6 +9157,7 @@ HOST,goldendownloads247.com,Advertising
 HOST,goldenliquor.com,Advertising
 HOST,goldenuploading.com,Advertising
 HOST,goldgamehacks.com,Advertising
+HOST,goldlambotrader.co,Advertising
 HOST,goldmanplastics.com,Advertising
 HOST,goldmsia.com,Advertising
 HOST,goldshare.net,Advertising
@@ -10605,6 +10606,7 @@ HOST,isablampungport.com,Advertising
 HOST,isafruta.com,Advertising
 HOST,isalvador.000webhostapp.com,Advertising
 HOST,isbcoaching.com,Advertising
+HOST,isceponlinesube.com,Advertising
 HOST,isettatech.com,Advertising
 HOST,isfxsiooyjad.com,Advertising
 HOST,ishanvis.com,Advertising
@@ -20402,6 +20404,7 @@ HOST,xhamstertube.com,Advertising
 HOST,xhqsysp.com,Advertising
 HOST,xhvhisywkvha.com,Advertising
 HOST,xiamenoa.com,Advertising
+HOST,xiamiss.wap.xsbiquge.com,Advertising
 HOST,xianyicao.net,Advertising
 HOST,xiaocen.com,Advertising
 HOST,xiaomovie.com,Advertising

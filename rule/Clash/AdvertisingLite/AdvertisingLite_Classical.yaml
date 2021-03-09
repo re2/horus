@@ -1,12 +1,12 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-09 02:24:53.272994
+# UPDATED: 2021-03-09 10:25:58.785549
 # DOMAIN-KEYWORD: 29
 # DOMAIN-SUFFIX: 15297
-# DOMAIN: 15389
+# DOMAIN: 15393
 # IP-CIDR: 192
-# TOTAL: 30907
+# TOTAL: 30911
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,00-gov.cn
@@ -246,6 +246,7 @@ payload:
   - DOMAIN,3.up.qingdaonews.com
   - DOMAIN,303marketplace.com
   - DOMAIN,30b9e3a7d7e2b.com
+  - DOMAIN,30daychange.co
   - DOMAIN,315gg.com
   - DOMAIN,31a5610ce3a8a2.com
   - DOMAIN,31ab9d66427a22.com
@@ -6225,6 +6226,7 @@ payload:
   - DOMAIN,goingup.com
   - DOMAIN,gokjicokl.com
   - DOMAIN,golderotica.com
+  - DOMAIN,goldlambotrader.co
   - DOMAIN,goldoffer.online
   - DOMAIN,goldstats.com
   - DOMAIN,gomain.pro
@@ -14874,6 +14876,7 @@ payload:
   - DOMAIN,wzfxiaggxcpjb.com
   - DOMAIN,wzrk.co
   - DOMAIN,wzrkt.com
+  - DOMAIN,wzxdsgnqpnu.com
   - DOMAIN,x-adservice.com
   - DOMAIN,x-stat.de
   - DOMAIN,x-traceur.com
@@ -14922,6 +14925,7 @@ payload:
   - DOMAIN,xhit.com
   - DOMAIN,xhnt.snqrk.cn
   - DOMAIN,xi9p.com
+  - DOMAIN,xiamiss.wap.xsbiquge.com
   - DOMAIN,xiaomeihq.info
   - DOMAIN,xiaomiaoquan.com
   - DOMAIN,xiaoyida.com

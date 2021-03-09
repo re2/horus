@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-09 02:24:46.631912
+# UPDATED: 2021-03-09 10:25:51.902715
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 62
 # DOMAIN-SUFFIX: 44648
-# DOMAIN: 20887
+# DOMAIN: 20890
 # IP-CIDR: 244
 # USER-AGENT: 1
 # URL-REGEX: 306
-# TOTAL: 66148
+# TOTAL: 66151
 0.nextyourcontent.com
 0.up.qingdaonews.com
 0001.2waky.com
@@ -9159,6 +9159,7 @@ goldendownloads247.com
 goldenliquor.com
 goldenuploading.com
 goldgamehacks.com
+goldlambotrader.co
 goldmanplastics.com
 goldmsia.com
 goldshare.net
@@ -10607,6 +10608,7 @@ isablampungport.com
 isafruta.com
 isalvador.000webhostapp.com
 isbcoaching.com
+isceponlinesube.com
 isettatech.com
 isfxsiooyjad.com
 ishanvis.com
@@ -20404,6 +20406,7 @@ xhamstertube.com
 xhqsysp.com
 xhvhisywkvha.com
 xiamenoa.com
+xiamiss.wap.xsbiquge.com
 xianyicao.net
 xiaocen.com
 xiaomovie.com

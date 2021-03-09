@@ -1,7 +1,7 @@
 # NAME: AdvertisingTest 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-09 02:24:57.895524
+# UPDATED: 2021-03-09 10:26:03.599317
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 #  与 Hijacking 共 212 条规则重复
 DOMAIN-SUFFIX,17gouwuba.com
@@ -3002,7 +3002,7 @@ DOMAIN-SUFFIX,zs.dhl.de
 DOMAIN-SUFFIX,zsi7.destinia.do
 DOMAIN-SUFFIX,zyq2.destinia.sk
 DOMAIN-SUFFIX,zz.bdstatic.com
-#  与 Advertising 共 59599 条规则重复
+#  与 Advertising 共 59602 条规则重复
 DOMAIN,0.up.qingdaonews.com
 DOMAIN,0001.2waky.com
 DOMAIN,000lk3v.wcomhost.com
@@ -8979,6 +8979,7 @@ DOMAIN,goldendownloads247.com
 DOMAIN,goldenliquor.com
 DOMAIN,goldenuploading.com
 DOMAIN,goldgamehacks.com
+DOMAIN,goldlambotrader.co
 DOMAIN,goldmanplastics.com
 DOMAIN,goldmsia.com
 DOMAIN,goldshare.net
@@ -10121,6 +10122,7 @@ DOMAIN,isablampungport.com
 DOMAIN,isafruta.com
 DOMAIN,isalvador.000webhostapp.com
 DOMAIN,isbcoaching.com
+DOMAIN,isceponlinesube.com
 DOMAIN,isettatech.com
 DOMAIN,isfxsiooyjad.com
 DOMAIN,ishanvis.com
@@ -17155,6 +17157,7 @@ DOMAIN,xhamstertube.com
 DOMAIN,xhqsysp.com
 DOMAIN,xhvhisywkvha.com
 DOMAIN,xiamenoa.com
+DOMAIN,xiamiss.wap.xsbiquge.com
 DOMAIN,xianyicao.net
 DOMAIN,xiaocen.com
 DOMAIN,xiaomovie.com
@@ -62626,7 +62629,7 @@ DOMAIN-SUFFIX,ucweb.com
 DOMAIN-SUFFIX,uflowx.com
 DOMAIN-SUFFIX,xiaomengquan.cn
 DOMAIN-SUFFIX,xmq123.cn
-#  与 AdvertisingLite 共 16046 条规则重复
+#  与 AdvertisingLite 共 16048 条规则重复
 DOMAIN,0.up.qingdaonews.com
 DOMAIN,0d847862199.com
 DOMAIN,0icep80f.com
@@ -62966,6 +62969,7 @@ DOMAIN,getdatanetukscan.info
 DOMAIN,gklmedia.com
 DOMAIN,go-quicky.com
 DOMAIN,gogetgorgeous.com
+DOMAIN,goldlambotrader.co
 DOMAIN,gravityexp.com
 DOMAIN,grtbzrsndrrtsb.com
 DOMAIN,guess.tf.360.cn
@@ -63570,6 +63574,7 @@ DOMAIN,www.zyxyfy.com
 DOMAIN,wxa.wxs.qq.com
 DOMAIN,wxbrdppfpr.com
 DOMAIN,xamateurpornlic.www1.biz
+DOMAIN,xiamiss.wap.xsbiquge.com
 DOMAIN,xindalawyer.com
 DOMAIN,xlmis.com
 DOMAIN,xn--18225-zta.biz

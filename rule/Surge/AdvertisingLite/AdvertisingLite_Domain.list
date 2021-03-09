@@ -1,15 +1,15 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-09 02:24:46.560337
+# UPDATED: 2021-03-09 10:25:51.836831
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 29
 # DOMAIN-SUFFIX: 15297
-# DOMAIN: 15389
+# DOMAIN: 15393
 # IP-CIDR: 192
 # USER-AGENT: 1
 # URL-REGEX: 299
-# TOTAL: 31207
+# TOTAL: 31211
 0.up.qingdaonews.com
 00-gov.cn
 0024aadd.com
@@ -248,6 +248,7 @@
 3.up.qingdaonews.com
 303marketplace.com
 30b9e3a7d7e2b.com
+30daychange.co
 315gg.com
 31a5610ce3a8a2.com
 31ab9d66427a22.com
@@ -6227,6 +6228,7 @@ gohillgo.com
 goingup.com
 gokjicokl.com
 golderotica.com
+goldlambotrader.co
 goldoffer.online
 goldstats.com
 gomain.pro
@@ -14876,6 +14878,7 @@ wzfjsh.cn
 wzfxiaggxcpjb.com
 wzrk.co
 wzrkt.com
+wzxdsgnqpnu.com
 x-adservice.com
 x-stat.de
 x-traceur.com
@@ -14924,6 +14927,7 @@ xhamstercams.com
 xhit.com
 xhnt.snqrk.cn
 xi9p.com
+xiamiss.wap.xsbiquge.com
 xiaomeihq.info
 xiaomiaoquan.com
 xiaoyida.com

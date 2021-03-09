@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-09 02:24:48.945327
+# UPDATED: 2021-03-09 10:25:54.338637
 # HOST-KEYWORD: 29
 # HOST-SUFFIX: 15297
-# HOST: 15389
+# HOST: 15393
 # IP-CIDR: 192
 # USER-AGENT: 1
-# TOTAL: 30908
+# TOTAL: 30912
 HOST,0.up.qingdaonews.com,AdvertisingLite
 HOST,00-gov.cn,AdvertisingLite
 HOST,0024aadd.com,AdvertisingLite
@@ -246,6 +246,7 @@ HOST,3.iscrv.com,AdvertisingLite
 HOST,3.up.qingdaonews.com,AdvertisingLite
 HOST,303marketplace.com,AdvertisingLite
 HOST,30b9e3a7d7e2b.com,AdvertisingLite
+HOST,30daychange.co,AdvertisingLite
 HOST,315gg.com,AdvertisingLite
 HOST,31a5610ce3a8a2.com,AdvertisingLite
 HOST,31ab9d66427a22.com,AdvertisingLite
@@ -6225,6 +6226,7 @@ HOST,gohillgo.com,AdvertisingLite
 HOST,goingup.com,AdvertisingLite
 HOST,gokjicokl.com,AdvertisingLite
 HOST,golderotica.com,AdvertisingLite
+HOST,goldlambotrader.co,AdvertisingLite
 HOST,goldoffer.online,AdvertisingLite
 HOST,goldstats.com,AdvertisingLite
 HOST,gomain.pro,AdvertisingLite
@@ -14874,6 +14876,7 @@ HOST,wzfjsh.cn,AdvertisingLite
 HOST,wzfxiaggxcpjb.com,AdvertisingLite
 HOST,wzrk.co,AdvertisingLite
 HOST,wzrkt.com,AdvertisingLite
+HOST,wzxdsgnqpnu.com,AdvertisingLite
 HOST,x-adservice.com,AdvertisingLite
 HOST,x-stat.de,AdvertisingLite
 HOST,x-traceur.com,AdvertisingLite
@@ -14922,6 +14925,7 @@ HOST,xhamstercams.com,AdvertisingLite
 HOST,xhit.com,AdvertisingLite
 HOST,xhnt.snqrk.cn,AdvertisingLite
 HOST,xi9p.com,AdvertisingLite
+HOST,xiamiss.wap.xsbiquge.com,AdvertisingLite
 HOST,xiaomeihq.info,AdvertisingLite
 HOST,xiaomiaoquan.com,AdvertisingLite
 HOST,xiaoyida.com,AdvertisingLite

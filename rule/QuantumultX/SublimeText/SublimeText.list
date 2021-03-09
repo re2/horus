@@ -1,7 +1,7 @@
 # NAME: SublimeText
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-09 02:24:50.431188
+# UPDATED: 2021-03-09 10:25:55.778729
 # HOST-SUFFIX: 4
 # TOTAL: 4
 HOST-SUFFIX,packagecontrol.io,SublimeText

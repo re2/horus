@@ -1,7 +1,7 @@
 # NAME: Advertising 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-09 02:24:59.424966
+# UPDATED: 2021-03-09 10:26:05.200965
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 #  与 Hijacking 共 212 条规则重复
 HOST-SUFFIX,17gouwuba.com
@@ -3070,7 +3070,7 @@ HOST-SUFFIX,zs.dhl.de
 HOST-SUFFIX,zsi7.destinia.do
 HOST-SUFFIX,zyq2.destinia.sk
 HOST-SUFFIX,zz.bdstatic.com
-#  与 AdvertisingTest 共 59293 条规则重复
+#  与 AdvertisingTest 共 59296 条规则重复
 HOST,0.up.qingdaonews.com
 HOST,0001.2waky.com
 HOST,000lk3v.wcomhost.com
@@ -9047,6 +9047,7 @@ HOST,goldendownloads247.com
 HOST,goldenliquor.com
 HOST,goldenuploading.com
 HOST,goldgamehacks.com
+HOST,goldlambotrader.co
 HOST,goldmanplastics.com
 HOST,goldmsia.com
 HOST,goldshare.net
@@ -10189,6 +10190,7 @@ HOST,isablampungport.com
 HOST,isafruta.com
 HOST,isalvador.000webhostapp.com
 HOST,isbcoaching.com
+HOST,isceponlinesube.com
 HOST,isettatech.com
 HOST,isfxsiooyjad.com
 HOST,ishanvis.com
@@ -17223,6 +17225,7 @@ HOST,xhamstertube.com
 HOST,xhqsysp.com
 HOST,xhvhisywkvha.com
 HOST,xiamenoa.com
+HOST,xiamiss.wap.xsbiquge.com
 HOST,xianyicao.net
 HOST,xiaocen.com
 HOST,xiaomovie.com
@@ -62388,7 +62391,7 @@ HOST-SUFFIX,ucweb.com
 HOST-SUFFIX,uflowx.com
 HOST-SUFFIX,xiaomengquan.cn
 HOST-SUFFIX,xmq123.cn
-#  与 AdvertisingLite 共 16136 条规则重复
+#  与 AdvertisingLite 共 16138 条规则重复
 HOST,0.up.qingdaonews.com
 HOST,0d847862199.com
 HOST,0icep80f.com
@@ -62853,6 +62856,7 @@ HOST,gleechood.com
 HOST,gloorajo.com
 HOST,go-quicky.com
 HOST,gogetgorgeous.com
+HOST,goldlambotrader.co
 HOST,grand-ads.com
 HOST,gravityexp.com
 HOST,gredinatib.org
@@ -63611,6 +63615,7 @@ HOST,wxbrdppfpr.com
 HOST,x.mochiads.com
 HOST,xamateurpornlic.www1.biz
 HOST,xdtraffic.com
+HOST,xiamiss.wap.xsbiquge.com
 HOST,xindalawyer.com
 HOST,xlmis.com
 HOST,xn--18225-zta.biz
