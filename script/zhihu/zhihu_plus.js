@@ -58,7 +58,7 @@ let magicJS = MagicJS(scriptName, "INFO");
             magicJS.logDebug(`当前用户id：${obj['id']}，是否为VIP：${obj['vip_info']['is_vip']}`);
           }
           else{
-            magicJS.logWarning(`没有获取到当前登录用户信息，已设置为默认用户配置。如果未登录知乎请忽略此日志。`);
+            magicJS.logWarning(`没有获取到当前登录用户信息，已设置为默认用户配置。如未对功能造成影响，请忽略此日志。`);
           }
         }
         catch(err){
@@ -309,8 +309,13 @@ let magicJS = MagicJS(scriptName, "INFO");
             magicJS.logDebug(`预置关键字返回：${magicJS.response.body}`);
             let obj = JSON.parse(magicJS.response.body);
             if (obj.hasOwnProperty('preset_words') && obj['preset_words']['words']){
-              let words = obj['preset_words']['words'].filter((element)=>{
-                return element['type'] !== 'ad';
+              let words = obj['preset_words']['words'].map((element)=>{
+                if (element['type'] === 'ad'){
+                  element['begin_ts'] = (Date.parse(new Date()) - 3600).toString();
+                  element['end_ts'] = (Date.parse(new Date()) - 60).toString();
+                  return element;
+                }
+                return element
               })
               obj['preset_words']['words'] = words;
               body = JSON.stringify(obj);
@@ -336,7 +341,6 @@ let magicJS = MagicJS(scriptName, "INFO");
               }
             })
             obj['config']['homepage_feed_tab']['tab_infos'] = tab_infos;
-            // obj['config']['homepage_feed_tab']['tab_infos'] = [];
             obj['config']['zvideo_max_number'] = 1;
             body = JSON.stringify(obj);
           }
