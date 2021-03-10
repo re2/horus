@@ -1,7 +1,7 @@
 # NAME: Baidu
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-10 02:36:28.517675
+# UPDATED: 2021-03-10 11:40:59.616082
 # HOST-SUFFIX: 265
 # TOTAL: 265
 HOST-SUFFIX,17swan.com,Baidu

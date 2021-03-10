@@ -1,7 +1,7 @@
 # NAME: Espn
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-10 02:36:28.930262
+# UPDATED: 2021-03-10 11:40:59.993772
 # HOST-SUFFIX: 5
 # TOTAL: 5
 HOST-SUFFIX,espn.com,Espn

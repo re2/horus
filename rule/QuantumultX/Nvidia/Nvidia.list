@@ -1,7 +1,7 @@
 # NAME: Nvidia
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-10 02:36:29.500517
+# UPDATED: 2021-03-10 11:41:00.550023
 # HOST-SUFFIX: 62
 # TOTAL: 62
 HOST-SUFFIX,geforce.cn,Nvidia

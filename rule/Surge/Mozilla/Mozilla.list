@@ -1,7 +1,7 @@
 # NAME: Mozilla
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-10 02:36:27.300932
+# UPDATED: 2021-03-10 11:40:58.527265
 # DOMAIN-SUFFIX: 18
 # TOTAL: 18
 DOMAIN-SUFFIX,bugzilla.org

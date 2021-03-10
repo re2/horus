@@ -1,7 +1,7 @@
 # NAME: Cisco
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-10 02:36:28.772333
+# UPDATED: 2021-03-10 11:40:59.848155
 # HOST-SUFFIX: 118
 # TOTAL: 118
 HOST-SUFFIX,.cisco,Cisco

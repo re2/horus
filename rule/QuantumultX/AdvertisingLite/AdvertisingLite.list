@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-10 02:36:28.202299
+# UPDATED: 2021-03-10 11:40:59.346333
 # HOST-KEYWORD: 29
 # HOST-SUFFIX: 15297
-# HOST: 15359
+# HOST: 15361
 # IP-CIDR: 192
 # USER-AGENT: 1
-# TOTAL: 30878
+# TOTAL: 30880
 HOST,0.up.qingdaonews.com,AdvertisingLite
 HOST,00-gov.cn,AdvertisingLite
 HOST,0024aadd.com,AdvertisingLite
@@ -3714,6 +3714,7 @@ HOST,coinimp.com,AdvertisingLite
 HOST,coinimp.net,AdvertisingLite
 HOST,coinlab.biz,AdvertisingLite
 HOST,coinmedia.co,AdvertisingLite
+HOST,coinminingonline.com,AdvertisingLite
 HOST,coinpot.co,AdvertisingLite
 HOST,cointraffic.io,AdvertisingLite
 HOST,coinwebmining.com,AdvertisingLite
@@ -8853,6 +8854,7 @@ HOST,monu.delivery,AdvertisingLite
 HOST,moonlightingapi-ads.com,AdvertisingLite
 HOST,mooseway.com,AdvertisingLite
 HOST,mootermedia.com,AdvertisingLite
+HOST,mooxar.com,AdvertisingLite
 HOST,mopinion.com,AdvertisingLite
 HOST,mordi.fun,AdvertisingLite
 HOST,moregamers.com,AdvertisingLite
