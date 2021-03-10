@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-10 23:39:08.835158
+# UPDATED: 2021-03-11 02:24:59.764256
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 62
 # DOMAIN-SUFFIX: 44605
-# DOMAIN: 20883
+# DOMAIN: 20884
 # IP-CIDR: 245
 # USER-AGENT: 1
 # URL-REGEX: 306
-# TOTAL: 66102
+# TOTAL: 66103
 0.nextyourcontent.com
 0.up.qingdaonews.com
 0001.2waky.com
@@ -18159,6 +18159,7 @@ timgiesecke.com
 timothycopus.aimoo.com
 timothyfiore.com
 tin.11bet.net
+tin.xpornoset.com
 tinaborg.com
 tinap7.000webhostapp.com
 tingtuba.com
