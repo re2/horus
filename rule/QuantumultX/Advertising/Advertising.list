@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-10 21:05:40.703157
+# UPDATED: 2021-03-10 23:00:40.780055
 # HOST-KEYWORD: 62
 # HOST-SUFFIX: 44605
-# HOST: 20880
+# HOST: 20883
 # IP-CIDR: 245
 # USER-AGENT: 1
-# TOTAL: 65793
+# TOTAL: 65796
 HOST,0.nextyourcontent.com,Advertising
 HOST,0.up.qingdaonews.com,Advertising
 HOST,0001.2waky.com,Advertising
@@ -17813,6 +17813,8 @@ HOST,te.astrology.com,Advertising
 HOST,te.chron.com,Advertising
 HOST,te.cleveland.net,Advertising
 HOST,te.greenwichtime.com,Advertising
+HOST,te.mysanantonio.com,Advertising
+HOST,te.stamfordadvocate.com,Advertising
 HOST,te.thestar.com,Advertising
 HOST,te.versiontracker.com,Advertising
 HOST,teachac.com,Advertising
@@ -20667,6 +20669,7 @@ HOST,youtube.wandi.onomovie.xyz,Advertising
 HOST,youtube2top.com,Advertising
 HOST,youtuhe.com,Advertising
 HOST,youxi123.com,Advertising
+HOST,youyiggg.com,Advertising
 HOST,youyou.ezimar.com,Advertising
 HOST,yowhatsappapk.com,Advertising
 HOST,yowhatsappapk.net,Advertising
