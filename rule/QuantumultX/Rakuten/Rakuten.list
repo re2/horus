@@ -1,7 +1,7 @@
 # NAME: Rakuten
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-10 11:41:00.639666
+# UPDATED: 2021-03-10 21:05:42.004939
 # HOST-SUFFIX: 10
 # TOTAL: 10
 HOST-SUFFIX,ebates.com,Rakuten

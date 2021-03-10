@@ -1,7 +1,7 @@
 # NAME: Verisign
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-10 11:40:58.986465
+# UPDATED: 2021-03-10 21:05:40.257708
 # DOMAIN-SUFFIX: 33
 # TOTAL: 33
 DOMAIN-SUFFIX,verisign.asia

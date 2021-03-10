@@ -1,7 +1,7 @@
 # NAME: IBM
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-10 11:41:00.279049
+# UPDATED: 2021-03-10 21:05:41.612369
 # HOST-SUFFIX: 13
 # TOTAL: 13
 HOST-SUFFIX,appdomain.cloud,IBM
