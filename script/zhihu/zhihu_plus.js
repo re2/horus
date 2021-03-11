@@ -309,13 +309,8 @@ let magicJS = MagicJS(scriptName, "INFO");
             magicJS.logDebug(`预置关键字返回：${magicJS.response.body}`);
             let obj = JSON.parse(magicJS.response.body);
             if (obj.hasOwnProperty('preset_words') && obj['preset_words']['words']){
-              let words = obj['preset_words']['words'].map((element)=>{
-                if (element['type'] === 'ad'){
-                  element['begin_ts'] = (Date.parse(new Date()) - 360000).toString().substr(0,10);
-                  element['end_ts'] = (Date.parse(new Date()) - 120000).toString().substr(0,10);
-                  return element;
-                }
-                return element
+              let words = obj['preset_words']['words'].filter((element)=>{
+                return element['type'] !== 'ad';
               })
               obj['preset_words']['words'] = words;
               body = JSON.stringify(obj);
