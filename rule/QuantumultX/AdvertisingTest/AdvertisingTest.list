@@ -1,13 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-11 14:59:43.207039
+# UPDATED: 2021-03-11 16:30:47.512164
 # HOST-KEYWORD: 62
 # HOST-SUFFIX: 68702
-# HOST: 14525
+# HOST: 14526
 # IP-CIDR: 245
 # USER-AGENT: 1
-# TOTAL: 83535
+# TOTAL: 83536
 HOST,0.up.qingdaonews.com,AdvertisingTest
 HOST,0001.2waky.com,AdvertisingTest
 HOST,000lk3v.wcomhost.com,AdvertisingTest
@@ -14212,6 +14212,7 @@ HOST,xn--metherwallet-qlb.com,AdvertisingTest
 HOST,xn--minecrft-5za.com,AdvertisingTest
 HOST,xn--myeterwallet-f1b.com,AdvertisingTest
 HOST,xn--myetherwaet-15ba.com,AdvertisingTest
+HOST,xn--myetherwalet-lcc.com,AdvertisingTest
 HOST,xn--myetherwalet-mcc.com,AdvertisingTest
 HOST,xn--myetherwallt-cfb.com,AdvertisingTest
 HOST,xn--myetherwllet-jbb.com,AdvertisingTest

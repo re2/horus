@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-11 14:59:47.742450
+# UPDATED: 2021-03-11 16:30:51.680432
 # DOMAIN-KEYWORD: 62
 # DOMAIN-SUFFIX: 44605
-# DOMAIN: 20890
+# DOMAIN: 20891
 # IP-CIDR: 245
-# TOTAL: 65802
+# TOTAL: 65803
 payload:
   - '0.nextyourcontent.com'
   - '0.up.qingdaonews.com'
@@ -20468,6 +20468,7 @@ payload:
   - 'xn--minecrft-5za.com'
   - 'xn--myeterwallet-f1b.com'
   - 'xn--myetherwaet-15ba.com'
+  - 'xn--myetherwalet-lcc.com'
   - 'xn--myetherwalet-mcc.com'
   - 'xn--myetherwallt-cfb.com'
   - 'xn--myetherwllet-jbb.com'

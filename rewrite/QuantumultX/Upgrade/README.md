@@ -6,10 +6,7 @@
 
 定时爬取互联网上开源的更新检查复写规则，将其进行清洗、去重、合并、优化后，形成单一的复写规则文件，旨在解决引用大量外部规则造成规则重复的问题。
 
-通过复写屏蔽部分APP的更新检查，已包含在Advertising中，不要重复添加。
-
-
-最后检查时间：2021-03-11 15:01:05。
+通过复写屏蔽部分APP的更新检查，已包含在Advertising中，不要重复添加。最后检查时间：2021-03-11 16:31:59。
 
 ## 复写统计
 
@@ -26,10 +23,12 @@
 ### QuantumultX 
 
 实时版：
+
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/QuantumultX/Upgrade/Upgrade.conf
 
 
 稳定版：
+
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/QuantumultX/Upgrade/Upgrade.conf
 
 

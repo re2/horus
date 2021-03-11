@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-11 14:59:43.116542
+# UPDATED: 2021-03-11 16:30:47.433255
 # HOST-KEYWORD: 62
 # HOST-SUFFIX: 44605
-# HOST: 20890
+# HOST: 20891
 # IP-CIDR: 245
 # USER-AGENT: 1
-# TOTAL: 65803
+# TOTAL: 65804
 HOST,0.nextyourcontent.com,Advertising
 HOST,0.up.qingdaonews.com,Advertising
 HOST,0001.2waky.com,Advertising
@@ -20468,6 +20468,7 @@ HOST,xn--metherwallet-qlb.com,Advertising
 HOST,xn--minecrft-5za.com,Advertising
 HOST,xn--myeterwallet-f1b.com,Advertising
 HOST,xn--myetherwaet-15ba.com,Advertising
+HOST,xn--myetherwalet-lcc.com,Advertising
 HOST,xn--myetherwalet-mcc.com,Advertising
 HOST,xn--myetherwallt-cfb.com,Advertising
 HOST,xn--myetherwllet-jbb.com,Advertising

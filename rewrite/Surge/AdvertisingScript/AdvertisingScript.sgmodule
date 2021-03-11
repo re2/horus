@@ -1,13 +1,11 @@
 #!name=脚本去广告
-#!desc=最后更新时间 2021-03-11 15:01:04
+#!desc=最后更新时间 2021-03-11 16:31:59
 #!author=blackmatrix7
 #!github=https://github.com/blackmatrix7/ios_rule_script
 #!rewrite=18
 #!script=22
 #!force_http_engine_hosts=0
 #!mitm=18
-
-
 
 [Rule]
 DOMAIN,118.89.204.198,REJECT

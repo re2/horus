@@ -1,7 +1,7 @@
 # NAME: Gitlab
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-11 14:59:43.937039
+# UPDATED: 2021-03-11 16:30:48.183840
 # HOST-SUFFIX: 4
 # TOTAL: 4
 HOST-SUFFIX,gitlab-assets.oss-cn-hongkong.aliyuncs.com,Gitlab

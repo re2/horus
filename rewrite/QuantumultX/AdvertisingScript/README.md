@@ -6,10 +6,7 @@
 
 定时爬取互联网上开源的脚本去广告复写规则，将其进行清洗、去重、合并、优化后，形成单一的复写规则文件，旨在解决引用大量外部规则造成规则重复的问题。
 
-整合知乎、BiliBili、什么值得买三个APP去广告，及脚本去除开屏广告复写。
-
-
-最后检查时间：2021-03-11 15:01:05。
+整合知乎、BiliBili、什么值得买三个APP去广告，及脚本去除开屏广告复写。最后检查时间：2021-03-11 16:31:59。
 
 ## 复写统计
 
@@ -27,10 +24,12 @@
 ### QuantumultX 
 
 实时版：
+
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/QuantumultX/AdvertisingScript/AdvertisingScript.conf
 
 
 稳定版：
+
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/QuantumultX/AdvertisingScript/AdvertisingScript.conf
 
 

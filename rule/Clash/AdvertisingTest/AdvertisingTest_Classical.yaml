@@ -1,12 +1,12 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-11 14:59:47.999960
+# UPDATED: 2021-03-11 16:30:51.898814
 # DOMAIN-KEYWORD: 62
 # DOMAIN-SUFFIX: 68702
-# DOMAIN: 14525
+# DOMAIN: 14526
 # IP-CIDR: 245
-# TOTAL: 83534
+# TOTAL: 83535
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,0001.2waky.com
@@ -14212,6 +14212,7 @@ payload:
   - DOMAIN,xn--minecrft-5za.com
   - DOMAIN,xn--myeterwallet-f1b.com
   - DOMAIN,xn--myetherwaet-15ba.com
+  - DOMAIN,xn--myetherwalet-lcc.com
   - DOMAIN,xn--myetherwalet-mcc.com
   - DOMAIN,xn--myetherwallt-cfb.com
   - DOMAIN,xn--myetherwllet-jbb.com
