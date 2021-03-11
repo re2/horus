@@ -7,7 +7,7 @@
 定时爬取互联网上开源的复写去广告复写规则，将其进行清洗、去重、合并、优化后，形成单一的复写规则文件，旨在解决引用大量外部规则造成规则重复的问题。
 
 
-最后检查时间：2021-03-11 22:56:04。
+最后检查时间：2021-03-11 23:07:01。
 
 ## 复写统计
 
@@ -25,10 +25,12 @@
 
 实时版：
 
+
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/QuantumultX/Advertising/Advertising.conf
 
 
 稳定版：
+
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/QuantumultX/Advertising/Advertising.conf
 

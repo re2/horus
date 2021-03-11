@@ -9,7 +9,7 @@
 获取签到脚本Cookie，含有第三方脚本。
 
 
-最后检查时间：2021-03-11 22:56:04。
+最后检查时间：2021-03-11 23:07:01。
 
 ## 复写统计
 
@@ -28,10 +28,12 @@
 
 实时版：
 
+
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/GetCookieTP/GetCookieTP.plugin
 
 
 稳定版：
+
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/Loon/GetCookieTP/GetCookieTP.plugin
 

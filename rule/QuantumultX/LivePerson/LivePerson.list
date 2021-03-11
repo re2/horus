@@ -1,7 +1,7 @@
 # NAME: LivePerson
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-11 22:54:37.579212
+# UPDATED: 2021-03-11 23:05:45.841634
 # HOST-SUFFIX: 3
 # TOTAL: 3
 HOST-SUFFIX,liveperson.com,LivePerson

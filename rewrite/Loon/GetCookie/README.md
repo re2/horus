@@ -9,7 +9,7 @@
 含有我自己所有签到脚本的GetCookie复写。
 
 
-最后检查时间：2021-03-11 22:56:04。
+最后检查时间：2021-03-11 23:07:01。
 
 ## 复写统计
 
@@ -28,10 +28,12 @@
 
 实时版：
 
+
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/GetCookie/GetCookie.plugin
 
 
 稳定版：
+
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/Loon/GetCookie/GetCookie.plugin
 

@@ -9,7 +9,7 @@
 汇总Advertising复写去广告、AdvertisingScript通过脚本去除广告、Redirect重定向复写。QuantumultX需要添加部分分流规则才能生效，具体配置请参照数据源说明。复写汇总内容，需要自行确认安全性。
 
 
-最后检查时间：2021-03-11 22:56:04。
+最后检查时间：2021-03-11 23:07:00。
 
 ## 复写统计
 
@@ -36,10 +36,12 @@
 
 实时版：
 
+
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Surge/AllInOne/AllInOne.sgmodule
 
 
 稳定版：
+
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/Surge/AllInOne/AllInOne.sgmodule
 

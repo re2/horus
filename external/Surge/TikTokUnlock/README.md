@@ -6,13 +6,16 @@
 
 定时爬取互联网上开源的TikTok解锁复写规则，将其进行清洗、去重、合并、优化后，形成单一的复写规则文件，旨在解决引用大量外部规则造成规则重复的问题。
 
-TikTok解锁复写来自https://github.com/Semporia/TikTok-Unlock
+TikTok解锁复写来自https://github.com/Semporia/TikTok-Unlock 。
+
 程序定时同步，并进行格式转换，仅为备份，复写安全性请自行检查。
+
 因为本人使用TikTok极少，转换后的效果未经验证，不确保转换后的复写在所有的客户端上都能正常工作。
+
 具体使用方式见原作者仓库，请多支持上游原作者仓库。
 
 
-最后检查时间：2021-03-11 22:56:04。
+最后检查时间：2021-03-11 23:07:00。
 
 ## 配置说明
 
@@ -23,6 +26,7 @@ TikTok解锁复写来自https://github.com/Semporia/TikTok-Unlock
 ### Surge 
 
 实时版：
+
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/external/Surge/TikTokUnlock/TikTokTW.sgmodule
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/external/Surge/TikTokUnlock/TikTokJP.sgmodule
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/external/Surge/TikTokUnlock/TikTokUS.sgmodule
@@ -30,6 +34,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/external/S
 
 
 稳定版：
+
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/external/Surge/TikTokUnlock/TikTokTW.sgmodule
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/external/Surge/TikTokUnlock/TikTokJP.sgmodule
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/external/Surge/TikTokUnlock/TikTokUS.sgmodule

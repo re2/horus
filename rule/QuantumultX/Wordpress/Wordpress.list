@@ -1,7 +1,7 @@
 # NAME: Wordpress
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-11 22:54:38.213760
+# UPDATED: 2021-03-11 23:05:46.362515
 # HOST-SUFFIX: 8
 # TOTAL: 8
 HOST-SUFFIX,videopress.com,Wordpress

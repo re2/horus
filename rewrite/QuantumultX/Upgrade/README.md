@@ -9,7 +9,7 @@
 通过复写屏蔽部分APP的更新检查，已包含在Advertising中，不要重复添加。
 
 
-最后检查时间：2021-03-11 22:56:04。
+最后检查时间：2021-03-11 23:07:00。
 
 ## 复写统计
 
@@ -27,10 +27,12 @@
 
 实时版：
 
+
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/QuantumultX/Upgrade/Upgrade.conf
 
 
 稳定版：
+
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/QuantumultX/Upgrade/Upgrade.conf
 

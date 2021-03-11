@@ -9,7 +9,7 @@
 整合知乎、BiliBili、什么值得买三个APP去广告，及脚本去除开屏广告复写。
 
 
-最后检查时间：2021-03-11 22:56:04。
+最后检查时间：2021-03-11 23:07:01。
 
 ## 复写统计
 
@@ -34,10 +34,12 @@
 
 实时版：
 
+
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Loon/AdvertisingScript/AdvertisingScript.plugin
 
 
 稳定版：
+
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/Loon/AdvertisingScript/AdvertisingScript.plugin
 
