@@ -1,12 +1,12 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-11 02:25:02.147817
+# UPDATED: 2021-03-11 14:59:47.667559
 # DOMAIN-KEYWORD: 29
 # DOMAIN-SUFFIX: 15297
-# DOMAIN: 15368
+# DOMAIN: 15371
 # IP-CIDR: 192
-# TOTAL: 30886
+# TOTAL: 30889
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,00-gov.cn
@@ -2044,6 +2044,7 @@ payload:
   - DOMAIN,anymedia.lv
   - DOMAIN,anyporn.com
   - DOMAIN,aobyp1una641o8.com
+  - DOMAIN,aocular.com
   - DOMAIN,aod-image-material.bj.bcebos.com
   - DOMAIN,aod-image.baidu.com
   - DOMAIN,aomeng.net
@@ -10565,6 +10566,7 @@ payload:
   - DOMAIN,ptengine.com
   - DOMAIN,ptengine.jp
   - DOMAIN,ptewh.iptvdeals.com
+  - DOMAIN,pthejzb.com
   - DOMAIN,pthrsanmcct.com
   - DOMAIN,ptmind.com
   - DOMAIN,ptmzr.com
@@ -13404,6 +13406,7 @@ payload:
   - DOMAIN,trafficlearn.com
   - DOMAIN,trafficmasterz.net
   - DOMAIN,trafficmaxx.de
+  - DOMAIN,trafficoverus.com
   - DOMAIN,trafficpimps.com
   - DOMAIN,trafficposse.com
   - DOMAIN,trafficrevenue.net

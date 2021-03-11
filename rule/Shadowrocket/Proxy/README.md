@@ -8,17 +8,17 @@
 
 
 
-最后检查时间：2021-03-11 02:26:00.897959。
+最后检查时间：2021-03-11 15:00:53.149407。
 
 ## 规则统计
 
-总计规则：28682 条。
+总计规则：28684 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| DOMAIN-SUFFIX | 28511 |
+| DOMAIN-SUFFIX | 28513 |
 | USER-AGENT | 12 |
 | DOMAIN | 39 |
 | DOMAIN-KEYWORD | 29 |
@@ -87,7 +87,7 @@ Proxy_Domain.list请使用DOMAIN-SET。
 |  [Wikipedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/Wikipedia)    | 12   | [12](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Proxy/Proxy_Repeat.list)   |   100.0% |
 |  [Wordpress](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/Wordpress)    | 8   | [8](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Proxy/Proxy_Repeat.list)   |   100.0% |
 |  [Zendesk](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/Zendesk)    | 6   | [6](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Proxy/Proxy_Repeat.list)   |   100.0% |
-|  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/Global)    | 28766   | [28596](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Proxy/Proxy_Repeat.list)   |   99.41% |
+|  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/Global)    | 28768   | [28598](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Proxy/Proxy_Repeat.list)   |   99.41% |
 |  [BlackList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/BlackList)    | 774   | [759](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Proxy/Proxy_Repeat.list)   |   98.06% |
 |  [VOA](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/VOA)    | 51   | [49](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Proxy/Proxy_Repeat.list)   |   96.08% |
 |  [Developer](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket/Developer)    | 24   | [23](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Proxy/Proxy_Repeat.list)   |   95.83% |

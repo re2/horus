@@ -1,15 +1,15 @@
 # NAME: AdvertisingLite
 # AUTHOR: 
 # GITHUB: 
-# UPDATED: 2021-03-11 02:25:04.350204
+# UPDATED: 2021-03-11 14:59:50.054180
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 29
 # DOMAIN-SUFFIX: 15297
-# DOMAIN: 15368
+# DOMAIN: 15371
 # IP-CIDR: 192
 # USER-AGENT: 1
 # URL-REGEX: 299
-# TOTAL: 31186
+# TOTAL: 31189
 0.up.qingdaonews.com
 00-gov.cn
 0024aadd.com
@@ -2046,6 +2046,7 @@ anyclip-media.com
 anymedia.lv
 anyporn.com
 aobyp1una641o8.com
+aocular.com
 aod-image-material.bj.bcebos.com
 aod-image.baidu.com
 aomeng.net
@@ -10567,6 +10568,7 @@ ptengine.cn
 ptengine.com
 ptengine.jp
 ptewh.iptvdeals.com
+pthejzb.com
 pthrsanmcct.com
 ptmind.com
 ptmzr.com
@@ -13406,6 +13408,7 @@ trafficjoint.com
 trafficlearn.com
 trafficmasterz.net
 trafficmaxx.de
+trafficoverus.com
 trafficpimps.com
 trafficposse.com
 trafficrevenue.net

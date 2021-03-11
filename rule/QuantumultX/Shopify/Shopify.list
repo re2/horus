@@ -1,7 +1,7 @@
 # NAME: Shopify
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-11 02:24:59.198716
+# UPDATED: 2021-03-11 14:59:44.589578
 # HOST-SUFFIX: 8
 # TOTAL: 8
 HOST-SUFFIX,myshopify.com,Shopify

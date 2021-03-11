@@ -1,7 +1,7 @@
 # NAME: AdvertisingTest 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-11 02:25:08.262376
+# UPDATED: 2021-03-11 14:59:54.273957
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 #  与 Hijacking 共 212 条规则重复
 HOST-SUFFIX,17gouwuba.com
@@ -3002,7 +3002,7 @@ HOST-SUFFIX,zs.dhl.de
 HOST-SUFFIX,zsi7.destinia.do
 HOST-SUFFIX,zyq2.destinia.sk
 HOST-SUFFIX,zz.bdstatic.com
-#  与 Advertising 共 59241 条规则重复
+#  与 Advertising 共 59245 条规则重复
 HOST,0.up.qingdaonews.com
 HOST,0001.2waky.com
 HOST,000lk3v.wcomhost.com
@@ -6897,6 +6897,7 @@ HOST,debbiewhitmire.com
 HOST,debbiewoodsyoga.com
 HOST,debtinter.000webhostapp.com
 HOST,decentralland.org
+HOST,declasseentertainment.com
 HOST,decoderactive.com
 HOST,decografix.com
 HOST,decohunter.com
@@ -10937,6 +10938,7 @@ HOST,linksmartcontract.com
 HOST,linksnip.com
 HOST,linkwelove.com
 HOST,linkwelove.it
+HOST,linuxcambodia.com
 HOST,lionfencing.com
 HOST,lionsdrive.com
 HOST,lionstracking.com
@@ -14562,6 +14564,7 @@ HOST,slutcock.com
 HOST,slutcorner.com
 HOST,slutloadlive.com
 HOST,slutmodel.com
+HOST,sluttube.net
 HOST,sm.kuaizq.com
 HOST,smart-m-system.com
 HOST,smart.arrowlauncher.com
@@ -15415,6 +15418,7 @@ HOST,terrevita.com
 HOST,tersereah-kamu.rumahweb.org
 HOST,tesco.100giveaways.com
 HOST,tesco.365giveaways.com
+HOST,teslagive.org
 HOST,test--na--iq.blogspot.com
 HOST,test.ad.intl.xiaomi.com
 HOST,test.ark.letv.com

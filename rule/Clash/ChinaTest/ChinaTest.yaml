@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-11 02:25:02.882160
-# DOMAIN-SUFFIX: 71011
+# UPDATED: 2021-03-11 14:59:48.483812
+# DOMAIN-SUFFIX: 71016
 # DOMAIN: 75
 # IP-CIDR: 50
 # DOMAIN-KEYWORD: 10
 # IP-CIDR6: 4
-# TOTAL: 71150
+# TOTAL: 71155
 payload:
   - DOMAIN-KEYWORD,-cn
   - DOMAIN-KEYWORD,.tmall.com

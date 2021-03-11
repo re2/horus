@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-11 02:24:57.870208
+# UPDATED: 2021-03-11 14:59:43.116542
 # HOST-KEYWORD: 62
 # HOST-SUFFIX: 44605
-# HOST: 20884
+# HOST: 20890
 # IP-CIDR: 245
 # USER-AGENT: 1
-# TOTAL: 65797
+# TOTAL: 65803
 HOST,0.nextyourcontent.com,Advertising
 HOST,0.up.qingdaonews.com,Advertising
 HOST,0001.2waky.com,Advertising
@@ -6552,6 +6552,7 @@ HOST,debtbusterloans.com,Advertising
 HOST,debtinter.000webhostapp.com,Advertising
 HOST,decentralland.org,Advertising
 HOST,decisiveducks.com,Advertising
+HOST,declasseentertainment.com,Advertising
 HOST,decoderactive.com,Advertising
 HOST,decografix.com,Advertising
 HOST,decohunter.com,Advertising
@@ -11636,6 +11637,7 @@ HOST,linktrack.bravenet.com,Advertising
 HOST,linktracker.angelfire.com,Advertising
 HOST,linkwelove.com,Advertising
 HOST,linkwelove.it,Advertising
+HOST,linuxcambodia.com,Advertising
 HOST,lionfencing.com,Advertising
 HOST,lionsdrive.com,Advertising
 HOST,lionstracking.com,Advertising
@@ -16693,6 +16695,7 @@ HOST,slutcock.com,Advertising
 HOST,slutcorner.com,Advertising
 HOST,slutloadlive.com,Advertising
 HOST,slutmodel.com,Advertising
+HOST,sluttube.net,Advertising
 HOST,slv1.lavanetwork.net,Advertising
 HOST,sm.kuaizq.com,Advertising
 HOST,sm.pcmag.com,Advertising
@@ -17548,6 +17551,7 @@ HOST,sureads.com,Advertising
 HOST,surefile.org,Advertising
 HOST,sureshmehrotra.com,Advertising
 HOST,surfearner.com,Advertising
+HOST,surfsecured.net,Advertising
 HOST,surge.bombora.com,Advertising
 HOST,sursolutionsllc.com,Advertising
 HOST,survey.china.alibaba.com,Advertising
@@ -17814,6 +17818,7 @@ HOST,te.chron.com,Advertising
 HOST,te.cleveland.net,Advertising
 HOST,te.greenwichtime.com,Advertising
 HOST,te.mysanantonio.com,Advertising
+HOST,te.sfgate.com,Advertising
 HOST,te.stamfordadvocate.com,Advertising
 HOST,te.thestar.com,Advertising
 HOST,te.versiontracker.com,Advertising
@@ -17917,6 +17922,7 @@ HOST,terriblethumb.com,Advertising
 HOST,tersereah-kamu.rumahweb.org,Advertising
 HOST,tesco.100giveaways.com,Advertising
 HOST,tesco.365giveaways.com,Advertising
+HOST,teslagive.org,Advertising
 HOST,test--na--iq.blogspot.com,Advertising
 HOST,test.actonsoftware.com,Advertising
 HOST,test.ad.intl.xiaomi.com,Advertising

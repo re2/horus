@@ -1,7 +1,7 @@
 # NAME: Advertising 规则重复情况
 # AUTHOR: 
 # GITHUB: 
-# UPDATED: 2021-03-11 02:25:12.983826
+# UPDATED: 2021-03-11 14:59:59.189252
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 #  与 Hijacking 共 212 条规则重复
 DOMAIN-SUFFIX,17gouwuba.com
@@ -3070,7 +3070,7 @@ DOMAIN-SUFFIX,zs.dhl.de
 DOMAIN-SUFFIX,zsi7.destinia.do
 DOMAIN-SUFFIX,zyq2.destinia.sk
 DOMAIN-SUFFIX,zz.bdstatic.com
-#  与 AdvertisingTest 共 59547 条规则重复
+#  与 AdvertisingTest 共 59551 条规则重复
 DOMAIN,0.up.qingdaonews.com
 DOMAIN,0001.2waky.com
 DOMAIN,000lk3v.wcomhost.com
@@ -6965,6 +6965,7 @@ DOMAIN,debbiewhitmire.com
 DOMAIN,debbiewoodsyoga.com
 DOMAIN,debtinter.000webhostapp.com
 DOMAIN,decentralland.org
+DOMAIN,declasseentertainment.com
 DOMAIN,decoderactive.com
 DOMAIN,decografix.com
 DOMAIN,decohunter.com
@@ -11005,6 +11006,7 @@ DOMAIN,linksmartcontract.com
 DOMAIN,linksnip.com
 DOMAIN,linkwelove.com
 DOMAIN,linkwelove.it
+DOMAIN,linuxcambodia.com
 DOMAIN,lionfencing.com
 DOMAIN,lionsdrive.com
 DOMAIN,lionstracking.com
@@ -14630,6 +14632,7 @@ DOMAIN,slutcock.com
 DOMAIN,slutcorner.com
 DOMAIN,slutloadlive.com
 DOMAIN,slutmodel.com
+DOMAIN,sluttube.net
 DOMAIN,sm.kuaizq.com
 DOMAIN,smart-m-system.com
 DOMAIN,smart.arrowlauncher.com
@@ -15483,6 +15486,7 @@ DOMAIN,terrevita.com
 DOMAIN,tersereah-kamu.rumahweb.org
 DOMAIN,tesco.100giveaways.com
 DOMAIN,tesco.365giveaways.com
+DOMAIN,teslagive.org
 DOMAIN,test--na--iq.blogspot.com
 DOMAIN,test.ad.intl.xiaomi.com
 DOMAIN,test.ark.letv.com

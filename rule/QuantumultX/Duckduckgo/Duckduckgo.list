@@ -1,7 +1,7 @@
 # NAME: Duckduckgo
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-11 02:24:58.463957
+# UPDATED: 2021-03-11 14:59:43.782311
 # HOST-SUFFIX: 43
 # TOTAL: 43
 HOST-SUFFIX,cispaletter.com,Duckduckgo

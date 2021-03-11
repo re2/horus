@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-11 02:25:02.285992
+# UPDATED: 2021-03-11 14:59:47.814736
 # DOMAIN-KEYWORD: 62
 # DOMAIN-SUFFIX: 44605
-# DOMAIN: 20884
+# DOMAIN: 20890
 # IP-CIDR: 245
-# TOTAL: 65796
+# TOTAL: 65802
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.up.qingdaonews.com
@@ -6552,6 +6552,7 @@ payload:
   - DOMAIN,debtinter.000webhostapp.com
   - DOMAIN,decentralland.org
   - DOMAIN,decisiveducks.com
+  - DOMAIN,declasseentertainment.com
   - DOMAIN,decoderactive.com
   - DOMAIN,decografix.com
   - DOMAIN,decohunter.com
@@ -11636,6 +11637,7 @@ payload:
   - DOMAIN,linktracker.angelfire.com
   - DOMAIN,linkwelove.com
   - DOMAIN,linkwelove.it
+  - DOMAIN,linuxcambodia.com
   - DOMAIN,lionfencing.com
   - DOMAIN,lionsdrive.com
   - DOMAIN,lionstracking.com
@@ -16693,6 +16695,7 @@ payload:
   - DOMAIN,slutcorner.com
   - DOMAIN,slutloadlive.com
   - DOMAIN,slutmodel.com
+  - DOMAIN,sluttube.net
   - DOMAIN,slv1.lavanetwork.net
   - DOMAIN,sm.kuaizq.com
   - DOMAIN,sm.pcmag.com
@@ -17548,6 +17551,7 @@ payload:
   - DOMAIN,surefile.org
   - DOMAIN,sureshmehrotra.com
   - DOMAIN,surfearner.com
+  - DOMAIN,surfsecured.net
   - DOMAIN,surge.bombora.com
   - DOMAIN,sursolutionsllc.com
   - DOMAIN,survey.china.alibaba.com
@@ -17814,6 +17818,7 @@ payload:
   - DOMAIN,te.cleveland.net
   - DOMAIN,te.greenwichtime.com
   - DOMAIN,te.mysanantonio.com
+  - DOMAIN,te.sfgate.com
   - DOMAIN,te.stamfordadvocate.com
   - DOMAIN,te.thestar.com
   - DOMAIN,te.versiontracker.com
@@ -17917,6 +17922,7 @@ payload:
   - DOMAIN,tersereah-kamu.rumahweb.org
   - DOMAIN,tesco.100giveaways.com
   - DOMAIN,tesco.365giveaways.com
+  - DOMAIN,teslagive.org
   - DOMAIN,test--na--iq.blogspot.com
   - DOMAIN,test.actonsoftware.com
   - DOMAIN,test.ad.intl.xiaomi.com

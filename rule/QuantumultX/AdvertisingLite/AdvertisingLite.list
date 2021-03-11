@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-11 02:24:57.804455
+# UPDATED: 2021-03-11 14:59:43.041527
 # HOST-KEYWORD: 29
 # HOST-SUFFIX: 15297
-# HOST: 15368
+# HOST: 15371
 # IP-CIDR: 192
 # USER-AGENT: 1
-# TOTAL: 30887
+# TOTAL: 30890
 HOST,0.up.qingdaonews.com,AdvertisingLite
 HOST,00-gov.cn,AdvertisingLite
 HOST,0024aadd.com,AdvertisingLite
@@ -2044,6 +2044,7 @@ HOST,anyclip-media.com,AdvertisingLite
 HOST,anymedia.lv,AdvertisingLite
 HOST,anyporn.com,AdvertisingLite
 HOST,aobyp1una641o8.com,AdvertisingLite
+HOST,aocular.com,AdvertisingLite
 HOST,aod-image-material.bj.bcebos.com,AdvertisingLite
 HOST,aod-image.baidu.com,AdvertisingLite
 HOST,aomeng.net,AdvertisingLite
@@ -10565,6 +10566,7 @@ HOST,ptengine.cn,AdvertisingLite
 HOST,ptengine.com,AdvertisingLite
 HOST,ptengine.jp,AdvertisingLite
 HOST,ptewh.iptvdeals.com,AdvertisingLite
+HOST,pthejzb.com,AdvertisingLite
 HOST,pthrsanmcct.com,AdvertisingLite
 HOST,ptmind.com,AdvertisingLite
 HOST,ptmzr.com,AdvertisingLite
@@ -13404,6 +13406,7 @@ HOST,trafficjoint.com,AdvertisingLite
 HOST,trafficlearn.com,AdvertisingLite
 HOST,trafficmasterz.net,AdvertisingLite
 HOST,trafficmaxx.de,AdvertisingLite
+HOST,trafficoverus.com,AdvertisingLite
 HOST,trafficpimps.com,AdvertisingLite
 HOST,trafficposse.com,AdvertisingLite
 HOST,trafficrevenue.net,AdvertisingLite
