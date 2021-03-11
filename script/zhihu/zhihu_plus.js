@@ -387,6 +387,7 @@ let magicJS = MagicJS(scriptName, "INFO");
       case /^https?:\/\/api\.zhihu\.com\/comment_v5\/answers\/\d+\/root_comment/.test(magicJS.request.url):
         try{
           if (!!magicJS.response.body){
+            let obj = JSON.parse(magicJS.response.body);
             obj['ad_info'] = {};
             body = JSON.stringify(obj);
           }
