@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-11 17:01:07.255102
+# UPDATED: 2021-03-11 22:54:36.310208
 # HOST-KEYWORD: 62
 # HOST-SUFFIX: 44605
-# HOST: 20891
+# HOST: 20909
 # IP-CIDR: 245
 # USER-AGENT: 1
-# TOTAL: 65804
+# TOTAL: 65822
 HOST,0.nextyourcontent.com,Advertising
 HOST,0.up.qingdaonews.com,Advertising
 HOST,0001.2waky.com,Advertising
@@ -4382,6 +4382,7 @@ HOST,budapest1873.net,Advertising
 HOST,buddyhacker.com,Advertising
 HOST,buddylourdes.com,Advertising
 HOST,bufab.actonsoftware.com,Advertising
+HOST,buffalogoesout.com,Advertising
 HOST,bugsense.com,Advertising
 HOST,builder-assets.unbounce.com,Advertising
 HOST,buildinghopeuganda.org,Advertising
@@ -7315,6 +7316,14 @@ HOST,educasia.org,Advertising
 HOST,eduinfosite.com,Advertising
 HOST,eduserver.net,Advertising
 HOST,edwlifes.vo.llnwd.net,Advertising
+HOST,ee.1s8pj.cn,Advertising
+HOST,ee.6x53p.cn,Advertising
+HOST,ee.8t5xo.cn,Advertising
+HOST,ee.f2z4d.cn,Advertising
+HOST,ee.j5s9b.cn,Advertising
+HOST,ee.w82ph.cn,Advertising
+HOST,ee.wz382.cn,Advertising
+HOST,ee.xr883.cn,Advertising
 HOST,eee.dada8828.com,Advertising
 HOST,eegad.freeservers.com,Advertising
 HOST,eegookiz.com,Advertising
@@ -10553,6 +10562,7 @@ HOST,iosandroidworld.com,Advertising
 HOST,iosapphack.com,Advertising
 HOST,iosapphacks.com,Advertising
 HOST,iosgamecheats.com,Advertising
+HOST,iostweaking.com,Advertising
 HOST,iowa.sla.org,Advertising
 HOST,ip-182-50-129-164.ip.secureserver.net,Advertising
 HOST,ip-182-50-129-181.ip.secureserver.net,Advertising
@@ -11913,15 +11923,19 @@ HOST,lzrikate.com,Advertising
 HOST,m-analytics.net,Advertising
 HOST,m-vali.cp31.ott.cibntv.net,Advertising
 HOST,m.1234567.com.cn,Advertising
+HOST,m.1s8pj.cn,Advertising
 HOST,m.88viet.com,Advertising
 HOST,m.8live.com,Advertising
+HOST,m.8t5xo.cn,Advertising
 HOST,m.amtmobi.com,Advertising
 HOST,m.aty.sohu.com,Advertising
 HOST,m.bong99.com,Advertising
 HOST,m.casino888vn.com,Advertising
 HOST,m.cityads.com,Advertising
 HOST,m.clickability.com,Advertising
+HOST,m.f2z4d.cn,Advertising
 HOST,m.five88.com,Advertising
+HOST,m.j5s9b.cn,Advertising
 HOST,m.jsqinvest.com,Advertising
 HOST,m.login-secured.liraon.com,Advertising
 HOST,m.loldlxmy.com,Advertising
@@ -11941,8 +11955,11 @@ HOST,m.servedby-buysellads.com,Advertising
 HOST,m.tidebuy.com,Advertising
 HOST,m.track.ad.xiaomi.com,Advertising
 HOST,m.trafficoffernetwork.com,Advertising
+HOST,m.w82ph.cn,Advertising
 HOST,m.wantmatures.com,Advertising
 HOST,m.widget.subiz.com,Advertising
+HOST,m.wz382.cn,Advertising
+HOST,m.xr883.cn,Advertising
 HOST,m.yyfymj.com,Advertising
 HOST,m01.webwise.net,Advertising
 HOST,m01.webwise.org,Advertising
@@ -12535,6 +12552,7 @@ HOST,mgr.hopemobi.net,Advertising
 HOST,mhcdqeigntxllkxy.com,Advertising
 HOST,mhfitnesspilates.com,Advertising
 HOST,mhuivzojiqe.com,Advertising
+HOST,mhwozc.cn,Advertising
 HOST,miarroba.com,Advertising
 HOST,michaellarner.com,Advertising
 HOST,michaelrichan.com,Advertising

@@ -1,12 +1,12 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-11 17:01:12.222335
+# UPDATED: 2021-03-11 22:54:41.525827
 # DOMAIN-KEYWORD: 62
 # DOMAIN-SUFFIX: 68702
-# DOMAIN: 14526
+# DOMAIN: 14541
 # IP-CIDR: 245
-# TOTAL: 83535
+# TOTAL: 83550
 payload:
   - '0.up.qingdaonews.com'
   - '0001.2waky.com'
@@ -2507,6 +2507,7 @@ payload:
   - 'buchislaw.com'
   - 'buddyhacker.com'
   - 'buddylourdes.com'
+  - 'buffalogoesout.com'
   - 'buildinghopeuganda.org'
   - 'buildviet.info'
   - 'buimerccorp.com'
@@ -4516,6 +4517,13 @@ payload:
   - 'educasia.org'
   - 'eduinfosite.com'
   - 'eduserver.net'
+  - 'ee.6x53p.cn'
+  - 'ee.8t5xo.cn'
+  - 'ee.f2z4d.cn'
+  - 'ee.j5s9b.cn'
+  - 'ee.w82ph.cn'
+  - 'ee.wz382.cn'
+  - 'ee.xr883.cn'
   - 'eee.dada8828.com'
   - 'eegad.freeservers.com'
   - 'eegookiz.com'
@@ -7080,6 +7088,7 @@ payload:
   - 'iosapphack.com'
   - 'iosapphacks.com'
   - 'iosgamecheats.com'
+  - 'iostweaking.com'
   - 'iowa.sla.org'
   - 'ip-182-50-129-164.ip.secureserver.net'
   - 'ip-182-50-129-181.ip.secureserver.net'
@@ -8157,7 +8166,10 @@ payload:
   - 'm-analytics.net'
   - 'm-vali.cp31.ott.cibntv.net'
   - 'm.1234567.com.cn'
+  - 'm.8t5xo.cn'
   - 'm.amtmobi.com'
+  - 'm.f2z4d.cn'
+  - 'm.j5s9b.cn'
   - 'm.login-secured.liraon.com'
   - 'm.loldlxmy.com'
   - 'm.medlife.com'
@@ -8165,7 +8177,10 @@ payload:
   - 'm.recipes.timesofindia.com'
   - 'm.track.ad.xiaomi.com'
   - 'm.trafficoffernetwork.com'
+  - 'm.w82ph.cn'
   - 'm.wantmatures.com'
+  - 'm.wz382.cn'
+  - 'm.xr883.cn'
   - 'm1.webstats.motigo.com'
   - 'm1crosoft.com'
   - 'm2.xhamster.com'

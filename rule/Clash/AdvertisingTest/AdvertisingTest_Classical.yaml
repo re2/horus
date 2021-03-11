@@ -1,12 +1,12 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-11 17:01:12.318528
+# UPDATED: 2021-03-11 22:54:41.629862
 # DOMAIN-KEYWORD: 62
 # DOMAIN-SUFFIX: 68702
-# DOMAIN: 14526
+# DOMAIN: 14541
 # IP-CIDR: 245
-# TOTAL: 83535
+# TOTAL: 83550
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,0001.2waky.com
@@ -2507,6 +2507,7 @@ payload:
   - DOMAIN,buchislaw.com
   - DOMAIN,buddyhacker.com
   - DOMAIN,buddylourdes.com
+  - DOMAIN,buffalogoesout.com
   - DOMAIN,buildinghopeuganda.org
   - DOMAIN,buildviet.info
   - DOMAIN,buimerccorp.com
@@ -4516,6 +4517,13 @@ payload:
   - DOMAIN,educasia.org
   - DOMAIN,eduinfosite.com
   - DOMAIN,eduserver.net
+  - DOMAIN,ee.6x53p.cn
+  - DOMAIN,ee.8t5xo.cn
+  - DOMAIN,ee.f2z4d.cn
+  - DOMAIN,ee.j5s9b.cn
+  - DOMAIN,ee.w82ph.cn
+  - DOMAIN,ee.wz382.cn
+  - DOMAIN,ee.xr883.cn
   - DOMAIN,eee.dada8828.com
   - DOMAIN,eegad.freeservers.com
   - DOMAIN,eegookiz.com
@@ -7080,6 +7088,7 @@ payload:
   - DOMAIN,iosapphack.com
   - DOMAIN,iosapphacks.com
   - DOMAIN,iosgamecheats.com
+  - DOMAIN,iostweaking.com
   - DOMAIN,iowa.sla.org
   - DOMAIN,ip-182-50-129-164.ip.secureserver.net
   - DOMAIN,ip-182-50-129-181.ip.secureserver.net
@@ -8157,7 +8166,10 @@ payload:
   - DOMAIN,m-analytics.net
   - DOMAIN,m-vali.cp31.ott.cibntv.net
   - DOMAIN,m.1234567.com.cn
+  - DOMAIN,m.8t5xo.cn
   - DOMAIN,m.amtmobi.com
+  - DOMAIN,m.f2z4d.cn
+  - DOMAIN,m.j5s9b.cn
   - DOMAIN,m.login-secured.liraon.com
   - DOMAIN,m.loldlxmy.com
   - DOMAIN,m.medlife.com
@@ -8165,7 +8177,10 @@ payload:
   - DOMAIN,m.recipes.timesofindia.com
   - DOMAIN,m.track.ad.xiaomi.com
   - DOMAIN,m.trafficoffernetwork.com
+  - DOMAIN,m.w82ph.cn
   - DOMAIN,m.wantmatures.com
+  - DOMAIN,m.wz382.cn
+  - DOMAIN,m.xr883.cn
   - DOMAIN,m1.webstats.motigo.com
   - DOMAIN,m1crosoft.com
   - DOMAIN,m2.xhamster.com

@@ -1,13 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-11 17:01:07.349746
+# UPDATED: 2021-03-11 22:54:36.406926
 # HOST-KEYWORD: 62
 # HOST-SUFFIX: 68702
-# HOST: 14526
+# HOST: 14541
 # IP-CIDR: 245
 # USER-AGENT: 1
-# TOTAL: 83536
+# TOTAL: 83551
 HOST,0.up.qingdaonews.com,AdvertisingTest
 HOST,0001.2waky.com,AdvertisingTest
 HOST,000lk3v.wcomhost.com,AdvertisingTest
@@ -2507,6 +2507,7 @@ HOST,buchawucha.com,AdvertisingTest
 HOST,buchislaw.com,AdvertisingTest
 HOST,buddyhacker.com,AdvertisingTest
 HOST,buddylourdes.com,AdvertisingTest
+HOST,buffalogoesout.com,AdvertisingTest
 HOST,buildinghopeuganda.org,AdvertisingTest
 HOST,buildviet.info,AdvertisingTest
 HOST,buimerccorp.com,AdvertisingTest
@@ -4516,6 +4517,13 @@ HOST,edu.jujiaxiansheng.com,AdvertisingTest
 HOST,educasia.org,AdvertisingTest
 HOST,eduinfosite.com,AdvertisingTest
 HOST,eduserver.net,AdvertisingTest
+HOST,ee.6x53p.cn,AdvertisingTest
+HOST,ee.8t5xo.cn,AdvertisingTest
+HOST,ee.f2z4d.cn,AdvertisingTest
+HOST,ee.j5s9b.cn,AdvertisingTest
+HOST,ee.w82ph.cn,AdvertisingTest
+HOST,ee.wz382.cn,AdvertisingTest
+HOST,ee.xr883.cn,AdvertisingTest
 HOST,eee.dada8828.com,AdvertisingTest
 HOST,eegad.freeservers.com,AdvertisingTest
 HOST,eegookiz.com,AdvertisingTest
@@ -7080,6 +7088,7 @@ HOST,iosandroidworld.com,AdvertisingTest
 HOST,iosapphack.com,AdvertisingTest
 HOST,iosapphacks.com,AdvertisingTest
 HOST,iosgamecheats.com,AdvertisingTest
+HOST,iostweaking.com,AdvertisingTest
 HOST,iowa.sla.org,AdvertisingTest
 HOST,ip-182-50-129-164.ip.secureserver.net,AdvertisingTest
 HOST,ip-182-50-129-181.ip.secureserver.net,AdvertisingTest
@@ -8157,7 +8166,10 @@ HOST,lzpv4rsmat.com,AdvertisingTest
 HOST,m-analytics.net,AdvertisingTest
 HOST,m-vali.cp31.ott.cibntv.net,AdvertisingTest
 HOST,m.1234567.com.cn,AdvertisingTest
+HOST,m.8t5xo.cn,AdvertisingTest
 HOST,m.amtmobi.com,AdvertisingTest
+HOST,m.f2z4d.cn,AdvertisingTest
+HOST,m.j5s9b.cn,AdvertisingTest
 HOST,m.login-secured.liraon.com,AdvertisingTest
 HOST,m.loldlxmy.com,AdvertisingTest
 HOST,m.medlife.com,AdvertisingTest
@@ -8165,7 +8177,10 @@ HOST,m.pl.failmobile.net,AdvertisingTest
 HOST,m.recipes.timesofindia.com,AdvertisingTest
 HOST,m.track.ad.xiaomi.com,AdvertisingTest
 HOST,m.trafficoffernetwork.com,AdvertisingTest
+HOST,m.w82ph.cn,AdvertisingTest
 HOST,m.wantmatures.com,AdvertisingTest
+HOST,m.wz382.cn,AdvertisingTest
+HOST,m.xr883.cn,AdvertisingTest
 HOST,m1.webstats.motigo.com,AdvertisingTest
 HOST,m1crosoft.com,AdvertisingTest
 HOST,m2.xhamster.com,AdvertisingTest

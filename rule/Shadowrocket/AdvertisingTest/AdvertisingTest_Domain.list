@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: 
 # GITHUB: 
-# UPDATED: 2021-03-11 17:01:14.612287
+# UPDATED: 2021-03-11 22:54:44.004601
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 62
 # DOMAIN-SUFFIX: 68702
-# DOMAIN: 14526
+# DOMAIN: 14541
 # IP-CIDR: 245
 # USER-AGENT: 1
 # URL-REGEX: 306
-# TOTAL: 83842
+# TOTAL: 83857
 0.up.qingdaonews.com
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -2509,6 +2509,7 @@ buchawucha.com
 buchislaw.com
 buddyhacker.com
 buddylourdes.com
+buffalogoesout.com
 buildinghopeuganda.org
 buildviet.info
 buimerccorp.com
@@ -4518,6 +4519,13 @@ edu.jujiaxiansheng.com
 educasia.org
 eduinfosite.com
 eduserver.net
+ee.6x53p.cn
+ee.8t5xo.cn
+ee.f2z4d.cn
+ee.j5s9b.cn
+ee.w82ph.cn
+ee.wz382.cn
+ee.xr883.cn
 eee.dada8828.com
 eegad.freeservers.com
 eegookiz.com
@@ -7082,6 +7090,7 @@ iosandroidworld.com
 iosapphack.com
 iosapphacks.com
 iosgamecheats.com
+iostweaking.com
 iowa.sla.org
 ip-182-50-129-164.ip.secureserver.net
 ip-182-50-129-181.ip.secureserver.net
@@ -8159,7 +8168,10 @@ lzpv4rsmat.com
 m-analytics.net
 m-vali.cp31.ott.cibntv.net
 m.1234567.com.cn
+m.8t5xo.cn
 m.amtmobi.com
+m.f2z4d.cn
+m.j5s9b.cn
 m.login-secured.liraon.com
 m.loldlxmy.com
 m.medlife.com
@@ -8167,7 +8179,10 @@ m.pl.failmobile.net
 m.recipes.timesofindia.com
 m.track.ad.xiaomi.com
 m.trafficoffernetwork.com
+m.w82ph.cn
 m.wantmatures.com
+m.wz382.cn
+m.xr883.cn
 m1.webstats.motigo.com
 m1crosoft.com
 m2.xhamster.com

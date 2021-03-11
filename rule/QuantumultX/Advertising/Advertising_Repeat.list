@@ -1,7 +1,7 @@
 # NAME: Advertising 规则重复情况
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-11 17:01:18.841666
+# UPDATED: 2021-03-11 22:54:48.365258
 # DESCRIPTION: 本文件仅为展示规则间重复情况，不做其他用处，请勿引用此文件。善用Ctrl+F搜索重复明细。
 #  与 Hijacking 共 212 条规则重复
 HOST-SUFFIX,17gouwuba.com
@@ -3070,7 +3070,7 @@ HOST-SUFFIX,zs.dhl.de
 HOST-SUFFIX,zsi7.destinia.do
 HOST-SUFFIX,zyq2.destinia.sk
 HOST-SUFFIX,zz.bdstatic.com
-#  与 AdvertisingTest 共 59246 条规则重复
+#  与 AdvertisingTest 共 59261 条规则重复
 HOST,0.up.qingdaonews.com
 HOST,0001.2waky.com
 HOST,000lk3v.wcomhost.com
@@ -5570,6 +5570,7 @@ HOST,buchawucha.com
 HOST,buchislaw.com
 HOST,buddyhacker.com
 HOST,buddylourdes.com
+HOST,buffalogoesout.com
 HOST,buildinghopeuganda.org
 HOST,buildviet.info
 HOST,buimerccorp.com
@@ -7579,6 +7580,13 @@ HOST,edu.jujiaxiansheng.com
 HOST,educasia.org
 HOST,eduinfosite.com
 HOST,eduserver.net
+HOST,ee.6x53p.cn
+HOST,ee.8t5xo.cn
+HOST,ee.f2z4d.cn
+HOST,ee.j5s9b.cn
+HOST,ee.w82ph.cn
+HOST,ee.wz382.cn
+HOST,ee.xr883.cn
 HOST,eee.dada8828.com
 HOST,eegad.freeservers.com
 HOST,eegookiz.com
@@ -10143,6 +10151,7 @@ HOST,iosandroidworld.com
 HOST,iosapphack.com
 HOST,iosapphacks.com
 HOST,iosgamecheats.com
+HOST,iostweaking.com
 HOST,iowa.sla.org
 HOST,ip-182-50-129-164.ip.secureserver.net
 HOST,ip-182-50-129-181.ip.secureserver.net
@@ -11220,7 +11229,10 @@ HOST,lzpv4rsmat.com
 HOST,m-analytics.net
 HOST,m-vali.cp31.ott.cibntv.net
 HOST,m.1234567.com.cn
+HOST,m.8t5xo.cn
 HOST,m.amtmobi.com
+HOST,m.f2z4d.cn
+HOST,m.j5s9b.cn
 HOST,m.login-secured.liraon.com
 HOST,m.loldlxmy.com
 HOST,m.medlife.com
@@ -11228,7 +11240,10 @@ HOST,m.pl.failmobile.net
 HOST,m.recipes.timesofindia.com
 HOST,m.track.ad.xiaomi.com
 HOST,m.trafficoffernetwork.com
+HOST,m.w82ph.cn
 HOST,m.wantmatures.com
+HOST,m.wz382.cn
+HOST,m.xr883.cn
 HOST,m1.webstats.motigo.com
 HOST,m1crosoft.com
 HOST,m2.xhamster.com
@@ -62341,7 +62356,7 @@ HOST-SUFFIX,ucweb.com
 HOST-SUFFIX,uflowx.com
 HOST-SUFFIX,xiaomengquan.cn
 HOST-SUFFIX,xmq123.cn
-#  与 AdvertisingLite 共 16139 条规则重复
+#  与 AdvertisingLite 共 16156 条规则重复
 HOST,0.up.qingdaonews.com
 HOST,0d847862199.com
 HOST,0icep80f.com
@@ -62563,6 +62578,7 @@ HOST,bracewellfamily.com
 HOST,bride1.com
 HOST,broadtech.co
 HOST,btovopyov.com
+HOST,buffalogoesout.com
 HOST,buildviet.info
 HOST,bulkhentai.com
 HOST,business-cdn.shouji.sogou.com
@@ -62734,6 +62750,14 @@ HOST,e8dcdcd1ddcb352b.com
 HOST,e9mlrvy1.com
 HOST,earthcontrolsys.com
 HOST,edf.fr.kfskz.com
+HOST,ee.1s8pj.cn
+HOST,ee.6x53p.cn
+HOST,ee.8t5xo.cn
+HOST,ee.f2z4d.cn
+HOST,ee.j5s9b.cn
+HOST,ee.w82ph.cn
+HOST,ee.wz382.cn
+HOST,ee.xr883.cn
 HOST,eeps.me
 HOST,ekod.info
 HOST,elew72isst.rr.nu
@@ -62961,8 +62985,15 @@ HOST,lwxlsj.wap.xsbiquge.com
 HOST,lzpv4rsmat.com
 HOST,m-vali.cp31.ott.cibntv.net
 HOST,m.1234567.com.cn
+HOST,m.1s8pj.cn
+HOST,m.8t5xo.cn
 HOST,m.aty.sohu.com
+HOST,m.f2z4d.cn
+HOST,m.j5s9b.cn
 HOST,m.track.ad.xiaomi.com
+HOST,m.w82ph.cn
+HOST,m.wz382.cn
+HOST,m.xr883.cn
 HOST,mahindrainsurance.com
 HOST,mailboto.com
 HOST,makemyvids.com
@@ -62984,6 +63015,7 @@ HOST,menepe.com
 HOST,merrymilkfoods.com
 HOST,metrocuadro.com.ve
 HOST,mgfd1b.petrix.net
+HOST,mhwozc.cn
 HOST,milleniumpapelaria.com.br
 HOST,ministerio-publi.info
 HOST,miracema.rj.gov.br

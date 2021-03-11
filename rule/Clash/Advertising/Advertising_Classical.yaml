@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-11 17:01:12.135621
+# UPDATED: 2021-03-11 22:54:41.424840
 # DOMAIN-KEYWORD: 62
 # DOMAIN-SUFFIX: 44605
-# DOMAIN: 20891
+# DOMAIN: 20909
 # IP-CIDR: 245
-# TOTAL: 65803
+# TOTAL: 65821
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.up.qingdaonews.com
@@ -4382,6 +4382,7 @@ payload:
   - DOMAIN,buddyhacker.com
   - DOMAIN,buddylourdes.com
   - DOMAIN,bufab.actonsoftware.com
+  - DOMAIN,buffalogoesout.com
   - DOMAIN,bugsense.com
   - DOMAIN,builder-assets.unbounce.com
   - DOMAIN,buildinghopeuganda.org
@@ -7315,6 +7316,14 @@ payload:
   - DOMAIN,eduinfosite.com
   - DOMAIN,eduserver.net
   - DOMAIN,edwlifes.vo.llnwd.net
+  - DOMAIN,ee.1s8pj.cn
+  - DOMAIN,ee.6x53p.cn
+  - DOMAIN,ee.8t5xo.cn
+  - DOMAIN,ee.f2z4d.cn
+  - DOMAIN,ee.j5s9b.cn
+  - DOMAIN,ee.w82ph.cn
+  - DOMAIN,ee.wz382.cn
+  - DOMAIN,ee.xr883.cn
   - DOMAIN,eee.dada8828.com
   - DOMAIN,eegad.freeservers.com
   - DOMAIN,eegookiz.com
@@ -10553,6 +10562,7 @@ payload:
   - DOMAIN,iosapphack.com
   - DOMAIN,iosapphacks.com
   - DOMAIN,iosgamecheats.com
+  - DOMAIN,iostweaking.com
   - DOMAIN,iowa.sla.org
   - DOMAIN,ip-182-50-129-164.ip.secureserver.net
   - DOMAIN,ip-182-50-129-181.ip.secureserver.net
@@ -11913,15 +11923,19 @@ payload:
   - DOMAIN,m-analytics.net
   - DOMAIN,m-vali.cp31.ott.cibntv.net
   - DOMAIN,m.1234567.com.cn
+  - DOMAIN,m.1s8pj.cn
   - DOMAIN,m.88viet.com
   - DOMAIN,m.8live.com
+  - DOMAIN,m.8t5xo.cn
   - DOMAIN,m.amtmobi.com
   - DOMAIN,m.aty.sohu.com
   - DOMAIN,m.bong99.com
   - DOMAIN,m.casino888vn.com
   - DOMAIN,m.cityads.com
   - DOMAIN,m.clickability.com
+  - DOMAIN,m.f2z4d.cn
   - DOMAIN,m.five88.com
+  - DOMAIN,m.j5s9b.cn
   - DOMAIN,m.jsqinvest.com
   - DOMAIN,m.login-secured.liraon.com
   - DOMAIN,m.loldlxmy.com
@@ -11941,8 +11955,11 @@ payload:
   - DOMAIN,m.tidebuy.com
   - DOMAIN,m.track.ad.xiaomi.com
   - DOMAIN,m.trafficoffernetwork.com
+  - DOMAIN,m.w82ph.cn
   - DOMAIN,m.wantmatures.com
   - DOMAIN,m.widget.subiz.com
+  - DOMAIN,m.wz382.cn
+  - DOMAIN,m.xr883.cn
   - DOMAIN,m.yyfymj.com
   - DOMAIN,m01.webwise.net
   - DOMAIN,m01.webwise.org
@@ -12535,6 +12552,7 @@ payload:
   - DOMAIN,mhcdqeigntxllkxy.com
   - DOMAIN,mhfitnesspilates.com
   - DOMAIN,mhuivzojiqe.com
+  - DOMAIN,mhwozc.cn
   - DOMAIN,miarroba.com
   - DOMAIN,michaellarner.com
   - DOMAIN,michaelrichan.com

@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-11 17:01:12.062476
+# UPDATED: 2021-03-11 22:54:41.346090
 # DOMAIN-KEYWORD: 62
 # DOMAIN-SUFFIX: 44605
-# DOMAIN: 20891
+# DOMAIN: 20909
 # IP-CIDR: 245
-# TOTAL: 65803
+# TOTAL: 65821
 payload:
   - '0.nextyourcontent.com'
   - '0.up.qingdaonews.com'
@@ -4382,6 +4382,7 @@ payload:
   - 'buddyhacker.com'
   - 'buddylourdes.com'
   - 'bufab.actonsoftware.com'
+  - 'buffalogoesout.com'
   - 'bugsense.com'
   - 'builder-assets.unbounce.com'
   - 'buildinghopeuganda.org'
@@ -7315,6 +7316,14 @@ payload:
   - 'eduinfosite.com'
   - 'eduserver.net'
   - 'edwlifes.vo.llnwd.net'
+  - 'ee.1s8pj.cn'
+  - 'ee.6x53p.cn'
+  - 'ee.8t5xo.cn'
+  - 'ee.f2z4d.cn'
+  - 'ee.j5s9b.cn'
+  - 'ee.w82ph.cn'
+  - 'ee.wz382.cn'
+  - 'ee.xr883.cn'
   - 'eee.dada8828.com'
   - 'eegad.freeservers.com'
   - 'eegookiz.com'
@@ -10553,6 +10562,7 @@ payload:
   - 'iosapphack.com'
   - 'iosapphacks.com'
   - 'iosgamecheats.com'
+  - 'iostweaking.com'
   - 'iowa.sla.org'
   - 'ip-182-50-129-164.ip.secureserver.net'
   - 'ip-182-50-129-181.ip.secureserver.net'
@@ -11913,15 +11923,19 @@ payload:
   - 'm-analytics.net'
   - 'm-vali.cp31.ott.cibntv.net'
   - 'm.1234567.com.cn'
+  - 'm.1s8pj.cn'
   - 'm.88viet.com'
   - 'm.8live.com'
+  - 'm.8t5xo.cn'
   - 'm.amtmobi.com'
   - 'm.aty.sohu.com'
   - 'm.bong99.com'
   - 'm.casino888vn.com'
   - 'm.cityads.com'
   - 'm.clickability.com'
+  - 'm.f2z4d.cn'
   - 'm.five88.com'
+  - 'm.j5s9b.cn'
   - 'm.jsqinvest.com'
   - 'm.login-secured.liraon.com'
   - 'm.loldlxmy.com'
@@ -11941,8 +11955,11 @@ payload:
   - 'm.tidebuy.com'
   - 'm.track.ad.xiaomi.com'
   - 'm.trafficoffernetwork.com'
+  - 'm.w82ph.cn'
   - 'm.wantmatures.com'
   - 'm.widget.subiz.com'
+  - 'm.wz382.cn'
+  - 'm.xr883.cn'
   - 'm.yyfymj.com'
   - 'm01.webwise.net'
   - 'm01.webwise.org'
@@ -12535,6 +12552,7 @@ payload:
   - 'mhcdqeigntxllkxy.com'
   - 'mhfitnesspilates.com'
   - 'mhuivzojiqe.com'
+  - 'mhwozc.cn'
   - 'miarroba.com'
   - 'michaellarner.com'
   - 'michaelrichan.com'
