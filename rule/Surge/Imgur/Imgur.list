@@ -1,7 +1,7 @@
 # NAME: Imgur
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-11 16:30:46.239028
+# UPDATED: 2021-03-11 17:01:05.907225
 # DOMAIN-SUFFIX: 2
 # TOTAL: 2
 DOMAIN-SUFFIX,imgur.com

@@ -1,7 +1,7 @@
 # NAME: ChinaNews
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-11 16:30:47.840091
+# UPDATED: 2021-03-11 17:01:07.707762
 # HOST-SUFFIX: 4
 # TOTAL: 4
 HOST-SUFFIX,chinanews.com,ChinaNews
