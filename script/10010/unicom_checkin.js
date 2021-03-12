@@ -50,16 +50,16 @@ let daySingOptions = {
 }
 
 let daySingNewVersionOptions = {
-  url: "https://act.10010.com/SigninApp/signin/todaySign?vesion=0.5630763707346611",
+  url: "https://act.10010.com/SigninApp/signin/daySign?vesion=0.5630763707346611",
   headers: {
-    "Accept": "application/json, text/javascript, */*; q=0.01",
+    "Accept": "application/json, text/plain, */*",
     "Accept-Encoding": "gzip, deflate, br",
     "Accept-Language": "zh-cn",
-    "Connection": "close",
+    "Connection": "keep-alive",
     "Cookie": null,
     "Host": "act.10010.com",
-    "Origin": "https://act.10010.com",
-    "Referer": "https://act.10010.com/SigninApp/signin/querySigninActivity.htm",
+    "Origin": "https://img.client.10010.com",
+    "Referer": "https://img.client.10010.com/SigininApp/index.html",
     "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 unicom{version:iphone_c@7.0402}{systemVersion:dis}{yw_code:}",
     "savedata": "false"
   },
